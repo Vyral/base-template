@@ -18,7 +18,7 @@ youtube_code: LXqAnWCfMmA
 
 <p style="text-align: center;"><em>Here’s what to know about internet connection in northwest Montana.</em></p>
 
-I read in an article that [Montana Sky](https://www.flatheadrealestate.com/internet-service-in-nw-montana/), one of the internet providers here, is rewiring the small community of Troy to bring a high-speed, fiber-optic connection to every home. It reminded me of a question that buyers seem to ask well before worrying about bathrooms and bedrooms: “Is there internet service?” 
+I read in an article that [Montana Sky](https://dailyinterlake.com/news/2021/feb/23/0220-troy-fiber-press-release/), one of the internet providers here, is rewiring the small community of Troy to bring a high-speed, fiber-optic connection to every home. It reminded me of a question that buyers seem to ask well before worrying about bathrooms and bedrooms: “Is there internet service?” 
 
 Since connection is such an important topic, **I thought it’d be a good idea to put together a page on our website that addresses it.** There, you’ll find a list of the different internet providers in our area and what type of services they offer. From wireless satellite connections, to cable, to fiber optics, and back down to DSL, they have the whole spectrum. 
 
