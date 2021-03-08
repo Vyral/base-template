@@ -5,7 +5,7 @@ date: 2021-03-03 10:00:00
 tags:
   - Real Estate
 excerpt: Here’s how the beginning of the spring 2021 market has been faring.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/How+Our+Early+Spring+Market+Is+Doing.mp4
 pullquote: Nearly all properties are selling within days, if not hours.
 enclosure_type: video/mp4
 enclosure_time:
