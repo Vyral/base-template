@@ -198,7 +198,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/how-is-our-market-in-2021.html</loc>
-<lastmod>2021-02-24T03:00:00-06:00</lastmod>
+<lastmod>2021-02-26T03:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/is-everyone-moving-to-the-suburbs.html</loc>
+<lastmod>2021-03-08T03:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -256,6 +260,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page10/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page11/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/bower_components/jPlayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html</loc>

@@ -2287,6 +2287,12 @@ table tr, table td {
   position: relative;
   top: 0.5rem; }
 
+.google-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
 .trulia-logo {
   top: 0.2rem; }
 

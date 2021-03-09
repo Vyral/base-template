@@ -65,11 +65,12 @@ socials:
   twitter_url: 'https://twitter.com/ashleypcarter'
   instagram_url:
   pinterest_url:
-  zillow_url: 
-  trulia_url: 
+  zillow_url:
+  trulia_url:
   yelp_url:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/chicago-real-estate-podcast/id1202372060?mt=2
+  google_business_url: https://g.page/carter-group-chicago/review?rc
 podcast:
   title: Chicago Real Estate Podcast with Ashley Carter
   categories:
