@@ -1,32 +1,33 @@
 ---
 layout: post
-title: Why Is a Property Condition Form Essential for Property Owners?
-date: 2021-02-18 12:46:00
+title: Don’t Let a Tenant Take Care of Your Lawn
+date: 2021-03-09 10:46:00
 tags:
   - Real Estate
-excerpt: Here’s why every property owner/manager should use this form.
+excerpt: Here’s why you shouldn’t let a tenant take care of your property’s lawn. 
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/Why+Is+a+Property+Condition+Form+Essential+for+Property+Owners_.mp4
-pullquote: This should be filled out before a tenant moves into the house.
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/Don%E2%80%99t+Let+a+Tenant+Take+Care+of+Your+Lawn.mp4
+pullquote: Letting a tenant take care of your property’s lawn themselves is a bad idea.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/property-condition-form-yt-duke-kimhan.jpg
-youtube_code: ZtCaAX7S7q4
+youtube_alternate_image: /uploads/Lawn_YT-Duke_Kimhan_SS.jpg
+youtube_code: haN4rGX3oh4
 ---
 
 {% include youtube.html %}
 
-<center>Here&rsquo;s why every property owner/manager should use this form.</center>
+<center><em>Here’s why you shouldn’t let a tenant take care of your property’s lawn. </em></center>
 
 <center>&nbsp;</center>
 
-There are so many terms to know in real estate, but **knowing what the property condition form is and what it does will save you a lot of money in the long run.** Oftentimes, when we take over properties from other property management companies, they don’t have this form.&nbsp;
+As a property manager, letting a tenant take care of your property’s lawn themselves is a bad idea.
 
-It should be filled out before the tenant moves in. Once the tenant moves into the house, we give them a chance to make changes or amendments to the form based on what they’ve seen. After they move out, we walk through the property with the same form and match it up. If you don’t have the starting condition of the home documented, how are you going to know what was there before and what came after?&nbsp;
-
-Damage issues have to be taken care of with the security deposit and **you only have 14 days to find them after the tenant leaves.** Then you need to give them an assessment, a bill, or estimate based on the damage and the quotes you’ve gotten. This is important to know as an investor or property owner because **the manager earns their money at the beginning and the end of a tenant’s stay.** That’s why we require it.
+Why? **In all my years in this business, I’ve only seen one or two tenants really take care of a lawn the way a property owner would.** I know you can save a few dollars here and there letting tenants take care of the lawn, but a lot of your property’s value is based on that lawn and how it ties into the overall curb appeal. 
 
 {% include pullquote.html %}
 
-If you have any other questions about the property condition form or anything else related to managing your investment property, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.&nbsp;
+If you let someone else take care of this area who has no real interest in doing so, they won’t do as good of a job as a lawn service company. If the lawn service company doesn’t do a good job, you can fire them and hire another company or have them come back and take care of the things they’re supposed to take care of. To keep your property’s lawn in top condition so it helps keep your home’s value high, you need a lawn service company and a good sprinkler system. 
+
+As always, if you have questions about this or any property management topic, don’t hesitate to reach out to me any way you can. I’d love to speak with you. 
+
