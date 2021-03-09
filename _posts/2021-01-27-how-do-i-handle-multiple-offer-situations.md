@@ -5,7 +5,7 @@ date: 2021-01-27 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how I like to respond when one of my clients gets multiple offers.
-enclosure:https://vyralmarketing.s3.amazonaws.com/Multiple+Offer+Strategies+for+Sellers.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Multiple+Offer+Strategies+for+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
