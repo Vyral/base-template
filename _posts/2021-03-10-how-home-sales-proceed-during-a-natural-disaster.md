@@ -8,14 +8,14 @@ enclosure:
 pullquote: Nobody is obligated to move forward with the sale.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/what-happens-when-there-is-a-natural-disaster-when-your-home-is-for-sale---yt.jpg
 youtube_code: Usn62rvJhHU
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what happens when a natural disaster affects a for-sale home.</em></p>
+*Here’s what happens when a natural disaster affects a for-sale home.*
 
 Welcome back to the Central Iowa Real Estate Scoreboard. This time, we’re with Rob Keller of Country Financial and answering the question, **“What happens when there is a natural disaster when a home is for sale?”**
 
