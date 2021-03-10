@@ -46,3 +46,5 @@ If you have any other questions for me, don’t hesitate to reach out via phone 
 5:40 — Why we support Dan and Mills Roofing
 
 6:10 — Wrapping things up
+
+**Dan Mefford**<br>Mills Roofing<br>CSL \#507614 \| NSL \#24406<br>(530) 545-7084<br><u><a target="_blank" rel="noopener" href="https://www.millsroofinginc.com/">millsroofinginc.com</a></u>
