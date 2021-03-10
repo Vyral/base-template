@@ -13,7 +13,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/03-03_CANALE_YOUTUBE.jpg
 youtube_code: MPj5eJjurEE
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MPj5eJjurEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+
+{% include youtube.html %}
 
 <center style="font-size: 18px;"><em>Dan Mefford joins me to talk about increasing a home&rsquo;s value through its roof.</em></center>
 
