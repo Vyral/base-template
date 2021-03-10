@@ -18,7 +18,7 @@ youtube_code: 1poVjIIzAiw
 ---
 {% include youtube.html %}
 
-Here’s what a rising rate environment means for SFV buyers and sellers.
+<center><p><em>Here’s what a rising rate environment means for SFV buyers and sellers.</em></p></center>
 
 Back in early February, interest rates for a 30-year fixed-rate conforming loan were hovering around 2.5%. As of the last few days or so (prior to the recording of this video), the average rate on that same loan was closer to 3.2%—up from 3% at the beginning of March. Believe it or not, you have to go way back to July 2020 to see interest rates this high. It’s clear 2021 won’t be a second consecutive year of watching rates limbo to new record lows on a monthly basis. What does this upward trend in rates mean for buyers and sellers?
 
