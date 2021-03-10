@@ -14,10 +14,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/tips-for-buyers-yt.jpg
 youtube_code: nlEnKUhFR08
 ---
-
 {% include youtube.html %}
 
-The Clarksville/Montgomery County real estate market is still very active and very competitive. Resale homes are receiving 99% of their asking price on average, and multiple-offer situations and offers over asking price are common. For those of you who are first-time homebuyers in this market, consider these tips to help you succeed in a competitive market place. 
+The Clarksville/Montgomery County real estate market is still very active and very competitive. Resale homes are receiving 99% of their asking price on average, and multiple-offer situations and offers over asking price are common. For those of you who are first-time homebuyers in this market, consider these tips to help you succeed in a competitive marketplace.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
@@ -35,4 +34,4 @@ The Clarksville/Montgomery County real estate market is still very active and ve
 
 7:25- Wrapping things up
 
-If you have any additional questions about buying a home or about real estate in general, don’t hesitate to reach out via phone or email today. We look forward to hearing from you soon.
+If you have any additional questions about buying a home or real estate in general, don’t hesitate to reach out via phone or email today. We look forward to hearing from you soon.
