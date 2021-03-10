@@ -47,4 +47,4 @@ If you have any other questions for me, don’t hesitate to reach out via phone 
 
 6:10 — Wrapping things up
 
-<center style="font-size: 18px;"><b>Dan Mefford</b><br>Mills Roofing<br>CSL #507614 \| NSL #24406<br>(530) 545-7084<br><u><a target="_blank" rel="noopener" href="https://www.millsroofinginc.com/">millsroofinginc.com</a></u></center>
+<center style="font-size: 18px;"><b>Dan Mefford</b><br>Mills Roofing<br>CSL #507614 | NSL #24406<br>(530) 545-7084<br><u><a target="_blank" rel="noopener" href="https://www.millsroofinginc.com/">millsroofinginc.com</a></u></center>
