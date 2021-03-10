@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Buying Has Evolved Amid COVID-19
-date: 2021-02-12 09:00:00
+date: 2021-03-10 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
