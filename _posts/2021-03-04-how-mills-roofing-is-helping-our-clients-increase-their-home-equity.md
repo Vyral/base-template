@@ -27,6 +27,8 @@ Bring the coupon on&nbsp;**<u><a target="_blank" rel="noopener" href="https://no
 
 If you have any other questions for me, don’t hesitate to reach out via phone or email. In the meantime, take a look at&nbsp;**<u><a target="_blank" rel="noopener" href="https://northernnevadarealestateblog.com/uploads/FINANCIAL%20GOALS.png">this four-step method for reaching your financial goals</a></u>.** I look forward to hearing from you soon.
 
+---
+
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
 1:03 — A background on Mills Roofing, a local, family-owned and operated business specializing in roof maintenance and repair
