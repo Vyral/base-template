@@ -15,7 +15,7 @@ youtube_code: Usn62rvJhHU
 ---
 {% include youtube.html %}
 
-*Here’s what happens when a natural disaster affects a for-sale home.*
+<p style="text-align: center;"><em>Here’s what happens when a natural disaster affects a for-sale home.</em></p>
 
 Welcome back to the Central Iowa Real Estate Scoreboard. This time, we’re with Rob Keller of Country Financial and answering the question, **“What happens when there is a natural disaster when a home is for sale?”**
 
