@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Your Internet Connection
+title: "Will My Northwest Montana Home Have Internet?"
 date: 2021-03-04 00:00:00
 tags: 
  - Home Buyer Tips
