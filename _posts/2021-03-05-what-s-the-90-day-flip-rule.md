@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the 90-Day Flip Rule?
-date: 2021-03-05 00:00:00
+date: 2021-03-10 00:00:00
 tags: 
     - Home Buyer
 excerpt: Here’s how the 90-day flip rule could affect you as a homebuyer.
