@@ -5,7 +5,8 @@ date: 2021-03-03 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the renovations to focus on if you want to maximize your return.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/How+to+Maximize+Your+Renovation+Return+On+Investment.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
