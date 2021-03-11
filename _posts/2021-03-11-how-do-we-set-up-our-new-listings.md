@@ -16,7 +16,7 @@ youtube_code: LGbJTqH0Sxk
 ---
 {% include youtube.html %}
 
-Here’s how we use staging and photography to help our homes shine.
+<center><p><em>Here’s how we use staging and photography to help our homes shine.</em></p></center>
 
 There is so much to do when getting a new property ready to go on the market. We’re at one of our listings today on Daniel Island (2600 Josiah St.) to meet with stagers and photographers to get this home marketed properly and sold for top dollar. **We made sure every detail was in place to show the home in its best light for pictures and showings.**
 
