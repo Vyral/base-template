@@ -16,7 +16,7 @@ youtube_code: '-Xm5CrhGGas'
 ---
 {% include youtube.html %}
 
-Here are some of the different ways to find out what your home is worth.
+<p style="text-align: center;"><em>Here are some of the different ways to find out what your home is worth.</em></p>
 
 There are four different ways to determine the value of any home:
 
