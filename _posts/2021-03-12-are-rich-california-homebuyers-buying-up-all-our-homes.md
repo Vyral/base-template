@@ -16,7 +16,7 @@ youtube_code: St19ulzwRZ0
 ---
 {% include youtube.html %}
 
-Not everyone moving to our area from out of state is a rich Californian.
+<p style="text-align: center;"><em>Not everyone moving to our area from out of state is a rich Californian.</em></p>
 
 Is everybody moving to St. George a cash-rich California homebuyer? Let’s go ahead and debunk this myth.
 
