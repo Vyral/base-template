@@ -17,7 +17,7 @@ youtube_code: cTnQ8X_ivGA
 ---
 {% include youtube.html %}
 
-*Here’s a quick tip to help sellers avoid a low appraisal.*
+<p style="text-align: center;"><em>Here’s a quick tip to help sellers avoid a low appraisal.</em></p>
 
 How can you avoid a low appraisal when selling your home? This is a common question in today’s market because home prices continue to rise, and we’ve seen properties selling for more than their appraised values. In fact, just this year, we had one property sell for $250,000 more than the appraised value and a townhouse sell for $50,000 over the appraised value.
 
