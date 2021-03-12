@@ -10,8 +10,9 @@ enclosure: >-
 pullquote: 'St. George is a beautiful place, and you can get a lot for $1.1 million.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2021/3.11_-_Jeremy_Larkin_-_YT.jpg
 youtube_code: St19ulzwRZ0
 ---
 {% include youtube.html %}
