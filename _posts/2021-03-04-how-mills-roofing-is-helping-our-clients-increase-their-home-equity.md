@@ -5,7 +5,8 @@ date: 2021-03-04 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Dan Mefford joins me to talk about increasing a home’s value through its roof.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/How+Mills+Roofing+Is+Helping+Our+Clients+Increase+Their+Home+Equity.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -47,4 +48,4 @@ If you have any other questions for me, don’t hesitate to reach out via phone 
 
 6:10 — Wrapping things up
 
-<center style="font-size: 18px;"><b>Dan Mefford</b><br>Mills Roofing<br>CSL #507614 | NSL #24406<br>(530) 545-7084<br><u><a target="_blank" rel="noopener" href="https://www.millsroofinginc.com/">millsroofinginc.com</a></u></center>
+<center style="font-size: 18px;"><b>Dan Mefford</b><br />Mills Roofing<br />CSL #507614 | NSL #24406<br />(530) 545-7084<br /><u><a target="_blank" rel="noopener" href="https://www.millsroofinginc.com/">millsroofinginc.com</a></u></center>
