@@ -1,22 +1,23 @@
 ---
 layout: post
 title: A Seller’s Solution for a Low Appraisal
-date: 2021-03-04 09:00:00
+date: 2021-03-12 09:00:00
 tags:
-excerpt: 'Here’s a quick tip to help sellers avoid a low appraisal.'
-enclosure:
-pullquote: >-
-  Find a buyer who is willing to waive the appraisal contingency.
+  - Home Seller Tips
+  - Real Estate
+excerpt: Here’s a quick tip to help sellers avoid a low appraisal.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/A+Seller%E2%80%99s+Solution+for+a+Low+Appraisal.mp4
+pullquote: Find a buyer who is willing to waive the appraisal contingency.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: cTnQ8X_ivGA
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a quick tip to help sellers avoid a low appraisal.</em></p>
+*Here’s a quick tip to help sellers avoid a low appraisal.*
 
 How can you avoid a low appraisal when selling your home? This is a common question in today’s market because home prices continue to rise, and we’ve seen properties selling for more than their appraised values. In fact, just this year, we had one property sell for $250,000 more than the appraised value and a townhouse sell for $50,000 over the appraised value.
 
