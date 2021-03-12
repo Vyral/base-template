@@ -15,6 +15,6 @@ youtube_code: bKY3DususJw
 ---
 {% include youtube.html %}
 
-Veterans with a VA rating of 100% no longer have to pay property taxes.
+<p style="text-align: center;"><em>Veterans with a VA rating of 100% no longer have to pay property taxes.</em></p>
 
 Here in Central Texas, if the VA has given you a rating of 100%, you no longer have to pay property taxes. What does that mean? Anywhere from $3,000 to $8,000 per year has been lifted from your mortgage payment; you are now just paying the principal and insurance on your loan. To learn more, watch this short video.
