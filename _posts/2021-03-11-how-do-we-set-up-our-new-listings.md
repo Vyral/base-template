@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Here’s how we use staging and photography to help our homes shine.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+prepping+a+listing.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/preparing+a+listing.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: LGbJTqH0Sxk
+youtube_code: dGGcXDNiLM4
 ---
 {% include youtube.html %}
 
