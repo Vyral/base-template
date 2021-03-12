@@ -16,7 +16,7 @@ youtube_code: kcwJXWdDSuc
 ---
 {% include youtube.html %}
 
-Here’s how our team’s $75,000 guaranteed income program works.
+<p style="text-align: center;"><em>Here’s how our team’s $75,000 guaranteed income program works.</em></p>
 
 Here on the Dave Hooke Team, we know there is a lot of confusion in the marketplace when people start talking about commission splits and fees. We want to cut to the chase because what’s most important to us is how much we’re taking home before taxes to serve our families. Real estate can be super inconsistent with income, so we want to put our money where our mouth is. Joining our team means that you’ll make at least $75,000 per year, or we’ll pay the difference.
 
