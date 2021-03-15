@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Should I Buy a New or Resale Home?
-date: 2021-02-05 09:00:00
+date: 2021-03-15 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s a significant factor to consider in your home-buying decision.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Should+I+Buy+a+New+or+Resale+Home_.mp4
 pullquote: A new home is a reflection of your style and preferences.
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Ik-k6nxg04M
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a significant factor to consider in your home-buying decision.</em></p>
+*Here’s a significant factor to consider in your home-buying decision.*
 
 In my opinion, the decision to buy a new or a resale home depends on what you’re looking for and the lifestyle you want to have.
 
