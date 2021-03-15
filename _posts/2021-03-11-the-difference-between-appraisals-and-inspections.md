@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/03-11-canady-youtube.jpg
+youtube_alternate_image: /uploads/03-11-canady-youtube-1.jpg
 youtube_code: OVK9unur_EU
 ---
 {% include youtube.html %}
