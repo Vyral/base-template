@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s what you need to know about closing costs as a homebuyer.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+ClosingCosts.mp4'
 pullquote: 'In most cases, buyers will have to bear the appraisal costs.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,8 @@ youtube_code: JHVSmPRdsO4
 ---
 {% include youtube.html %}
 
-<center><em>Here’s what you need to know about closing costs as a homebuyer.</em></center>
+<center><em>Here&rsquo;s what you need to know about closing costs as a homebuyer.</em></center>
+
 &nbsp;
 
 A lot of potential buyers focus solely on saving up for their down payment, be it 3%, 5%, 10%, or 20% of the purchase price. There are, however, several other costs you should be aware of. The associated expenses of buying a home, known collectively as “closing costs,” typically account for **1% to 1.5% of the purchase price.** One of the most common closing costs has to do with the seller’s tax payments; if they’ve already covered their tax obligation well beyond the period that they’ll be living in the home, you have to pay them back.&nbsp;
