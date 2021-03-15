@@ -30,4 +30,4 @@ There are four different ways to determine the value of any home:
 
 **4\. Talk to a licensed agent.** This is my favorite method. We can give you a free, home value estimate or CMA even if you’re just thinking about listing your home in the future. This can help you get some more accurate estimates on what you’d get if you sold in the current market versus a past or future one.&nbsp;
 
-If you have any questions or would like us to come out for a free value estimate of your home in today’s market, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
+If you have any questions or would like us to come out for a free value estimate of your home in today’s market, don't hesitate to reach out via phone or email at 717.216.0860 or dave@davehooketeam.com. We look forward to hearing from you soon.
