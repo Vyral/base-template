@@ -4,7 +4,7 @@ title: Our 2020 Accomplishments and 2021 Goals
 date: 2021-03-15 00:00:00
 tags:
   - Real Estate
-excerpt: Our team is relentless in many different ways.
+excerpt: Here’s what The Wolek Group did in 2020 and what we plan to do in 2021
 enclosure:
 pullquote: Our team is relentless in many different ways.
 enclosure_type: video/mp4
