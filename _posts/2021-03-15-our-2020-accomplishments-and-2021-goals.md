@@ -16,7 +16,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-<center style="font-size: 18px;">Our team is relentless in many different ways<em>.</em></center>
+<center style="font-size: 18px;"><em>Our team is relentless in many different ways.</em></center>
 
 <center style="font-size: 18px;">&nbsp;</center>
 
