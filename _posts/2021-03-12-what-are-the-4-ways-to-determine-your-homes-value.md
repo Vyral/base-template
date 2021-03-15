@@ -22,12 +22,12 @@ There are four different ways to determine the value of any home:
 
 **1\. Tax assessment.** If you live in south-central Pennsylvania, you can go to your county’s website, find the tax mapper or assessment tool, and learn the assessed value of your home. There is a margin of error there because it doesn't take your home’s condition into account.
 
-**2\. Online valuation tools.** They’re a little more accurate than the assessed value. We even have an online valuation tool of [our own](https://www.viewcentralpahouses.com/what-is-my-home-worth){: target="_blank" rel="noopener"}. These will have a margin of error as well, but it will get you in the ballpark.
+**2\. Online valuation tools.** They’re a little more accurate than the assessed value. We even have an online valuation tool of [our own](https://www.viewcentralpahouses.com/what-is-my-home-worth){: target="_blank" rel="noopener"}. These will have a margin of error as well, but they will get you in the ballpark.
 
 **3\. Talk to an appraiser.** We can give you some information from local appraisers who will walk through your property and give an opinion on its value. The one thing to keep in mind is that an appraisal will require you to pay a fee.
 
 {% include pullquote.html %}
 
-**4\. Talk to a licensed agent.** This is my personal favorite method. We can give you a free, home value estimate or CMA even if you’re just thinking about listing your home in the future. This can help you get some more accurate estimates on what you’d get if you sold in the current market versus a past or future one.&nbsp;
+**4\. Talk to a licensed agent.** This is my favorite method. We can give you a free, home value estimate or CMA even if you’re just thinking about listing your home in the future. This can help you get some more accurate estimates on what you’d get if you sold in the current market versus a past or future one.&nbsp;
 
-If you have any questions or would like us to come out for a free value estimate of your home in today’s market, don't hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions or would like us to come out for a free value estimate of your home in today’s market, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
