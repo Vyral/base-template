@@ -21,9 +21,9 @@ youtube_code: St19ulzwRZ0
 
 Is everybody moving to St. George a cash-rich California homebuyer? Let’s go ahead and debunk this myth.
 
-Here’s a typical scenario for you: A family buys a home in Los Angeles County 20 years ago for $350,000. Since homes have appreciated wildly over the last decade or two, theirs is now worth $1.4 million. The fun part about owning a home is that you pay down your mortgage over time, so now this family has a home they paid $350,000 for that they owe nothing on (or very little) and are able to sell for $1.4 million. Let’s pretend, though, they took the equity out of the home along the way and owed $300,000 when they sold it. They still have $1.1 million to buy a house in St. George.
-
 {% include pullquote.html %}
+
+Here’s a typical scenario for you: A family buys a home in Los Angeles County 20 years ago for $350,000. Since homes have appreciated wildly over the last decade or two, theirs is now worth $1.4 million. The fun part about owning a home is that you pay down your mortgage over time, so now this family has a home they paid $350,000 for that they owe nothing on (or very little) and are able to sell for $1.4 million. Let’s pretend, though, they took the equity out of the home along the way and owed $300,000 when they sold it. They still have $1.1 million to buy a house in St. George.
 
 St. George is a beautiful place, and you can get a lot for $1.1 million. So to answer your question, **the people moving to our area from out of state aren’t all rich cash buyers (although a good percentage of them are).** Many others are just regular people with regular jobs—including retirees—who’ve built up a lot of equity in their homes in the last two decades and are transferring that equity to Washington County.&nbsp;
 
