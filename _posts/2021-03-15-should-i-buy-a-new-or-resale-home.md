@@ -17,7 +17,7 @@ youtube_code: Ik-k6nxg04M
 ---
 {% include youtube.html %}
 
-*Here’s a significant factor to consider in your home-buying decision.*
+<p style="text-align: center;"><em>Here’s a significant factor to consider in your home-buying decision.</em></p>
 
 In my opinion, the decision to buy a new or a resale home depends on what you’re looking for and the lifestyle you want to have.
 
