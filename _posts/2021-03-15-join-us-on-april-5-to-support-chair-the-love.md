@@ -15,7 +15,8 @@ youtube_code: uSmBsZ28_b8
 ---
 {% include youtube.html %}
 
-*Our second-annual Jeff Cook Cares golf event is just around the corner.*
+<center><em>Our second-annual Jeff Cook Cares golf event is just around the corner.</em></center>
+&nbsp;
 
 We at Jeff Cook Real Estate strive to give back to our local community. This year, we’re holding our second-annual Jeff Cook Cares golf tournament on April 5 at Coosaw Creek Country Club in North Charleston. We’re so excited to partner with Chair The Love for this event. They’re an organization that provides wheelchairs and mobility equipment for those in need and all proceeds from the tournament will go to support their mission.&nbsp;
 
