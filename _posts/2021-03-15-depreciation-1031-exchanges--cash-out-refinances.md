@@ -17,6 +17,8 @@ youtube_code: QnIeD1wR118
 ---
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some critical investment property tax hacks.</em></p>
+
 If you use the tax system properly, you could end up never paying income tax on your rent or a capital gains tax on the profit you can make from the sale of a property. If that sounds like a bold statement, allow me to elaborate:&nbsp;
 
 Let’s say you bought a property for $250,000, then rented it out for a net cash flow of $10,000 a year. Clearly, this is a profit. However, **the IRS considers your investment property as a business**, and they require you to depreciate the building. There’s a certain formula they expect you to use when calculating that depreciation: the initial value of the property divided by 27.5 years. In our example, your $250,000 property depreciates by roughly $9,000 per year.&nbsp;
