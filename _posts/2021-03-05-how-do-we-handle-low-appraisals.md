@@ -5,8 +5,11 @@ date: 2021-03-05 00:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: There are many low appraisals in our current market. This is how we deal with them.
-enclosure:
+excerpt: >-
+  There are many low appraisals in our current market. This is how we deal with
+  them.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/How+Do+We+Handle+Low+Appraisals_.mp4
 pullquote: Don’t automatically take the highest offer.
 enclosure_type: video/mp4
 enclosure_time:
