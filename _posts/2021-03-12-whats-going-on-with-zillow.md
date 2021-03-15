@@ -18,7 +18,7 @@ youtube_code: nWTFISUDlpY
 
 <p style="text-align: center;"><em>Here’s what you should know about what’s going on with Zillow right now.</em></p>
 
-If you’re interested in real estate, you probably visit Zillow.com often. A few years ago, their information was not accurate, they would display listings that had already sold, and they had a hard time getting their data feed to work in general. However, over the past couple of months, they’ve been a pretty accurate real estate website because they’ve made some changes.
+If you’re interested in real estate, you probably visit Zillow often. A few years ago, their information was not accurate; they would display listings that had already sold, and they had a hard time getting their data feed to work in general. However, over the past couple of months, they’ve been a pretty accurate real estate website because they’ve made some changes.
 
 {% include pullquote.html %}
 
