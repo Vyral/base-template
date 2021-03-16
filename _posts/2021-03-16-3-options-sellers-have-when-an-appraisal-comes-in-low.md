@@ -15,6 +15,8 @@ youtube_code: EahcSIW8K6g
 ---
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>As a seller, here are your options if your home’s appraisal comes back low.</em></p>
+
 If you’re a seller, what do you do if your home’s appraisal comes back lower than the agreed-upon contract price? This is a hot topic in our market considering how low inventory is and how many offers homes are getting. A lot of appraisals are coming back low, so today I’ll outline your options if this happens to you. There are three, in particular, that will decide what happens with your home sale.&nbsp;
 
 **Feel free to watch the video above in its entirety or use these timestamps to skip ahead to various sections at your leisure:**
