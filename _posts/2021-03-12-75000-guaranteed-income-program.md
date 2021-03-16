@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 'Here’s how our team’s $75,000 guaranteed income program works.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2021/Central+PA+Real+Estate+Agent_+%2475%2C000+Guaranteed+Income+Program_!.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2021/Central+PA+Real+Estate+Agent_+%2475%2C000.mp4
 pullquote: 'With our new model, agents are paid handsomely.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kcwJXWdDSuc
+youtube_code: d_qzF0MCCGs
 ---
 {% include youtube.html %}
 
