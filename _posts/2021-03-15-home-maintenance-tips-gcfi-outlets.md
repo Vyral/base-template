@@ -15,9 +15,9 @@ youtube_code: bmgSP2yBoqM
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What is a GCFI outlet? Why do homeowners need one? Let’s discuss.</em></p>
+*What is a GCFI outlet? Why do homeowners need one? Let’s discuss.*
 
-As you may or may not know, we do a radio show every Sunday morning from 8:30 to 9:00 on 840 WHAS. In a recent episode, an interesting question came up: What is a GFCI outlet? To help answer this question, we spoke to our expert in the field, Brad Lawler, the owner of Home Team Inspection Service. **A GFCI outlet protects a person from an extended shock in case the ground faults**.&nbsp;
+As you may or may not know, we do a radio show every Sunday morning from 8:30 a.m. to 9:00 a.m. on 840 WHAS. In a recent episode, an interesting question came up: What is a GFCI outlet? To help answer this question, we spoke to our expert in the field, Brad Lawler, the owner of Home Team Inspection Service. **A GFCI outlet protects a person from an extended shock in case the ground faults**.&nbsp;
 
 {% include pullquote.html %}
 
