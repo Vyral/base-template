@@ -28,4 +28,4 @@ How do we do that? There are two steps:
 
 **2\. Our appointment setting team puts two new appointments in their calendar every week.** All agents need to do is show up and do a great job for their clients.
 
-If you want to learn more, send me a private message with “$75,000 guarantee” or type it in the comments below, and I’ll tell you all about it. If you have any other questions, feel free to reach out via phone or email at 717.216.0860 or dave@davehooketeam.com. I look forward to speaking with you.
+If  you want to learn more, send me an email message with “$75,000 guarantee” and I’ll tell you all about it. If you have any other questions, feel free to reach out via phone or email at 717.216.0860 or [dave@davehooketeam.com](dave@davehooketeam.com). I look forward to speaking with you.
