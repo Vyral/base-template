@@ -15,7 +15,7 @@ youtube_code: 7Nd8sHTgBxE
 ---
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s how we use the &ldquo;golden letter&rdquo; to prospect for more listings.</em></center>
+<center style="font-size: 18px;"><em>Here&rsquo;s how we use the &ldquo;golden letter&rdquo; to prospect for more listings.</em></center>
 
 <br>“Would you be interested in selling your home to a client of mine?” That’s pretty much the exact script for our ‘golden letter’ that we use to find seller clients. Maybe you’ve heard about it, maybe you haven’t. It’s a letter that we send to specific neighborhoods to target potential sellers. If your inventory is low like ours is, you know how desperate we are to find great homes for our buyers.
 
