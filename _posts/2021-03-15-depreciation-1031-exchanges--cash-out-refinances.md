@@ -5,7 +5,7 @@ date: 2021-03-15 15:14:59
 tags:
   - Real Estate
 excerpt: Here are some critical investment property tax hacks.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Depreciation%2C+1031+Exchanges%2C+%26+Cash-Out+Refinances.mp4
 pullquote: >-
   A 1031 exchange is when you use the profit of your sale to purchase another
   rental property, in which case you wouldn’t have to pay capital gains tax.
