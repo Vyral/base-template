@@ -19,9 +19,9 @@ youtube_code: 7Nd8sHTgBxE
 
 <br>“Would you be interested in selling your home to a client of mine?” That’s pretty much the exact script for our ‘golden letter’ that we use to find seller clients. Maybe you’ve heard about it, maybe you haven’t. It’s a letter that we send to specific neighborhoods to target potential sellers. If your inventory is low like ours is, you know how desperate we are to find great homes for our buyers.
 
-We implemented this with the help of Laura Hyatt, and it’s a pretty simple direct mail letter. We add it to our just listed/just sold mailer that also has all of our listing processes. Whenever we get a property that sells fast, over asking price, and for multiple offers, we’re sending 100 golden letters to homeowners who live around that house.
+**We implemented this with the help of Laura Hyatt, and it’s a pretty simple direct mail letter.** We add it to our just listed/just sold mailer that also has all of our listing processes. Whenever we get a property that sells fast, over asking price, and for multiple offers, we’re sending 100 golden letters to homeowners who live around that house.
 
-It’s a pretty simple script; you could get more specific in details if you want to, though. We hand address the envelope, stamp it, and don’t even put a return label on it. So far, we’ve gotten phone calls and appointments set just from sending out this letter. It’s a tedious process, but if you can generate just one new listing, it is worth your time and effort.
+It’s a pretty simple script; you could get more specific in details if you want to, though. We hand address the envelope, stamp it, and don’t even put a return label on it. So far, we’ve gotten phone calls and appointments set just from sending out this letter. **It’s a tedious process, but if you can generate just one new listing, it is worth your time and effort.**
 
 {% include pullquote.html %}
 
