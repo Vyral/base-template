@@ -18,7 +18,7 @@ youtube_code: J2UUnuuHsHw
 ---
 {% include youtube.html %}
 
-There are several advantages to buying a new construction home.&nbsp;
+<p style="text-align: center;"><em>There are several advantages to buying a new construction home.</em></p>
 
 What are the advantages of new construction?
 
