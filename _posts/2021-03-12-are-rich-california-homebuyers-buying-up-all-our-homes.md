@@ -27,4 +27,4 @@ Here’s a typical scenario for you: A family buys a home in Los Angeles County 
 
 St. George is a beautiful place, and you can get a lot for $1.1 million. So to answer your question, **the people moving to our area from out of state aren’t all rich cash buyers (although a good percentage of them are).** Many others are just regular people with regular jobs—including retirees—who’ve built up a lot of equity in their homes in the last two decades and are transferring that equity to Washington County.&nbsp;
 
-If you have questions about this topic or are thinking of selling your St. George home and wondering how you can get top dollar for it, get in touch with me today or check out my website. I’d love to hear from you.
+If you have questions about this topic or are thinking of selling your St. George home and wondering how you can get top dollar for it, email us at [sales@gostgeorge.com](sales@gostgeorge.com) or give us a jingle at 435-215-4533! I’d love to hear from you.
