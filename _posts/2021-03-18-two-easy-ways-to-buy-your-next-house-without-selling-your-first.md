@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can We Help Solve This Home-Buying Dilemma?
+title: Two Easy Ways to Buy Your Next House Without Selling Your First
 date: 2021-03-18 09:00:00
 tags:
   - Home Buyer Tips
@@ -18,7 +18,7 @@ youtube_code: 0dTD-F3QLhY
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These are two great options for homebuyers who need to sell first.</em></p>
+*These are two great options for homebuyers who need to sell first.*
 
 Many homebuyers face the dilemma of needing to sell their current home before they’re able to purchase their new property. What’s the solution? I have two of them:
 
