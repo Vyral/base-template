@@ -5,7 +5,8 @@ date: 2021-03-15 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s what The Wolek Group did in 2020 and what we plan to do in 2021
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Our_2020_Accomplishments_and_2021_Goals.mp4
 pullquote: Our team is relentless in many different ways.
 enclosure_type: video/mp4
 enclosure_time:
