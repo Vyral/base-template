@@ -18,7 +18,7 @@ youtube_code: vmm-IYoLEoA
 ---
 {% include youtube.html %}
 
-These are two great options for homebuyers who need to sell first.
+<p style="text-align: center;"><em>These are two great options for homebuyers who need to sell first.</em></p>
 
 Many homebuyers face the dilemma of needing to sell their current home before they’re able to purchase their new property. What’s the solution? I’ve got two of them:
 
