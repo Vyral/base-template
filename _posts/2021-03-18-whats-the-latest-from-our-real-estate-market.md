@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Latest From Our Real Estate Market?
-date: 2021-03-18 13:35:31
+date: 2021-03-18 13:35:00
 tags:
   - Market Update
 excerpt: Here’s the latest news and notes from our Anchorage area market.
@@ -18,7 +18,7 @@ youtube_code: qdwR-O3pmgc
 
 {% include excerpt.html %}
 
-What’s happening in our real estate market as we push through March? Right now, we have one month’s worth of inventory on hand in the Anchorage, Eagle River, and Girdwood area. (Note: That’s single-family residences only, not condos or townhomes). There are 225 active listings at the moment, which is almost nothing. Meanwhile, there are 540 listings currently pending, meaning that they’re under contract. The difference between those two numbers shows that demand is vastly outpacing supply.
+What’s happening in our real estate market as we push through March? Right now, we have one month of inventory on hand in the Anchorage, Eagle River, and Girdwood area. (Note: That’s single-family residences only, not condos or townhomes). There are 225 active listings at the moment, which is almost nothing. Meanwhile, there are 540 listings currently pending, meaning that they’re under contract. The difference between those two numbers shows that demand is vastly outpacing supply.
 
 {% include pullquote.html %}
 
