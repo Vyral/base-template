@@ -5,7 +5,8 @@ date: 2021-03-17 00:00:00
 tags:
   - Buyer Prospects
 excerpt: Here’s how we use the “golden letter” to prospect for more listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Using_the_Golden_Letter_to_Prospect_for_Listings.mp4
 pullquote: The script is simple and straightforward.
 enclosure_type: video/mp4
 enclosure_time:
