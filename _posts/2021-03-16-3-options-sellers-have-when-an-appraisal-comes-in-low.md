@@ -5,7 +5,7 @@ date: 2021-03-16 13:23:14
 tags:
   - Home Seller Tips
 excerpt: 'As a seller, here are your options if your home’s appraisal comes back low.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/3+Options+Sellers+Have+When+an+Appraisal+Comes+in+Low.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
