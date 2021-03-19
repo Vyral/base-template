@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Two Easy Ways to Buy Your Next House Without Selling Your First
-date: 2021-03-18 09:00:00
+date: 2021-03-19 09:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: These are two great options for homebuyers who need to sell first.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/Two+Easy+Ways+to+Buy+Your+Next+House+Without+Selling+Your+First.mp4
 pullquote: >-
   Using our institutional buyer strengthens your offer because they’re paying in
   cash.
@@ -18,7 +19,7 @@ youtube_code: 0dTD-F3QLhY
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These are two great options for homebuyers who need to sell first.</em></p>
+*These are two great options for homebuyers who need to sell first.*
 
 Many homebuyers face the dilemma of needing to sell their current home before they’re able to purchase their new property. What’s the solution? I have two of them:
 
