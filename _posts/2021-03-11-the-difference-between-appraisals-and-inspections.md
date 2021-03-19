@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are differences between appraisals and inspections on homes that you
   should know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/03-11_CANADY_YOUTUBE.jpg
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
