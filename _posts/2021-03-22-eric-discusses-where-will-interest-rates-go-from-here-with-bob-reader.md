@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eric Discusses Where Will Interest Rates Go From Here with Bob Reader
-date: 2021-03-22 18:35:38
+date: 2021-03-22 18:35:00
 tags:
 excerpt: Mortgage expert Bob Reader joins me once again to discuss interest rates.
 enclosure:
@@ -12,9 +12,13 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/03-19-mortimer-youtube.jpg
 youtube_code: aOIMNHWECRw
 ---
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/aOIMNHWECRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/aOIMNHWECRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-<center> Mortgage expert Bob Reader joins me once again to discuss interest rates. </center>
+<center>&nbsp;</center>
+
+<center><em>Mortgage expert Bob Reader joins me once again to discuss interest rates.</em></center>
+
+<center>&nbsp;</center>
 
 Today I’m joined once again by Bob Reader, a veteran of the mortgage industry, to talk about the present and future of interest rates in our real estate market.
 
