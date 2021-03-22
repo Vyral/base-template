@@ -16,7 +16,9 @@ youtube_code: aOIMNHWECRw
 
 <center>&nbsp;</center>
 
-<center><em>Mortgage expert Bob Reader joins me once again to discuss interest rates.</em></center>
+<center>Mortgage expert Bob Reader joins me once again to discuss interest rates.</center>
+
+<center>&nbsp;</center>
 
 <center>&nbsp;</center>
 
