@@ -14,7 +14,7 @@ youtube_code: 60YHMbvQYho
 ---
 {% include youtube.html %}
 
-Here are the 10 hottest hottest markets in the Twin Cities area.
+<center><em>Here are the 10 hottest hottest markets in the Twin Cities area.</em></center>
 
 The Star Tribune has ranked the 10 hottest cities in the Twin Cities metropolitan area in terms of year-over-year market growth, and you might be surprised by which cities made the list:
 
