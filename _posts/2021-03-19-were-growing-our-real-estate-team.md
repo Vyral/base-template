@@ -18,6 +18,6 @@ youtube_code: JZBk8LYrV9Y
 
 {% include excerpt.html %}
 
-If you're not selling at least three houses every month consistently, listen up. We’re looking for one agent to join our team in the next 30 days. Our agents are required to sell at least 30 properties, and they accomplish this through structure, accountability, hundreds of warm leads, building a great database, and making real estate their own. If you’ve been thinking about making a move, making a transition, or evaluating your goals, consider reaching out for a confidential conversation to see if we might be a good fit for you.
+If you're not selling at least three houses every month consistently, listen up. **We’re looking for one agent to join our team in the next 30 days.** Our agents are required to sell at least 30 properties, and they accomplish this through structure, accountability, hundreds of warm leads, building a great database, and making real estate their own. If you’ve been thinking about making a move, making a transition, or evaluating your goals, consider reaching out for a confidential conversation to see if we might be a good fit for you.
 
 If you aren’t a great fit, we can help point you in the right direction of someone who is. We look forward to hearing from you and helping you crush your goals. If you have any questions in the meantime, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
