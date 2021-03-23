@@ -3,12 +3,14 @@ layout: post
 title: Eric Discusses Where Will Interest Rates Go From Here with Bob Reader
 date: 2021-03-22 18:35:00
 tags:
+  - Home Buyer Tips
 excerpt: Mortgage expert Bob Reader joins me once again to discuss interest rates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2021/Eric_Discusses_Where_Will_Interest_Rates_Go_From_Here_with_Bob_Reader.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/03-19-mortimer-youtube.jpg
 youtube_code: aOIMNHWECRw
 ---
