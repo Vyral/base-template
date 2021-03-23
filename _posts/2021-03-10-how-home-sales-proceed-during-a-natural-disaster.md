@@ -15,9 +15,9 @@ youtube_code: Usn62rvJhHU
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what happens when a natural disaster affects a for-sale home.</em></p>
+*Here’s what happens when a natural disaster affects a for-sale home.*
 
-Welcome back to the Central Iowa Real Estate Scoreboard. This time, we’re with Rob Keller of Country Financial and answering the question, **“What happens when there is a natural disaster when a home is for sale?”**
+Welcome back to the Central Iowa Real Estate Scoreboard. This time, we’re with *[Rob Keller of Country Financial](http://www.countryfinancial.com/){: target="_blank" rel="noopener"}* and answering the question, **“What happens when there is a natural disaster when a home is for sale?”**
 
 If you do have damage that has occurred as the result of a natural disaster, the seller’s disclosure needs to be updated. The owner of the home is responsible for fixing the damage, but if you are under contract and ready to close, it’s a bit of a different situation. From the mortgage company’s standpoint, they will require that appraisers recheck the property to make sure the asset they’re lending on still has the same value. **Even if you’ve gotten past the appraisal already, the bank will send another appraiser and there is a charge for a second appraisal that would not be covered by insurance.**
 
