@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Your March Real Estate Market Update
-date: 2021-03-24 21:14:08
+date: 2021-03-24 21:14:00
 tags:
   - Market Update
 excerpt: >-
   How are things looking in the Clarksville-Montgomery County real estate
   market? Here’s what our numbers show.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Valerie+Hunter-Kelly/+Videos/2021/Your+March+Real+Estate+Market+Update.mp4
 pullquote: >-
   If you’re thinking about jumping into the real estate market, you may be in
   for a somewhat tricky and competitive situation.
