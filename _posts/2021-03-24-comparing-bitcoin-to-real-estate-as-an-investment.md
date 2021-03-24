@@ -3,6 +3,7 @@ layout: post
 title: Comparing Bitcoin to Real Estate as an Investment
 date: 2021-03-24 00:00:00
 tags:
+  - Real Estate
 excerpt: Here are my thoughts on how Bitcoin stacks up to real estate investing.
 enclosure:
 pullquote:
