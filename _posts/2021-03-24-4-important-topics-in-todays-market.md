@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 4 Important Topics in Today’s Market
-date: 2021-03-24 14:46:26
+date: 2021-03-24 14:46:00
 tags:
   - Market Update
 excerpt: Here are the topics that everyone is discussing in today’s real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2021/Dan+Jones+Home+Selling+Team_+Is+the+market+still+hot_.mp4
 pullquote: Certain markets have overvalued homes while others don’t.
 enclosure_type: video/mp4
 enclosure_time:
