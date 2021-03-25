@@ -50,7 +50,7 @@ The Star Tribune has ranked the 10 hottest cities in the Twin Cities metropolita
 * Average price per square foot: +20%
 * Homes sold 4 days faster than last year
 
-**4) Cocado:**
+**4) Cokato:**
 
 * Average price per square foot: +29%
 * Homes sold 17 days faster than last year
