@@ -20,7 +20,7 @@ youtube_code: TOfdY_UMrC8
 
 {% include excerpt.html %}
 
-Many home sellers in today’s market are finding themselves in a pretty tough conundrum: They need to get the equity out of their current to be able to buy a new one, but they also understand that a contingent offer is a losing strategy. Is there a better way to position yourself for success in this fast-paced market of ours? Thankfully, there is. Joining me today is special guest Kevin Anderson from <u><a target="_blank" rel="noopener" href="https://onetrusthomeloans.com/branch/RenoNVWest">One Trust Home Loans</a></u>, who will explain the core benefits of their recast option. For a minor fee, this option affords you major leverage.
+Many home sellers in today’s market are finding themselves in a pretty tough conundrum: They need to get the equity out of their current home to be able to buy a new one, but they also understand that a contingent offer is a losing strategy. Is there a better way to position yourself for success in this fast-paced market of ours? Thankfully, there is. Joining me today is special guest Kevin Anderson from <u><a target="_blank" rel="noopener" href="https://onetrusthomeloans.com/branch/RenoNVWest">One Trust Home Loans</a></u>, who will explain the core benefits of their recast option. For a minor fee, this option affords you major leverage.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
@@ -36,4 +36,4 @@ Many home sellers in today’s market are finding themselves in a pretty tough c
 
 5:11 — Wrapping up today’s topic
 
-Hopefully, you found our conversation to be insightful. For a more detailed breakdown of the recast process, <u><a target="_blank" rel="noopener" href="/uploads/OneTrust_RecastProcess_KevinAnderson_031021.pdf">check out this handy guide</a></u> that Kevin assembled for clients.
+Hopefully, you found our conversation to be insightful. For a more detailed breakdown of the recast process, <u><a target="_blank" rel="noopener" href="/uploads/OneTrust_RecastProcess_KevinAnderson_031021.pdf">check out this handy guide</a></u> that Kevin assembled for clients. If you ever have any real estate questions, call or email me. I would love to help you.
