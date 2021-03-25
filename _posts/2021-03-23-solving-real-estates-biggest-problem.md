@@ -3,7 +3,7 @@ layout: post
 title: Solving Real Estate’s Biggest Problem
 tags:
   - Real Estate
-date: 2021-03-23 13:54:59
+date: 2021-03-23 13:54:00
 excerpt: Here’s why our partnership with Homeward is big news for buyers.
 enclosure:
 pullquote: >-
@@ -27,6 +27,8 @@ We’ve partnered with an exceptional company called Homeward. You can send in a
 
 {% include pullquote.html %}
 
-Using Homeward’s cash, you can buy the home you want, move into it, and then put your old house up for sale. When you finally get your equity out so that you can get your own mortgage, you just buy it back from them. Of course, they do charge a fee for that—that’s how they’re able to be in business. More often than not, though, that fee is far outweighed by the convenience of being able to shop without severe restraints. Don’t rush into your next home; leverage Homeward’s resources to make the right purchase.&nbsp;
+Using Homeward’s cash, you can buy the home you want, move into it, and then put your old house up for sale. When you finally get your equity out so that you can get a mortgage, you just buy it back from them. Of course, they do charge a fee for that—that’s how they’re able to be in business. More often than not, though, that fee is far outweighed by the convenience of being able to shop without severe restraints. Don’t rush into your next home; leverage Homeward’s resources to make the right purchase.&nbsp;
 
-This is a great tool to have in our tool belt. This seller’s market can be brutal; **we want to share this game-changing information with as many burnt-out buyers as possible** in the hope that they finally feel empowered. If you or someone you know is either knee-deep in the home-buying process or soon to get started, please reach out to us today. We’d love to hear more about their specific needs and help them craft an actionable plan that gets them into a home they can feel proud of.
+This is a great tool to have in our tool belt. This seller’s market can be brutal; **we want to share this game-changing information with as many burnt-out buyers as possible** in the hope that they finally feel empowered.
+
+If you or someone you know is either knee-deep in the home-buying process or soon to get started, please reach out to us today. We’d love to hear more about their specific needs and help them craft an actionable plan that gets them into a home they can feel proud of.
