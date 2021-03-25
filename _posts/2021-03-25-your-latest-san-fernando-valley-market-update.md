@@ -16,6 +16,8 @@ youtube_code: GfHdna-5UlM
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Here’s the latest update from our San Fernando Valley real estate market.
 
 What’s happening in our real estate market here in March? Back at the beginning of 2021, we had the fewest homes for sale in history. That trend of extremely low inventory has continued in today’s market. The number to pay attention to is pending sales because ‘solds’ are houses that sold 30 to 45 days ago. Pending deals are more recent and have not yet been closed.&nbsp;
