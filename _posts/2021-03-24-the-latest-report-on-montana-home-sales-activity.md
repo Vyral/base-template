@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Report on Montana Home Sales Activity
-date: 2021-03-24 15:22:56
+date: 2021-03-24 15:22:00
 tags:
   - Market Update
 excerpt: Here’s an overview of Montana real estate sales activity.
@@ -41,3 +41,5 @@ Every spring, we receive a publication from the Montana Association of Realtors 
 10:44—The NW Montana Association (Greater Kalispell)
 
 11:34—Wrapping up our discussion
+
+As always, if you have questions about our real estate market or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
