@@ -17,7 +17,7 @@ youtube_code: 1Q660DTnk7Q
 ---
 {% include youtube.html %}
 
-Here’s what could happen to your home affordability by waiting to buy.
+<center><em>Here’s what could happen to your home affordability by waiting to buy.</em></center>
 
 When deciding whether now is the right time to buy or sell a home, it’s important to consider the interest rates. **The cost of waiting to purchase a home or refinance your current home loan could be significant if rates increase.** Every 1% increase in rates causes you to lose 10% in purchasing power. If you qualify for $300,000 today, you could only afford a $270,000 house if rates went up 1%. Timing is everything, and you could see your monthly payment drop hundreds if you make your move quickly while rates are still low.&nbsp;
 
