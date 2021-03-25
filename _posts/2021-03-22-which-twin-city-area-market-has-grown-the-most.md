@@ -75,3 +75,5 @@ Are you sensing the trend? We’re seeing major growth past the third-ring subur
 **If you’re a buyer, you’ll have to be fully pre-approved and underwritten with a reputable lender.** You’ll also have to be ready to make split-second decisions, and you should anticipate competing with five, 10, or even more other buyers for that house.
 
 If you have any questions about buying or selling a home in this market, don’t hesitate to reach out to the John Schuster Group. We’ll be glad to help you out.
+
+[See the data in this StarTribune article.&nbsp;](https://www.startribune.com/ranking-the-hottest-housing-markets-in-the-twin-cities-2020-2021/502089881/#place-18)
