@@ -5,7 +5,8 @@ tags:
   - Real Estate
 date: 2021-03-23 13:54:00
 excerpt: Here’s why our partnership with Homeward is big news for buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Gorman/Videos/2021/Solving+Real+Estate%E2%80%99s+Biggest+Problem.mp4
 pullquote: >-
   Don’t rush into your next home; leverage Homeward’s resources to make the
   right purchase.
