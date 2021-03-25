@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Here are the topics that everyone is discussing in today’s real estate market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2021/Dan+Jones+Home+Selling+Team_+Is+the+market+still+hot_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2021/Dan+Jones+Home+Selling+Team_+March+2021+Market+Update.mp4
 pullquote: Certain markets have overvalued homes while others don’t.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: L4La6Ip1QRQ
+youtube_code: OvG5JLwNX2c
 ---
 {% include youtube.html %}
 
