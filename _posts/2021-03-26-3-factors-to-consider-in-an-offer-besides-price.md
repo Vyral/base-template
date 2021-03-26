@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 3 Factors to Consider in an Offer Besides Price
-date: 2021-03-24 09:00:00
+date: 2021-03-26 09:00:00
 tags:
   - Buyer Tips
   - Real Estate
 excerpt: 'Sellers: Here’s what to look for in an offer besides price.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/3+Factors+to+Consider+in+an+Offer+Besides+Price.mp4
 pullquote: You want the physical contingency to be as tight as possible.
 enclosure_type: video/mp4
 enclosure_time:
