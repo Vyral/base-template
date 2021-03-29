@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Every Agent, Every Week, 2 New Appointments'
-date: 2021-03-26 14:20:54
+date: 2021-03-26 14:20:00
 tags:
   - Lead Generation
 excerpt: Here’s how we bring two qualified leads to each of our agents every week.
@@ -20,4 +20,4 @@ youtube_code: IKwxbZEaNck
 
 We’ve had a massive change in our real estate team’s model over the last year. One of the big things we’ve implemented is putting two new client appointments per week into our agents’ calendars using a three-step process. The marketing department generates business, our appointment-setting team nurtures and qualifies that business until they’re ready to buy or sell, and then they pop those meetings into our agents’ calendars, and they show up and serve the client.&nbsp;
 
-If you have any questions about our appointment setting process, comment “2 new appointments per week” below or private message me with the same phrase and I’ll tell you all about it. I look forward to hearing from you soon.
+If you have any questions about our appointment-setting process, comment “2 new appointments per week” below or private message me with the same phrase and I’ll tell you all about it. I look forward to hearing from you soon.
