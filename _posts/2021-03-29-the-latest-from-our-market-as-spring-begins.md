@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Latest From Our Market as Spring Begins
-date: 2021-03-26 09:00:00
+date: 2021-03-29 09:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: Our Baltimore market is slightly ahead of the seasonal schedule.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/The+Latest+From+Our+Market+as+Spring+Begins.mp4
 pullquote: >-
   For anyone who needs to sell first in order to buy a new home, get your
   current home ready to sell now.
