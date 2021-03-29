@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/03-23-rosado-youtube.jpg
+youtube_alternate_image: /uploads/03-23-rosado-youtube-1.jpg
 youtube_code: ug1CmqaxtS8
 ---
 {% include youtube.html %}
