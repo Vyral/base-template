@@ -5,7 +5,8 @@ date: 2021-03-24 00:00:00
 tags:
   - Real Estate
 excerpt: Here are my thoughts on how Bitcoin stacks up to real estate investing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/Comparing+Bitcoin+to+Real+Estate+as+an+Investment.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
