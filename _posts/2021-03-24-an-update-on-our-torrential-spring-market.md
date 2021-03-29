@@ -1,11 +1,12 @@
 ---
 layout: post
 title: An Update on Our Torrential Spring Market
-date: 2021-03-24 14:39:57
+date: 2021-03-24 14:39:00
 tags:
   - Market Update
 excerpt: Here's an on-the-ground perspective of our wild spring market thus far.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/An+Update+on+Our+Torrential+Spring+Market.mp4
 pullquote: >-
   The last thing you want is to enter a torrential market with the wrong
   expectations.
