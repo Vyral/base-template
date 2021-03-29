@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cash Flow Is NOT Everything When Investing in Real Estate
+title: Don’t Buy an Investment Property With Cash
 date: 2021-03-26 17:39:00
 tags:
   - Real Estate
