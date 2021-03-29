@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Financing Is Your Friend When Investing in Real Estate
+title: Cash Flow Is NOT Everything When Investing in Real Estate
 date: 2021-03-26 17:39:00
 tags:
   - Real Estate
