@@ -42,6 +42,6 @@ Hopefully, you found our conversation to be insightful. If you ever have any rea
 
 ---
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/249b5c726b38ab1db55cefd971300a73.jpg" alt="Real Estate and Your Wealth" title="Real Estate and Your Wealth" width="777" height="1002" data-cms-original-src="/uploads/RealEstateandYourWealthpg.1-777.jpg"></center>
+<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/249b5c726b38ab1db55cefd971300a73.jpg" alt="Real Estate and Your Wealth" title="Real Estate and Your Wealth" width="100%" height="100%" data-cms-original-src="/uploads/RealEstateandYourWealthpg.1-777.jpg"></center>
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/ca7d331f7a295fc1ebd51fdaf1ba8177.jpg" alt="5 Reasons to Sell Your Home This Spring" title="5 Reasons to Sell Your Home This Spring" width="777" height="1002" data-cms-original-src="/uploads/RealEstateandYourWealthpg.2-777.jpg"></center>
+<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/ca7d331f7a295fc1ebd51fdaf1ba8177.jpg" alt="5 Reasons to Sell Your Home This Spring" title="5 Reasons to Sell Your Home This Spring" width="100%" height="100%" data-cms-original-src="/uploads/RealEstateandYourWealthpg.2-777.jpg"></center>
