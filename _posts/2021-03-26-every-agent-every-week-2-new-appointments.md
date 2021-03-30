@@ -20,4 +20,4 @@ youtube_code: IKwxbZEaNck
 
 We’ve had a massive change in our real estate team’s model over the last year. One of the big things we’ve implemented is putting two new client appointments per week into our agents’ calendars using a three-step process. The marketing department generates business, our appointment-setting team nurtures and qualifies that business until they’re ready to buy or sell, and then they pop those meetings into our agents’ calendars, and they show up and serve the client.&nbsp;
 
-If you have any questions about our appointment-setting process, comment “2 new appointments per week” below or private message me with the same phrase and I’ll tell you all about it. I look forward to hearing from you soon.
+If you want to learn more, send me an email message with “2 new appointments per week” and I’ll tell you all about it. If you have any other questions, feel free to reach out via phone or email at 717.216.0860 or&nbsp;[dave@davehooketeam.com](https://davehookecoaching.com/dave@davehooketeam.com). I look forward to speaking with you.
