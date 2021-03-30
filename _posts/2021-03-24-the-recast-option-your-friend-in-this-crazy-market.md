@@ -20,7 +20,7 @@ youtube_code: TOfdY_UMrC8
 
 {% include excerpt.html %}
 
-![Home Equity Growth in 2020](/uploads/RealEstateandYourWealth-1.png "Home Equity Growth in 2020"){: width="100%" height="3337"}
+![Home Equity Growth in 2020](/uploads/RealEstateandYourWealth-1.png "Home Equity Growth in 2020"){: width="100%" height="100%"}
 
 ![5 Reasons to Sell Your Home This Spring](/uploads/RealEstateandYourWealth-2.png "5 Reasons to Sell Your Home This Spring"){: width="2588" height="3337"}
 
