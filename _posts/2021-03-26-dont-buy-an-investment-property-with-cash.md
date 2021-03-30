@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-why-you-should-never-buy-a-home-in-cash-yt.jpg
-youtube_code: fcx6IOzccTw
+youtube_code: VhT81BBE1HA
 ---
 {% include youtube.html %}
 
