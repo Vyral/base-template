@@ -25,6 +25,6 @@ Even though spring is just beginning, here are three reasons why the spring real
 
 {% include pullquote.html %}
 
-**3\. An increase in inventory.** Here’s the catch: Since we have so much demand, you’ll get caught behind if you think inventory is going up over time. The demand that’s out there right now will supersede any increase in inventory. If you’re out there in the market expecting to see a massive influx, you won’t because it will be hidden by the huge demand.&nbsp;
+**3\. An increase in inventory.** Here’s the catch: Since we have so much demand, you’ll fall behind if you think inventory is going up over time. The demand that’s out there right now will supersede any increase in inventory. If you’re out there in the market expecting to see a massive influx, you won’t because it will be hidden by the huge demand.
 
 If you have any questions for us about buying, selling, or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.<br>&nbsp;
