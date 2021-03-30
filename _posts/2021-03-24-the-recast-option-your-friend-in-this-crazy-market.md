@@ -20,9 +20,9 @@ youtube_code: TOfdY_UMrC8
 
 {% include excerpt.html %}
 
-![Real Estate and Your Wealth](/uploads/RealEstateandYourWealthpg.1-777.jpg "Real Estate and Your Wealth"){: width="777" height="1002"}
+<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/249b5c726b38ab1db55cefd971300a73.jpg" alt="Real Estate and Your Wealth" title="Real Estate and Your Wealth" width="777" height="1002" data-cms-original-src="/uploads/RealEstateandYourWealthpg.1-777.jpg"></center>
 
-![5 Reasons to Sell Your Home This Spring](/uploads/RealEstateandYourWealthpg.2-777.jpg "5 Reasons to Sell Your Home This Spring"){: width="777" height="1002"}
+<center><img src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/ca7d331f7a295fc1ebd51fdaf1ba8177.jpg" alt="5 Reasons to Sell Your Home This Spring" title="5 Reasons to Sell Your Home This Spring" width="777" height="1002" data-cms-original-src="/uploads/RealEstateandYourWealthpg.2-777.jpg"></center>
 
 Many home sellers in today’s market are finding themselves in a pretty tough conundrum: They need to get the equity out of their current home to be able to buy a new one, but they also understand that a contingent offer is a losing strategy. Is there a better way to position yourself for success in this fast-paced market of ours? Thankfully, there is. Joining me today is special guest Kevin Anderson from <u><a target="_blank" rel="noopener" href="https://onetrusthomeloans.com/branch/RenoNVWest">One Trust Home Loans</a></u>, who will explain the core benefits of their recast option. For a minor fee, this option affords you major leverage.
 
