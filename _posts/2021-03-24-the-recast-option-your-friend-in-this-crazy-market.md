@@ -32,7 +32,9 @@ Many home sellers in today’s market are finding themselves in a pretty tough c
 
 1:28 — Why contingent offers are often given lower priority
 
-2:05 — The net equity from your home sale can be applied toward your new house; One Trust will then recast your principal and interest payment<br>&nbsp;<br>3:00 — How a recast significantly bolsters your offer
+2:05 — The net equity from your home sale can be applied toward your new house; One Trust will then recast your principal and interest payment
+
+3:00 — How a recast significantly bolsters your offer
 
 4:03 — Will you get saddled with two separate mortgage payments?
 
