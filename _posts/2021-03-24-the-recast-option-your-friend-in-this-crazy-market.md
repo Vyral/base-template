@@ -38,6 +38,8 @@ Many home sellers in today’s market are finding themselves in a pretty tough c
 
 Hopefully, you found our conversation to be insightful. For a more detailed breakdown of the recast process, <u><a target="_blank" rel="noopener" href="/uploads/OneTrust_RecastProcess_KevinAnderson_031021.pdf">check out this handy guide</a></u> that Kevin assembled for clients. If you ever have any real estate questions, call or email me. I would love to help you.
 
+---
+
 ![Home Equity Growth in 2020](/uploads/RealEstateandYourWealth-1.png "Home Equity Growth in 2020"){: width="2588" height="3337"}
 
 ![5 Reasons to Sell Your Home This Spring](/uploads/RealEstateandYourWealth-2.png "5 Reasons to Sell Your Home This Spring"){: width="2588" height="3337"}
