@@ -20,9 +20,9 @@ youtube_code: TOfdY_UMrC8
 
 {% include excerpt.html %}
 
-![Home Equity Growth in 2020](/uploads/RealEstateandYourWealth-1.png "Home Equity Growth in 2020"){: width="75%" height="75%"}
+![Home Equity Growth in 2020](/uploads/RealEstateandYourWealth-1.png "Home Equity Growth in 2020"){: width="2588" height="3337"}
 
-![5 Reasons to Sell Your Home This Spring](/uploads/RealEstateandYourWealth-2.png "5 Reasons to Sell Your Home This Spring"){: width="75%" height="75%"}
+![5 Reasons to Sell Your Home This Spring](/uploads/RealEstateandYourWealth-2.png "5 Reasons to Sell Your Home This Spring"){: width="2588" height="3337"}
 
 Many home sellers in today’s market are finding themselves in a pretty tough conundrum: They need to get the equity out of their current home to be able to buy a new one, but they also understand that a contingent offer is a losing strategy. Is there a better way to position yourself for success in this fast-paced market of ours? Thankfully, there is. Joining me today is special guest Kevin Anderson from <u><a target="_blank" rel="noopener" href="https://onetrusthomeloans.com/branch/RenoNVWest">One Trust Home Loans</a></u>, who will explain the core benefits of their recast option. For a minor fee, this option affords you major leverage.
 
