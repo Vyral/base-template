@@ -17,7 +17,8 @@ youtube_code: mV0PG3WAg6k
 ---
 {% include youtube.html %}
 
-Here’s a tip to help you get a win for your buyers: Call the listing agent.
+<center><em>Here’s a tip to help you get a win for your buyers: Call the listing agent.</em></center>
+&nbsp;
 
 Today is the first segment in my new series about how to win with buyers.&nbsp;
 
