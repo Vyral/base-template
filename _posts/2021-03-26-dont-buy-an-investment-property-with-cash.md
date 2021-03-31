@@ -5,7 +5,8 @@ date: 2021-03-26 17:39:00
 tags:
   - Real Estate
 excerpt: Here’s why I don’t think you should buy a real estate investment in cash.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Don%E2%80%99t+Buy+an+Investment+Property+With+Cash.mp4
 pullquote: 'Even if you have the cash, don’t buy real estate at full price.'
 enclosure_type: video/mp4
 enclosure_time:
