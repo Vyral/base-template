@@ -39,6 +39,8 @@ CTAs:
   first_CTA_URL: 'http://airassaults.idxbroker.com/idx/homevaluation'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://airassaults.idxbroker.com/idx/search/advanced'
+  second_CTA_text: Mortgage Calculator
+  second_CTA_URL: 'http://airassaults.idxbroker.com/idx/mortgage'  
   VR_form: 'http://oi.vresp.com?fid=35ac4e1e40'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
