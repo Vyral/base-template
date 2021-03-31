@@ -3,7 +3,7 @@ layout: post
 title: 3 Reasons Why the Spring Market Has Started Already
 date: 2021-03-29 00:00:00
 tags:
-  - Real Estate
+  - Market Update
 excerpt: Here’s why we already have a spring real estate market in full swing.
 enclosure:
 pullquote: Properties are selling almost immediately for top dollar.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-26-colemere-youtube.jpg
-youtube_code: AjD61Yeiisw
+youtube_code: KwJsbiHXLxk
 ---
 {% include youtube.html %}
 
