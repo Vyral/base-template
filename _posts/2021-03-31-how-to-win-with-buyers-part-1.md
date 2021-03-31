@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'Here’s a tip to help you get a win for your buyers: Call the listing agent.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2020/The+Stern+Team_+Coaching+Video+-+How+To+Win+With+Buyers.mp4
 pullquote: Get a win for your buyers by calling the listing agent.
 enclosure_type:
 enclosure_time: '10:39 am'
@@ -17,7 +18,8 @@ youtube_code: mV0PG3WAg6k
 ---
 {% include youtube.html %}
 
-<center><em>Here’s a tip to help you get a win for your buyers: Call the listing agent.</em></center>
+<center><em>Here&rsquo;s a tip to help you get a win for your buyers: Call the listing agent.</em></center>
+
 &nbsp;
 
 Today is the first segment in my new series about how to win with buyers.&nbsp;
