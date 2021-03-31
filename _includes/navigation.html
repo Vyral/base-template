@@ -55,19 +55,5 @@
 			{% endif %}
 
 		</ul>
-			{% if site.data.settings.CTAs.third_CTA_text and site.data.settings.CTAs.third_CTA_URL != null %}
-			<li>
-				{% if site.data.settings.CTAs.third_CTA_URL == '/homesearch/' %}
-				<a class="cta" href="http://airassaults.idxbroker.com/idx/mortgage">
-					{% elsif site.data.settings.CTAs.third_CTA_URL == 'contact' %}
-					<a class="cta" id="contact" href="contact">
-					{% else %}
-				<a class="cta" href="http://airassaults.idxbroker.com/idx/mortgage" target="_blank">
-				{% endif %}
-					{{site.data.settings.CTAs.third_CTA_text}}
-				</a>
-			</li>
-			{% endif %}
-
-		</ul>		
+	
 </nav>
