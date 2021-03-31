@@ -18,7 +18,4 @@ youtube_code:
 
 {% include pullquote.html %}
 
-<center><em>EXCERPT.</em></center>
-
-<br>ARTICLE
 
