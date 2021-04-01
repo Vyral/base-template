@@ -14,7 +14,7 @@ youtube_code: wOYWSrdWZjc
 ---
 {% include youtube.html %}
 
-Here are a few spring cleaning tips you might not know about yet.
+<center><em>Here are a few spring cleaning tips you might not know about yet.</em></center>
 
 It’s that time of year for a little spring cleaning. Here are three great tips to help freshen up your home:
 
