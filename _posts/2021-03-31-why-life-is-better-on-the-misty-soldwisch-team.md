@@ -27,4 +27,4 @@ Eventually, in 2017, she received a call from the Misty SOLDwisch Team to schedu
 
 If you have any questions about working with the Misty SOLDwisch Team or are interested in beginning your real estate career, don’t hesitate to reach out to us. We’d love to help you.
 
-![](/uploads/image001-3.jpg){: width="1036" height="1400"}
+![](/uploads/image001-3.jpg){: width="100%" height="100%"}
