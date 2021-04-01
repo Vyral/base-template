@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Reasons Why the Spring Market Has Started Already
+title: The Spring Market Has Started Already
 date: 2021-03-29 00:00:00
 tags:
   - Market Update
