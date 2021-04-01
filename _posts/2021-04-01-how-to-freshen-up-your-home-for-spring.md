@@ -3,7 +3,7 @@ layout: post
 title: How to Freshen Up Your Home for Spring
 date: 2021-04-01 00:00:00
 tags:
-excerpt:
+excerpt: Here are a few spring cleaning tips you might not know about yet.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
