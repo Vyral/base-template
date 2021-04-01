@@ -4,5 +4,4 @@ title: Preferred Vendors
 permalink: /PreferredVendors/
 ---
 
-<iframe frameborder="0" class="wipe" id="vendor-widget-1" style="width:100%; min-height: 600vh; max-height: 100vh;" src="//realtyadvisors.vendorlistpro.com/?embed=true"></iframe>
-<script src="//vendorlistpro.com/assets/scripts/jquery.mediaWrapper.js"></script>
+<iframe frameborder="0" class="wipe" id="vendor-widget-1" style="width:100%;" src="//realtyadvisors.vendorlistpro.com/?embed=true"></iframe><script src="//vendorlistpro.com/assets/scripts/iframeResizer.min.js"></script><script type="text/javascript">iFrameResize({log : false});</script>
