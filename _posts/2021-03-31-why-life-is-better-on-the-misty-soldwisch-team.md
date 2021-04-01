@@ -27,4 +27,4 @@ Eventually, in 2017, she received a call from the Misty SOLDwisch Team to schedu
 
 If you have any questions about working with the Misty SOLDwisch Team or are interested in beginning your real estate career, don’t hesitate to reach out to us. We’d love to help you.
 
-<p style="text-align: center;"><em>[![](/uploads/image001-3.jpg "Why Life Is Better on the Misty SOLDwisch Team"){: width="836" height="1200"}](https://changinglivesthroughrealestate.com/){: target="_blank" rel="noopener"}</em></p>
+[![](/uploads/image001-3.jpg "Why Life Is Better on the Misty SOLDwisch Team"){: width="1036" height="1400"}](https://changinglivesthroughrealestate.com/){: target="_blank" rel="noopener"}
