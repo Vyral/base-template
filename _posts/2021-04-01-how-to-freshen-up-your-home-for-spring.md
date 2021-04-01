@@ -16,6 +16,8 @@ youtube_code: wOYWSrdWZjc
 
 <center><em>Here are a few spring cleaning tips you might not know about yet.</em></center>
 
+<center>&nbsp;</center>
+
 It’s that time of year for a little spring cleaning. Here are three great tips to help freshen up your home:
 
 **1\. Clean your ceiling fans with pillowcases.** One of the hardest spots to clean also happens to collect the most dust. Fit an old pillowcase around the blades and use it as a dustrag.
