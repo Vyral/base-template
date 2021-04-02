@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Here’s a perfect example of why properly prepared homes sell for more.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+How+To+Sell+for+Top+Dollar.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+selling+for+top+dollar+2.mp4
 pullquote: Getting your home in its best possible condition is the way to go.
 enclosure_type: video/mp4
 enclosure_time:
