@@ -5,7 +5,8 @@ date: 2021-03-31 13:32:00
 tags:
   - Real Estate
 excerpt: Here’s how to have a successful concurrent sale in our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/The+Best+Ways+to+Buy+and+Sell+Your+Home+Simultaneously.mp4
 pullquote: >-
   Today’s market is making things especially tricky, so it’s important to be
   well-prepared before trying to do a concurrent sale.
