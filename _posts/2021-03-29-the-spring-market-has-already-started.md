@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Spring Market Has Started Already
+title: The Spring Market Has Already Started
 date: 2021-03-29 00:00:00
 tags:
   - Market Update
