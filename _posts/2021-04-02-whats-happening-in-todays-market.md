@@ -1,12 +1,13 @@
 ---
 layout: post
 title: What’s Happening in Today’s Market?
-date: 2021-03-31 09:00:00
+date: 2021-04-02 09:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: Here’s your latest update on what’s going on in the real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/What%E2%80%99s+Happening+in+Today%E2%80%99s+Market_.mp4
 pullquote: >-
   Even if interest rates rose further, the market would still be hot due to our
   low inventory.
