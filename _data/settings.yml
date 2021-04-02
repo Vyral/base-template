@@ -8,7 +8,7 @@ custom_links:
   - title: Montly Raffle
     url: /raffle/
   - title: Local Vendors
-    url: /PreferredVendors/    
+    url: /LocalVendors/    
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810160';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 client:
