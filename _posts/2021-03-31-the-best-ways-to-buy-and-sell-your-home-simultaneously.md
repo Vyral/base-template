@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Top 5 Ways to Do a Concurrent Home Sale
+title: The Best Ways to Buy and Sell Your Home Simultaneously
 date: 2021-03-31 13:32:00
 tags:
   - Real Estate
