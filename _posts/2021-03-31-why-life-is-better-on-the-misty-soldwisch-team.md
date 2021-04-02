@@ -27,4 +27,6 @@ Eventually, in 2017, she received a call from the Misty SOLDwisch Team to schedu
 
 If you have any questions about working with the Misty SOLDwisch Team or are interested in beginning your real estate career, don’t hesitate to reach out to us. We’d love to help you.
 
+Interested in talking to us about our current opportunities?&nbsp; Go to&nbsp;*[www.JoinMistysTeam.com](https://t.e2ma.net/click/cq3cfe/43ktr0r/s2jarj){: target="_blank"}*
+
 ![](/uploads/image001-3.jpg "Why Life Is Better on the Misty SOLDwisch Team"){: width="100%" height="100%"}
