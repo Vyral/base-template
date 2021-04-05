@@ -5,7 +5,8 @@ date: 2021-03-29 00:00:00
 tags:
   - Market Update
 excerpt: Here’s why we already have a spring real estate market in full swing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/The+Spring+Market+Has+Already+Started.mp4
 pullquote: Properties are selling almost immediately for top dollar.
 enclosure_type: video/mp4
 enclosure_time:
