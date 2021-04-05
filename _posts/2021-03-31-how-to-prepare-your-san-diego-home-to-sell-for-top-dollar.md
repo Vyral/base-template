@@ -24,8 +24,8 @@ The real estate market has been hot for several months now, and it will probably
 
 {% include pullquote.html %}
 
-**2\. Perfect preparation makes for a perfect home sale.** Typically, our clients who need to buy and sell need at least a couple days, if not a couple weeks, to prepare. We want to create an environment similar to new construction homes.
+**2\. Perfect preparation makes for a perfect home sale.** Typically, our clients who need to buy and sell need at least a couple of days, if not a couple of weeks, to prepare. We want to create an environment similar to new construction homes.
 
 **3\. Hire a top agent.** You need an agent who will not only be honest with you, but will also guide you through the entire process to close quickly and sell for top dollar.
 
-If you have any questions for us or any real estate problems you need assistance with, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for us or real estate problems you need assistance with, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
