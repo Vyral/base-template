@@ -5,7 +5,8 @@ date: 2021-04-01 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Consider selling your home to a qualified buyer in this unique market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Have+You+Considered+Selling_.mp4
 pullquote: >-
   We have record-breaking low inventory levels combined with historically low
   interest rates.
