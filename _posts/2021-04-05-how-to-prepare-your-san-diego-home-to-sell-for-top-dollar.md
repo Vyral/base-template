@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How to Prepare Your San Diego Home to Sell for Top Dollar
-date: 2021-03-31 09:00:00
+date: 2021-04-05 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are three things that will sell your home quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/How+to+Prepare+Your+San+Diego+Home+to+Sell+for+Top+Dollar.mp4
 pullquote: We want to create an environment similar to new construction homes.
 enclosure_type: video/mp4
 enclosure_time:
