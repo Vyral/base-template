@@ -16,7 +16,7 @@ youtube_code: H_dbq4P5SaI
 ---
 {% include youtube.html %}
 
-These four tips will strengthen your offer.
+<center><em>These four tips will strengthen your offer.</em></center>
 
 In this red-hot market of ours, it can be difficult to find and close on the house you want. Here are a few things you can do to your purchase agreement to strengthen your offer and come out on top in a multiple-offer situation:
 
