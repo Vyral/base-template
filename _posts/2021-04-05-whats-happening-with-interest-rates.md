@@ -21,7 +21,7 @@ youtube_code: NqS1npI83vI
 
 What’s happening with interest rates? That seems to be the hot topic of conversation everywhere I go these days. **Rates did increase recently**; they’re no longer in the low twos, but they’re still in the high twos and low threes, which are still excellent rates\! If you’ve been on the fence about refinancing or buying a home, now is the time to do so.&nbsp;
 
-Rates will only rise from here, but you haven’t missed the boat yet. If you have debt, it may help to pay some of it off first. If you have an interest rate in the 4% range, you can still refinance to a lower rate. If you bought a house or refinanced with the VA loan and your rate is 3.8% or higher, do something about it. And if you already received an interest rate from another lender, reach out to us so we can help you compare that to other options.
+Rates will only rise from here, but you haven’t missed the boat yet. If you have debt, it may help to pay some of it off first. If you have an interest rate in the 4% range, you can still refinance to a lower rate. If you bought a house or refinanced with a VA loan and your rate is 3.8% or higher, do something about it. If you already received an interest rate from another lender, reach out to us so we can help you compare that to other options.
 
 {% include pullquote.html %}
 
