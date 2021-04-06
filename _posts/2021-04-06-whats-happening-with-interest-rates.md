@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What’s Happening With Interest Rates?
-date: 2021-04-05 09:00:00
+date: 2021-04-06 09:00:00
 tags:
   - Interest Rates
 excerpt: Here’s what’s happening with interest rates and why you should act soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/What%E2%80%99s+Happening+With+Interest+Rates_.mp4
 pullquote: >-
   If you’ve been on the fence about refinancing or buying a home, now is the
   time to do so.
