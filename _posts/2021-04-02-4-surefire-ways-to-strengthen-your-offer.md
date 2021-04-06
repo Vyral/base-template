@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Surefire Ways to Strengthen Your Offer
-date: 2021-04-02 20:32:08
+date: 2021-04-02 20:32:00
 tags:
 excerpt: These four tips will strengthen your offer.
 enclosure:
@@ -18,11 +18,13 @@ youtube_code: H_dbq4P5SaI
 
 <center><em>These four tips will strengthen your offer.</em></center>
 
+<center>&nbsp;</center>
+
 In this red-hot market of ours, it can be difficult to find and close on the house you want. Here are a few things you can do to your purchase agreement to strengthen your offer and come out on top in a multiple-offer situation:
 
 **1\. Add an escalation clause.** With this addition, you offer the seller x amount of dollars over the next highest offer. For example, if the home in question is listed for $400,000 and you knew there would be 20+ offers for it, you might offer the seller $420,000 and add an escalation clause stating that you’re willing to pay $5,000 over the next highest offer up to $450,000. Be sure to add a ceiling to what you’re willing to pay. Some sellers like this clause, while others prefer that you put your best foot forward.&nbsp;
 
-**2\. Waive the inspection contingency.** Let’s say the seller has a dozen offers to review and three of them waive the inspection contingency. If any one of those three offers are anywhere near the highest price, that’s the buyer the seller will choose to work with. This term is gold, and it will move your offer to the top of the pile. It does come with some inherent risk, though, so beware before trying this tip.&nbsp;
+**2\. Waive the inspection contingency.** Let’s say the seller has a dozen offers to review and three of them waive the inspection contingency. If any one of those three offers is anywhere near the highest price, that’s the buyer the seller will choose to work with. This term is gold, and it will move your offer to the top of the pile. It does come with some inherent risk, though, so beware before trying this tip.&nbsp;
 
 {% include pullquote.html %}
 
