@@ -21,10 +21,10 @@ client:
   brand: The Larkin Group
   brokerage: KW Realty
   address: '50 East 100 South #300<br>St. George, UT 84770'
-  phone: 435-215-4533
-  phone_type: Office
-  phone2: 435-862-8467
-  phone2_type: Direct
+  phone: 435-375-3462
+  phone_type: 
+  phone2: 
+  phone2_type: 
   email: sales@GoStGeorge.Com
   url: http://www.GoStGeorge.com
 
