@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top Tips for Getting Your Home Ready for Sale
-date: 2021-04-06 18:25:23
+date: 2021-04-06 18:25:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -27,7 +27,7 @@ If you’re getting ready to sell in this hot market, there are three things you
 
 **2\. Declutter and clear.** Get rid of all your personal items around the house and put them in storage. You’re moving anyway, so this will help you get a jump on that.
 
-**3\. Don’t wait for paint.** I really recommend painting your home in a neutral color. Alabaster white from Sherwin Williams is a great tone that will appeal to a wide range of homebuyers. A fresh coat of paint in the home isn’t super expensive, but it can have a huge impact on buyers’ perception of your property.
+**3\. Don’t wait for paint.** I recommend painting your home in a neutral color. Alabaster white from Sherwin Williams is a great tone that will appeal to a wide range of homebuyers. A fresh coat of paint in the home isn’t super expensive, but it can have a huge impact on buyers’ perception of your property.
 
 If you have any questions for me about selling your home or the real estate market in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
