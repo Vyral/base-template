@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Why Life Is Better on the Misty SOLDwisch Team
-date: 2021-03-31 09:00:00
+date: 2021-04-07 08:00:00
 tags:
   - Real Estate
 excerpt: Here’s the story of how Emily Burton become our Director of Sales.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Why+Life+Is+Better+on+the+Misty+SOLDwisch+Team.mp4
 pullquote: ‘I can’t imagine doing this amount of business on my own.’
 enclosure_type: video/mp4
 enclosure_time:
