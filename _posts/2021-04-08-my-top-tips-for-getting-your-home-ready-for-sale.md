@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top Tips for Getting Your Home Ready for Sale
-date: 2021-04-06 18:25:00
+date: 2021-04-08 06:25:00
 tags:
   - Real Estate
   - Home Seller Tips
