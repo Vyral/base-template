@@ -6,7 +6,8 @@ tags:
   - Mortgage Rates
   - Mortgage Minute
 excerpt: Here’s why you should work with a mortgage broker instead of a big bank.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/Videos+2021/Abel+Tejada+Difference+between+getting+a+loan+through+a+mortgage+broker+vs+a+direct+lender.mp4
 pullquote: >-
   The big banks give us better rates and terms, and we pass those savings to
   you.
