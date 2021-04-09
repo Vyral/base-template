@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need Appraisal Gap Coverage?
-date: 2021-04-08 17:01:04
+date: 2021-04-08 17:01:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how appraisal gap coverage can be a vital tool for homebuyers.
@@ -20,7 +20,7 @@ youtube_code: BP0Bjh_NWYI
 
 I took a look at our MLS recently, and we had just 485 single-family homes and 220 condos available for purchase. In this competitive market, a lot of times there are multiple-offer situations where you’re competing against multiple buyers.&nbsp;
 
-Appraisal gap coverage is important in this kind of market. Let’s say a property is listed for $100,000 and you make an offer of $115,000. According to the standard contract, there is a clause that the property has to appraise for the contract price. **In appraisal gap coverage, you agree to pay above and beyond the appraisal price if the home doesn’t appraise.**
+Appraisal gap coverage is important in this kind of market. Let’s say a property is listed for $100,000 and you make an offer of $115,000. A clause in the standard contract states that the property has to appraise for the contract price. **In appraisal gap coverage, you agree to pay above and beyond the appraisal price if the home doesn’t appraise.**
 
 {% include pullquote.html %}
 
