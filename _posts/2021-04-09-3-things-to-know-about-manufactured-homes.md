@@ -5,7 +5,8 @@ date: 2021-04-09 13:11:00
 tags:
   - Real Estate
 excerpt: Here’s what you should know about manufactured homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Things+to+Know+About+Manufactured+Homes.mp4
 pullquote: All mortgage companies require the affidavit of affixture.
 enclosure_type: video/mp4
 enclosure_time:
