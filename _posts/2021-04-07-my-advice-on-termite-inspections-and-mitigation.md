@@ -20,10 +20,8 @@ youtube_code: 6x9Jwk2y_f8
 
 <center>&nbsp;</center>
 
-Termites are the most formidable adversary we have here in Hawaii. There are two types: ground termites and air termites. **When a house is tented for air termites, it’s usually a 24-to-30 hour process and you will typically get a five-year warranty.** Ground termite treatments are almost as expensive and involve setting bait around the house.
+Termites are the most formidable adversary property owners have here in Hawaii. If you find evidence of termites in your house, get a termite inspection right away. You have active termites, we’re going to have to tent the house, which will involve you having to leave the property, unfortunately.&nbsp;
 
-If you find evidence of termites in your house, we’ll need to get a termite inspection right away. If it’s determined you have active termites, we’re going to have to tent the house.&nbsp;
+There are two types of termites to be aware of: ground termites and air termites.&nbsp;**When a house is tented for air termites, it’s usually a 24-to-30 hour process and you will typically get a five-year warranty.**&nbsp;Ground termite treatments are almost as expensive and treating the property involves setting bait around the house.
 
-**There are so many things that can happen once we’re running termite treatments on your property.** We have to tent the house and get the tenants out first and foremost.&nbsp;
-
-If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about termite inspections, how to spot an infestation in its early stages, or how you can protect your home from these pests in the first place, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
