@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are 2 Things to Learn Before Deciding Where to Practice?
-date: 2021-04-09 16:02:48
+date: 2021-04-09 16:02:00
 tags:
   - Real Estate Business Tips
 excerpt: Here are two things that will tell you whether a brokerage is a right fit.
