@@ -16,7 +16,8 @@ youtube_code: BsYIabW01u0
 ---
 {% include youtube.html %}
 
-Here’s why home prices keep rising in our real estate market these days.
+<center><em>Here’s why home prices keep rising in our real estate market these days.</em></center>
+&nbsp;
 
 Why do home prices continue to increase? While yes, we’re still in a global pandemic, there are a few other factors to consider when asking this question.&nbsp;
 
