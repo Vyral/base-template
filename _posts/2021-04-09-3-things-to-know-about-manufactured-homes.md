@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-manufactured-homes-yt-1.jpg
-youtube_code: ItA9aBpkZws
+youtube_code: fyhYJPD6s8o
 ---
 {% include youtube.html %}
 
