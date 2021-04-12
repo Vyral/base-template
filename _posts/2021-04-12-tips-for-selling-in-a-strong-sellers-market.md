@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Tips for Selling in a Strong Seller's Market
-date: 2021-04-12 19:43:54
+date: 2021-04-12 19:43:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Here are a few tips to help sellers find success in this strong seller’s
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/Tips+for+Selling+in+a+Strong+Seller's+Market.mp4
 pullquote: >-
   Don’t be fooled into thinking that buyers are willing to settle in this
   market—they aren’t.
