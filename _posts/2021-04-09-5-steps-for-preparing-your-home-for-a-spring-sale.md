@@ -27,7 +27,7 @@ Here are the five steps for preparing your home for sale in the spring market:
 
 **3\. Deep clean your house**. Deep clean the entire house, and pay special attention to the inside and outside of the windows. Then open the blinds and let the sun in—you’ll be impressed by how much more light your home gets when the windows are sparkling clean.
 
-**4\. Clean the carpets**. You may have noticed some stains or wear and tear around high-traffic areas, so get the carpets cleaned. Your house will not only be cleaner, it will also look and feel that way too.
+**4\. Clean the carpets**. You may have noticed some stains or wear and tear around high-traffic areas, so get the carpets cleaned. Your house will not only be cleaner, but it will also look and feel that way too.
 
 **5\. Improve your curb appeal**. Curb appeal is critical—it’s the first impression buyers get of your property. Get out the rake, hose, lawnmower, and edger. Plant flowers, lay mulch, and ensure your home looks as sharp on the outside as possible.
 
