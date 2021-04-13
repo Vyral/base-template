@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are 2 Things to Learn Before Deciding Where to Practice?
+title: What Are 2 Things to Learn Before Deciding Where to Practice Real Estate?
 date: 2021-04-09 16:02:00
 tags:
   - Real Estate Business Tips
@@ -30,4 +30,4 @@ Naturally, the two things that are most helpful to do before hanging your hat at
 
 **2\. Learn what the average net take-home pay is among the agents in the office.** We could talk about commission splits all day, but none of it matters if the agents aren’t taking home enough money to support their families. This is the thing that can cut through all of this confusion. It should be documented in writing, like it is for our team.
 
-If you want to learn from our agents about our culture and our average net take-home pay, **comment “learn more” below or private message me the same phrase.** If you have any other questions for me about the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you want to learn from our agents about our culture and our average net take-home pay, **comment “learn more” below or private message me the same phrase.** If you have any other questions for me about the real estate business, don’t hesitate to reach out via phone or email at 717.216.0860 or&nbsp;[dave@davehooketeam.com](https://davehookecoaching.com/dave@davehooketeam.com). I look forward to hearing from you soon.
