@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Housing Inventory Is Looking
-date: 2021-04-12 15:45:08
+date: 2021-04-12 15:45:00
 tags:
   - Market Update
 excerpt: Here’s what to know about inventory in our real estate market right now.
@@ -22,7 +22,7 @@ youtube_code: VYIssYVzDmA
 
 Every month we receive a statistic from our local MLS that shows us how much inventory we have. **Months of inventory means how long it would take for all homes to sell if no new homes came onto the market.** Generally, over six months of inventory is a buyer’s market, under three is a seller’s market, and in-between is a balanced real estate market. Currently, we’re in a hyper-seller’s market with extremely low inventory.&nbsp;
 
-In December, we had 0.8 months of inventory, and that’s the lowest I’ve ever seen in my 17-year career in real estate. January and February each had one month of inventory. We frequently see less inventory from December through February, but **these numbers are incredibly low.** There are several reasons for this: the pandemic, weather-related issues, sellers who aren’t listing because they don’t know if they’d find a new house to buy.
+In December, we had 0.8 months of inventory, and that’s the lowest I’ve ever seen in my 17-year career in real estate. January and February each had one month of inventory. We frequently see less inventory from December through February, but **these numbers are incredibly low.** There are several reasons for this, including the pandemic, weather-related issues, and sellers who aren’t listing because they don’t know if they’d find a new house to buy.
 
 {% include pullquote.html %}
 
