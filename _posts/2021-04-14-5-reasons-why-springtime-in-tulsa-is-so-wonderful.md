@@ -4,7 +4,7 @@ title: 5 Reasons Why Springtime in Tulsa Is So Wonderful
 date: 2021-04-14 00:00:00
 tags:
   - Real Estate
-excerpt: Here’s a list of my favorite things about the springtime in Tulsa.
+excerpt: These are a few of my favorite things about the springtime in Tulsa.
 enclosure:
 pullquote: >-
   These refreshing and sunny days have made me begin to think about all the
