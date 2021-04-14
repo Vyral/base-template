@@ -1,18 +1,18 @@
 ---
 layout: post
 title: The Latest Flathead Valley Home & Land Sale Stats
-date: 2021-04-13 18:34:40
+date: 2021-04-13 18:34:00
 tags:
   - Market Update
 excerpt: Here’s our Q1 overview of home and land sales in Flathead Valley.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/The+Latest+Flathead+Valley+Home+%26+Land+Sale+Stats.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/The+Latest+Flathead+Valley+Home+%26+Land+Sale+Stats+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Bz3mgqo_hns
+youtube_code: XqmTXGEY6fg
 ---
 {% include youtube.html %}
 
