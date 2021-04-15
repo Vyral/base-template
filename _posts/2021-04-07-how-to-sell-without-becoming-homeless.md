@@ -5,7 +5,8 @@ date: 2021-04-07 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Don’t worry, we won’t leave you homeless! We can help you sell and buy.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/How+to+Sell+Without+Becoming+Homeless.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
