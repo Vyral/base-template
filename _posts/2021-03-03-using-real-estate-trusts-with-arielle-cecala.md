@@ -9,15 +9,15 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/josh-loice-trusts-update-yt.jpg
 youtube_code: UTZuXgASxdE
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Arielle Cecala is back once again to talk about another important legal topic.</em></p>
+*Arielle Cecala is back once again to talk about another important legal topic.*
 
-This week, we’re back once again with attorney Arielle Cecala to talk more about trusts and the different ways in which you can hold real estate. 
+This week, we’re back once again with attorney Arielle Cecala to talk more about trusts and the different ways in which you can hold real estate.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to skip to topics that interest you most:**
 
