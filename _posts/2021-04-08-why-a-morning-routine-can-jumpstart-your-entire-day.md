@@ -5,7 +5,8 @@ date: 2021-04-08 00:00:00
 tags:
   - Transaction Management
 excerpt: Improving your morning routine can help you reach your goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/Why+a+Morning+Routine+Can+Jumpstart+Your+Entire+Day.mp4
 pullquote: >-
   Most of us understand the value of starting off the day the right way, but
   it’s still incredibly easy to get off track when it comes to sticking to a
