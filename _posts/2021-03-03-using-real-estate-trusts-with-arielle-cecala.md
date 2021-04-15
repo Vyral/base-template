@@ -15,7 +15,7 @@ youtube_code: UTZuXgASxdE
 ---
 {% include youtube.html %}
 
-*Arielle Cecala is back once again to talk about another important legal topic.*
+<p style="text-align: center;"><em>Arielle Cecala is back once again to talk about another important legal topic.</em></p>
 
 This week, we’re back once again with attorney Arielle Cecala to talk more about trusts and the different ways in which you can hold real estate.
 
