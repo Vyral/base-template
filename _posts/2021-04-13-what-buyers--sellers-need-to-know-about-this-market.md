@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers & Sellers Need to Know About This Market
-date: 2021-04-13 17:31:13
+date: 2021-04-13 17:31:00
 tags:
   - Real Estate
 excerpt: Here’s an overview of what it’s like to be a buyer or seller in this market.
@@ -24,7 +24,7 @@ What are we seeing when homes go live on our market?
 
 First, most listings coming onto the market are doing so under the ‘coming soon’ status. We’ve done a few videos that delved into this topic, so be sure to explore our website to learn more about what ‘coming soon’ means. Second, a lot of agents are setting timelines for offers received in the lower price points before their homes accept showings or can be classified as ‘active status.’ **The fact that sellers are confident enough to set offer deadlines before they schedule any showings points to how confident they are that they’ll receive multiple offers.**
 
-It’s like we always say when we’re out on showings: You don’t even need to look for the sign anymore—look for the cars and the people. When a home gets listed, especially if it’s under $450,000, it’ll get bombarded with prospective buyers. Maybe not all at once, but you’ll see people waiting to check it when you pull up to the curb and when you leave. Traffic is high, and buyers are very much aware of this.&nbsp;
+It’s like we always say when we’re out on showings: You don’t even need to look for the sign anymore—look for the cars and the people. When a home gets listed, especially if it’s under $450,000, it’ll get bombarded with prospective buyers. Maybe not all at once, but you’ll see people waiting to check in when you pull up to the curb and when you leave. Traffic is high, and buyers are very much aware of this.&nbsp;
 
 In a lot of ways, this has created pressure for buyers to figure out how to make their offers stand out when so many others are interested in buying the same homes as them. Thus, we’re seeing a lot of creativity in the offers we’re getting for our listings, and the highest offer doesn’t always win. Some sellers are looking at how much buyers are willing to pay for their homes and noticing that there aren’t any comparables that are even close to justifying those high sales prices.&nbsp;
 
