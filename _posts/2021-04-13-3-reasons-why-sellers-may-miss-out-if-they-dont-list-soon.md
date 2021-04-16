@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Reasons Why Sellers May Miss Out if They Don’t List Soon
-date: 2021-04-13 13:08:03
+date: 2021-04-13 13:08:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how our blazing-hot seller’s market is beginning to change.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/3+Reasons+Why+Sellers+May+Miss+Out+if+They+Don%E2%80%99t+List+Soon.mp4
 pullquote: >-
   These things will begin happening over the next few months—some are even
   happening now.
