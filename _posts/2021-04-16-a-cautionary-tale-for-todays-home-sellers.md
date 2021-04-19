@@ -30,7 +30,7 @@ It turns out that he had signed a contract without knowing it was actually a con
 
 At the same time, the “contract” was missing some components, so I took it to our attorney. She said that **although this was a really terrible contract, it was a legally binding one.** If he broke the contract, he was liable to get sued. We ended up terminating the contract with our cash buyer and told him to reach back out if anything changed.
 
-**The moral of the story is to be careful about everything you sign.** When you’re selling an asset as large as your home, caution is the key. Unless you’re a real estate professional yourself, you should be hiring one to assist you with the sale. I know the market is good right now and you may think you don’t need any advice or expertise in order to sell for top dollar, but there are always people out there looking to take advantage of you. Having an agent on your side will ensure that you’re protected. The potential legal headaches are just not worth it.
+**The moral of the story is to be careful about everything you sign.** When you’re selling an asset as large as your home, caution is the key. Unless you’re a real estate professional yourself, you should be hiring one to assist you with the sale. I know the market is good right now, and you may think you don’t need any advice or expertise in order to sell for top dollar, but there are always people out there looking to take advantage of you. Having an agent on your side will ensure that you’re protected. The potential legal headaches are just not worth it.
 
 If you have any questions for us about selling your home, buying a home, or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
 
