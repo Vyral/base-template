@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How to Make Your Offer Stand out to Sellers
-date: 2021-04-07 09:00:00
+date: 2021-04-19 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are nine tips to help you write an offer that stands out to sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/How+to+Make+Your+Offer+Stand+Out+to+Sellers.mp4
 pullquote: Choose a lender that’s committed enough to go to bat for you.
 enclosure_type: video/mp4
 enclosure_time:
