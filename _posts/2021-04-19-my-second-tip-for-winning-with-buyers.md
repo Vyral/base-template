@@ -17,7 +17,8 @@ youtube_code: gKi19AWly98
 ---
 {% include youtube.html %}
 
-Today we're going to talk about my second tip for winning with buyers. You should have your lender reach out and talk to the listing agent.
+<center><em>Today we're going to talk about my second tip for winning with buyers. You should have your lender reach out and talk to the listing agent.</em></center>
+&nbsp;
 
 Last week I introduced my first tip for winning with buyers, which was about communicating with the listing agent. Hopefully, you guys have done that and you've written offers over the past week or two. Today we're going to talk about **having your lender reach out and talk to the listing agent.**&nbsp;
 
