@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Cautionary Tale for Today’s Home Sellers
-date: 2021-04-16 09:00:00
+date: 2021-04-19 09:00:00
 tags:
   - Home Seller Tips
   - Market Update
 excerpt: 'Even in a strong market, it pays to have a professional on your side.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/A+Cautionary+Tale+for+Today%E2%80%99s+Home+Sellers.mp4
 pullquote: This story shows why it’s so important to work with a professional agent.
 enclosure_type: video/mp4
 enclosure_time:
