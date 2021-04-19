@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Cautionary Tale for Today’s Home Sellers
-date: 2021-04-19 09:00:00
+date: 2021-04-13 09:00:00
 tags:
   - Home Seller Tips
   - Market Update
