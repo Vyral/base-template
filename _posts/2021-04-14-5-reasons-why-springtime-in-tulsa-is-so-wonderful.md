@@ -5,7 +5,8 @@ date: 2021-04-14 00:00:00
 tags:
   - Real Estate
 excerpt: These are a few of my favorite things about the springtime in Tulsa.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/5+Reasons+Why+Springtime+in+Tulsa+Is+So+Wonderful.mp4
 pullquote: >-
   These refreshing and sunny days have made me begin to think about all the
   things I love about this season.
