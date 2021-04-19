@@ -5,7 +5,8 @@ date: 2021-04-13 17:31:00
 tags:
   - Real Estate
 excerpt: Here’s an overview of what it’s like to be a buyer or seller in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/What+Buyers+%26+Sellers+Need+to+Know+About+This+Market.mp4
 pullquote: >-
   Most things happen for a reason, so if you don’t get the house you wanted, the
   perfect one may still be out there waiting for you.
