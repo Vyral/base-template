@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Your Real Estate Market Update for the Louisville/Southern Indiana Area
-date: 2021-04-19 09:00:00
+date: 2021-04-20 09:00:00
 tags:
   - Real Estate
   - Market Update
 excerpt: Here are two stories that illustrate what’s going on in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Your+Real+Estate+Market+Update+for+the+Louisville_Southern+Indiana+Area.mp4
 pullquote: 'Jamaica’s climate is a great way to sum up our market: It’s hot.'
 enclosure_type: video/mp4
 enclosure_time:
