@@ -17,7 +17,8 @@ youtube_code: gKi19AWly98
 ---
 {% include youtube.html %}
 
-<center><em>Today we're going to talk about my second tip for winning with buyers. You should have your lender reach out and talk to the listing agent.</em></center>
+<center><em>Here's my second tip for winning with buyers in a hot market.</em></center>
+
 &nbsp;
 
 Last week I introduced my first tip for winning with buyers, which was about communicating with the listing agent. Hopefully, you guys have done that and you've written offers over the past week or two. Today we're going to talk about **having your lender reach out and talk to the listing agent.**&nbsp;
@@ -26,7 +27,7 @@ Many times I get offers sent to me via email, and then I’m the one who has to 
 
 {% include pullquote.html %}
 
-**You can combat this by simply having your lender reach out directly to the listing agent.** My lender, Mandy, over in *(can’t understand the co. name)* Lending, she will do that. I just have to present the offer we placed and she knows. She will call and let them know everything and anything about that buyer's creditworthiness within the scope that she can. That will help you win offers.
+**You can combat this by simply having your lender reach out directly to the listing agent.** My lender Mandi Henriod over at Intercap Lending will do exactly that. I just have to present the offer we placed, and she knows to call the listing agent. She will call and let them know everything and anything about that buyer's creditworthiness&nbsp; that she can. That will help you win offers.
 
 If you're not doing that, I would suggest you create that relationship with your lender today. Make sure they're willing to do that and have them reach out to the listing agent. You're going to find yourself winning offers after putting this tip into practice.&nbsp;
 
