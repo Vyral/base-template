@@ -5,7 +5,8 @@ date: 2021-04-09 00:00:00
 tags:
   - Home Seller Tips
 excerpt: We’re sharing our five top tips for preparing your home for a spring sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/5+Steps+for+Preparing+Your+Home+for+a+Spring+Sale.mp4
 pullquote: Curb appeal is critical—it’s the first impression buyers get of your property.
 enclosure_type: video/mp4
 enclosure_time:
