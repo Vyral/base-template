@@ -1,10 +1,13 @@
 ---
 layout: post
 title: How Home Sales Proceed During a Natural Disaster
-date: 2021-03-10 09:00:00
+date: 2021-04-21 09:00:00
 tags:
+  - Home Seller Tips
+  - Real Estate
 excerpt: Here’s what happens when a natural disaster affects a for-sale home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+happens+when+there+is+a+NATURAL+DISASTER+when+your+home+is+for+sale.mp4
 pullquote: Nobody is obligated to move forward with the sale.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +18,7 @@ youtube_code: Usn62rvJhHU
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what happens when a natural disaster affects a for-sale home.</em></p>
+*Here’s what happens when a natural disaster affects a for-sale home.*
 
 Welcome back to the Central Iowa Real Estate Scoreboard. This time, we’re with *[Rob Keller of Country Financial](http://countryfinancial.com/rob.keller){: target="_blank" rel="noopener"}* and answering the question, **“What happens when there is a natural disaster when a home is for sale?”**
 
