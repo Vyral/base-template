@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Hiring a Realtor Is the Only Option in This Market
-date: 2021-04-20 15:23:30
+date: 2021-04-20 15:23:00
 tags:
   - Home Buyer Tips
 excerpt: Hiring a Realtor means having an expert advisor by your side.
 enclosure:
 pullquote: >-
-  I’d love for you to call, text, or email me and let me know of any real estate
-  questions you have.
+  I’d love for you to call, text, or email me, and let me know of any real
+  estate questions you have.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
