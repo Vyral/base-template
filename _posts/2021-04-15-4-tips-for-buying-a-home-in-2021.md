@@ -5,7 +5,8 @@ date: 2021-04-15 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are the steps you need to take to have success as a homebuyer in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/4+Tips+for+Buying+a+Home+in+2021.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
