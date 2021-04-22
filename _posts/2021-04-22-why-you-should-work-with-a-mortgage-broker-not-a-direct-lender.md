@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Why You Should Work With a Mortgage Broker, Not a Direct Lender'
-date: 2021-04-09 00:00:00
+date: 2021-04-22 09:00:00
 tags:
   - Mortgage Rates
   - Mortgage Minute
 excerpt: Here’s why you should work with a mortgage broker instead of a big bank.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/Videos+2021/Abel+Tejada+Difference+between+getting+a+loan+through+a+mortgage+broker+vs+a+direct+lender.mp4
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/Why+You+Should+Work+With+a+Mortgage+Broker%2C+Not+a+Direct+Lender.mp4
 pullquote: >-
   The big banks give us better rates and terms, and we pass those savings to
   you.
