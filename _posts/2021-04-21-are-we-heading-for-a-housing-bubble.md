@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We Heading for a Housing Bubble?
-date: 2021-04-21 15:28:30
+date: 2021-04-21 15:28:00
 tags:
   - Market Update
 excerpt: Here are five main factors that indicate why we aren’t in a housing bubble.
@@ -22,7 +22,7 @@ youtube_code: KBH2XNF7AJM
 
 The main question I get asked many times daily is: Are we in a housing bubble? I can’t predict the future (and if I could, I’d be in a different line of work), but there are plenty of factors that indicate the real estate market isn’t going to crash. Here are the five main factors in our market that reveal a crash isn’t imminent:&nbsp;
 
-**1\. Inventory.** Inventory is very tight; this is the best seller’s market in U.S. history. Specifically here in the North Valley, we have less than a half-month of supply. Currently, in ZIP code 91326, we only have 18 homes for sale out of 13,000+ single-family units. In 2007 and 2008 there were around three months of supply on the market.
+**1\. Inventory.** Inventory is very tight; this is the best seller’s market in U.S. history. Specifically here in the North Valley, we have less than a half-month of supply. Currently, in ZIP code 91326, we only have 18 homes for sale out of 13,000+ single-family units. In 2007 and 2008 there were around five months of supply on the market.
 
 **2\. Pent-up buyer demand.** This is one of the reasons inventory won’t be significantly changing for a while. We had quite a bit of buyer demand even before the pandemic, so with the number of millennials looking to buy and COVID-19 causing people to reevaluate what’s essential to them in a home, we’re seeing an increase in demand.
 
