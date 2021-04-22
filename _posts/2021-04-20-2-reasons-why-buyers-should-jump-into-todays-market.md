@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/04-21-canale-youtube.jpg
 youtube_code: MF0FwUyhv3A
 ---
 {% include youtube.html %}
@@ -23,6 +23,6 @@ If you’ve been following real estate lately, you already know the story. **Sel
 
 **2\. Buying is more affordable than renting.** For one thing, low interest rates translate into lower monthly payments. However, the big draw is that buying a home means you’re essentially investing in your future with each month’s bill. Rent goes into somebody else’s pocket, but the majority of your mortgage payment goes into building your equity and net worth.
 
-If you’re thinking about buying a home in the near future, or if you have any questions about our real estate market, feel free to reach out to me. I’d be happy to fill you in on the important information you should know before you start your search. Until then, I look forward to helping you soon.<br>&nbsp;
+If you’re thinking about buying a home in the near future, or if you have any questions about our real estate market, feel free to reach out to me. I’d be happy to fill you in on the important information you should know before you start your search. I look forward to helping you soon.<br>&nbsp;
 
 &nbsp;
