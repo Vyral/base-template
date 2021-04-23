@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/04-06-cedillo-youtube.jpg
-youtube_code: XIVvo8_s24U
+youtube_code: iJn46OMy8cU
 ---
 {% include youtube.html %}
 
