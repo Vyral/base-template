@@ -6,8 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  ‘Your friend’ might have told you about these real estate rumors. Don’t
-  believe them.
+  Don’t believe these real estate rumors ‘your friend’ might have told you
+  about.
 enclosure:
 pullquote: It’s illegal to kick tenants out of your property so you can sell it.
 enclosure_type: video/mp4
