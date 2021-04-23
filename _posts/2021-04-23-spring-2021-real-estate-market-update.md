@@ -17,7 +17,7 @@ youtube_code: 3M1-1Pt5x-k
 ---
 {% include youtube.html %}
 
-*Here’s the latest news on the spring real estate market in our area.*
+{% include excerpt.html %}
 
 The spring real estate market is back with a vengeance. After a full year of dealing with COVID-19 here in the U.S., a vaccine surge is on the horizon and the economic outlook is positive. March, a historically active month for the market, is once again poised for strong performance.&nbsp;
 
