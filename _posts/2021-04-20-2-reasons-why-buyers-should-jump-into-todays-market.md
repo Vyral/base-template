@@ -5,7 +5,8 @@ date: 2021-04-20 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: It’s still a fantastic time to jump into the real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/2+Reasons+Why+Buyers+Should+Jump+Into+Today%E2%80%99s+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
