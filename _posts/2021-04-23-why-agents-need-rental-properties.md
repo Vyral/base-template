@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Agents Need Rental Properties
-date: 2021-04-23 17:27:10
+date: 2021-04-23 17:27:00
 tags:
   - Real Estate
 excerpt: Here’s why cash flow doesn’t matter that much for rental properties.
@@ -30,3 +30,5 @@ For example, I’m a real estate professional, so every loss I experience from m
 Ultimately, it doesn’t matter if you’re breaking even at the end of the month; at the end of the year, **you may save $10,000 on taxes.**
 
 If you have any questions about cash flow or investing in real estate, please give me a call or send an email. I’d be glad to help.
+
+**[Watch the full podcast episode here\!](https://www.youtube.com/watch?v=1gdMk9Ux8GA&amp;feature=youtu.be){: target="_blank" rel="noopener"}**
