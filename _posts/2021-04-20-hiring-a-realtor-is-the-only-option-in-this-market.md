@@ -5,7 +5,8 @@ date: 2021-04-20 15:23:00
 tags:
   - Home Buyer Tips
 excerpt: Hiring a Realtor means having an expert advisor by your side.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+realtor+in+todays+market.mp4
 pullquote: >-
   I’d love for you to call, text, or email me, and let me know of any real
   estate questions you have.
@@ -13,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: WVTeIgFrGEQ
 ---
 {% include youtube.html %}
 
