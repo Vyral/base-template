@@ -17,7 +17,8 @@ youtube_code: FyCYeO9Ii70
 ---
 {% include youtube.html %}
 
-Today I explain my third tip and trick to win as a buyer in today’s market.
+<center><em>Today I explain my third tip and trick to win as a buyer in today’s market.</em></center>
+&nbsp;
 
 I’m back with another tip to help buyers win. Today we're going to be talking about the pre-approval letter itself. There are many different types from many different organizations out there but I’ve got to ask, **do you have the golden ticket?** You’re probably asking, what is the golden ticket?&nbsp;
 
