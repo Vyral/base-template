@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Today I explain my third tip and trick to win as a buyer in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/Tip+Three+For+Buyers+To+Get+Ahead+In+This+Market.mp4
 pullquote: 'It is, in essence, a cash offer in the seller''s eyes.'
 enclosure_type:
 enclosure_time: '10:39 am'
@@ -17,7 +18,8 @@ youtube_code: FyCYeO9Ii70
 ---
 {% include youtube.html %}
 
-<center><em>Today I explain my third tip and trick to win as a buyer in today’s market.</em></center>
+<center><em>Today I explain my third tip and trick to win as a buyer in today&rsquo;s market.</em></center>
+
 &nbsp;
 
 I’m back with another tip to help buyers win. Today we're going to be talking about the pre-approval letter itself. There are many different types from many different organizations out there but I’ve got to ask, **do you have the golden ticket?** You’re probably asking, what is the golden ticket?&nbsp;
