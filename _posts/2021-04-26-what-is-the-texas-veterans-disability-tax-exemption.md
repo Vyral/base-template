@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Is the Texas Veterans Disability Tax Exemption?
-date: 2021-03-12 09:00:00
+date: 2021-04-26 09:00:00
 tags:
   - Real Estate
 excerpt: Veterans with a VA rating of 100% no longer have to pay property taxes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/What+Is+the+Texas+Veterans+Disability+Tax+Exemption_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +16,6 @@ youtube_code: QnervS6nOIM
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Veterans with a VA rating of 100% no longer have to pay property taxes.</em></p>
+*Veterans with a VA rating of 100% no longer have to pay property taxes.*
 
 Here in Central Texas, if the VA has given you a rating of 100%, you no longer have to pay property taxes. What does that mean? Anywhere from $3,000 to $8,000 per year has been lifted from your mortgage payment; you are now just paying the principal and insurance on your loan. To learn more, watch this short video.
