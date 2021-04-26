@@ -27,4 +27,6 @@ Why are real estate prices rising so rapidly? Many factors contribute to this tr
 
 **3\. Building costs are rising.** Just go to Lowe's and look at the price of plywood, lumber, and concrete shingles. The cost of all building materials has gone up, and so building costs increase with them.
 
-To sum up, we have low inventory and builders need to build more, but it costs them more to put that house out than it did before. This means buyers are going to have to pay more for new construction, but again, as long as interest rates are low, you can get into that with a payment that works. If this trend continues, we're going to continue to see house prices rise. If you're in the market, reach out to us and we'll be glad to tell you what's going on in your specific area or your specific price range if you're looking to buy. If we can do anything for you, a friend, family member, or coworker, let us know.
+To sum up, we have low inventory and builders need to build more, but it costs them more to put that house out than it did before. This means buyers are going to have to pay more for new construction, but again, as long as interest rates are low, you can get into a new-build with a payment that works for you. If this trend continues, we're going to continue to see house prices rise.
+
+If you're in the market, reach out to us and we'll be glad to tell you what's going on in your specific area or your specific price range if you're looking to buy. If we can do anything for you, a friend, family member, or coworker, let us know.
