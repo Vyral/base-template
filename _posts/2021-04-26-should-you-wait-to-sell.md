@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Wait to Sell?
-date: 2021-04-26 14:31:22
+date: 2021-04-26 14:31:00
 tags:
   - Home Seller Tips
 excerpt: 'Here’s what goes through my head when someone asks, “Should I wait?”'
@@ -20,7 +20,7 @@ youtube_code: 9x3NfIsyWuA
 
 We know that the market is a bit rough out there because there are so many buyers and so few homes for sale. **The No. 1 question I’ve been hearing from people lately is “Should we wait until things settle down a little?”** If I knew the answer to that question, I’d probably be spending a lot more time in Vegas playing poker. Nobody knows what will happen in the future, but I did want to share a quick tidbit from one of my favorite morning newsletter publications, “The Morning Brew.”
 
-Here’s the quote from John Burns, who explained to the WSJ that “*Institutional investors, like pension funds, are swooping in to buy single-family homes in the U.S., driving up prices, and potentially creating another housing bubble.” *
+Here’s the quote from John Burns, who explained to the WSJ that *“Institutional investors, like pension funds, are swooping in to buy single-family homes in the U.S., driving up prices, and potentially creating another housing bubble.”*
 
 {% include pullquote.html %}
 
