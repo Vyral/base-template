@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Agents Do 40 Transactions per Year
-date: 2021-04-23 13:32:19
+date: 2021-04-23 13:32:00
 tags:
   - Real Estate
 excerpt: Here are the things that allow our agents to do 40 transactions per year.
@@ -18,7 +18,7 @@ youtube_code: FTwf3-O0pNw
 
 {% include excerpt.html %}
 
-The average number of transactions per agent per year is 6.5 according to the National Association of Realtors. That’s troubling for many reasons, but the main one is that a client’s experience should be excellent, and we need to be productive agents to advise our clients well. We’re also passionate about net take-home pay here at the Dave Hooke team, and we want to ensure we’re taking home good money to have the life we want to live with our families. Our agents are doing 40 transactions per year on average, so what three things are helping them accomplish this?
+The average number of transactions per agent per year is 6.5 according to the National Association of Realtors. That’s troubling for many reasons, but the main one is that a client’s experience should be excellent, and we need to be productive agents to advise our clients well. We’re also passionate about net take-home pay here at The Dave Hooke Team, and we want to ensure we’re taking home good money to have the life we want to live with our families. Our agents are doing 40 transactions per year on average, so what three things are helping them accomplish this?
 
 **1\. Training.** We make sure our agents are engaging in some sort of training every day so they can generate eight to 10 transactions themselves. With our new commission split model, they’re paid more for self-generated business.&nbsp;
 
