@@ -25,7 +25,7 @@ The crucial thing is to buy the right property in the right location so that it 
 
 {% include pullquote.html %}
 
-For example, I’m a real estate professional, so every loss I experience from my personal real estate activities can be written off as an expense on my regular tax returns. That only works because I’m a real estate professional, regular people aren’t allowed to do that. The IRS considers anyone who spends at least 750 hours per year working with real estate to be a real estate professional—it doesn’t matter if you have a license or not. So if you’re a real estate agent and pay a lot of taxes because you’re self-employed, you must own rental properties because they’ll offset your regular income.&nbsp;
+For example, I’m a real estate professional, so every loss I experience from my personal real estate activities can be written off as an expense on my regular tax returns. That only works because I’m a real estate professional. The IRS considers anyone who spends at least 750 hours per year working with real estate to be a real estate professional—it doesn’t matter if you have a license or not. So if you’re a real estate agent and pay a lot of taxes because you’re self-employed, you must own rental properties because they’ll offset your regular income.&nbsp;
 
 Ultimately, it doesn’t matter if you’re breaking even at the end of the month; at the end of the year, **you may save $10,000 on taxes.**
 
