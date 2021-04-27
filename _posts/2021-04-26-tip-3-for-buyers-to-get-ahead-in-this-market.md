@@ -18,11 +18,11 @@ youtube_code: FyCYeO9Ii70
 ---
 {% include youtube.html %}
 
-<center><em>Today I explain my third tip and trick to win as a buyer in today&rsquo;s market.</em></center>
+<center><em>Today I explain my third tip to win as a buyer in today&rsquo;s market.</em></center>
 
 &nbsp;
 
-I’m back with another tip to help buyers win. Today we're going to be talking about the pre-approval letter itself. There are many different types from many different organizations out there but I’ve got to ask, **do you have the golden ticket?** You’re probably asking, what is the golden ticket?&nbsp;
+I’m back with another tip to help buyers win. Today we're going to be talking about the pre-approval letter itself. There are many different types from many different organizations out there but I have to ask, **do you have the golden ticket?** You’re probably asking, what is the golden ticket?&nbsp;
 
 It is simply a pre-approval that's fully desktop underwritten. It is, in essence, a cash offer in the seller's eyes. If you're getting a pre-qualification or just a generic pre-approval, I'm going to encourage you to work with your lender and make sure they can give you a desktop underwritten pre-approval.
 
@@ -30,6 +30,6 @@ It is simply a pre-approval that's fully desktop underwritten. It is, in essence
 
 {% include pullquote.html %}
 
-**Make contact with your lender this week.** I challenged you last week to do the same thing in regards to having that lender reach out to the listing agent. One call can accomplish a couple of things today. Get that rapport with your lender intact, that way you have a better way of increasing your odds of winning with your buyer. If you have any questions, do hesitate to contact me. Next week will be tip number four. Until then, have a great day.
+**Make contact with your lender this week.** I challenged you last week to do the same thing in regards to having that lender reach out to the listing agent. One call can accomplish a couple of things today. Get that rapport with your lender intact-that way you have a better way of increasing your odds of winning with your buyer. If you have any questions, don't hesitate to contact me. Next week will be tip number four. Until then, have a great day.
 
 &nbsp;
