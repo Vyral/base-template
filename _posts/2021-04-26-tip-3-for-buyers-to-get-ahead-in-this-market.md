@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip Three For Buyers To Get Ahead In This Market
+title: Tip 3 For Buyers To Get Ahead In This Market
 tags:
   - Market Update
   - Real Estate
