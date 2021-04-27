@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All of the Reasons Our Market May Shift Soon
-date: 2021-04-13 13:08:00
+date: 2021-04-27 13:08:00
 tags:
   - Home Seller Tips
   - Real Estate
