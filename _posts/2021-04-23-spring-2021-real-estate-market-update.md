@@ -19,7 +19,7 @@ youtube_code: OHnG-W6g6ec
 
 {% include excerpt.html %}
 
-The spring real estate market is back with a vengeance. After a full year of dealing with COVID-19 here in the U.S., a vaccine surge is on the horizon and the economic outlook is positive. March, a historically active month for the market, is once again poised for strong performance.&nbsp;
+The spring real estate market is back with a vengeance. After a full year of dealing with COVID-19 here in the U.S., a vaccine surge is on the horizon and the economic outlook is positive. March, a historically active month for the market, is once again poised for strong performance.&nbsp;&nbsp;
 
 **Home prices continue to surge despite a slight dip in demand.** The recently released S&P CoreLogic Case-Shiller 20-city price index shows that home prices have been increasing at the fastest pace since 2014. It was also reported at the end of February that total mortgage application volume fell by 11.4%. That’s largely due to interest rates climbing back up into the high 2s and low 3s.&nbsp;
 
