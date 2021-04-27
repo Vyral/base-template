@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Agents Need Rental Properties
+title: Why Cash Flow Doesn't Matter for Investment Properties
 date: 2021-04-23 17:27:00
 tags:
   - Real Estate
