@@ -18,8 +18,10 @@ youtube_code: up3ZhXNT6bA
 {% include youtube.html %}
 
 <center><em>Here are the key market changes we saw in our first quarter.</em></center>
-&nbsp;
-The first quarter of 2021 is behind us, so today we’ll be talking about what happened in our real estate market from January to March and how it compared to last year.
+
+<center>&nbsp;</center>
+
+&nbsp; The first quarter of 2021 is behind us, so today we’ll be talking about what happened in our real estate market from January to March and how it compared to last year.
 
 **Interest rates are going to be affecting the market.** The rates of 30-year fixed mortgages have gone from 2.65% to 3.09%, which is a 16.6% rise. If a person buys a home, their mortgage costs will have increased by that same amount. Rates may be slightly higher in some areas as well.
 
