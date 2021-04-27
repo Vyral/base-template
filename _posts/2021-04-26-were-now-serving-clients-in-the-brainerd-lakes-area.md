@@ -14,7 +14,7 @@ youtube_code: ajaGCHobN60
 ---
 {% include youtube.html %}
 
-Our new office in the Brainerd Lakes area is officially open.
+<center><em>Our new office in the Brainerd Lakes area is officially open.</em></center>
 
 We’re excited to announce our newest office\! Part of the Minnesota dream is owning a cabin. The great thing about living in the Twin Cities is that you can easily drive to cabin country. The Brainerd Lakes area is only a few hours away.
 
