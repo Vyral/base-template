@@ -12,7 +12,7 @@ pullquote: Millennial homebuyers are continuing to pour into the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/dustin-sherlin-spring-2021-market-update-yt-1.jpg
+youtube_alternate_image: /uploads/dustin-sherlin-spring-2021-market-update-yt2.jpg
 youtube_code: 3M1-1Pt5x-k
 ---
 {% include youtube.html %}
