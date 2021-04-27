@@ -5,7 +5,7 @@ date: 2021-04-27 00:00:00
 tags:
   - Market Update
 excerpt: Here are the key market changes we saw in our first quarter.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+MarketUpdate.mp4'
 pullquote: >-
   We saw high demand from buyers in our listings, which allowed sellers to reach
   prices they never thought they could get before.
