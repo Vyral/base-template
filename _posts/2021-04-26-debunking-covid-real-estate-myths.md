@@ -31,7 +31,7 @@ That’s just not the case; it’s a great time to sell. Week after week this ye
 
 **Myth No. 2: Home prices are dropping.**
 
-Actually, home prices are on the rise. I love the central Iowa real estate market because we don't have the dramatic highs and lows like other parts of the nation. At the same time, homeowners are gaining equity quickly here, especially those with homes in the median price point between $180,000 and $300,000. Even if you only purchased your home in the last three or four years, you might be surprised to learn what your home’s value is in today’s market.
+In truth, home prices are on the rise. I love the central Iowa real estate market because we don't have the dramatic highs and lows like other parts of the nation. At the same time, homeowners are gaining equity quickly here, especially those with homes in the median price point between $180,000 and $300,000. Even if you only purchased your home in the last three or four years, you might be surprised to learn what your home’s value is in today’s market.
 
 **Myth No. 3: Everyone is rushing to the suburbs.**
 
