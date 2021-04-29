@@ -27,3 +27,13 @@ More and more, we’re seeing our clients want to purchase or sell a Central-Min
 Think of the lifelong memories you’ll make with your family and friends at your new lakefront cabin. Better yet, purchase your dream cabin and then consider renting it out as a short-term rental. I know many people who can pay all their cabin expenses by renting out their cabin for six to eight weeks per year.
 
 If you’d like to search for all the available cabins in the Brainerd Lakes area, go to [johnschustergroup.com](johnschustergroup.com){: target="_blank" rel="noopener"} and click on the connect button in the upper right-hand corner. You can also give us a call at (952) 222-9000. Have a great day.
+
+&nbsp;
+
+**Coldwell Banker Realty - John Schuster Group**
+
+**Brainerd Lakes Area Office - Cross Lake**
+
+**34076 Co Rd 3, Crosslake, MN 56442**
+
+**952-222-9000**
