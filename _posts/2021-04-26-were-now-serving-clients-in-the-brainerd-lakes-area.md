@@ -30,10 +30,10 @@ If you’d like to search for all the available cabins in the Brainerd Lakes are
 
 &nbsp;
 
-<center>Coldwell Banker Realty - John Schuster Group**
+<center>Coldwell Banker Realty - John Schuster Group</center>
 
-Brainerd Lakes Area Office - Cross Lake**
+<center>Brainerd Lakes Area Office - Cross Lake</center>
 
-**34076 Co Rd 3, Crosslake, MN 56442**
+<center>34076 Co Rd 3, Crosslake, MN 56442</center>
 
-**952-222-9000**</center>
+<center>952-222-9000</center>
