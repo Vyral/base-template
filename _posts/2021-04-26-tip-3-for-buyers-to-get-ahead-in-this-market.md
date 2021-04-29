@@ -14,7 +14,7 @@ enclosure_type:
 enclosure_time: '10:39 am'
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-26-21yt-1.jpg
-youtube_code: FyCYeO9Ii70
+youtube_code: cAw8JoKbjhE
 ---
 {% include youtube.html %}
 
