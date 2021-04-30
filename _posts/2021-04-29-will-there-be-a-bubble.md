@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will There Be a Bubble?
-date: 2021-04-29 18:44:37
+date: 2021-04-29 18:44:00
 tags:
   - Market Update
 excerpt: Will there be a housing bubble? Here’s why I don’t think so.
@@ -24,7 +24,7 @@ With that in mind, many people have been asking me if there’s going to be a re
 
 {% include pullquote.html %}
 
-That’s not happening in today’s market. In other markets around the country, we are seeing hedgefund buyers coming in to buy blocks of homes to rent, but in the Capital region, people are buying homes in which to live.
+That’s not happening in today’s market. In other markets around the country, we are seeing hedge fund buyers coming in to buy blocks of homes to rent, but in the Capital region, people are buying homes in which to live.
 
 **The market tends to move up very quickly, but it also moves down slowly.** We likely have another 10 to 12 months of this busy, low-inventory market. Eventually, it will start to even out as more people put their homes on the market, and then the market will stabilize some. I also think we’ll see an acceleration of people leaving New York state; New York lost another seat in the House of Representatives by 89 people in the census because people are continuing to leave the state.
 
