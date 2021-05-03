@@ -28,3 +28,7 @@ Today I’d like to talk about what homebuyers need to succeed in this hot selle
 **2\. Act immediately**. When you see a home you like, you need to make an appointment to see it right away. If your agent sends you a home you could see yourself in, reach out to them right away and set up a showing. If you do like the home after the showing, make sure you are ready to make an offer on the spot. That’s just the kind of market we’re in. If you hesitate, you might miss out entirely.
 
 If you want more expert guidance in the home-buying process, don’t hesitate to reach out via phone or email. You can learn more right now by <u><a target="_blank" rel="noopener" href="/uploads/ThingstoConsiderWhenBuyingaHome.pdf">downloading a copy of my free home-buying guide</a></u>, but I would love to hear from you as well. Until then, take care and stay safe\!
+
+---
+
+<center><a target="_blank" rel="noopener" href="/uploads/ThingstoConsiderWhenBuyingaHome.pdf"><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/55b9004070cef7d016afac8f4020fe29.jpg" data-cms-original-src="/uploads/ThingstoConsiderWhenBuyingaHome-1.jpg"></a></center>
