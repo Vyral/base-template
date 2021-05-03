@@ -17,11 +17,11 @@ youtube_code: QzgPffBic1Q
 
 {% include excerpt.html %}
 
-Today I’m at one of my favorite places in Louisville this time of year: [Starview Greenhouses.](https://www.starviewgreenhouses.net/) I’ve been here many times, and I love the amount of life in this area. I just can’t get enough.&nbsp;
+Today I’m at one of my favorite places in Louisville this time of year: *[Starview Greenhouses.](https://www.starviewgreenhouses.net/)* I’ve been here many times, and I love the amount of life in this area. I just can’t get enough.&nbsp;
 
 **Starview Greenhouses is made up of 2.5 acres undercover, an acre of trees and shrubs, and another greenhouse with nothing but house plants, succulents, and cacti.**
 
-They’re basically the same size that they’ve always been, but we’re not allowed to grow as many plants last year due to the pandemic. As a result, they’ve amped it up for 2021. I usually come here to get tomato plants, which they have in several different varieties.
+They’re basically the same size that they’ve always been but were not allowed to grow as many plants last year due to the pandemic. As a result, they’ve amped it up for 2021. I usually come here to get tomato plants, which they have in several different varieties.
 
 {% include pullquote.html %}
 
