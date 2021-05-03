@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Why Are Real Estate Prices Rising so Rapidly?
-date: 2021-04-22 09:00:00
+date: 2021-05-03 09:00:00
 tags:
   - Market Update
 excerpt: Here are three reasons why we're seeing prices rise like we are.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/Why+Are+Real+Estate+Prices+Rising+so+Rapidly_.mp4
 pullquote: 'If this trend continues, we''re going to continue to see house prices rise.'
 enclosure_type: video/mp4
 enclosure_time:
