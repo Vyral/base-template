@@ -31,4 +31,4 @@ If you want more expert guidance in the home-buying process, don’t hesitate to
 
 ---
 
-<center><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="https://d1qmdf3vop2l07.cloudfront.net/brawny-barracuda.cloudvent.net/hash-store/55b9004070cef7d016afac8f4020fe29.jpg" data-cms-original-src="/uploads/ThingstoConsiderWhenBuyingaHome-1.jpg"></center>
+<center><a target="_blank" rel="noopener" href="/uploads/ThingstoConsiderWhenBuyingaHome.pdf"><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome-1.jpg" /></a></center>
