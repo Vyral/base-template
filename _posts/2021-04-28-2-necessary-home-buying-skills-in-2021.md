@@ -31,4 +31,4 @@ If you want more expert guidance in the home-buying process, don’t hesitate to
 
 ---
 
-<center><a href="/uploads/ThingstoConsiderWhenBuyingaHome.pdf"><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome-1.jpg" /></a></center>
+<center><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome-1.jpg" /></center>
