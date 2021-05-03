@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Don’t believe these real estate rumors ‘your friend’ might have told you
   about.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Real+Estate+Rumors+%E2%80%98Your+Friend%E2%80%99+Might+Have+Told+You+About.mp4
 pullquote: It’s illegal to kick tenants out of your property so you can sell it.
 enclosure_type: video/mp4
 enclosure_time:
