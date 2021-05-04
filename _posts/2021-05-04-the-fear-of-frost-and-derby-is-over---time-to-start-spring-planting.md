@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Fear Of Frost And Derby Is Over.. Time To Start Spring Planting!
-date: 2021-04-29 00:00:00
+date: 2021-05-04 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s some planting advice from one of my favorite spring places.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/The+Fear+Of+Frost+And+Derby+Is+Over..+Time+To+Start+Spring+Planting!.mp4
 pullquote: The amount of life in the greenhouse is refreshing.
 enclosure_type: video/mp4
 enclosure_time:
