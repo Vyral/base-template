@@ -19,7 +19,7 @@ youtube_code: mPrfiO2C0Xo
 
 {% include excerpt.html %}
 
-One of the things we hear from prospective sellers most often is something like, “It’s a seller’s market, piece of cake, I’ll just throw my house on the market and see what happens.” However, **it’s in sellers’ best interest to consider what’s truly happening in the market and compose a strategy for selling.&nbsp; &nbsp;**
+One of the things we hear from prospective sellers most often is something like, “It’s a seller’s market, piece of cake, I’ll just throw my house on the market and see what happens.” **However,** **it’s in the seller's best interest to consider what’s truly happening in the market and compose a strategy for selling.&nbsp; &nbsp;**
 
 {% include pullquote.html %}
 
