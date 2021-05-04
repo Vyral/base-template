@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Anchorage Market Doing?
-date: 2021-05-03 15:06:31
+date: 2021-05-03 15:06:00
 tags:
   - Market Update
 excerpt: Here’s what the latest stats say about our market.
@@ -28,6 +28,6 @@ There are about 700 homes under contract in our area, which is interesting since
 
 If you’re a buyer, it might seem treacherous trying to navigate this market, but you can help your case a lot by hiring a good agent. You may need to write multiple offers before one is accepted, but don’t get too discouraged, because the market will level out eventually. **Interest rates are still low, so it’s still a great time to buy—you’ll just have to work a little harder.&nbsp;**
 
-Moving on, homes’ average sale price is $406,000. At the end of 2020, it was around $385,000. In the past 60 days, homes have spent an average of 20 days on the market, although that number is bigger than the majority average. As I said, my homes are typically under contract within 72 hours, and most homes that are in decent condition are gone that quickly too.&nbsp;
+Moving on, the average sale price is $406,000. At the end of 2020, it was around $385,000. In the past 60 days, homes have spent an average of 20 days on the market, although that number is bigger than the majority average. As I said, my homes are typically under contract within 72 hours, and most homes that are in decent condition are gone that quickly too.&nbsp;
 
 Whether you’re buying or selling in this market, now’s the time to call or email us. If you have any questions about our Anchorage real estate market, feel free to reach out to us as well. Have a great week\!
