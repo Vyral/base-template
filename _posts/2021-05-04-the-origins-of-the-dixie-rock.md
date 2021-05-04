@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Is “Dixie Rock” All About?
-date: 2021-04-12 15:30:00
+title: The Origins of The Dixie Rock
+date: 2021-05-04 15:30:00
 tags:
   - Market Update
 excerpt: Here’s an abbreviated history of how the “Dixie Rock” came to be.
