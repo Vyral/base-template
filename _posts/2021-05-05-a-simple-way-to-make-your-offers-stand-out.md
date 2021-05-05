@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s a quick tip to help you present offers in a more personal way.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/The+Stern+Team_+Presenting+Offers.mp4
 pullquote: It could be a game-changer for you.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
@@ -17,9 +18,11 @@ youtube_code: qE0G5TLhmpc
 ---
 {% include youtube.html %}
 
-<center><em>Here’s a quick tip to help you present offers in a more personal way.</em></center>
-&nbsp;
-I get asked about how to present offers all the time. Because I deal with both buyers and sellers, the most common way I see offers presented is through an email with an attached offer and no narrative.
+<center><em>Here&rsquo;s a quick tip to help you present offers in a more personal way.</em></center>
+
+<center>&nbsp;</center>
+
+&nbsp; I get asked about how to present offers all the time. Because I deal with both buyers and sellers, the most common way I see offers presented is through an email with an attached offer and no narrative.
 
 {% include pullquote.html %}
 
