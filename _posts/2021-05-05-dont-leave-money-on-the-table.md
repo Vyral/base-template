@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Leave Money on the Table
-date: 2021-05-05 17:58:24
+date: 2021-05-05 17:58:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why selling your home in just one day isn’t beneficial to sellers.
@@ -28,6 +28,6 @@ First, you should know that our local board says that for-sale homes are current
 
 Sometimes it’s not always feasible to get every interested buyer into the home, but **you want to give everyone a fair chance.** You want as many opportunities as possible to get excellent offers because you’ll be able to dictate the terms due to all that competition. It’s not just about price when you have eight to 20 offers on the table; you can consider the appraisal, waiving contingencies, free rent-back, and more.&nbsp;
 
-I see many agents put a house on the market on Friday, then it’s sold by Saturday evening, but they’re not allowing everyone to see the home. So though they may get two to four offers, **they may be leaving tens of thousands of dollars on the table.** Have the property on the market for at least two to three days, and then my suggestion is to make an offer deadline on either Monday or Tuesday, then take a few days to go through the counteroffer process.
+I see many agents put a house on the market on Friday, then it’s sold by Saturday evening, but they’re not allowing everyone to see the home. So though they may get two to four offers, **they may be leaving tens of thousands of dollars on the table.** Have the property on the market for at least two to three days; then, set the offer deadline on either Monday or Tuesday and be sure to dedicate a few days to the counteroffer process.
 
 If you have any questions about selling or our current real estate market, give us a call or send an email. We would love to help you.
