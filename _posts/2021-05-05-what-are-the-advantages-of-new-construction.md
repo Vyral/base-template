@@ -1,12 +1,13 @@
 ---
 layout: post
 title: What Are the Advantages of New Construction?
-date: 2021-03-17 09:00:00
+date: 2021-05-05 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: There are several advantages to buying a new construction home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Advantages+of+New+Construction_.mp4
 pullquote: >-
   People are often surprised that, even in a more expensive home, their utility
   costs are much lower.
@@ -18,7 +19,7 @@ youtube_code: J2UUnuuHsHw
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are several advantages to buying a new construction home.</em></p>
+{% include excerpt.html %}
 
 What are the advantages of new construction?
 
