@@ -17,8 +17,8 @@ youtube_code: qE0G5TLhmpc
 ---
 {% include youtube.html %}
 
-Here’s a quick tip to help you present offers in a more personal way.
-
+<center><em>Here’s a quick tip to help you present offers in a more personal way.</em></center>
+&nbsp;
 I get asked about how to present offers all the time. Because I deal with both buyers and sellers, the most common way I see offers presented is through an email with an attached offer and no narrative.
 
 {% include pullquote.html %}
