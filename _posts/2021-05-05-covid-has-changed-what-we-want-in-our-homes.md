@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID Has Changed What We Want in Our Homes
-date: 2021-05-05 09:00:00
+date: 2021-05-05 11:00:00
 tags:
   - Real Estate
 excerpt: Here’s how the pandemic has changed what we want in our homes.
