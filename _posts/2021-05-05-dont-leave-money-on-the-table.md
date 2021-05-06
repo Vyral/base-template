@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here’s why selling your home in just one day isn’t beneficial to sellers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2021/Don%E2%80%99t+Leave+Money+on+the+Table.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2021/Don%E2%80%99t+Leave+Money+on+the+Table+(1).mp4
 pullquote: Our team is averaging 60 showing requests per listing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3fq1UgYcdrs
+youtube_code: uAQjkvAOvWk
 ---
 {% include youtube.html %}
 
