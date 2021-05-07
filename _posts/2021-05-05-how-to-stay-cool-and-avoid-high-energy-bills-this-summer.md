@@ -22,11 +22,9 @@ youtube_code: 3WR4PWI4OAo
 
 As South Carolina temperatures rise, so do our monthly energy bills. Here are a few tips to help you stay cool and keep those costs low.
 
-**Maximizing the efficiency of your cooling system is vital to reducing your energy bills.** Clearing out an A/C filter can save you 5% to 15% on your energy bills and keep you from needing costly repairs.
+**Maximizing the efficiency of your cooling system is vital to reducing your energy bills.** Clearing out an A/C filter can save you 5% to 15% on your energy bills and keep you from needing costly repairs. The easiest way to cut down on energy costs is to be outdoors. Cutting back on the use of lights, A/C, water hearing, and cooking will save you more money throughout the day.&nbsp;
 
 {% include pullquote.html %}
-
-The easiest way to cut down on energy costs is to be outdoors. Cutting back on the use of lights, A/C, water hearing, and cooking will save you more money throughout the day.&nbsp;
 
 Rather than turning off your electronics when not in use, consider completely unplugging them if possible. **Most electronics continue to consume energy even when they aren’t turned on.**
 
