@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 P’s of Preparing Your Home to Sell
-date: 2021-05-06 17:21:05
+date: 2021-05-06 17:21:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -10,7 +10,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2021/The+3+P%E2%80%99s+of+Preparing+Your+Home+to+Sell.mp4
 pullquote: >-
   The three P’s of home preparation will help buyers decide if they want to buy
-  your home even as they walk in the door.
+  your home even as they walk through the door.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,11 +21,11 @@ youtube_code: RrYwEpbGmEI
 
 {% include excerpt.html %}
 
-You’ve likely all heard that we’re in a hot seller’s market, but even though things tend to skew in favor of home sellers, you’re making a huge mistake if you’re not sprucing up your curb appeal before you list your home. Most buyers are first searching for homes online and then driving by them before they decide if they even want to go inside the home. I offer staging for every home I sell, which can do wonders for sellers, but if they don’t like the outside of the home, they’re definitely not going to come inside for a showing.
+You’ve likely all heard that we’re in a hot seller’s market, but even though things tend to skew in favor of home sellers, you’re making a huge mistake if you’re not sprucing up your curb appeal before you list your home. Most buyers are first searching for homes online and then driving by them before they decide if they even want to go inside the home. I offer staging for every home I sell, which can do wonders for sellers, but if they don’t like the outside of the home, they’re not going to come inside for a showing.
 
-To best prepare your home for the market, remember the three Ps:&nbsp;
+To best prepare your home for the market, remember the three P's:&nbsp;
 
-**1\. Pressure wash.** Wash the area where the buyer is likely to park all the way to the front door, and make sure it’s sparkling clean.
+**1\. Pressure wash.** Wash the area from where the buyer is likely to park all the way to the front door, and make sure it’s sparkling clean.
 
 {% include pullquote.html %}
 
