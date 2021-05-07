@@ -16,7 +16,8 @@ youtube_code: 3WR4PWI4OAo
 ---
 {% include youtube.html %}
 
-Here are some simple ways to keep your energy costs low this summer.
+<center><em>Here are some simple ways to keep your energy costs low this summer.</em></center>
+&nbsp;
 
 As South Carolina temperatures rise, so do our monthly energy bills. Here are a few tips to help you stay cool and keep those costs low.
 
