@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m sharing what buyers should know about our current market
   environment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/2+Necessary+Home-Buying+Skills+in+2021.mp4
 pullquote: 'If you hesitate, you might miss out entirely.'
 enclosure_type: video/mp4
 enclosure_time:
