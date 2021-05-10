@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 P’s of Preparing Your Home to Sell
-date: 2021-05-06 17:21:00
+date: 2021-05-10 08:21:00
 tags:
   - Real Estate
   - Home Seller Tips
