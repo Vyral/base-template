@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Cash Flow Doesn't Matter for Investment Properties
-date: 2021-04-23 17:27:00
+date: 2021-05-07 17:27:00
 tags:
   - Real Estate
 excerpt: Here’s why cash flow doesn’t matter that much for rental properties.
