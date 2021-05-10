@@ -17,8 +17,8 @@ youtube_code: J8a5oZr9Es4
 ---
 {% include youtube.html %}
 
-Here are three ways to help increase your property’s appraisal value.
-
+<center><em>Here are three ways to help increase your property’s appraisal value.</em></center>
+&nbsp;
 Many of the clients we’ve helped buy homes in the past few years are in the process of refinancing, and some are trying to get off private mortgage insurance, and they all want to know how to increase the appraisal value of their homes. There are a few things you should do that I always complete for my listings when trying to maximize their value:
 
 {% include pullquote.html %}
