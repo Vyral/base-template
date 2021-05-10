@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sellers Still Need a Strategy in This Market
-date: 2021-04-13 17:31:00
+date: 2021-05-10 00:00:00
 tags:
   - Real Estate
 excerpt: Here are the strategy points sellers need to know in a seller’s market.
