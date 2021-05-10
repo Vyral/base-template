@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Is the Better Investment?
-date: 2021-04-23 17:27:00
+date: 2021-05-07 17:27:00
 tags:
   - Real Estate
 excerpt: Here’s why investing in real estate is better than investing in Bitcoin.
