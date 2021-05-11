@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Use Your Database to Serve Community Needs
-date: 2021-05-06 15:18:59
+date: 2021-05-06 15:18:00
 tags:
 excerpt: Here’s how you can use your real estate database to serve your community.
 enclosure: >-
@@ -21,4 +21,4 @@ youtube_code: M_fJIo1E3Lw
 
 There’s a five-step process to this, and it begins with setting up a very basic nonprofit. I have a template that can show you how, complete with a screen-recorded video, if you’re interested in setting up your own. **This can provide more purpose in your business and be a blessing to your community.&nbsp;**
 
-If you want to learn more, type “nonprofit” into the comment section below or private message me the same thing and I’ll send you the screen recording with copies of all the documentation so you can set up one yourself. If you have questions about this or any other real estate matter, call me at (717) 216-0860 or email me at [dave@havehooketeam.com](mailto:dave@havehooketeam.com). I would love to speak with you.
+If you want to learn more, type “nonprofit” into the comment section below or private message me the same thing and I’ll send you the screen recording with copies of all the documentation so you can set up one yourself. If you have questions about this or any other real estate matter, call me at (717) 216-0860 or email me at&nbsp;[Dave@davehooketeam.com](mailto:Dave@davehooketeam.com?subject=undefined). I would love to speak with you.
