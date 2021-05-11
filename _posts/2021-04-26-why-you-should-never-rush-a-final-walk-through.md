@@ -5,7 +5,8 @@ date: 2021-04-26 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s a short story that shows the importance of a final walk-through.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/Why+You+Should+Never+Rush+a+Final+Walk-Through.mp4
 pullquote: >-
   Even in the messiest of situations, agreements can still be reached amicably
   and wisely.
