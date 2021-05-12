@@ -1,12 +1,13 @@
 ---
 layout: post
 title: When It’s Advantageous to Accept a Contingent Offer
-date: 2021-05-07 09:00:00
+date: 2021-05-12 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here’s when accepting a contingent offer might actually benefit you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/When+It%E2%80%99s+Advantageous+to+Accept+a+Contingent+Offer.mp4
 pullquote: >-
   This high level of motivation can lead to a simple, clean transaction with a
   buyer who just needs to find a place to live.
