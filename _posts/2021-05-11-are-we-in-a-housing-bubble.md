@@ -5,7 +5,7 @@ date: 2021-05-11 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Rick Shearer and I discuss the state of the real estate market.
+excerpt: Rick Sherer and I discuss the state of the real estate market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -36,4 +36,4 @@ A question I hear a lot these days is whether we’re in a housing bubble. I can
 
 9:49 — Wrapping up today’s topic
 
-If you have further questions about this or any other real estate matter, call or email us. We would love to help you.
+If you have further questions about this or any other real estate matter, call or email me. I would love to help you.
