@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When It’s Advantageous to Accept a Contingent Offer
-date: 2021-05-12 09:00:00
+date: 2021-05-11 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
