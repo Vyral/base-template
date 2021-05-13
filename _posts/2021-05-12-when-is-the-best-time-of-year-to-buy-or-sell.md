@@ -14,13 +14,15 @@ youtube_code: GN9hbxmkp5Q
 ---
 {% include youtube.html %}
 
-<center><em>Here’s my answer to the question of the best time to buy/sell in the TC.</em></center>
+<center><em>Here&rsquo;s my answer to the question of the best time to buy/sell in the TC.</em></center>
+
+<center>&nbsp;</center>
 
 A question we’ve been getting a lot recently is, “When is the best time to buy or sell a home?” The great thing is that homes sell all year long and every month here in the Twin Cities, but the supply and demand tend to follow a specific pattern. **Knowing when to enter the market could cost or make you thousands.** Let’s take a walk through a typical year.
 
-In January, many people start making their plans for the year. They start talking to agents and loan officers and listing activity starts. In February, usually right after the Super Bowl, the spring market starts.&nbsp;
+In January, many people start making their plans for the year. They start talking to agents and loan officers and listing activity starts. The spring market starts in February, usually right after the Super Bowl.
 
-**Spring is when you’ll see most of the new listings come to the market** and the five strongest months of buyer activity. Our spring market starts in February and runs through June. Right around the fourth of July, we see a slowdown of new listings and new buyers. This can continue into August, as families with school-aged children are gearing up for the new year, and everyone’s looking to enjoy their last bits of summer.
+**Spring is when you’ll see most of the new listings come to the market** and the five strongest months of buyer activity. Our spring market starts in February and runs through June. Right around the Fourth of July, we see a slowdown of new listings and new buyers. This can continue into August, as families with school-aged children are gearing up for the new year, and everyone’s looking to enjoy their last bits of summer.
 
 {% include pullquote.html %}
 
