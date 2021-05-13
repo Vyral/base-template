@@ -14,7 +14,7 @@ youtube_code: GN9hbxmkp5Q
 ---
 {% include youtube.html %}
 
-Here’s my answer to the question of the best time to buy/sell in the TC.
+<center><em>Here’s my answer to the question of the best time to buy/sell in the TC.</em></center>
 
 A question we’ve been getting a lot recently is, “When is the best time to buy or sell a home?” The great thing is that homes sell all year long and every month here in the Twin Cities, but the supply and demand tend to follow a specific pattern. **Knowing when to enter the market could cost or make you thousands.** Let’s take a walk through a typical year.
 
