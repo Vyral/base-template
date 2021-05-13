@@ -19,6 +19,7 @@ youtube_code: YNF2BMHpS78
 
 <center><em>Here are a few additional tips to help your homebuyer clients win.</em></center>
 
+<center>&nbsp;</center>
 
 The last few weeks, we’ve been talking about how to win for your buyers in this environment by pulling your lenders into the picture. Today we’re going to talk about two important pieces of advice you need to win in this competitive market:
 
