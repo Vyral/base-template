@@ -24,9 +24,9 @@ I'm here today with our preferred lender and my husband, Abel Tejeda, to discuss
 
 **2\. Two years of employment.**
 
-{% include pullquote.html %}
-
 **3\. A down payment.** There are down payment assistance programs, but most loans allow you to only come in with 3.5%, which is known as the first-time homebuyer program.
+
+{% include pullquote.html %}
 
 **4\. At least two trade lines open for 24 months.**
 
