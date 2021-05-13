@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here are a few additional tips to help your homebuyer clients win.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/The+Stern+Team_+Tip+5.mp4
 pullquote: A recent client of ours won without offering the most money.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
