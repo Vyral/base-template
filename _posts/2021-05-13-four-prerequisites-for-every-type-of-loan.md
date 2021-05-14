@@ -10,8 +10,8 @@ enclosure:
 pullquote: Buying a property is probably easier than you think.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/the-four-requirements-to-get-a-loan-alternate-ss-1.jpg
 youtube_code: HvKP3Mn5m90
 ---
 {% include youtube.html %}
