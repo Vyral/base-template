@@ -31,4 +31,4 @@ If you’d like to know more about the perks of great credit or have any other r
 
 ---
 
-[![What Having Great Credit Can Do for You](/uploads/the-hidden-perks-of-great-credit-pg--1.jpg "What Having Great Credit Can Do for You"){: width="2480" height="3509"}](/uploads/TheHiddenPerksofGreatCredit.pdf){: target="_blank" rel="noopener"}
+<center><a target="_blank" rel="noopener" href="/uploads/TheHiddenPerksofGreatCredit.pdf"><img alt="The Hidden Perks of Great Credit" title="The Hidden Perks of Great Credit" width="100%" height="100%" src="/uploads/the-hidden-perks-of-great-credit-pg--1.jpg" /></a></center>
