@@ -24,9 +24,9 @@ youtube_code: YNF2BMHpS78
 
 The last few weeks, we’ve been talking about how to win for your buyers in this environment by pulling your lenders into the picture. Today we’re going to talk about two important pieces of advice you need to win in this competitive market:
 
-{% include pullquote.html %}
-
 **1\. Have your buyers write a letter to the seller.** A lot of people advocate against this, but as long as you are compliant with fair housing laws, that letter is very good and super effective.
+
+{% include pullquote.html %}
 
 **2\. Have your buyers send a video.** You could do this in place of a letter or in addition to it. Have your client explain why they love the home so much and establish an emotional connection. A recent client of ours won a home because of this. They weren’t nearly the highest offer.
 
