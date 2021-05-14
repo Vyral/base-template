@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Prerequisites for Every Type of Loan
+title: 4 Prerequisites for Every Type of Loan
 date: 2021-05-13 09:00:00
 tags:
   - Home Buyer Tips
@@ -11,7 +11,7 @@ pullquote: Buying a property is probably easier than you think.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/the-four-requirements-to-get-a-loan-alternate-ss-1.jpg
+youtube_alternate_image: /uploads/the-four-requirements-to-get-a-loan-alternate-ss.jpg
 youtube_code: HvKP3Mn5m90
 ---
 {% include youtube.html %}
