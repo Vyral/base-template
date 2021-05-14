@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/josh-lioce-are-we-in-a-housing-bubble-rick-sponsor-yt.jpg
-youtube_code: UCGPb8cIqtc
+youtube_code: Spf5YXqgU-8
 ---
 {% include youtube.html %}
 
