@@ -29,4 +29,6 @@ That said, how do you obtain and maintain great credit? First, **make your payme
 
 If you’d like to know more about the perks of great credit or have any other real estate questions, don’t hesitate to reach out to me. I’d love to hear from you.
 
+---
+
 [![What Having Great Credit Can Do for You](/uploads/the-hidden-perks-of-great-credit-pg--1.jpg "What Having Great Credit Can Do for You"){: width="2480" height="3509"}](/uploads/TheHiddenPerksofGreatCredit.pdf){: target="_blank" rel="noopener"}
