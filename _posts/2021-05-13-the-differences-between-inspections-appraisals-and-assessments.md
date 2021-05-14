@@ -26,7 +26,7 @@ Real estate can be confusing for homebuyers and sellers alike, so today I’ll b
 {% include pullquote.html %}
 
 * **Appraisal:** The appraisal is a report from your lender that indicates how much they think the property is worth. They usually hire a third-party appraiser to come look at the property, and the appraiser fills out a standardized set of forms to determine its value. This lets the lender know that the home actually has value, which protects them if the borrower is unable to pay the loan.
-* **Assessment:** The assessment is done by the county, and it’s basically a mass appraisal. They assign a value to all the properties within a community. The assessment alone doesn’t affect taxes, but it’s part of the information used to determine your tax bill.
+* **Assessment:** The assessment is done by the county, and it’s essentially a mass appraisal. They assign a value to all the properties within a community. The assessment alone doesn’t affect taxes, but it’s part of the information used to determine your tax bill.
 
 Once you know the differences, these terms aren’t so difficult to understand. I hope this has cleared up a few things for you, but if you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
 
