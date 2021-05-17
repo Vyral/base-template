@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Prerequisites for Every Type of Loan
+title: 4 Prerequisites for Every Type of Loan
 date: 2021-05-13 09:00:00
 tags:
   - Home Buyer Tips
