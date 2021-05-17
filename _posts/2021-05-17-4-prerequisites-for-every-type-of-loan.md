@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 4 Prerequisites for Every Type of Loan
-date: 2021-05-13 09:00:00
+date: 2021-05-17 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Today I discuss the four requirements for every type of loan out there.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/4+Prerequisites+for+Every+Type+of+Loan.mp4
 pullquote: Buying a property is probably easier than you think.
 enclosure_type: video/mp4
 enclosure_time:
