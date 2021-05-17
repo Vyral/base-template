@@ -5,7 +5,8 @@ date: 2021-05-13 00:00:00
 tags:
   - Home Seller Tips
 excerpt: This is why discount brokers aren’t worth the savings they promise.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/Why+Discount+Brokers+Aren%E2%80%99t+Worth+It.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
