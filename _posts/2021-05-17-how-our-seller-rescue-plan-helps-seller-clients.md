@@ -4,7 +4,7 @@ title: How Our Seller Rescue Plan Helps Seller Clients
 date: 2021-05-17 00:00:00
 tags:
   - Home Seller Tips
-excerpt: This is how our Seller Rescue Plan helps our clients.
+excerpt: This is how our Seller Rescue Plan ensures you don’t end up houseless.
 enclosure:
 pullquote: >-
   These scenarios may include moving twice in order to make more money today
