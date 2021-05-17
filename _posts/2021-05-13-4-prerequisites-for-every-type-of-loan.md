@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/the-four-requirements-to-get-a-loan-alternate-ss.jpg
-youtube_code: HvKP3Mn5m90
+youtube_code: v9O7O6eBFvo
 ---
 {% include youtube.html %}
 
