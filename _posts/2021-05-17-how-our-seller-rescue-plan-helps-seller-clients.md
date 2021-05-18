@@ -32,7 +32,7 @@ We’ve created a list of three options you have as a seller, as well as some di
 
 **2\. Sell now, stay put for now**. With today’s listing demand, many buyers are willing to allow sellers to rent back the property after closing or set an extended closing date, which would allow you time to find your next home. This allows you to be a non-contingent buyer and will get you more money in the bank from the equity of your home sale to put down. That way, you’ll be a much stronger buyer in this market.
 
-**3\. Sell now, move now**. Now might be the time to relocate or bunk with your friends or family in order to capitalize on the increase in equity, or could you possibly move into a short-term rental. We’re continually compiling a list of options to help with this arrangement.
+**3\. Sell now, move now**. Now might be the time to relocate or bunk with your friends or family in order to capitalize on the increase in equity, or you could possibly move into a short-term rental. We’re continually compiling a list of options to help with this arrangement.
 
 As you can see, these scenarios may include moving twice in order to make more money today than you would have in the past. We know that moving is hard work (especially twice), so **we’ve found some available options and resources for you:**
 
