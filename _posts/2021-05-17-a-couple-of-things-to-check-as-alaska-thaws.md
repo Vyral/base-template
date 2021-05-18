@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Couple of Things to Check as Alaska Thaws
-date: 2021-05-17 14:56:59
+date: 2021-05-17 14:56:00
 tags:
   - Expert Advice
 excerpt: Here are some quick tips for Alaska homeowners as the snow melts.
@@ -22,7 +22,7 @@ youtube_code: fueEDfsTf5k
 
 If you look outside, the sun is shining and the Alaskan winter is disappearing. With that comes a few things you need to watch out for as a homeowner as the ice and snow melt.
 
-We’ve had a lot of snow this year and **we’re starting to have clients call in with problems in their crawl spaces.** Make sure to check yours. Even if you haven't had any trouble in the past, it’s worth double-checking to make sure the melting snow isn’t draining into your crawl space and basement.
+We’ve had a lot of snow this year, and **we’re starting to have clients call in with problems in their crawl spaces.** Make sure to check yours. Even if you haven't had any trouble in the past, it’s worth double-checking to make sure the melting snow isn’t draining into your crawl space and basement.
 
 {% include pullquote.html %}
 
