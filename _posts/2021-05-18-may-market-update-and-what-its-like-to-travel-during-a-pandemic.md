@@ -1,12 +1,13 @@
 ---
 layout: post
 title: May Market Update (and What It’s Like to Travel During a Pandemic)
-date: 2021-05-13 09:00:00
+date: 2021-05-18 09:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: 'Find out what’s new in our market, as well as what pandemic travel is like.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/May+Market+Update+(and+What+It%E2%80%99s+Like+to+Travel+During+a+Pandemic).mp4
 pullquote: >-
   It’s great to know that we can finally have choices again, and I’m not just
   talking about traveling.
