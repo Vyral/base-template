@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-13-canale-youtube.jpg
-youtube_code: i9t8Qjej7F0
+youtube_code: fmiY-f-xsGY
 ---
 {% include youtube.html %}
 
