@@ -5,7 +5,8 @@ date: 2021-05-11 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the truths behind these four common market misconceptions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/4+Common+Misconceptions+of+a+Strong+Seller%E2%80%99s+Market.mp4
 pullquote: Selling your home on your own is very risky in this market.
 enclosure_type: video/mp4
 enclosure_time:
