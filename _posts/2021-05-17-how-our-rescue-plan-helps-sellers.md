@@ -22,7 +22,7 @@ hidden: false
 
 You’ve heard the news (how could you miss it?): The real estate market is red-hot right now\! Home values are up around 20% over last year, which could net you $50,000 more today than last year. That means now is an amazing time to sell your home and take advantage of the historic low inventory and increasing home values.
 
-There’s just one problem—where would you go? Let’s face it; it’s a hassle to deal with making a move and figuring out all the details. That’s where the Wolek Group Seller Rescue Plan comes in.
+There’s just one problem—where would you go? Let’s face it; it’s a hassle to deal with making a move and figuring out all the details. That’s where The Wolek Group's Seller Rescue Plan comes in.
 
 {% include pullquote.html %}
 
