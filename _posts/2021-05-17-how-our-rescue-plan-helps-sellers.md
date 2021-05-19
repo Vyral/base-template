@@ -7,8 +7,8 @@ tags:
 excerpt: This is how our Seller Rescue Plan ensures you don’t end up houseless.
 enclosure:
 pullquote: >-
-  These scenarios may include moving twice in order to make more money today
-  than you would have in the past.
+  These scenarios may include moving twice to make more money today than you
+  would have in the past.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
