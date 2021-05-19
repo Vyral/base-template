@@ -20,7 +20,7 @@ youtube_code: _pM5e6uatUA
 
 “Where will I go?” is the question our sellers keep asking in this red-hot market. They’re nervous about the low inventory available and what it takes to buy right now. As an agent, I’m sure you understand their predicament all too well.
 
-It’s a hassle to deal with making a move and figuring out all the details. So how do you offset that stress and overcome those objections? That’s where the Wolek Group Seller Rescue Plan comes in.
+It’s a hassle to deal with making a move and figuring out all the details. So how do you offset that stress and overcome those objections? That’s where The Wolek Group's Seller Rescue Plan comes in.
 
 **We’ve created a list of three options for sellers:**
 
