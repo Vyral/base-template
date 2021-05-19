@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Sellers should feel confident about our spring and summer market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2021/Seller's+Guide+to+The+Spring+%26+Summer+Market.mp4
 pullquote: 'According to the mortgage bankers association, demand remains quite strong.'
 enclosure_type: video/mp4
 enclosure_time:
