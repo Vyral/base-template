@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-10-rosado-youtube.jpg
-youtube_code: LgVSPsFdjis
+youtube_code: GkylxZWUYO0
 ---
 {% include youtube.html %}
 
