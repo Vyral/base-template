@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Importance of Credit Score When Getting a Mortgage
-date: 2021-04-30 00:00:00
+date: 2021-05-19 07:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s a look at the role your credit score plays in mortgage qualification.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+Importance+of+Credit+Score+When+Getting+a+Mortgage.mp4
 pullquote: Chuck and his team focus on finding solutions for their homebuyer clients.
 enclosure_type: video/mp4
 enclosure_time:
