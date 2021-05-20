@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Buy Now?
-date: 2021-05-19 16:52:31
+date: 2021-05-19 16:52:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you''re able to buy now, you’re better off doing that instead of waiting.'
@@ -27,6 +27,6 @@ Prices in the San Fernando Valley are rising 2% to 3% per month, and the median 
 
 Here’s another common question buyers ask me: Does it make sense for me to pay top dollar for a house? To answer that question, let me give you a personal example. My family bought a home in this market not too long ago, and we paid the most in the neighborhood for it. You know what? It was a little scary. At the time, I couldn't believe we paid that amount. After a few months, though, someone else paid a higher price for another home. Using the numbers from above, if you buy a home for $850,000, someone else will be buying a home a month later for $867,000. A month after that, someone else will pay $884,000 for another home. After six months to a year, buyers will be purchasing homes for $950,000 to $1 million. After all that time, paying $850,000 for a home won’t seem so bad.&nbsp;
 
-So again, **unless outstanding circumstances are forcing you to wait, it probably makes more sense for you to buy now in this marketplace.** Yes, it’s crazy. Yes, it’s frustrating. And yes, you’ll probably have to submit offers on multiple homes before one of them gets accepted. Don’t give up, though. Right now is a great time to buy, so get out there and take advantage of these low interest rates.
+So again, **unless outstanding circumstances are forcing you to wait, it probably makes more sense for you to buy now in this marketplace.** Yes, it’s crazy. Yes, it’s frustrating. Yes, you’ll probably have to submit offers on multiple homes before one of them gets accepted. Don’t give up, though. Right now is a great time to buy, so get out there and take advantage of these low interest rates.
 
 If you’d like help finding a home or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d love to hear from you.
