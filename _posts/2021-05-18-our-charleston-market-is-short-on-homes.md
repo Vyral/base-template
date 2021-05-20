@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: 'According to the latest numbers, inventory is at rock bottom.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Our+Charleston+Market+Is+Short+on+Homes.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Our+Charleston+Market+Is+Short+on+Homes+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TV_x2kAeGYQ
+youtube_code: tbD_s17rm54
 ---
 {% include youtube.html %}
 
