@@ -5,7 +5,8 @@ date: 2021-05-14 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: This is why everyone needs to have an excellent credit score.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/What+Having+Great+Credit+Can+Do+for+You.mp4
 pullquote: >-
   You’re more likely to get approved for a mortgage if your credit score is
   strong.
