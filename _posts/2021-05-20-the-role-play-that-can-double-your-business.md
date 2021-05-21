@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role-Play That Can Double Your Business
-date: 2021-05-20 18:33:38
+date: 2021-05-20 18:33:00
 tags:
   - Lead Generation
 excerpt: Here’s the role-play that doubled my business and can double yours too.
@@ -46,4 +46,4 @@ He may or may not have someone in mind, but either way, I’ll thank him, and cl
 
 If you lead with value, come from a place of contribution, and give, love, and serve the people you know, like, and trust, they’ll automatically think of you when it comes to real estate. However, **it doesn’t hurt to tell them that you are in the brokerage business and you’re here to serve your clients.** You can lead with that because we all know that our clients expect us to work hard for them. Most honestly appreciate it when I call them and explain that I could use their help. Your clients and database will appreciate that from you too.&nbsp;
 
-If you want to learn more about the five dialogues to double your business next year, just comment below “five dialogues” or private message me the same thing, and I’ll follow up and tell you all about it. If you have any other questions or needs, call me at (717) 216-0860 or email me at [dave@davehooketeam.com](mailto:dave@davehooketeam.com). I would love to speak with you.
+If you want to learn more about the five dialogues to double your business next year, just comment "five dialogues" below or private message me the same thing, and I’ll follow up and tell you all about it. If you have any other questions or needs, call me at (717) 216-0860 or email me at [dave@davehooketeam.com](mailto:dave@davehooketeam.com). I would love to speak with you.
