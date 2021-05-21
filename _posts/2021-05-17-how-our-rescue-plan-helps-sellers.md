@@ -5,7 +5,8 @@ date: 2021-05-17 00:00:00
 tags:
   - Home Seller Tips
 excerpt: This is how our Seller Rescue Plan ensures you don’t end up houseless.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/How+Our+Rescue+Plan+Helps+Sellers.mp4
 pullquote: >-
   These scenarios may include moving twice to make more money today than you
   would have in the past.
