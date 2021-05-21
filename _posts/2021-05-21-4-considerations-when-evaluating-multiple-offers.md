@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 4 Considerations When Evaluating Multiple Offers
-date: 2021-05-19 09:00:00
+date: 2021-05-21 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the four most important aspects to consider in an offer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/4+Considerations+When+Evaluating+Multiple+Offers.mp4
 pullquote: 'If an offer is high with no contingencies, you know the buyer is serious.'
 enclosure_type: video/mp4
 enclosure_time:
