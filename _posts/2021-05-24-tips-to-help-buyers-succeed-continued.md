@@ -18,7 +18,7 @@ youtube_code: TYo_qzmE7yQ
 ---
 {% include youtube.html %}
 
-Here are two more financing tips to help your buyers win.
+<center><em>Here are two more financing tips to help your buyers win.</em></center
 
 In previous videos, I’ve shared buyer tips on how to interact with lenders, but today I’ll share two more tidbits specifically about financing with the goal of helping your homebuyers find success in this crazy market.
 
