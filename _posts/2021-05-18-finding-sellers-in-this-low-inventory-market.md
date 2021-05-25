@@ -3,7 +3,6 @@ layout: post
 title: Finding Sellers in This Low Inventory Market
 date: 2021-05-18 00:00:00
 tags:
-  - Transaction Management
   - Buyer Prospects
 excerpt: This is how our Seller Rescue Plan helps our clients.
 enclosure:
