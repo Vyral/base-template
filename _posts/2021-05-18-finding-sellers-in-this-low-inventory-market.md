@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Client’s Options for Buying & Selling Simultaneously
+title: Finding Sellers in This Low Inventory Market
 date: 2021-05-18 00:00:00
 tags:
   - Transaction Management
