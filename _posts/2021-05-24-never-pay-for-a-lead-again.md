@@ -24,7 +24,7 @@ Let's talk about leads. What is a lead? A lead is somebody who's going to buy an
 
 The bottom line is that a lead is not just a name. **A lead is somebody with whom you build a relationship and a rapport.** It’s somebody who trusts you as a consultant. That's the difference, so when you hear people saying you can buy all these leads, the real question is how many of those people can you build rapport with?
 
-I’ve spent so much money on so many different lead sources. I’ve honestly done everything so **I created this program on how to never buy a lead again.** It doesn't mean you don't do marketing. It’s about what a lead really means and how to get those people connecting with you and calling you without paying for them. I’m doing a session on it and I hope you can make it. All you have to do is register at the link below. If you can't make it to our session, go ahead and register anyway, and I will send you the recording when it's done.
+I’ve spent so much money on so many different lead sources. I’ve honestly done everything, so **I created this program on how to never buy a lead again.** It doesn't mean you don't do marketing. It’s about what a lead really means and how to get those people connecting with you and calling you without paying for them. I’m doing a session on it and I hope you can make it. All you have to do is register at the link below. If you can't make it to our session, go ahead and register anyway, and I will send you the recording when it's done.
 
 **[To register for this event, click here.](https://docs.google.com/forms/d/e/1FAIpQLScuoFPF5vZvUxuDG1QhdlCT_UbjYr0skU73SzundXSbiIeUwg/viewform){: target="_blank"}&nbsp;**Put this event on your calendar\!
 
