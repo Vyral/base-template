@@ -19,7 +19,7 @@ youtube_code: IOTgYJ2jOxQ
 
 I’ve been talking to a lot of people lately about the difference between today’s market and that of 2005 to 2008. One of the big differences is that most homeowners these days have much more home equity.
 
-**Home equity is the difference between the current value of your home and the amount of debt on it**. For example, A property that’s worth $400,000 and a $200,000 mortgage balance has $200,000 worth of equity. That represents the wealth you have as a homeowner.
+**Home equity is the difference between the current value of your home and the amount of debt on it**. For example, a property that’s worth $400,000 and has a $200,000 mortgage balance has $200,000 worth of equity. That represents the wealth you have as a homeowner.
 
 Home equity can give you a few different advantages. First, you can take a cash-out refinance, keep your current property with a relatively affordable payment, rent it out to bring you a positive cash flow, and take that money to go buy your next home.
 
