@@ -5,7 +5,8 @@ date: 2021-05-17 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Buyers and sellers: What are you waiting for?'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/There%E2%80%99s+No+Reason+to+Wait+in+this+Market.mp4
 pullquote: >-
   If you track the history of the real estate market, you’ll see that downtrends
   usually last about half as long as uptrends.
