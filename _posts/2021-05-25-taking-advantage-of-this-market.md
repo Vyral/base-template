@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Taking Advantage of This Market
-date: 2021-05-25 17:16:10
+date: 2021-05-25 17:16:00
 tags:
   - Market Update
 excerpt: Here’s what buyers and sellers should know about this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/Taking+Advantage+of+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
