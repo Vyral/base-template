@@ -16,7 +16,7 @@ youtube_code: YwSo4K7MzqM
 ---
 {% include youtube.html %}
 
-Here are the most common items we see on inspection reports.&nbsp;
+<center><em>Here are the most common items we see on inspection reports.&nbsp;</em></center>
 
 Most purchase agreements have a contingency clause for buyers to complete a full home inspection within a week of the agreement being signed by all parties. Today we’ll share the top 10 most common inspection items we see on a frequent basis.
 
