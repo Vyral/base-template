@@ -5,7 +5,8 @@ date: 2021-05-12 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Three tips to help you win in today’s competitive seller’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/How+to+Win+as+a+Buyer+in+Today's+Market.mp4
 pullquote: >-
   The most obvious way to win as a buyer in this current market is to present
   the strongest offer to the seller.
