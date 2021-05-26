@@ -27,6 +27,6 @@ They each had a problem and an end goal in mind, but they weren’t quite sure h
 
 {% include pullquote.html %}
 
-**These agents were all able to reach their goals through working with me and taking our course.** Personal and professional development is the name of the game, and we’re helping clients live longer, live better, and live happier. To learn more from these great clients about how they were able to turn their businesses around, watch the video in its entirety above.
+**These agents were all able to reach their goals through working with me and taking our course.** Personal and professional development is the name of the game, and we’re helping clients live longer, live better, and live happier. To learn more from these great clients about how they were able to turn their businesses around, watch the video above in its entirety.
 
 If you have any questions for me about how I can help your career and your life get back on track, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon
