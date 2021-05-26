@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top 10 Inspection Items to Be Aware of
-date: 2021-05-26 12:52:36
+date: 2021-05-26 12:52:00
 tags:
 excerpt: Here are the most common items we see on inspection reports.
 enclosure:
@@ -17,6 +17,8 @@ youtube_code: YwSo4K7MzqM
 {% include youtube.html %}
 
 <center><em>Here are the most common items we see on inspection reports.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 Most purchase agreements have a contingency clause for buyers to complete a full home inspection within a week of the agreement being signed by all parties. Today we’ll share the top 10 most common inspection items we see on a frequent basis.
 
