@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Some Buyers Are Competing by Waiving Contingencies
-date: 2021-05-24 22:16:39
+date: 2021-05-27 12:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'By waiving contingencies, you can make your offer more attractive.'
