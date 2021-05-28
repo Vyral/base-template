@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/how-we-find-sellers-new-homes-in-this-market-ss.jpg
+youtube_alternate_image: /uploads/how-we-find-sellers-new-homes-in-this-market-ss-1.jpg
 youtube_code: KMnD6ooIs4w
 ---
 {% include youtube.html %}
