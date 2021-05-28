@@ -23,4 +23,4 @@ The central Ohio market is hotter than ever, and it’s been a challenge for bot
 
 **One solution that we at Vision Realty offer is an arranged home sale.** We’ve created a list of buyers and sellers, and we reach out to people directly to match our buyers with sellers and vice versa. That means we can find a replacement property for you, let you preview it, and if after that, you’d like to put your current home on the market, we’ll already have an arranged sale for you.
 
-If you would like more information about arranged home sales or would like to be added to our list, don’t hesitate to reach out to us.
+If you would like more information about arranged home sales or want to be added to our list, don’t hesitate to reach out to us.
