@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-24-canale-youtube.jpg
-youtube_code: Ec2Z9Yf7KVQ
+youtube_code: et1OB6c1jyQ
 ---
 {% include youtube.html %}
 
