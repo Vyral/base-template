@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Techniques We Use To Help Sellers Find Homes
-date: 2021-05-27 17:20:50
+date: 2021-05-27 17:20:00
 tags:
   - Home Seller Tips
 excerpt: Two techniques that have helped sellers find their next home in this market.
@@ -34,4 +34,4 @@ One of the main issues hurting home sales is that there aren’t enough homes on
 
 5:49— Wrapping things up from the Aria
 
-If you need to talk about real estate, we are ready to help. Give me a call. My team is ready to list your home. You can reach me anytime on my cell phone at 502-376-5483.
+If you need to talk about real estate, we are ready to help. Give me a call; my team is ready to list your home. You can reach me anytime on my cell phone at 502-376-5483.
