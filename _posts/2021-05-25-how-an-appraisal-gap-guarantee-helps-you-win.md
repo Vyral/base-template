@@ -5,7 +5,8 @@ date: 2021-05-25 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how an appraisal gap guarantee helps you win versus other buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/How+an+Appraisal+Gap+Guarantee+Helps+You+Win.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
