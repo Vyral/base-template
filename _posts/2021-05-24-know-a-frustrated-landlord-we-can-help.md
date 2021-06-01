@@ -5,7 +5,8 @@ date: 2021-05-24 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s our advice for all the frustrated and tired landlords out there.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Know+a+Frustrated+Landlord_+We+Can+Help.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
