@@ -5,7 +5,8 @@ date: 2021-05-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Today I’ll give a closer look at home equity and how it benefits homeowners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/Home+Equity+Advantages+for+Homeowners.mp4
 pullquote: Equity represents wealth as a homeowner.
 enclosure_type: video/mp4
 enclosure_time:
