@@ -21,7 +21,7 @@ youtube_code: 83M2pxw1BQI
 
 It’s a hassle to deal with making a move and figuring out all the details. So how do you offset that stress and overcome those objections? That’s where the Wolek Group Seller Rescue Plan comes in.
 
-We’ve created a list of three options for sellers:
+**We’ve created a list of three options for sellers:**
 
 **1\. Buy first, sell later**. Finding a home is more of a challenge than selling a home in today’s market. We get our buyers set up on a home search to see what’s out there and discuss financing options. With a loan modification, if they can qualify for both properties and have a minimum down payment, they can purchase now without a contingency and sell after their purchase is secure. If there are no homes available that fit their criteria, we have a plan in place to help promote their wants and needs to uncover off-market properties.
 
