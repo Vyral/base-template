@@ -17,11 +17,11 @@ youtube_code: 83M2pxw1BQI
 
 {% include excerpt.html %}
 
-“Where will I go?” is the question our clients keep asking in this red-hot market. They’re nervous about the low inventory available and selling the house they already live in. As an agent, I’m sure you understand their predicament all too well.
+“Where will I go?” is the question we keep hearing over and over from our sellers who are curious about taking advantage of rising home prices in today’s market. They could easily get a great price for their properties, but the issue is finding another home for them to buy as a replacement. Inventory is extremely low across the nation, making that a challenge for sellers; if they sell their current home before they can find a new one, then they fear they’ll end up homeless. As an agent, I’m sure you understand their predicament all too well.
 
-It’s a hassle to deal with making a move and figuring out all the details. So how do you offset that stress and overcome those objections? That’s where The Wolek Group's Seller Rescue Plan comes in.
+It’s a hassle to deal with making a move and figuring out all the details. So how do you offset that stress and overcome those objections? That’s where the Wolek Group Seller Rescue Plan comes in.
 
-**We’ve created a list of three options for buyers:**
+We’ve created a list of three options for sellers:
 
 **1\. Buy first, sell later**. Finding a home is more of a challenge than selling a home in today’s market. We get our buyers set up on a home search to see what’s out there and discuss financing options. With a loan modification, if they can qualify for both properties and have a minimum down payment, they can purchase now without a contingency and sell after their purchase is secure. If there are no homes available that fit their criteria, we have a plan in place to help promote their wants and needs to uncover off-market properties.
 
