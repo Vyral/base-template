@@ -14,7 +14,7 @@ youtube_code: 5k8ZOKlhudc
 ---
 {% include youtube.html %}
 
-These strategies can help your buyers win in our market.
+<center><em>These strategies can help your buyers win in our market.</em></center>
 
 In my last video, I talked about a few different ways you can help buyers win in today’s market. The key strategies I discussed primarily involved contingencies, but there are a few things I didn’t cover that I’d like to add today.&nbsp;
 
