@@ -5,7 +5,8 @@ date: 2021-05-18 00:00:00
 tags:
   - Buyer Prospects
 excerpt: This is how our Seller Rescue Plan helps our clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/Finding+Sellers+in+This+Low+Inventory+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
