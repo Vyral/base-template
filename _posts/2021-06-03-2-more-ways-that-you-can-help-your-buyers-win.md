@@ -4,7 +4,8 @@ title: 2 More Ways That You Can Help Your Buyers Win
 tags:
   - Real Estate
 excerpt: These strategies can help your buyers win in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2021/The+Stern+Team_+Contingency+Deadlines+Pt+2.mp4
 pullquote: Sellers love buyers who show initiative.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
@@ -15,6 +16,8 @@ youtube_code: 5k8ZOKlhudc
 {% include youtube.html %}
 
 <center><em>These strategies can help your buyers win in our market.</em></center>
+
+<center>&nbsp;</center>
 
 In my last video, I talked about a few different ways you can help buyers win in today’s market. The key strategies I discussed primarily involved contingencies, but there are a few things I didn’t cover that I’d like to add today.&nbsp;
 
