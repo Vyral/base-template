@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Unique Home-Buying Strategy That Works in This Market
-date: 2021-06-02 12:53:07
+date: 2021-06-02 12:53:00
 tags:
   - Market Update
 excerpt: Here’s a strategy we’ve been using to help our homebuyers win.
@@ -20,7 +20,7 @@ youtube_code: Eo0U6V3eA3c
 
 Over the last 35 years, I’ve negotiated thousands of real estate deals. In the last few months, we’ve had to start using different strategies to help our homebuyers succeed in this extremely competitive home-buying market.&nbsp;
 
-**One of the most successful has been our use of private financing.** We’re using more hard-money loans to get offers accepted. We put down at least 20% to the lender, agree on terms (which can be from 9.5% interest rate). We were recently working with an investor who was having loan challenges. We were able to use hard money to get the offer accepted and refinanced to a much better rate once the offer was accepted.
+**One of the most successful has been our use of private financing.** We’re using more hard-money loans to get offers accepted. We put down at least 20% to the lender and agree on terms (which can be from 9.5% interest rate). We were recently working with an investor who was having loan challenges. We were able to use hard money to get the offer accepted and refinanced to a much better rate once the offer was accepted.
 
 {% include pullquote.html %}
 
