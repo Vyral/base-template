@@ -21,27 +21,27 @@ Our market has been crazy, so I wanted to provide a good overview of the current
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
-1:15 When will the bubble burst?
+1:15- When will the bubble burst?
 
-4:20 Shadow inventory and home in forbearance
+4:20- Shadow inventory and homes in forbearance
 
-8:15 How did the housing inventory start disappearing in August 2020?
+8:15- How did the housing inventory start disappearing in August 2020?
 
-11:45 How much did home and rental prices increase in the last year?
+11:45- How much did home and rental prices increase in the last year?
 
-14:45 Stats on luxury sales
+14:45- Stats on luxury sales
 
-16:20 Will prices keep going up?
+16:20- Will prices keep going up?
 
-17:50 Home affordability
+17:50- Home affordability
 
-18:45 Is the market shifting at the moment?
+18:45- Is the market shifting at the moment?
 
-19:30 Could anything happen right now to cause a rapid market decline?
+19:30- Could anything happen right now to cause a rapid market decline?
 
-20:40 What should we look for in the market statistics?
+20:40- What should we look for in the market statistics?
 
-21:05 How long did it take into the 2005 recession for prices to decrease?
+21:05- How long did it take into the 2005 recession for prices to decrease?
 
 23:00- Long-term homeownership advice
 
