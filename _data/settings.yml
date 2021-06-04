@@ -4,7 +4,7 @@ description: 'If you are looking to buy or sell a home, get all the information 
 show_custom_links: true
 custom_links:
   - title: Join The Team
-    url: 'http://www.viewcentralpahouses.com/join-the-team'
+    url: '/join-our-team'
 client:
   name: Dave Hooke
   license_number:
