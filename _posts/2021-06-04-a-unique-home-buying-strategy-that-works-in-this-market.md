@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Unique Home-Buying Strategy That Works in This Market
-date: 2021-06-02 12:53:00
+date: 2021-06-04 12:00:00
 tags:
   - Market Update
 excerpt: Here’s a strategy we’ve been using to help our homebuyers win.
