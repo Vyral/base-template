@@ -5,6 +5,15 @@ permalink: /tip-of-the-week/
 ---
 <div class="item-container">
   <div class="item">
+    <h3>PM Tip of the Week 06-05-2021</h3>
+    <div class="testimonial-audio">
+        <p>Listen Here:</p>
+        <audio class="jp-player-simple" src="/uploads/audio/PMTipoftheWeek06-05-2021.mp3" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
+    </div>
+  </div>
+</div>
+<div class="item-container">
+  <div class="item">
     <h3>PM Tip of the Week 5-14-2021</h3>
     <div class="testimonial-audio">
         <p>Listen Here:</p>
