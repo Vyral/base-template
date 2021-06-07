@@ -23,7 +23,7 @@ In my last video, I talked about a few different ways you can help buyers win in
 
 {% include pullquote.html %}
 
-**First, you should order a home inspection before even presenting an offer.** You can even include this in your cover letter. Then, in the event that your offer is accepted, you’re already showing the seller that you mean business because you already have an inspection lined up. Sellers love buyers who show initiative. Additionally, if your offer isn’t accepted, you usually have no obligation to the inspection company — it’s no big deal if you decide to cancel.
+**First, you should order a home inspection before even presenting an offer.** You can even include this in your cover letter. Then, in the event that your offer is accepted, you’re showing the seller that you mean business because you already have an inspection lined up. Sellers love buyers who show initiative. Additionally, if your offer isn’t accepted, you usually have no obligation to the inspection company — it’s no big deal if you decide to cancel.
 
 **Next, you could separate different contingencies.** You could get the appraisal contingency out of the way early on, especially if you feel there will be an appraisal issue down the road. We’ll sometimes put that contingency first and put the inspection contingency behind it. However, you should work with your lender to ensure they can set this up. By getting creative with your contingencies, you can help your buyer make an even more attractive offer.
 
