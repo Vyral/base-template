@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Cure Your Buyer Fatigue?
-date: 2021-06-07 15:17:10
+date: 2021-06-07 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what’s causing so much buyer fatigue in our real estate market.
