@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Low Appraisals
-date: 2021-05-24 22:34:10
+date: 2021-06-07 13:00:00
 tags:
   - Real Estate
 excerpt: Here’s what happens when an appraisal comes in below the purchase price.
