@@ -25,6 +25,6 @@ Buyers are often overlooking these overpriced homes because they have no confide
 
 {% include pullquote.html %}
 
-Finding the right agent is key to avoiding buyer fatigue. You want someone who is known in the community and how to structure a deal.&nbsp;
+Finding the right agent is key to avoiding buyer fatigue. You want someone who is known in the community and knows how to structure a deal.&nbsp;
 
-If you have any questions for us about buying a home in this market or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for us about buying a home in this market or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
