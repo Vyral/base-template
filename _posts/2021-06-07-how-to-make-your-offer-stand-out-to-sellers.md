@@ -7,7 +7,7 @@ tags:
 excerpt: Here are some ways to make your offer stand out from the rest.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2021/How+To+Make+Your+Offer+Stand+Out+to+Sellers.mp4
-pullquote: 'When we''ve submitted offers, there have always been at least seven others.'
+pullquote: When we've submitted offers, there have always been at least seven others.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,4 +26,4 @@ Just in this last month alone, every weekend we've submitted offers, and there h
 
 We've done things like limit the repair requests, bridge the gap between the appraisal and the purchase price, and put together a letter explaining and introducing our buyers and their love for the house and how they'll take care of it. **In many situations, we've won where we haven't been the highest offer in price**, but we’ve listened and put together a package that meets the seller’s needs.
 
-If you are looking to buy and want to partner with an agent or have been working with an agent and are not happy with your results, give me a call. I would love to build a relationship and become your trusted Realtor. I look forward to hearing from you. Have a great day.
+If you are looking to buy and want to partner with an agent or have been working with an agent and are not happy with your results, give me a call. I would love to build a relationship and become your trusted Realtor. I look forward to hearing from you.&nbsp;
