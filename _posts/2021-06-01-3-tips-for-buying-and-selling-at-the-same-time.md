@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Learn how to sell your current home and buy a new one simultaneously.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/3+Tips+for+Buying+and+Selling+at+the+Same+Time.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
