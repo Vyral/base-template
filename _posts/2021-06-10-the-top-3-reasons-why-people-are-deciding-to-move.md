@@ -4,7 +4,8 @@ title: The Top 3 Reasons Why People Are Deciding to Move
 date: 2021-06-10 21:30:10
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/The+Top+3+Reasons+Why+People+Are+Deciding+to+Move.mp4
 enclosure: Here’s why so many homeowners are choosing to sell their property and move.
 pullquote: >-
   Today’s market, as well as the shift to remote work, provides a great
