@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Sellers Succeed in This Market
-date: 2021-06-09 13:22:59
+date: 2021-06-10 11:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what it takes to succeed as a seller in today’s real estate market.
