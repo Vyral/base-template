@@ -1,18 +1,18 @@
 ---
 layout: post
 title: The Housing Shortage Will Continue
-date: 2021-06-07 15:39:16
+date: 2021-06-11 14:00:00
 tags:
   - Market Update
 excerpt: My answers to burning questions about the housing boom and low inventory.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/The+Housing+Shortage+Will+Continue.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/The+Housing+Shortage+Will+Continue+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _Rd_cj0c5p4
+youtube_code: foobQ4TvwkI
 ---
 {% include youtube.html %}
 
