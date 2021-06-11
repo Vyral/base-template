@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSBO doesn’t save most people money
-date: 2021-06-11 12:24:06
+date: 2021-06-11 08:00:00
 tags:
   - Home Seller Tips
 excerpt: The realities of trying to sell your property as for sale by owner.
