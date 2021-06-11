@@ -17,7 +17,10 @@ youtube_code: o_BeVHGtnxw
 ---
 {% include youtube.html %}
 
-<center><em>A lot of first-time homebuyers want to know if it’s wise for them to try and buy right now. It’s an aggressive seller’s market, and most homes are selling above list price after receiving multiple offers.</em></center>
+<center><em>Here’s my advice for potential buyers in today’s real estate market.</em></center>
+
+
+A lot of first-time homebuyers want to know if it’s wise for them to try and buy right now. It’s an aggressive seller’s market, and most homes are selling above list price after receiving multiple offers.
 
 **In the first quarter of 2021 in Orange County, we’ve seen an increase of 16.2% in home prices.** A number of our buyers have had to make up a gap between a home’s sale price and its appraised value. They’re paying this out of pocket in order to secure the home.
 
