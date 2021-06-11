@@ -17,8 +17,9 @@ youtube_code: o_BeVHGtnxw
 ---
 {% include youtube.html %}
 
-<center><em>Here’s my advice for potential buyers in today’s real estate market.</em></center>
+<center><em>Here&rsquo;s my advice for potential buyers in today&rsquo;s real estate market.</em></center>
 
+<center>&nbsp;</center>
 
 A lot of first-time homebuyers want to know if it’s wise for them to try and buy right now. It’s an aggressive seller’s market, and most homes are selling above list price after receiving multiple offers.
 
