@@ -20,6 +20,7 @@ youtube_code: tDd8h3fbG-4
 
 <center><em>Here are two strategies that will help if you need to both buy and sell.</em></center>
 
+<center>&nbsp;</center>
 
 In the current real estate market, buyers are having a tough time, especially if they also have a home to sell. Today I’m sharing two strategies that can help if you need to both buy and sell.
 
