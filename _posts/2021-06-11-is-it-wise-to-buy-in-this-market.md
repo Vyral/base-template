@@ -29,7 +29,7 @@ A lot of first-time homebuyers want to know if it’s wise for them to try and b
 
 Whether or not you decide to enter the market depends on whether or not you have the ability to participate in today’s market. When sellers are looking at offers, cash offers are the most desirable because there is no appraisal and they close much quicker. Cash is king, as they say.
 
-The next best options for sellers are offers with 50% or 20% down. **When buyers have this much capital, sellers know they have the ability to make up the difference between the appraised value and the agreed-upon price.**
+The next best options for sellers are offers with 50% or 20% down. **When buyers have this much capital, sellers know they can make up the difference between the appraised value and the agreed-upon price.**
 
 Offers with 10% or 5% down are good offers, but they’re just not as desirable in this hyper-competitive market. After that, sellers will look at FHA offers (3% to 5% down), VA offers, and finally, they’ll look at contingent offers. Contingent offers are where a buyer needs to sell a home first before they’re able to afford the home they’re making an offer on. These are the least desirable offers in this type of market.
 
