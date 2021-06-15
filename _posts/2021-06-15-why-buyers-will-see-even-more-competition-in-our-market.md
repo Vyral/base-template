@@ -23,11 +23,13 @@ Even though buyers have been in a tough market for a while now, it seems like th
 
 0:32 — Market trends that have developed during the pandemic
 
-1:15 — Buyers are seeking higher returns on investment
+​​​​​​1:15 — Buyers are seeking higher returns on investment
+
+* <u><span style="font-family: var(--font-family); letter-spacing: 0.01rem;"><a target="_blank" rel="noopener" href="https://youtu.be/aCkMUYgQ00M">Cap Rate Explained</a></span></u>
 
 1:52 — Why most areas are seeing rental and sale prices skyrocket
 
-2:34 — Using Disneyworld to explain pent-up demand
+2:34 — Using Disney World to explain pent-up demand
 
 3:13 — People want to return to physical work environments
 
