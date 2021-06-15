@@ -3,7 +3,7 @@ layout: post
 title: Why Buyers Will See Even More Competition in Our Market
 date: 2021-06-15 00:00:00
 tags:
-  - Home Buyer Tips
+  - Market Update
 excerpt: Things are about to get more competitive for buyers in the market.
 enclosure:
 pullquote:
