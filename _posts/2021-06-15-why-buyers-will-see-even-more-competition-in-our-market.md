@@ -45,6 +45,6 @@ Even though buyers have been in a tough market for a while now, it seems like th
 
 8:26 — Today’s prices will yield a 5% cap when rents increase due to reopening
 
-8:52 — Conclusion to today’s video
+8:52 — Conclusion
 
 If you have any questions or would like more information about our changing market, feel free to reach out to me. I look forward to hearing from you soon.
