@@ -23,7 +23,7 @@ Even though buyers have been in a tough market for a while now, it seems like th
 
 0:32 — Market trends that have developed during the pandemic
 
-​​​​​​1:15 — Buyers are seeking higher returns on investment
+1:15 — Buyers are seeking higher returns on investment
 
 * <u><span style="font-family: var(--font-family); letter-spacing: 0.01rem;"><a target="_blank" rel="noopener" href="https://youtu.be/aCkMUYgQ00M">Cap Rate Explained</a></span></u>
 
