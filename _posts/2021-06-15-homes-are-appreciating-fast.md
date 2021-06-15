@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homes Are Appreciating Fast
-date: 2021-06-11 12:43:53
+date: 2021-06-15 12:43:00
 tags:
   - Real Estate
 excerpt: Rising lumber prices are driving home appreciation. Get in the market now.
