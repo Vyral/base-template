@@ -5,7 +5,8 @@ date: 2021-06-15 16:57:19
 tags:
   - Market Update
 excerpt: A lack of new construction has caused an inventory shortage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+There+Just+Aren%E2%80%99t+Enough+Homes+for+Sale.mp4
 pullquote: New home construction has a big impact on the resale market.
 enclosure_type: video/mp4
 enclosure_time:
