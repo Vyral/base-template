@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s what you can do if the house appraises below the sales price.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/Videos/2021/The+Home+Appraised+Low%2C+Now+What.mp4
 pullquote: We're seeing buyers buying homes regardless of the appraised value.
 enclosure_type: video/mp4
 enclosure_time:
