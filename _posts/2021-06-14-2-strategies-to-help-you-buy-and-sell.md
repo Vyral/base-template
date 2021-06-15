@@ -30,6 +30,6 @@ In the current real estate market, buyers are having a tough time, especially if
 
 You can also look into instant offers or buy before you sell strategies you can implement. Here at the Stern Team, for the right property, we’ll buy it from the client so they can have cash to purchase their new house. Once their former property is ours, we’ll sell it as a Stern Team listing.&nbsp;
 
-**Instant offers are getting plenty of attention because it’s a new concept, but don’t forget about bridge loans.** Both of these are solid strategies to help you buy and sell.
+**Instant offers are getting plenty of attention because they're a new concept, but don’t forget about bridge loans.** Both of these are solid strategies to help you buy and sell.
 
 If you have any questions about these two options or real estate in general, reach out via phone or email. We would love to help you.
