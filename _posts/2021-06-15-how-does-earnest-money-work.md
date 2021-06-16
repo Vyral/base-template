@@ -24,4 +24,4 @@ Most times, earnest money deposits are between $500 and $1,000. However, the pri
 
 **It’s basically a credit that’s used at the end of the transaction to assist you with closing costs and other expenses.** The earnest money is credited back to you once the deal closes.&nbsp;
 
-If you have any questions about earnest money or real estate in general, don’t hesitate to reach out via phone or remedial. I look forward to hearing from you soon.
+If you have any questions about earnest money or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
