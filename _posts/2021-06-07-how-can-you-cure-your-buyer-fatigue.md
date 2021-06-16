@@ -5,7 +5,8 @@ date: 2021-06-07 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what’s causing so much buyer fatigue in our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/How+Can+You+Cure+Your+Buyer+Fatigue_.mp4
 pullquote: Many homebuyers are becoming discouraged.
 enclosure_type: video/mp4
 enclosure_time:
