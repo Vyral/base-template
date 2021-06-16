@@ -23,7 +23,3 @@ Last time, I discussed nine tips to help your buyers win in today’s crazy mark
 **2\. Lead with your best offer.** That might sound obvious, but you’d be surprised at how many offers I see come in that could have been higher and better. When you’re representing buyers, be sure to educate them and encourage them to put their best offer out there right from the beginning. You never know what you’re competing against in this market.
 
 If you have any questions about how to help buyers win in our current market, reach out to me. I’d love to help you. Until then, have a productive week\!
-
-&nbsp;
-
-&nbsp;
