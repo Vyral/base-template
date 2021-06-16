@@ -4,9 +4,10 @@ title: FSBO Doesn’t Save Most People Money
 date: 2021-06-15 08:00:00
 tags:
   - Home Seller Tips
+  - Home Buyer Tips
 excerpt: The realities of trying to sell your property as for sale by owner.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/FSBO+doesn%E2%80%99t+save+most+people+money.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/FSBO+Doesn%E2%80%99t+Save+Most+People+Money+(1).mp4
 pullquote: >-
   We've been in this business for 20 years, and there are still things that we
   learn every single day.
@@ -14,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: L65jC9SMXVs
+youtube_code: wgwbhGWIrUc
 ---
 {% include youtube.html %}
 
