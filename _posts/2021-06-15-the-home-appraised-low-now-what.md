@@ -27,10 +27,10 @@ Believe it or not, we're seeing some instances where buyers are buying homes reg
 
 In today's market, three things can happen if the house appraises low:
 
-**1\. The buyer can renegotiate the price.** If you go under contract for $400,000 and the house appraises at $390,000, you can go to the sellers and negotiate to pay $390,000. As a seller, you have the option to drop to $390,000, or you can stay at the contracted $400,000.
+**1\. The buyer can renegotiate the price.** If you go under contract for $400,000 and the house appraises at $390,000, you can go to the sellers and negotiate to pay $390,000. As a seller, you have the option to drop to $390,000 or you can stay at the contracted $400,000.
 
 **2\. The buyer has the option of canceling that contract if it doesn't appraise.** You can walk away if the seller refuses to drop that price.
 
-**3\. The buyer agrees to pay the additional money as cash at closing.** The bank will finance the house based on $390,000. They have to bring an extra $10,000 in cash to the closing. That can make a big difference if that buyer is putting 3% down on a $400,000 house—that's $12,000. If they have to bring another $10,000, that's quite a big difference. If you're a negotiating seller and there's an appraisal contingency, if the buyer is putting down a large down payment, it's less of a concern than if they're putting down a small down payment.
+**3\. The buyer agrees to pay the additional money as cash at closing.** The bank will finance the house based on $390,000. That can make a big difference if that buyer is putting 3% down on a $400,000 house—that's $12,000. If they have to bring another $10,000, that's quite a big difference. If you're a negotiating seller and there's an appraisal contingency, it's less of a concern if they're making a large down payment.
 
 If you have any questions, please reach out to me at (706) 621-6085. Have a great day.
