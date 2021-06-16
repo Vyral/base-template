@@ -13,13 +13,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-15-colemere-youtube.jpg
-youtube_code: zreve9V6wCo
+youtube_code: Yym_WZs2dLk
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-A lot of people have been worried about a potential housing market crash. In fact, we hear questions about it nearly every day. To help put these fears to rest, today we’ll be going over four reasons why a crash is simply impossible in our nationwide market:
+A lot of people have been worried about a potential housing market crash; we hear questions about it nearly every day. To help put these fears to rest, today we’ll be going over four reasons why a crash is simply impossible in our nationwide market:
 
 **1\. Inventory:** Our inventory levels are the lowest they’ve been in over 20 years, which is the main reason why prices are high. It’s all a matter of supply and demand, and since there are few sellers but many eager buyers, prices have skyrocketed.
 
@@ -27,7 +27,7 @@ A lot of people have been worried about a potential housing market crash. In fac
 
 {% include pullquote.html %}
 
-**3\. Demand:** Again, we’re still seeing large amounts of pent-up demand. This demand actually stems from the recession, when new home construction slowed down for a number of years. For a while, there weren’t enough homes being built, and builders still haven’t been able to keep up with the number of would-be buyers.
+**3\. Demand:** Again, we’re still seeing large amounts of pent-up demand. This demand actually stems from the recession, when new home construction slowed down for several years. For a while, there weren’t enough homes being built, and builders still haven’t been able to keep up with the number of would-be buyers.
 
 **4\. Lending practices:** After the last housing crash, a number of policies and guidelines were implemented to ensure lenders would be more responsible with mortgages. Now, they’ll verify income, check tax returns, and much more to ensure buyers are truly qualified.
 
