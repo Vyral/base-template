@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSBO Doesn’t Save Most People Money
-date: 2021-06-15 08:00:00
+date: 2021-06-17 08:00:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
