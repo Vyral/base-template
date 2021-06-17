@@ -38,7 +38,7 @@ Are your listings flying off the market as soon as you take them and put them on
 
 **6\. Blog about each property**. Every property gets a write-up and then it links to our CRM so that if people want more information then hopefully we can capture them in our web and help them achieve their real estate goals.
 
-**7\. The <u><a target="_blank" rel="noopener" href="https://yourjourneywithjennie.com/using-the-golden-letter-to-prospect-for-listings.html">Golden Letter</a></u>**. It's a way for you to market to the general public or your database that we need more listings.
+**7\. The <u><a target="_blank" rel="noopener" href="https://yourjourneywithjennie.com/using-the-golden-letter-to-prospect-for-listings.html">golden letter</a></u>**. It's a way for you to market to the general public or your database that we need more listings.
 
 **8\. Valuation sites**. We point out homeowners who may be thinking about selling to our home valuation sites. There are lots of tools for this. Basically, we want to capture their data and start to send them educational information. Now that they have expressed interest &nbsp;in selling, we want to help them by sharing information about the market.
 
