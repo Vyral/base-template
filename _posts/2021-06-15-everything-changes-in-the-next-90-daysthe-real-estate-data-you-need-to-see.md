@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Buyers Will See Even More Competition in Our Market
+title: Everything Changes In the Next 90 Days—The Real Estate Data You Need to See
 date: 2021-06-15 00:00:00
 tags:
   - Home Buyer Tips
@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-15-rosado-youtube.jpg
+youtube_alternate_image: /uploads/06-15-rosado-youtube-1.jpg
 youtube_code: hZVWyTS1xJc
 ---
 {% include youtube.html %}
