@@ -14,7 +14,7 @@ youtube_code: ZxI601cNQtE
 ---
 {% include youtube.html %}
 
-I’m back with even more tips to help buyers win in today’s market.
+<center><em>I’m back with even more tips to help buyers win in today’s market.</em></center>
 
 Last time, I discussed nine tips to help your buyers win in today’s crazy market. Today I’m back to continue that discussion with two more tips for success:
 
