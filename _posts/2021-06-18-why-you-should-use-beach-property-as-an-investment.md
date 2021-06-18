@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Use Beach Property as an Investment
-date: 2021-06-11 08:00:00
+date: 2021-06-18 08:00:00
 tags:
   - Real Estate
 excerpt: Here’s why I decided to invest in beachfront real estate early on.
