@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Market Predictions for the Rest of 2021
-date: 2021-06-16 19:03:45
+date: 2021-06-18 08:00:00
 tags:
   - Market Update
 excerpt: Here’s what I believe will happen to our market in the near future.
