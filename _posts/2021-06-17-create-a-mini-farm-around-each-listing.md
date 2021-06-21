@@ -20,7 +20,7 @@ youtube_code: EcpimP0IF5A
 
 {% include excerpt.html %}
 
-Are your listings flying off the market as soon as you take them and put them on? Ours too\! Recently, I was meeting with my team and we were strategizing a way to maximize each listing that we take. When we have the opportunity to help the client get their property sold, it’s an opportunity for a mini farm.
+Are your listings flying off the market as soon as you take them and put them on? Ours too\! Recently, I was meeting with my team and we were strategizing a way to maximize each listing that we take. When we have the opportunity to help the client get their property sold, it’s an opportunity for a mini-farm.
 
 **Farming is a prospecting strategy where you have a physical area that you strategically apply touches to over time**. Every time you take a listing, there are so many opportunities to promote that listing and promote yourself as an agent. It’s also an opportunity to have additional touches to your database to promote yourself to local homeowners as the neighborhood expert. This is the system we created:
 
