@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Buy and Sell at the Same Time?
-date: 2021-06-21 10:00:00
+date: 2021-06-21 08:00:00
 tags:
   - Real Estate
 excerpt: Here’s what to know if you’re trying to buy and sell homes in this market.
