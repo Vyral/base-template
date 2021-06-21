@@ -20,7 +20,7 @@ youtube_code: tsz8UpJx34I
 
 How do you sell 300 homes and not meet with a single client? I want to answer this question because about seven years ago I almost quit real estate after a 15-year career. I was selling about 100 homes per year and working seven days a week; I didn’t have much time with my family, team members, or anyone else.&nbsp;
 
-So I altered my trajectory, and it changed my life. This year we sold almost 300 homes, I didn’t meet with a single client, and I worked about 3.5 days per week in that business. So I’m sharing three steps for how you can do the same thing:
+So I altered my trajectory, and it changed my life. This past year we sold almost 300 homes, I didn’t meet with a single client, and I worked about 3.5 days per week in that business. So I’m sharing three steps for how you can do the same thing:
 
 {% include pullquote.html %}
 
