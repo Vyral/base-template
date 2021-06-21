@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-It’s fun times in the real estate market, both locally and around the country. Today I’ll update you on what’s going on specifically here in the Tulsa area and show you how it compares to last year.
+It’s a fun time in the real estate market, both locally and around the country. Today I’ll update you on what’s going on specifically here in the Tulsa area and show you how it compares to last year.
 
 As you can see on the chart at 0:28 in the video above, closed listings are up 21%, pending listings are up 7%, and new listings are up 4%. The main problem we’re feeling is the shortage of inventory; **more properties are leaving the market than are coming on the market**.
 
