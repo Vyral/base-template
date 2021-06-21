@@ -22,7 +22,7 @@ youtube_code: EcpimP0IF5A
 
 Are your listings flying off the market as soon as you take them and put them on? Ours too\! Recently, I was meeting with my team and we were strategizing a way to maximize each listing that we take. When we have the opportunity to help the client get their property sold, it’s an opportunity for a mini-farm.
 
-**Farming is a prospecting strategy where you have a physical area that you strategically apply touches to over time**. Every time you take a listing, there are so many opportunities to promote that listing and promote yourself as an agent. It’s also an opportunity to have additional touches to your database to promote yourself to local homeowners as the neighborhood expert. This is the system we created:
+**Farming is a prospecting strategy where you have a physical area that you strategically apply touches to over time**. Every time you take a listing, there are so many opportunities to promote that listing and promote yourself as an agent. It’s also an opportunity to get additional touches to your database to promote yourself to local homeowners as the neighborhood expert. This is the system we created:
 
 **1\. The sign in the yard**.
 
@@ -36,10 +36,10 @@ Are your listings flying off the market as soon as you take them and put them on
 
 **5\. Door knocking**. It’s a great opportunity to invite the neighbors to come visit you or share with their friends. I have all kinds of door-knocking scripts when it comes to open houses and new listings.
 
-**6\. Blog about each property**. Every property gets a write-up and then it links to our CRM so that if people want more information then hopefully we can capture them in our web and help them achieve their real estate goals.
+**6\. Blog about each property**. Every property gets a write-up, and then it links to our CRM so that if people want more information, we can hopefully capture them in our web and help them achieve their real estate goals.
 
 **7\. The <u><a target="_blank" rel="noopener" href="https://yourjourneywithjennie.com/using-the-golden-letter-to-prospect-for-listings.html">golden letter</a></u>**. It's a way for you to market to the general public or your database that we need more listings.
 
-**8\. Valuation sites**. We point out homeowners who may be thinking about selling to our home valuation sites. There are lots of tools for this. Basically, we want to capture their data and start to send them educational information. Now that they have expressed interest &nbsp;in selling, we want to help them by sharing information about the market.
+**8\. Valuation sites**. We point homeowners who may be thinking about selling toward our home valuation sites. There are lots of tools for this. Basically, we want to capture their data and start to send them educational information. Now that they have expressed interest &nbsp;in selling, we want to help them by sharing information about the market.
 
 Use every opportunity that you get when you take a listing because you know it's going to sell fast. Make sure that you capitalize on all of the opportunities that you can to market that property, market yourself as a professional, and find more listings. If you have any further questions, please contact me at (918) 706-9845.
