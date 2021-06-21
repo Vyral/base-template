@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Housing Shortage Will Continue
-date: 2021-06-11 14:00:00
+date: 2021-06-17 14:00:00
 tags:
   - Market Update
 excerpt: My answers to burning questions about the housing boom and low inventory.
