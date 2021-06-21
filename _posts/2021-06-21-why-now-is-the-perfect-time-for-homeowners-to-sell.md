@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is the Perfect Time for Homeowners to Sell
-date: 2021-06-17 21:47:27
+date: 2021-06-21 16:00:00
 tags:
   - Home Seller Tips
 excerpt: If you’re waiting to sell, you’re missing out on some fantastic profits.
