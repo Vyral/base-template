@@ -20,9 +20,9 @@ youtube_code: te48oXvdB4s
 
 {% include excerpt.html %}
 
-Our real estate market is as hot as our temperatures, which is to say *it’s on fire*. If you own a home right now, you’re basically swimming a pile of money. Sellers are making ridiculous profits by jumping into the market, and agents are keeping their hands full with new clients who are flooding in and trying to buy and sell homes. **In fact, we just helped our 105th client in 2021, so we’re acutely aware of how crazy the market’s been.**
+Our real estate market is as hot as our temperatures, which is to say *it’s practically on fire*. If you own a home right now, you’re basically swimming in a pile of money. Sellers are making ridiculous profits by jumping into the market, and agents are keeping their hands full with new clients who are flooding in and trying to buy and sell homes. **We just helped our 105th client in 2021, so we’re acutely aware of how crazy the market’s been.**
 
-To give you an idea of what sellers can get today, I’d like to show off a few homes that are what I call “stoopid money properties” (the two oo’s are for emphasis). In Downtown St. George, we listed a home for $499,000, which is already pretty high. Get this: It sold for $550,000 within 24 hours.
+To give you an idea of what sellers can get today, I’d like to show off a few homes that are what I call “stoopid money properties” (the two oo’s are for emphasis). In downtown St. George, we listed a home for $499,000, which is already pretty high. Get this: It sold for $550,000 within 24 hours.
 
 {% include pullquote.html %}
 
