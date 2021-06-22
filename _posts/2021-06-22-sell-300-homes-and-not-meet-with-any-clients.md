@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sell 300 Homes and Not Meet With Any Clients
-date: 2021-06-17 18:59:19
+date: 2021-06-22 13:00:00
 tags:
   - Transaction Management
 excerpt: Here’s how you can sell 300 homes per year but not meet with any clients.
