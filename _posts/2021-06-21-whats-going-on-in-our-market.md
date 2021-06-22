@@ -24,7 +24,7 @@ This real estate market we’re in has been crazy. In my 30 years in the busines
 
 Yet other homes simply sit on the market. How quickly a home sells and for how much depends on the way it’s priced and positioned, as well as the skill of your agent.&nbsp;
 
-However, **we are starting to see the market cool down a little bit** as more inventory comes onto the market. The supply-demand imbalance is starting to normalize a bit. Granted, homes aren’t getting upwards of 25 showings on the first day of listing like we were seeing a couple of months ago, but many homes get around seven or eight showings, which is still fantastic.
+However, **we are starting to see the market cool down a little bit** as more homes are being listed. The supply-demand imbalance is starting to normalize a bit. Granted, homes aren’t getting upwards of 25 showings on the first day of listing like we were seeing a couple of months ago, but many homes get around seven or eight showings, which is still fantastic.
 
 Lakefront and primary school market prices are still through the roof, but despite that, it’s still a great time to buy. Mortgage rates are still very low.
 
