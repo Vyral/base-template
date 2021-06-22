@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---june-2021---1---youtube-edit.jpeg
-youtube_code: BROWootxBGo
+youtube_code: Nl1ErPR2FzU
 ---
 {% include youtube.html %}
 
