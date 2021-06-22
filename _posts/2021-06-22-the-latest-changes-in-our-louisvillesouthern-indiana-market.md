@@ -7,7 +7,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s what’s happening in the Louisville and Southern Indiana market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/The+Latest+Changes+in+our+Louisville_Southern+Indiana+Market.mp4
 pullquote: >-
   The market will remain hot due to a lack of inventory, but it’s still possible
   for buyers to find the home of their dreams.
