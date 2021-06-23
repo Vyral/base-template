@@ -6,7 +6,8 @@ tags:
   - Listing Presentation
   - Lead Generation
 excerpt: The strategies we use to create mini-farms at every opportunity.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/Create+a+Mini-Farm+Around+Each+Listing.mp4
 pullquote: >-
   Farming is where you have an area that you strategically apply touches to over
   time.
