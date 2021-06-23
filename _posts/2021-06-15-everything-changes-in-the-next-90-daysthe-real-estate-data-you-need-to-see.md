@@ -5,7 +5,8 @@ date: 2021-06-15 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Things are about to get more competitive for buyers in the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/Everything+Changes+In+the+Next+90+Days%E2%80%94The+Real+Estate+Data+You+Need+to+See.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
