@@ -20,7 +20,7 @@ youtube_code: 8JDZTF-aiDs
 
 This is a great and very common question in this market. The answer depends on a couple of different factors. First, what’s your point B? What does that next house look like? Then, what does your point A (your current house) look like?
 
-**If it’s a seller’s market and you're selling high, you’re probably going to end up buying high too.** Trying to complete both transactions at once requires a delicate balance and a lot of strategy.
+**If it’s a seller’s market and you're selling high, you’re probably going to end up buying high too.** Trying to complete both transactions at once requires a delicate balance and a lot of strategizing.
 
 One option is to sell your current home first and negotiate a rent-back with the buyer to allow you to stay in that home while you search for your next property.
 
