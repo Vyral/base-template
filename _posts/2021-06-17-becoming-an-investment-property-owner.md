@@ -5,7 +5,8 @@ date: 2021-06-17 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s what you need to know about buying investment properties.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2021/Becoming+an+Investment+Property+Owner.mp4
 pullquote: >-
   Being a successful landlord comes with many requirements, and we’d be happy to
   help you with them.
