@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on In Our Market?
-date: 2021-06-21 08:00:00
+date: 2021-06-24 08:00:00
 tags:
   - Market Update
 excerpt: Here’s what’s going on in our current crazy real estate market.
