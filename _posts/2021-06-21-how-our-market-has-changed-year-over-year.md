@@ -24,7 +24,7 @@ As you can see on the chart at 0:28 in the video above, closed listings are up 2
 
 The average sales price has gone up 2.72% in the last year, which is advantageous for sellers, who didn’t even have to do anything to their homes to enjoy this increase in value. Now imagine if you had some equity in your home even before 2020—you have almost 23% more\! This could be a great time for you to take advantage of the inventory shortage by selling your home.
 
-Both buyers and sellers are noticing that **homes are selling faster**. The average number of days a home spends on the market here in Tulsa is 24 days, which is eight days faster than the same time last year. Additionally, the list-to-sales price ratio is currently 99%, meaning that properties are selling faster and for more money.
+Both buyers and sellers are noticing that **homes are selling faster**. The average number of days a home spends on the market here in Tulsa is 24 days, which is eight days faster than at this same time last year. Additionally, the list-to-sales price ratio is currently 99%, meaning that properties are selling faster and for more money.
 
 All this feeds into the absorption rate (or month’s supply of inventory), which is currently at 1.87. That means if no new homes came on the market, we’d sell all of what is currently available in almost two months. The lower the month’s supply is, the more the market favors sellers, which we’re definitely seeing today.
 
@@ -34,4 +34,4 @@ However, low interest rates are keeping many buyers in the market. **Lower rates
 
 If you’re thinking about selling your home, we created a Seller Rescue Plan that will help you work through the hassles of buying and selling a home at the same time. Whatever your goals are, we can help you take advantage of this rare opportunity. We don’t know how long the market is going to remain like this, but for now, we’re just helping our clients through it.
 
-Whether you’re buying or selling, if you have any questions or need any advice, don’t hesitate to reach out to us. We’d love to help you.
+Whether you’re buying or selling, if you have any questions or need advice, don’t hesitate to reach out to us. We’d love to help you.
