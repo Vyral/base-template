@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are three reasons why you shouldn’t worry about a crash.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/The+Top+3+Reasons+Why+We%E2%80%99re+Not+Heading+Toward+a+Crash.mp4
 pullquote: I don’t think foreclosures will negatively affect the market.
 enclosure_type: video/mp4
 enclosure_time:
