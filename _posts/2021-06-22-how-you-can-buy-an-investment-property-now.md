@@ -21,7 +21,7 @@ youtube_code: ExQvW0eAZNg
 With everything that’s going on with real estate, many people want to know how they can buy an investment property right now. There are two mains ways to do it:
 
 1. **The traditional way.** You use your tax documents or W2s to show your income can satisfy the debt-to-income requirements for both your personal property and the investment property. You cannot use future rent for this unless you’re buying a duplex that already has tenants.
-2. **Non-qualified mortgage loan.** This is the easiest way to buy an investment property. It becomes a standalone property, and whatever income it’s producing is what you use to qualify. It doesn’t matter how much money you make, if the property can be rented out for $2,000, that’s the number we use to get you qualified. For this option, you’ll need at least 30% for the down payment.
+2. **Non-qualified mortgage loan.** This is the easiest way to buy an investment property. It becomes a standalone property, and whatever income it’s producing is what you use to qualify. It doesn’t matter how much money you make— if the property can be rented out for $2,000, that’s the number we use to get you qualified. For this option, you’ll need at least 30% for the down payment.
 
 {% include pullquote.html %}
 
