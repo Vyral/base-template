@@ -26,6 +26,6 @@ Some people believe we’re in a market bubble that’s going to burst and cause
 
 **2\. People have equity:** In 2007, a lot of people faced foreclosure because they had no equity and their property was vacant. They had a lot of motivation to get rid of their property, but it was hard to sell homes quickly. Because of this, they’d just stop paying and let the foreclosure occur. Today, most people in foreclosure or forbearance have equity in their property—their homes aren’t vacant. They can sell easily if they need to.
 
-**3\. We have a big secondary market:** Right now, every market has small investors looking for homes to flip, sell, or rent out. We also have institutional buyers who are looking to buy many properties and hold them forever.&nbsp;
+**3\. We have a big secondary market:** Right now, every market has small investors looking for homes to flip, rent out, or sell. We also have institutional buyers who are looking to buy many properties and hold them forever.&nbsp;
 
 For these reasons, I don’t think foreclosures will negatively affect the market. If you have any questions or would like to talk about investing in real estate, feel free to reach out to me. I look forward to hearing from you soon.&nbsp;
