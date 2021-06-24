@@ -5,7 +5,8 @@ date: 2021-06-08 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: An escalation clause can make you a stronger buyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/Improve+Your+Offer+With+an+Escalation+Clause.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
