@@ -5,7 +5,8 @@ date: 2021-06-15 00:00:00
 tags:
   - Real Estate
 excerpt: Our market isn’t in danger of crashing, and there are four reasons why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/4+Reasons+Why+We+Aren%E2%80%99t+Headed+Toward+a+Crash.mp4
 pullquote: >-
   After the last housing crash, a number of policies and guidelines were
   implemented to ensure lenders would be more responsible with mortgages.
