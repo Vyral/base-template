@@ -32,8 +32,8 @@ All this feeds into the absorption rate (or month’s supply of inventory), whic
 
 However, low interest rates are keeping many buyers in the market. **Lower rates mean increased affordability**, so it could make sense for you to buy a home right now. If that’s a goal you have, we’re here to help you figure out the best way to win.
 
-If you’re thinking about selling your home, we created a Seller Rescue Plan that will help you work through the hassles of buying and selling a home at the same time. Whatever your goals are, we can help you take advantage of this rare opportunity. We don’t know how long the market is going to remain like this, but for now, we’re just helping our clients through it.
+If you’re thinking about selling your home, we created a [<u>Seller Rescue Plan</u>](https://www.thewolekgroup.com/blog/seller_rescue_plan_the_wolek_group_tulsa_realtor/32169){: target="_blank" rel="noopener"} that will help you work through the hassles of buying and selling a home at the same time. Whatever your goals are, we can help you take advantage of this rare opportunity. We don’t know how long the market is going to remain like this, but for now, we’re just helping our clients through it.
 
-If you’re curious about the value of your home, we have a great free website called www.tulsahomevalue.com and you can get an overview of what’s going on in the market\!
+If you’re curious about the value of your home, we have a great free website called [<u>tulsahomevalue.com</u>](http://www.tulsahomevalue.com/){: target="_blank" rel="noopener"} and you can get an overview of what’s going on in the market\!
 
 Whether you’re buying or selling, if you have any questions or need advice, don’t hesitate to reach out to us. We’d love to help you.
