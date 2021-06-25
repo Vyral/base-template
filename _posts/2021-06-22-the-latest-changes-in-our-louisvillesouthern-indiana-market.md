@@ -30,6 +30,6 @@ The market will remain hot due to a lack of inventory, but it’s still possible
 
 {% include pullquote.html %}
 
-We did plenty of videography and photography in order to market the home and showcase everything it had to offer. Once we went through the many offers we received and chose the best one, we then started the closing process. **After seeing everything we could do for them as sellers, Chris and Mary are excited to work with us when they decide to buy a home.**
+We did plenty of videography and photography to market the home and showcase everything it had to offer. Once we went through the many offers we received and chose the best one, we then started the closing process. **After seeing everything we could do for them as sellers, Chris and Mary are excited to work with us when they decide to buy a home.**
 
 If you have any questions or would like to talk about buying or selling a home, feel free to reach out to us. We look forward to hearing from you soon.
