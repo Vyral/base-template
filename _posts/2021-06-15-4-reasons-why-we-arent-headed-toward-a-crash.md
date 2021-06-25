@@ -3,7 +3,7 @@ layout: post
 title: 4 Reasons Why We Aren’t Headed Toward a Crash
 date: 2021-06-15 00:00:00
 tags:
-  - Real Estate
+  - Market Update
 excerpt: Our market isn’t in danger of crashing, and there are four reasons why.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/4+Reasons+Why+We+Aren%E2%80%99t+Headed+Toward+a+Crash.mp4
