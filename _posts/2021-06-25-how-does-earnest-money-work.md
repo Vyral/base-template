@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Earnest Money Work?
-date: 2021-06-15 13:03:13
+date: 2021-06-25 13:03:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how earnest money works and how much you’ll need as a homebuyer.
