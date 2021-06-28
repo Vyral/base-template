@@ -18,8 +18,6 @@ youtube_code: nHo1IZf_03Q
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Today we’re giving you our last couple of tips on winning with buyers in this market.
 
 If you've got an issue or you think the appraisal is going to be an issue, work with your lender to get that appraisal ordered right upfront. The lender that we use and recommend, can get those appraisals sent out within the first couple of days of being under contract. That way you could flip your due diligence and your appraisal deadlines to start addressing price with the seller.
