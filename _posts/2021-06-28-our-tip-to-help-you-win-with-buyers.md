@@ -11,7 +11,7 @@ enclosure: >-
   With Buyers.mp4
 pullquote: We are proud of our guaranteed sale program.
 enclosure_type: video/mp4
-enclosure_time: 10:39 am
+enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/JS6.25.21YT.jpg
 youtube_code: nHo1IZf_03Q
