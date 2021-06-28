@@ -18,7 +18,7 @@ youtube_code: nHo1IZf_03Q
 ---
 {% include youtube.html %}
 
-{% include except.html %}
+{% include excerpt.html %}
 
 Today we’re giving you our last couple of tips on winning with buyers in this market.
 
