@@ -5,7 +5,8 @@ date: 2021-06-21 00:00:00
 tags:
   - Market Update
 excerpt: Here’s how our current market compares to that of 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/How+Our+Market+Has+Changed+Year+Over+Year.mp4
 pullquote: Properties are selling faster and for more money.
 enclosure_type: video/mp4
 enclosure_time:
