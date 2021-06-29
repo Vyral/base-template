@@ -20,11 +20,11 @@ youtube_code: uR0fXmhddss
 
 {% include excerpt.html %}
 
-The Christopher Walden House of Hope is a nonprofit organization we started to help build a facility for addiction therapy that’s badly needed in the state of Alaska. There are so few treatment options, and **we are enthusiastic about bringing a facility like this to our community.**
+The Christopher Walden House of Hope is a nonprofit organization, we have found a facility for addiction therapy that’s badly needed in the state of Alaska. There are so few treatment options, and **we are enthusiastic about bringing a facility like this to our community.**
 
 {% include pullquote.html %}
 
-A friend of mine has graciously donated her late husband’s gorgeous Harley Davidson motorcycle, a 2014 StreetGlide valued at around $16,000. We’re holding a raffle for the bike, with each $100 ticket going toward the Christopher Walden House of Hope. We’re constructing the building and will work with a rehab program here in Alaska once it’s built.&nbsp;
+A friend of mine has graciously donated her late husband’s gorgeous Harley Davidson motorcycle, a 2014 StreetGlide valued at around $16,000. We’re holding a raffle for the bike, with each $100 ticket going toward the Christopher Walden House of Hope. We will be working with a rehab program here in Alaska.
 
 As many of you may know, our son passed away after a battle with addiction. As hard as it is, we’re passionate about taking this tragedy and turning it into something positive.
 
