@@ -5,7 +5,8 @@ date: 2021-06-24 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Homeownership can help you build wealth, and here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/How+Homebuyers+Can+Win+Big+in+Today%E2%80%99s+Market.mp4
 pullquote: Real estate is one of the most effective ways to build wealth.
 enclosure_type: video/mp4
 enclosure_time:
