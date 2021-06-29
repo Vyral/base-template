@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Can You Get the Best View of Holiday Fireworks?
-date: 2021-06-28 21:31:15
+date: 2021-06-29 07:00:00
 tags:
   - Events
 excerpt: We’d love to see you at Shepherd Church for their amazing fireworks show.
