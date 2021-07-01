@@ -32,7 +32,7 @@ No problem\! To give you an idea of what sellers can get today, I’d like to sh
 
 {% include pullquote.html %}
 
-**Stoopid Money Scenario \#2 - Red Cliffs**\: Another home in the Red Cliffs area sold for $240,000 in 2016, but it just sold again for $405,000 last month. A “stucco box” built in the 1990s…the epitome of average\! And they struck $165k worth of “gold”: in just four years.&nbsp;
+**Stoopid Money Scenario \#2 - Red Cliffs**\: Another home in the Red Cliffs area sold for $240,000 in 2016, but it just sold again for $405,000 last month. A “stucco box” built in the 1990s…the epitome of average\! And they struck $165k worth of “gold”—in just four years.&nbsp;
 
 **Stoopid Money Scenario \#3 - Arcadia Resort:** Finally, a home in Arcadia sold for $660,000 in 2019—guess how much it went for this year? Would you believe it sold for $1.1 million?&nbsp;
 
