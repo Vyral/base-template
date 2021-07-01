@@ -6,14 +6,13 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The modern farmhouse style of home is the most popular style in Iowa.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+Chip+and+Joanna+Gaines+Effect.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/the-chip-and-joanna-gaines-effect-yt.jpg
-youtube_code: ipd3Qmw0t4g
+youtube_code: cu19xrt8rME
 ---
 {% include youtube.html %}
 
