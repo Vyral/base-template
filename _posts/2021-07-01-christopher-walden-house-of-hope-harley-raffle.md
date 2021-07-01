@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Christopher Walden House of Hope Harley Raffle
-date: 2021-06-29 08:00:00
+date: 2021-07-01 08:00:00
 tags:
   - AK Real Estate
 excerpt: Here are all the details about our nonprofit’s upcoming Harley raffle.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Christopher+Walden+House+of+Hope+Harley+Raffle+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Christopher+Walden+House+of+Hope+Harley+Raffle.mp4
 pullquote: >-
   We’re passionate about taking this tragedy and turning it into something
   positive.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Pv4T0mXCNPs
+youtube_code: uJdYUanpz-g
 ---
 {% include youtube.html %}
 
