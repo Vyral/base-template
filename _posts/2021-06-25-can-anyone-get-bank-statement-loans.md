@@ -20,7 +20,7 @@ youtube_code: 2rqkn1ylHy8
 
 I keep getting calls from people asking me about bank statement loans. Are they stated loans? Can anybody get them?
 
-The answer is no. **Bank statement loans are loans for self-employed people.** As we all know, if you’re self-employed and need to show your taxes, that’s a way to show your income. The alternative is getting a bank statement loan. You show 12 months of your deposits (i.e., bank statements), and we take those deposits and figure out how much you get to keep. This is accomplished through your CPA.
+The answer is no. **Bank statement loans are loans for self-employed people.** If you’re self-employed and need to show your taxes, that’s a way to show your income. The alternative is getting a bank statement loan. You show 12 months of your deposits (i.e., bank statements), and we take those deposits and figure out how much you get to keep. This is accomplished through your CPA.
 
 Rates for bank statement loans tend to be a little higher than prime for conventional or FHA loans, but they’re a great alternative if you’re self-employed. In many cases, they allow you to go up to $3 million, and everything is based on your deposits instead of your taxes.&nbsp;
 
