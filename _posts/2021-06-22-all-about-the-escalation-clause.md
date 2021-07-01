@@ -5,7 +5,8 @@ date: 2021-06-22 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you need to know about using an escalation clause.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/All+About+the+Escalation+Clause.mp4
 pullquote: If you’re committing to an escalation clause, you need to show proof of funds.
 enclosure_type: video/mp4
 enclosure_time:
