@@ -26,7 +26,7 @@ client:
   url: AlexYuTeam.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL:  http://www.alexanderyu.firstteam.com/sell.php
+  first_CTA_URL:  https://alexanderyu.firstteam.com/sell.php
   second_CTA_text: Home Search
   second_CTA_URL: http://www.alexyuteam.com/
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.alexanderyu.firstteam.com/sell.php
+    CTA_url: https://alexanderyu.firstteam.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
