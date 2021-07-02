@@ -23,7 +23,7 @@ client:
   phone2:
   phone2_type:
   email: alexyu@firstteamestates.com
-  url: AlexYuTeam.com
+  url: http://AlexYuTeam.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL:  https://alexanderyu.firstteam.com/sell.php
