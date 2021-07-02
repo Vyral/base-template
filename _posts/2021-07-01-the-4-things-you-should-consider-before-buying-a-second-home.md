@@ -27,6 +27,6 @@ If you’ve been thinking about buying a second home, however, there are a few t
 
 **3\. How you’ll pay for the property:** Financing can be more expensive for second homes due to different down payment expectations, financing options, and taxes.
 
-4**. Renting out your home:** Many resort destinations allow for nightly rentals or Airbnb use, which can help you save on costs when you aren’t there. So, you need to think about whether you want your home available at a moment’s notice or if you want to gain some extra income. Also, some areas do not allow Airbnb and similar rental services, so be aware of what you can and cannot do with your second home.
+**4\. Renting out your home:** Many resort destinations allow for nightly rentals or Airbnb use, which can help you save on costs when you aren’t there. So, you need to think about whether you want your home available at a moment’s notice or if you want to gain some extra income. Also, some areas do not allow Airbnb and similar rental services, so be aware of what you can and cannot do with your second home.
 
 If you have any questions about buying a second home, or if you’d like more information about our market, feel free to reach out to us. We look forward to hearing from you soon.
