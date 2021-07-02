@@ -25,9 +25,9 @@ There are five things that all homebuyers must know to have success in today’s
 
 **3\. Work with an expert agent.** You need an agent who knows this market, how to navigate it, and how to advise you to make the best possible offer. There are a lot of agents out there, but they’re not all equal. You need a full-time professional who is a strong negotiator and tuned into the market. They will help you find deals other agents might not be able to find and give you the tricks of the trade to win against other buyers.
 
-**4\. Make your best offer first.** Don’t try to negotiate. It works in a normal market but not in this one. You have to make your best possible offer from the start. At the same time, don’t get emotional and overpay. This is another area where an expert agent comes in handy. They’ll help you craft the right offer to win.
-
 {% include pullquote.html %}
+
+**4\. Make your best offer first.** Don’t try to negotiate. It works in a normal market but not in this one. You have to make your best possible offer from the start. At the same time, don’t get emotional and overpay. This is another area where an expert agent comes in handy. They’ll help you craft the right offer to win.
 
 **5\. Be flexible.** In this market, you may have to make an offer on five different houses before you finally win one. You may need to move up timelines or tailor your offer to be more convenient to the seller. There may be a seller who’s ready to take your deal but only if you agree to their terms.&nbsp;
 
