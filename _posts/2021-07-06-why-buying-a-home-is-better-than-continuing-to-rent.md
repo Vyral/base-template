@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Buying a Home Is Better Than Continuing to Rent
-date: 2021-07-02 10:00:00
+date: 2021-07-06 10:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why I think owning real estate is such an important financial step.
