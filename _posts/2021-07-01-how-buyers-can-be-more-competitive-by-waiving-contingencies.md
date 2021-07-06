@@ -17,9 +17,9 @@ youtube_code: VT0WQvwzjXA
 
 {% include excerpt.html %}
 
-A contingency is a stipulation in a real estate contract that allows a buyer to back out of a deal. **Whether it’s an issue with the inspection, appraisal, or financing, a contingency gives a buyer an out if they want it**. In today’s competitive market, writing an offer with more contingencies is less desirable for a seller. Buyers want to accept an offer that has the least amount of potential to fall apart.
+A contingency is a stipulation in a real estate contract that allows a buyer to back out of a deal. **Whether it’s an issue with the inspection, appraisal, or financing, a contingency gives a buyer an out if they want it**. In today’s competitive market, writing an offer with more contingencies is less desirable for a seller. Sellers want to accept an offer that has the least amount of potential to fall apart.
 
-One common contingency buyers waive is the appraisal contingency. That means even if the appraisal of the home comes in below the agreed-upon purchase price, the buyer still wants to move forward with the transaction.
+One common contingency buyers waive is the appraisal contingency. That means even if the appraisal comes in below the agreed-upon purchase price, the buyer still wants to move forward with the transaction.
 
 Waiving the inspection contingency means you’re willing to take the home regardless of the things you find during the inspection. Waiving the financing contingency says you’ll move forward regardless of any loan issues that may come up.
 
