@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Why Picking the Right Agent Is Critical
-date: 2021-07-02 20:04:51
+date: 2021-07-06 15:00:00
 tags:
   - Expert Advice
 excerpt: Here’s how to choose the right real estate agent for you and your needs.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/Why+Picking+the+Right+Agent+Is+Critical.mp4
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/Why+Picking+the+Right+Agent+Is+Critical+(1).mp4
 pullquote: Hiring a great agent is one of the most important things you can do.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZUY7H17AjAc
+youtube_code: OfsDCAPeEj8
 ---
 {% include youtube.html %}
 
