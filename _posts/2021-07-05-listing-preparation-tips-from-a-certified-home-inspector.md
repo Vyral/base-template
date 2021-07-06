@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listing Preparation Tips From a Certified Home Inspector
-date: 2018-02-28 18:23:00
+date: 2021-07-05 18:23:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -18,7 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: ZWlJLesnCr0
 ---
-
 {% include youtube.html %}
 
 Today I’m joined by special guest and certified home inspector Barry Malesh to talk about things homeowners can do to prepare their property for the market.
