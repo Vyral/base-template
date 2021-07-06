@@ -5,7 +5,8 @@ date: 2021-07-02 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are five things I wish I could tell every single homebuyer out there.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/5+Things+All+Homebuyers+Should+Know.mp4
 pullquote: ' If it’s a good deal, it’s going to go fast.'
 enclosure_type: video/mp4
 enclosure_time:
