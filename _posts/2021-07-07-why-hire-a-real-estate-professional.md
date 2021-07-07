@@ -5,7 +5,8 @@ date: 2021-07-07 19:01:53
 tags:
   - Real Estate
 excerpt: In this market, an expert isn’t just good to have by your side—it’s essential.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/Why+Hire+a+Real+Estate+Professional_.mp4
 pullquote: >-
   It’s crucial to work with a real estate expert who understands how the market
   is changing and what that means for homebuyers and sellers.
