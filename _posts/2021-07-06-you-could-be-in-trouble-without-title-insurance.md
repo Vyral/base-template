@@ -18,7 +18,7 @@ youtube_code: R3R42lJASNg
 
 {% include excerpt.html %}
 
-Today we're talking about owner's title insurance. What is it, and why do you need it?
+Today we're talking about owner's title insurance. What is it, and why do you need it? Arielle Cecalla is back to help us answer these questions and more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
