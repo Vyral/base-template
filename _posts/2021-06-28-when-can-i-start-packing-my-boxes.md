@@ -5,7 +5,8 @@ date: 2021-06-28 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s some advice about when to start packing when you sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/When+Can+I+Start+Packing+My+Boxes_.mp4
 pullquote: Without proper guidance, your transaction could be in jeopardy.
 enclosure_type: video/mp4
 enclosure_time:
