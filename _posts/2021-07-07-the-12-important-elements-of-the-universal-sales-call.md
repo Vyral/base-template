@@ -18,7 +18,7 @@ youtube_code: NePPxFy4bpE
 
 {% include excerpt.html %}
 
-Professional salespeople are taught to use scripts, but a script isn’t always available. Today I’m excited to share a dozen different tips that you can use in any kind of sales call on the latest episode of Agent Power Huddle.
+Professional salespeople are taught to use scripts, but a script isn’t always available. Today I’m excited to share a dozen different tips that you can use in any kind of sales call on the latest episode of "Agent Power Huddle."
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
@@ -50,4 +50,4 @@ Professional salespeople are taught to use scripts, but a script isn’t always 
 
 28:10—Wrapping things up/ Q&A
 
-If you have any questions for me about any of these universal sales tips or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+If you have any questions for me about these universal sales tips or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
