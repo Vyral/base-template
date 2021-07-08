@@ -7,13 +7,13 @@ tags:
   - Real Estate
 excerpt: Here’s what’s most crucial to getting your offer accepted in this market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/Dave+Knight+Real+Estate+Team_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/The+2+Keys+to+Getting+Your+Offer+Accepted.mp4
 pullquote: Besides price, the key things that get offers accepted are the terms.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-get-your-offer-accepted-yt.jpg
-youtube_code: KhwW6ZE8JuY
+youtube_code: 53ciLCSY0lQ
 ---
 {% include youtube.html %}
 
