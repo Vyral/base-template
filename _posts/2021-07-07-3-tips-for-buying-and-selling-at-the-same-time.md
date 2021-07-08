@@ -4,7 +4,7 @@ title: 3 Tips for Buying and Selling at the Same Time
 date: 2021-07-07 00:00:00
 tags:
   - Home Seller Tips
-excerpt: Here are 3 tips on how to buy and sell a home at the same time.
+excerpt: Here are three tips on how to buy and sell a home at the same time.
 enclosure:
 pullquote: >-
   Don’t let buying and selling at the same time hold you back from building your
@@ -27,6 +27,6 @@ If you’re a homeowner who’s been on the fence about selling your home, you�
 
 {% include pullquote.html %}
 
-**3\. Make sure to get a post-occupancy agreement.** This is huge; depending on how much equity you had in the home when you sold it, you could have several thousand dollars in cash that may allow you to be a cash buyer for your next home. Not only that, but your offer on the new home wouldn’t be contingent on the sale of your first one, making your offer that much stronger.
+**3\. Make sure to get a post-occupancy agreement.** This is huge; depending on how much equity you had in the home when you sold it, you could have several thousand dollars in cash that may allow you to be a cash buyer for your next home. Not only that, but your offer on the new home also wouldn’t be contingent on the sale of your first one, making your offer that much stronger.
 
 Don’t let buying and selling at the same time hold you back from building your wealth in real estate today. If you have any questions or would like more information, please feel free to reach out to us. We’d love to help you.
