@@ -36,4 +36,4 @@ As for the exterior of the home, one of the issues Barry notices regularly is ra
 
 If you’d like to get in touch with Barry, you can do so by calling (587) 582-5855 or by visiting **[www.northwestcalgary.abuyerschoice.com](http://www.northwestcalgary.abuyerschoice.com/)**.
 
-As always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+As always, if you have any other questions or would like more information from me, feel free to give me a call or send an email. I look forward to hearing from you soon.
