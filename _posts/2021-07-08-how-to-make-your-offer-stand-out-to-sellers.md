@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make Your Offer Stand Out to Sellers
-date: 2021-06-28 13:13:00
+date: 2021-07-08 11:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are some ways to make your offer stand out from the rest.
