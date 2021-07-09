@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Picking the Right Agent Is Critical
-date: 2021-07-06 15:00:00
+date: 2021-07-09 11:00:00
 tags:
   - Expert Advice
 excerpt: Here’s how to choose the right real estate agent for you and your needs.
