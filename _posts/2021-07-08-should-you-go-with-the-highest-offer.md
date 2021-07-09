@@ -4,7 +4,7 @@ title: Should You Go With the Highest Offer?
 date: 2021-07-08 00:00:00
 tags:
   - Home Seller Tips
-excerpt: Here’s why you can’t simply accept the highest money offer you receive.
+excerpt: Here’s why you can’t simply accept the highest price you receive.
 enclosure:
 pullquote: It’s in your best interest to avoid renegotiation.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: Sb6qFlaYIMI
 
 {% include excerpt.html %}
 
-Should you just take the offer with the highest money amount? We’ve touched on this before, but **the market has gotten very complex**. Inventory is low, money is coming in from South Bay, East Bay, and San Francisco, and we’re seeing ridiculous offers.&nbsp;
+Should you just take the offer with the highest price? We’ve touched on this before, but **the market has gotten very complex**. Inventory is low, money is coming in from South Bay, East Bay, and San Francisco, and we’re seeing ridiculous offers.&nbsp;
 
 You need to trust your real estate agent and ask them which offer is truly most likely to close with the offered terms and price. Some offers are simply too good to be true. We often receive multiple offers, and they may offer the moon, but, for example, one might say it’s non-contingent except for due diligence. You don’t want to get caught up in a situation where the agent has a loophole that lets them change the terms after the offer is accepted.
 
