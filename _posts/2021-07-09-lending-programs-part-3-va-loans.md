@@ -9,7 +9,7 @@ enclosure:
 pullquote: You’re allowed to have more than one VA loan at a time.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/5-things-to-know-about-va-loans-yt.jpg
 youtube_code: xDFgInmsfmo
 ---
