@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Example of How Hot Our Market Is
-date: 2021-06-29 08:00:00
+date: 2021-07-09 08:00:00
 tags:
   - Market Update
 excerpt: Here’s an example of how hot our real estate market currently is.
