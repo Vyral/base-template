@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Help Our Clients Win in Multiple-Offer Situations
-date: 2021-07-01 16:24:05
+date: 2021-07-09 13:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are five tips for winning as a buyer in a seller’s market.
