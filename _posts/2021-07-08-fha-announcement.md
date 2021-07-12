@@ -19,7 +19,7 @@ youtube_code: 7ysDt-G8VsI
 
 Today we're talking about the Federal Housing Administration and some changes they've just made to help first-time homebuyers. **About 40% of first-time homebuyers have student debt.** Over the last five years, mortgage brokers and mortgage banks have had to factor student debt into their debt-to-income ratio calculation.
 
-If you have $1,000 worth of student debt that you pay every month, then you’ll qualify for $1,000 less loan. This majorly affects being able to borrow for a mortgage or buy a home, so the Federal Housing Administration released a statement on June 18 saying that **mortgage lenders can no longer factor in student debt to qualify for a mortgage.**
+If you have $1,000 worth of student debt that you pay every month, then you’ll qualify for $1,000 less on your loan. This has a major effect on buyers being able to borrow for a mortgage or buy a home, so the Federal Housing Administration released a statement on June 18 saying that **mortgage lenders can no longer factor in student debt to qualify for a mortgage.**
 
 This will open up a lot of opportunities for first-time homebuyers who are carrying student debt and who otherwise, in the past few years, would not have been able to buy a house.
 
