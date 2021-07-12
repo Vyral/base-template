@@ -23,4 +23,4 @@ If you have $1,000 worth of student debt that you pay every month, then you’ll
 
 This will open up a lot of opportunities for first-time homebuyers who are carrying student debt and who otherwise, in the past few years, would not have been able to buy a house.
 
-If you have student debt and want to find out more about buying a house or see if you qualify now, give us a call at 704-626-2479 or visit us online at [thewhitegroup.com.](thewhitegroup.com.){: target="_blank" rel="noopener"}
+If you have student debt and want to find out more about buying a house or see if you qualify now, give us a call at 704-626-2479 or visit us online at&nbsp;[thewhitegroupblog.com](https://thewhitegroupblog.com/).
