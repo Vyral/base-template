@@ -29,7 +29,7 @@ client:
   url: 'http://www.gormanresidential.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://gorman.kwrealty.com/sell/'
+  first_CTA_URL: 'http://www.gormanresidential.com/what-is-my-home-worth/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://gormanresidential.kw.com/'
   phone_CTA: true
