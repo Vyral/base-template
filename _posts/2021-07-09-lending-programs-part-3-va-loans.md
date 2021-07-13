@@ -17,7 +17,7 @@ youtube_code: mMPo7iABoUs
 
 {% include excerpt.html %}
 
-Last time, we discussed the different programs available to assist buyers. Today, I’m joined once again by lender Abel Tejeda, who is here to answer questions about VA loans in particular. The VA home loan is specifically designated for veterans and those still active in the military. It’s an excellent program for down payments, credit lenience, and the benefits it provides to those with disabilities.
+Last time, we discussed the different programs available to assist buyers. Today I’m joined once again by lender Abel Tejeda, who is here to answer questions about VA loans in particular. The VA home loan is specifically designated for veterans and those still active in the military. It’s an excellent program for down payments, credit lenience, and the benefits it provides to those with disabilities.
 
 **What is the credit requirement for the VA loan program?**
 
