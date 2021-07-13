@@ -5,7 +5,8 @@ date: 2021-07-01 00:00:00
 tags:
   - Community Spotlight
 excerpt: 'Our newest agent joins us today to introduce herself. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2021/Make+Your+Bathroom+Shine+With+These+8+Tips.mp4
 pullquote: 'We’ve hit it out of the park with our newest addition: Abby Lehman.'
 enclosure_type: video/mp4
 enclosure_time:
