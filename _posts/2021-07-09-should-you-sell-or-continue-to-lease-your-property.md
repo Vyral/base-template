@@ -23,11 +23,11 @@ youtube_code: Ml8IYN0uJRI
 
 {% include excerpt.html %}
 
-People who own rental properties have been asking me if they should sell it given how good the market is or if they should continue leasing it. If you’ve been wondering about this yourself, today I’ll share three questions you should ask yourself to help you evaluate whether you should sell or continue leasing:
+People who own rental properties have been asking me if they should sell them given how good the market is or if they should continue leasing it. If you’ve been wondering about this yourself, today I’ll share three questions you should ask yourself to help you evaluate whether you should sell or continue leasing:
 
 **1\. What are your overall goals?** Is it your goal to own a portfolio of rental properties that you continually build upon? Assess where you want to be in five, 10, and even 20 years down the road, and let that weigh into your decision.
 
-**2\. Do you think prices will continue to rise?** If they are, then it may make sense to keep that property. If not, consider how you could reinvest the money from your sale and whether you could get a better return on your investment.
+**2\. Do you think prices will continue to rise?** If they do, then it may make sense to keep that property. If not, consider how you could reinvest the money from your sale and whether you could get a better return on your investment.
 
 {% include pullquote.html %}
 
