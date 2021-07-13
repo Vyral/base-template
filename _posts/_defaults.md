@@ -19,6 +19,8 @@ youtube_code: kodSwXkDcxE
 
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
 
 {% include pullquote.html %}
