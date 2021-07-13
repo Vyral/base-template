@@ -2,10 +2,7 @@
 layout: post
 title: '10 Steps Every New Agent Should Take: Part 1'
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: 'It’s time to put you in business as an agent. '
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2021/10+Steps+Every+New+Agent+Should+Take_+Part+1.mp4
