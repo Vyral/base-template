@@ -4,8 +4,10 @@ title: 3 Tips for Buying and Selling at the Same Time
 date: 2021-07-07 00:00:00
 tags:
   - Home Seller Tips
+  - Home Buyer Tips
 excerpt: Here are three tips on how to buy and sell a home at the same time.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/3+Tips+for+Buying+and+Selling+at+the+Same+Time.mp4
 pullquote: >-
   Don’t let buying and selling at the same time hold you back from building your
   wealth in real estate.
