@@ -5,7 +5,8 @@ date: 2021-07-08 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why you can’t simply accept the highest price you receive.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Should+You+Accept+the+Highest+Offer_.mp4
 pullquote: It’s in your best interest to avoid renegotiation.
 enclosure_type: video/mp4
 enclosure_time:
