@@ -5,7 +5,8 @@ date: 2021-07-09 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s what you need to know about the VA home loan program.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/Lending+Programs%2C+Part+3_+VA+Loans.mp4
 pullquote: You’re allowed to have more than one VA loan at a time.
 enclosure_type: video/mp4
 enclosure_time:
