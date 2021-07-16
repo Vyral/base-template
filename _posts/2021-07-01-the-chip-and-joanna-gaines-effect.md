@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The modern farmhouse home is the most popular style in Iowa.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+Chip+and+Joanna+Gaines+Effect.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,14 +25,9 @@ Within the last two years, you're seeing a lot more people wanting a modern farm
 
 What are some of the characteristics of the modern farmhouse style?
 
-<ul>
-<li>Shiplap above the fireplaces, around the surrounds, and in kitchens above all the cabinetry. A lot of new construction builders are jumping on that bandwagon because they know consumers want it.</li>
-
-<li>Large barn doors.</li>
-
-<li>A huge sink that you can practically take a bath in. Everybody wants it to be either&nbsp; stainless steel or all white.</li>
-
-<li>Open shelving in the kitchen. Those open shelves are all professionally staged, they have beautiful dishes, and it’s tastefully organized. However, the dream of how it will look is very different from the actual function of a family living there.</li>
-</ul>
+* Shiplap above the fireplaces, around the surrounds, and in kitchens above all the cabinetry. A lot of new construction builders are jumping on that bandwagon because they know consumers want it.
+* Large barn doors.
+* A huge sink that you can practically take a bath in. Everybody wants it to be either&nbsp; stainless steel or all white.
+* Open shelving in the kitchen. Those open shelves are all professionally staged, they have beautiful dishes, and it’s tastefully organized. However, the dream of how it will look is very different from the actual function of a family living there.
 
 If you have any questions for us about farmhouse-style homes or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
