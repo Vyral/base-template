@@ -22,7 +22,7 @@ youtube_code: JtR6uaQorbw
 
 There are a couple of key lessons I’ve learned during the pandemic from interacting with buyer and seller clients that I think it’s important to share with homeowners.&nbsp;
 
-First, **the pandemic has taught us what home means to us.** Things you may not have liked about your current home have likely become accentuated since you’ve probably spent so much more time there over the past year, whether that means the kitchen you don’t love, outdoor space you don’t have, limited number of rooms to host Zoom calls in, etc. That’s why many buyers are out there looking for homes. They’re thinking that instead of remodeling, why not just get something they love?
+First, **the pandemic has taught us what the word “home” means to us.** Things you may not have liked about your current home have likely become accentuated since you’ve probably spent so much more time there over the past year, whether that means the kitchen you don’t love, outdoor space you don’t have, or the limited number of rooms to host Zoom calls in, etc. That’s why many buyers are out there looking for homes. They’re thinking that instead of remodeling, why not just get something they love?
 
 {% include pullquote.html %}
 
