@@ -5,7 +5,7 @@ date: 2021-07-08 14:31:32
 tags:
   - Home Buyer Tips
 excerpt: First-time homebuyers with student debt may qualify for FHA loans now.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jay+White/2021/FHA+Announcement.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
