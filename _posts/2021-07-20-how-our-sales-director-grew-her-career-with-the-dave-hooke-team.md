@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Sales Director Grew Her Career With The Dave Hooke Team
-date: 2021-07-19 15:23:35
+date: 2021-07-20 15:23:00
 tags:
   - The Dave Hooke Team
 excerpt: We’re excited to shine the spotlight on our sales director, Drue Richmond.
