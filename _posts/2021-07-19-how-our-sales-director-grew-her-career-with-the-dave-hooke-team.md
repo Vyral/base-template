@@ -26,4 +26,4 @@ Drue loves the challenges that each new day brings, as they give her a chance to
 
 {% include pullquote.html %}
 
-**We’d like to thank Drue for being such a valuable leader in our team—we truly appreciate everything she does.** If you’re looking to begin a career path in real estate that allows you to grow in a similar way, The Dave Hooke Team is always looking for new agents to add to our team. If you’re interested in joining our business, or if you’d like to learn more about what a real estate career is like, feel free to reach out to us. We look forward to hearing from you soon.
+**We’d like to thank Drue for being such a valuable leader in our team—we truly appreciate everything she does.** If you’re looking to begin a career path in real estate that allows you to grow similarly, The Dave Hooke Team is always looking for new agents to add to our team. If you’re interested in joining our business, or if you’d like to learn more about what a real estate career is like, feel free to reach out to us. We look forward to hearing from you soon.
