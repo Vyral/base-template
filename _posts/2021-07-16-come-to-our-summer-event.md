@@ -18,8 +18,20 @@ hidden: false
 
 {% include excerpt.html %}
 
-We are loving being outdoors and enjoying summertime, especially after being cooped up for the past year. It feels like summer just started, and it will come to an end before you know it, so we’d like to invite you to one more summer event.
+![](/uploads/SnowConeSpecial.png){: width="602" height="401"}
 
-We are so excited for you to come to our **Summer Snow Cone Social at Josh’s Sno Shack in <u><a target="_blank" rel="noopener" href="https://goo.gl/maps/ySi4cg34Y8CpTQFF6">Brookside Collective Park</a></u> on Sunday, August 1 from 1 p.m. to 3 p.m.** All you have to do is <u><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291">sign up</a></u>, swing by, and enjoy a snow cone on us. We’re just getting back to in-person events, so we can’t wait to see you and catch up.
+**Before We Gear Up for Back to School, Join Us for Our Summer Snow Cone Social\!**
 
-We love our clients, we love Tulsa, and we love giving back, so we’ll also be accepting donations and school supplies for The Pencil Box. To learn more about how this local organization gives back to Tulsa public schools, <u><a target="_blank" rel="noopener" href="https://www.pencilboxtulsa.org/what">visit their website</a></u>. If you have any other questions about real estate matters, feel free to reach out to us via phone or email.
+The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://www.joshssnoshack.com/){: target="_blank" rel="noopener"} at Brookside Collective Park on Sunday, August 1 between 1-3 p.m.
+
+![](/uploads/SnowConeSpecialInstructions.png){: width="1800" height="1200"}
+
+**[<u>Reserve Your Free Snowcone!</u>](https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291){: target="_blank" rel="noopener"}**
+
+We love our clients and we love Tulsa\! To give back, we're collecting school supplies for [<u>The Pencil Box</u>](https://www.pencilboxtulsa.org/){: target="_blank" rel="noopener"}. Learn more about this organization gives back to Tulsa Public Schools on their website.
+
+See below for full details and The Pencil Box's Wish List\!
+
+![](/uploads/PencilBoxWishlist.png){: width="1800" height="1200"}
+
+We will donate $500 to The Pencil Box by way of The Wolek Group's non-profit [<u>Keys to the City</u>](https://www.thewolekgroup.com/keys_to_the_city){: target="_blank" rel="noopener"}, which is funded by allowing us to help so many families\! Thank you for your continued support\!
