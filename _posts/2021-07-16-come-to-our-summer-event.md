@@ -18,20 +18,22 @@ hidden: false
 
 {% include excerpt.html %}
 
-<center><img src="/uploads/SnowConeSpecial.png?_cchid=bd346651567ee4365483e88ff99f1321" alt="" width="602" height="401" data-cms-original-src="/uploads/SnowConeSpecial.png"></center>
-<br>
-**Before We Gear Up for Back to School, Join Us for Our Summer Snow Cone Social\!**
+<center><img alt="" width="602" height="401" src="/uploads/SnowConeSpecial.png" /></center>
+
+<br>**Before We Gear Up for Back to School, Join Us for Our Summer Snow Cone Social\!**
 
 The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://www.joshssnoshack.com/){: target="_blank" rel="noopener"} at Brookside Collective Park on Sunday, August 1 between 1-3 p.m.
 
 <center><img alt="Snow Cone Special Instructions" title="Snow Cone Special Instructions" width="100%" height="100%" src="/uploads/SnowConeSpecialInstructions.png?_cchid=5f015427b2252c24967e2b93acfe9291" /></center>
-<br>
-<p style="text-align: center">**[<u>Reserve Your Free Snowcone!</u>](https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291){: target="_blank" rel="noopener"}**</p>
+
+&nbsp;
+
+**<u>Reserve Your Free Snowcone!</u>**
 
 We love our clients and we love Tulsa\! To give back, we're collecting school supplies for [<u>The Pencil Box</u>](https://www.pencilboxtulsa.org/){: target="_blank" rel="noopener"}. Learn more about this organization gives back to Tulsa Public Schools on their website.
 
 See below for full details and The Pencil Box's Wish List\!
 
 <center><img alt="Pencil Box Wishlist" title="Pencil Box Wishlist" width="100%" height="100%" src="/uploads/PencilBoxWishlist.png?_cchid=43fd43887ced9d3409aac3123fcd031d" /></center>
-<br>
-We will donate $500 to The Pencil Box by way of The Wolek Group's non-profit [<u>Keys to the City</u>](https://www.thewolekgroup.com/keys_to_the_city){: target="_blank" rel="noopener"}, which is funded by allowing us to help so many families\! Thank you for your continued support\!
+
+<br>**We will donate $500 to The Pencil Box** by way of The Wolek Group's non-profit [<u>Keys to the City</u>](https://www.thewolekgroup.com/keys_to_the_city){: target="_blank" rel="noopener"}, which is funded by allowing us to help so many families\! Thank you for your continued support\!
