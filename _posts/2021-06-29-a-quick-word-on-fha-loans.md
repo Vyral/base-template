@@ -5,7 +5,8 @@ date: 2021-06-29 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: ' If you’re curious about FHA loans, today’s video is for you. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/A+Quick+Word+on+FHA+Loans.mp4
 pullquote: >-
   If a lender doesn’t adhere to FHA lending guidelines, their loan can’t be
   insured by the FHA.
