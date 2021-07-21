@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-<center><img alt="" width="602" height="401" src="/uploads/SnowConeSpecial.png" /></center>
+<center><img alt="" width="100%" height="100%" src="/uploads/SnowConeSpecial.png" /></center>
 
 <br>**Before We Gear Up for Back to School, Join Us for Our Summer Snow Cone Social\!**
 
