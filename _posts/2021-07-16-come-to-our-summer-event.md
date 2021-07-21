@@ -28,7 +28,7 @@ The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://
 
 &nbsp;
 
-<center style="font-size: 16px;"><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><b><u>Reserve Your Free Snowcone!</u></b></a></center>
+<center style="font-size: 24px;"><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><b><u>Reserve Your Free Snowcone!</u></b></a></center>
 
 <br>We love our clients and we love Tulsa\! To give back, we're collecting school supplies for [<u>The Pencil Box</u>](https://www.pencilboxtulsa.org/){: target="_blank" rel="noopener"}. Learn more about this organization gives back to Tulsa Public Schools on their website.
 
