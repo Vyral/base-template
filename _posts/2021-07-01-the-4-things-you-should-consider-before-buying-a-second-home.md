@@ -5,7 +5,8 @@ date: 2021-07-01 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Take these considerations into account before buying a second home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/The+4+Things+You+Should+Consider+Before+Buying+a+Second+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
