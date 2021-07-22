@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Key Lessons Homeowners Should Take From the Pandemic
-date: 2021-07-20 13:12:00
+date: 2021-07-22 08:30:00
 tags:
   - Real Estate Tips
 excerpt: Here’s what the pandemic has taught me about today’s buyers and sellers.
