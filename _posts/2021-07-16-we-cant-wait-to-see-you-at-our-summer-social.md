@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Come To Our Summer Event
+title: We Can't Wait to See You at Our Summer Social!
 date: 2021-07-16 00:00:00
 tags:
   - The Wolek Group
@@ -26,7 +26,11 @@ The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://
 
 <center><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><img alt="Snow Cone Special Instructions" title="Snow Cone Special Instructions" width="100%" height="100%" src="/uploads/SnowConeSpecialInstructions.png?_cchid=5f015427b2252c24967e2b93acfe9291" /></a></center>
 
-<br><center style="font-size: 24px;"><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><b><u>Reserve Your Free Snowcone!</u></b></a></center>
+&nbsp;
+
+<center style="font-size: 24px;"><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><b><u>Reserve Your Free Snowcone!</u></b></a></center>
+
+&nbsp;
 
 <br>We love our clients and we love Tulsa\! To give back, we're collecting school supplies for [<u>The Pencil Box</u>](https://www.pencilboxtulsa.org/){: target="_blank" rel="noopener"}. Learn more about how this organization gives back to Tulsa Public Schools on their website.
 
