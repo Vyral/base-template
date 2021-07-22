@@ -41,4 +41,4 @@ The latest numbers are in for the Louisville real estate market, so today I’d 
 
 5:54 — Conclusion to today’s video
 
-If you have any questions about our market, or if you’re looking to buy or sell a home, feel free to reach out to me. I look forward to hearing from you soon.
+If you have any questions about our market or if you’re looking to buy or sell a home, feel free to reach out to me. I look forward to hearing from you soon.
