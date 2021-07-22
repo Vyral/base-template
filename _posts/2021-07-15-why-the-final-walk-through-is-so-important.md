@@ -4,13 +4,13 @@ title: Why the Final Walk-through is so Important
 date: 2021-07-15 00:00:00
 tags:
   - Real Estate
-excerpt: Here’s why buyers should never skip the final walkthrough.
+excerpt: Here’s why buyers should never skip the final walk-through.
 enclosure:
 pullquote: Once you close on a property, you’ve accepted it in its current condition.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/chad--sara-huebener-the-final-walkthrough-yt2.jpg
+youtube_alternate_image: /uploads/chad--sara-huebener-the-final-walkthrough-yt2-1.jpg
 youtube_code: G_FDJNiaUgo
 ---
 {% include youtube.html %}
