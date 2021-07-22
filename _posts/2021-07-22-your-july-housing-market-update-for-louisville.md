@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 4 Incentives for selling now
+title: Your July Housing Market Update for Louisville
 date: 2021-07-22 00:00:00
 tags:
-  - Home Seller Tips
   - Real Estate
+  - Louisville Real Estate Market Update
 excerpt: Here’s what’s happening in the Louisville real estate market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Your+July+Housing+Market+Update+for+Louisville.mp4
