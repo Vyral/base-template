@@ -22,7 +22,7 @@ hidden: false
 
 <br>**Before We Gear Up for Back to School, Join Us for Our Summer Snow Cone Social\!**
 
-The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://www.joshssnoshack.com/){: target="_blank" rel="noopener"} at Brookside Collective Park on Sunday, August 1 between 1-3 p.m.
+The Wolek Group is excited for you to come by [<u>Josh's Sno Shack</u>](https://www.joshssnoshack.com/){: target="_blank" rel="noopener"} at Brookside Collective Park on Sunday, August 1 between 1 p.m. and 3 p.m.
 
 <center><a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/summer-snow-cone-social-tickets-161807066291"><img alt="Snow Cone Special Instructions" title="Snow Cone Special Instructions" width="100%" height="100%" src="/uploads/SnowConeSpecialInstructions.png?_cchid=5f015427b2252c24967e2b93acfe9291" /></a></center>
 
