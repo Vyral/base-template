@@ -23,6 +23,6 @@ Here are three reasons why you should buy an investment property and rent it out
 
 **2\. It’ll create passive income and build your net worth**. Even more importantly, everybody needs a roof over their head, and you present options for them to do so.
 
-**3\. Owning real estate will grant you huge tax benefits**. Everything inside the home is deducted within seven years and rental income is taxed at the lowest rate of any income.
+**3\. Owning real estate will grant you huge tax benefits**. Everything inside the home is deducted within seven years, and rental income is taxed at the lowest rate of any income.
 
-Don't let this market frustrate you. Get yourself an investment property today. If you have any questions about rentals or if you’re looking to sell or buy, don’t hesitate to reach out to us.
+Don't let this market frustrate you. Get yourself an investment property today. If you have any questions about rentals, or if you’re looking to sell or buy, don’t hesitate to reach out to us.
