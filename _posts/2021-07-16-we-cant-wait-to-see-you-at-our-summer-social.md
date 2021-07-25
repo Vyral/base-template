@@ -5,7 +5,8 @@ date: 2021-07-16 00:00:00
 tags:
   - The Wolek Group
 excerpt: Join us for our Summer Snow Cone Social on Sunday, August 1!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/We+Can't+Wait+to+See+You+at+Our+Summer+Social!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
