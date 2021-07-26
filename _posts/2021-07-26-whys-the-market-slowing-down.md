@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why’s the Market Slowing Down?
-date: 2021-07-26 20:04:17
+date: 2021-07-26 15:04:00
 tags:
   - Market Update
 excerpt: Is the real estate market slowing down?
