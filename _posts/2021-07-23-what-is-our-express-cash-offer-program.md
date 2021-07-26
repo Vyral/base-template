@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: What Is Our Express Cash Offer Program?'
-date: 2020-06-05 18:54:00
+title: What Is Our Express Cash Offer Program?
+date: 2021-07-23 18:54:00
 tags:
   - Real Estate
 excerpt: Here’s how our Express Cash Offer program works. It may be right for you.
@@ -12,10 +12,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-express-cash-offer-program-yt2.jpg
-youtube_code: 'https://youtu.be/1YXCxI9jc2M'
+youtube_code: https://youtu.be/1YXCxI9jc2M
 ---
-
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 In the last few years, many institutional buyers (or iBuyers) such as Opendoor, Offerpad, and Zillow have entered the real estate market. We receive tons of questions from clients about how their buying process works, what their offers are, and whether it’s better to sell to them than go the traditional route. So **we created a program that gives our clients access to all the iBuyers that are buying homes in our area: the [Express Cash Offer program](https://ibuyerhomeoffer.com/){: target="_blank"}.** In the past few months, we’ve partnered with over 20 different institutional buyers in the Phoenix market.&nbsp;
 
