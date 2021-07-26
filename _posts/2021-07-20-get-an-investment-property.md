@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Reasons To Buy an Investment Property
+title: Get an Investment Property
 date: 2021-07-20 00:00:00
 tags:
   - Home Buyer Tips
