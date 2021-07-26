@@ -19,7 +19,7 @@ youtube_code: clnbzcct2Bk
 
 {% include excerpt.html %}
 
-Who doesn't love receiving repeat and referral business from their database? I know I sure do. Over half of our production each year comes directly from people that we know, their past clients, or friends and family referred to us by those people. Building a database that is consistently producing predictable results each year is truly the ultimate goal of all real estate agents. Once this idea finally got through to me, I have been on a mission to continually grow the number of people in our database as well as improve on the systems which get applied to them.
+Who doesn't love receiving repeat and referral business from their database? I know I sure do. Over half of our production each year comes directly from people that we know, whether they are past clients or friends and family referred to us by those people. Building a database that is consistently producing predictable results each year is truly the ultimate goal of all real estate agents. Once this idea finally got through to me, I have been on a mission to continually grow the number of people in our database as well as improve on the systems which get applied to them.
 
 **There are four laws of lead generation**. This comes directly from page 188 of “The Millionaire Real Estate Agent:”
 
@@ -34,4 +34,4 @@ Who doesn't love receiving repeat and referral business from their database? I k
 
 The ultimate goal is to deepen the relationship with people in your database. Those connections can lead to an appointment to discuss their plans and see if you're a good fit to work together.
 
-If you'd like to get more information about what's going on inside of our business, I have more business workshops this year, so make sure and check those out. If you have any other questions, feel free to contact me by phone or email. I look forward to hearing from you.
+If you'd like to get more information about what's going on inside of our business, I have more Mirror My Business workshops this year, so make sure and [<u>check those out</u>](https://www.eventbrite.com/e/mirror-my-business-workshop-with-jennie-wolek-tickets-140730072435){: target="_blank" rel="noopener"}. If you have any other questions, feel free to contact me by phone or email. I look forward to hearing from you.
