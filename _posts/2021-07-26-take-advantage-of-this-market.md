@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take Advantage of This Market
-date: 2021-07-22 08:00:00
+date: 2021-07-26 08:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are three major reasons for sellers to list their homes.
