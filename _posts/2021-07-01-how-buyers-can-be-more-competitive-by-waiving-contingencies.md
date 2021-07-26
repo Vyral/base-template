@@ -5,7 +5,8 @@ date: 2021-07-01 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Waiving contingencies in your contract can make you a better buyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/How+Buyers+Can+Be+More+Competitive+by+Waiving+Contingencies.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
