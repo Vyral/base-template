@@ -4,13 +4,7 @@ title: We’re Looking to Fill 3 Positions
 date: 2021-07-26 12:00:00
 tags:
   - AK Real Estate
-excerpt: >-
-  I have an exciting announcement to share: We’re hiring for three positions on
-  our team! We’re looking for a listing partner and two buyer’s agents. If
-  you’ve ever wanted to get into the real estate business or you already are but
-  want something different, this is an awesome opportunity for you. We’re the
-  No. 2 Keller Williams team in the Northwest Region of the U.S. To learn more
-  about these positions, watch this short video.
+excerpt: We’re hiring for three positions. Are you right for our team?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/We%E2%80%99re+Looking+to+Fill+3+Positions.mp4
 pullquote:
