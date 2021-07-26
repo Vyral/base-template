@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Keeping Up with Flathead: Second Quarter Market Update'
-date: 2021-07-26 18:54:00
+date: 2021-07-26 14:00:00
 tags:
   - Market Update
 excerpt: Here’s your midyear 2021 Flathead area real estate market update.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Keeping+Up+with+Flathead_+Second+Quarter+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
