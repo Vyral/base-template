@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.gormanresidential.com/what-is-my-home-worth/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://gormanresidential.kw.com/'
+  second_CTA_URL: 'http://www.gormanresidential.com/communities/'
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=37b1012666'
 sidebar_CTA:
