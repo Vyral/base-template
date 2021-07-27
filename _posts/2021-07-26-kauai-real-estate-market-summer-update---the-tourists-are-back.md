@@ -14,9 +14,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/margolis-logo-2.png
-youtube_code:
+youtube_code: t7W6k_JHtbQ
 ---
 &nbsp;
+
+{% include youtube.html %}
 
 **Update in brief**
 
