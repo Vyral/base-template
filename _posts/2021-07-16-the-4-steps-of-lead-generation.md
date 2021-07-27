@@ -34,4 +34,4 @@ Who doesn't love receiving repeat and referral business from their database? I k
 
 The ultimate goal is to deepen the relationship with people in your database. Those connections can lead to an appointment to discuss their plans and see if you're a good fit to work together.
 
-If you'd like to get more information about what's going on inside of our business, I have more Mirror My Business workshops this year, so make sure and [<u>check those out</u>](https://www.eventbrite.com/e/mirror-my-business-workshop-with-jennie-wolek-tickets-140730072435){: target="_blank" rel="noopener"}. If you have any other questions, feel free to contact me by phone or email. I look forward to hearing from you.
+I love sharing everything we do in our business with real estate agents through this blog and classes I've created. Interested in learning more from me? [<u>Check out all my upcoming events here</u>](https://www.eventbrite.com/o/jennie-wolek-with-the-wolek-group-17487334418){: target="_blank" rel="noopener"}\!
