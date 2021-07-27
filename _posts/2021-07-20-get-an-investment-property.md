@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/07-19-canady-youtube.jpg
-youtube_code: o1sMpGkQnBI
+youtube_code: RSKWT3Be42g
 ---
 {% include youtube.html %}
 
