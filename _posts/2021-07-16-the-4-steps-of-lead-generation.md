@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Reviews and Referrals
 excerpt: Reap the rewards of having a healthy, productive, and profitable database.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/The+4+Steps+of+Lead+Generation.mp4
 pullquote: The ultimate goal is to deepen the relationship with people in your database.
 enclosure_type: video/mp4
 enclosure_time:
