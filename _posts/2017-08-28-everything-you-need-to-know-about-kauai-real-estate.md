@@ -7,15 +7,13 @@ tags:
 excerpt: Here’s what you need to know about the Kauai real estate market.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ron+Margolis/KW+Kauai+Real+Estate+Kauai+real+estate%E2%80%99s+latest+news.mp4
-pullquote: 'Anything under $600,000 is in heavy demand.'
+pullquote: Anything under $600,000 is in heavy demand.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Yb_jEEFd-b4
+youtube_code: t7W6k_JHtbQ
 ---
-
-
 {% include youtube.html %}
 
 We’re a little over halfway through 2017 and our real estate market in Kauai continues to be strong. We’ve recovered significantly from the market crash and for the last five years we’ve had appreciation of about 10% per year in the condo market and 6.5% per year in the single-family home market. Economists are saying that over the next few years, we can expect appreciation to drop a bit to 4% or 5%.
