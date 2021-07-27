@@ -19,7 +19,7 @@ youtube_code: Uy2ddKxAfcQ
 
 {% include excerpt.html %}
 
-Everyone knows we are living in boom times as far as sellers are concerned. It’s increasingly common for sellers to find themselves in a multiple-offer situation, and prices keep going up. Naturally, this has a lot of people asking, “when is the market going to crash?” Buyers are understandably frustrated by the state of the market. Maybe they’ve lost a multiple-offer situation a few times and have decided to sit the market out until it crashes.
+Everyone knows we are living in boom times as far as sellers are concerned. It’s increasingly common for sellers to find themselves in a multiple-offer situation, and prices keep going up. Naturally, this has a lot of people asking, “When is the market going to crash?” Buyers are understandably frustrated by the state of the market. Maybe they’ve lost a multiple-offer situation a few times and have decided to sit the market out until it crashes.
 
 **The bottom line is, the market is showing no signs of slowing down, never mind crashing.** I strongly advise against buyers sitting things out until a crash occurs, and here are my reasons why.&nbsp;
 
@@ -29,9 +29,9 @@ Also, the baby boomer generation is getting older, but they’re holding on to t
 
 {% include pullquote.html %}
 
-While we’re talking about generations, they can also help explain the increase in demand. For example, Millennials saw the market crash in 2008 and decided homeownership was too big of a risk. Because of this, their demand for homes was stifled for a bit but is coming back strong as they get older. Meanwhile, Generation Z’s demand for homes is coming on early. Combine this with low interest rates, and the high demand we see today starts to make a lot of sense.&nbsp;
+While we’re talking about generations, they can also help explain the increase in demand. For example, millennials saw the market crash in 2008 and decided homeownership was too big of a risk. Because of this, their demand for homes was stifled for a bit but is coming back strong as they get older. Meanwhile, Generation Z’s demand for homes is coming on early. Combine this with low interest rates, and the high demand we see today starts to make a lot of sense.&nbsp;
 
-This all sounds pretty crazy, but here’s why I don’t think it’s going to end anytime soon. It’s going to take more inventory and less buyer demand for the market to even out. **What I predict will happen, is that when interest rates rise, buyer demand will go down slightly.** As people continue to sell their homes, the market should slowly start to stabilize.&nbsp;
+This all sounds pretty crazy, but here’s why I don’t think it’s going to end anytime soon: It’s going to take more inventory and less buyer demand for the market to balance. **What I predict will happen is that when interest rates rise, buyer demand will go down slightly.** As people continue to sell their homes, the market should slowly start to stabilize.&nbsp;
 
 You may have heard people talking about ‘zombie’ or ‘ghost’ foreclosures, or in other words, foreclosures that haven’t come to the market yet. They sound spooky, but the reality is that there is no evidence they’re happening at a high rate at all.&nbsp;
 
