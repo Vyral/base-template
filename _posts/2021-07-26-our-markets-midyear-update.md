@@ -18,7 +18,7 @@ youtube_code: 5KNCkvoRXWM
 
 {% include excerpt.html %}
 
-Now that we’re halfway through the year, I think it would be helpful to take a look back at the past six months of 2021 and talk about what happened in the market and predictions of where it’s headed.
+Now that we’re halfway through the year, I think it would be helpful to take a look back at the past six months of 2021, talk about what happened in the market and predict where it’s headed.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
