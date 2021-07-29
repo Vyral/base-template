@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keeping Up with Flathead: Second Quarter Market Update'
-date: 2021-07-26 14:00:00
+date: 2021-07-29 13:00:00
 tags:
   - Market Update
 excerpt: Here’s your midyear 2021 Flathead area real estate market update.
