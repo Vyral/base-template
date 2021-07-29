@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  How do home stagers help sellers save, and earn, money? Special guest Rachel
+  How do home stagers help sellers save and earn money? Special guest Rachel
   Borrelli of Diversa Designs joins us today to explain.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/How+Home+Staging+Can+Make+or+Break+a+Listing.mp4
@@ -17,7 +17,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/eric-mortimer-ss-may-1-no-play.jpg
 youtube_code: PwNCPhqA8JU
 ---
-
 {% include youtube.html %}
 
 <center><em>How do home stagers help sellers save, and earn, money? Special guest Rachel Borrelli of Diversa Designs joins us today to explain.</em></center>
