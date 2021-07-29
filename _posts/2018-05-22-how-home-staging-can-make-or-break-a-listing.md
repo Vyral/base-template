@@ -23,7 +23,7 @@ youtube_code: PwNCPhqA8JU
 
 &nbsp;
 
-Today I am joined by special guest Rachel Borrelli, Owner of Diversa Designs Home Staging and Redesign to cover some inside tips on effective home staging. These helpful hints are absolute musts in our current market. But before we move on to these tips, let’s go over a question many ask when the subject of home staging arises: **How do stagers help people save and make money with their home?**
+Today I am joined by special guest Rachel Borrelli, Owner of Diversa Designs Home Staging and Redesign, to cover some inside tips on effective home staging. These helpful hints are absolute musts in our current market. But before we move on to these tips, let’s go over a question many ask when the subject of home staging arises: **How do stagers help people save and make money with their home?**
 
 The way stagers help people save money is actually quite simple. Stagers can enter a seller’s home right before they list to tell them exactly what should be done to prepare the property. This prevents sellers from wasting time and money on unnecessary upgrades or repairs. Having the advice of a professional stager can guide sellers to making informed, effective renovations.
 
