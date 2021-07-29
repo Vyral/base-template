@@ -5,7 +5,8 @@ date: 2021-07-27 15:44:05
 tags:
   - Market Update
 excerpt: Our predictions about Twin Cities median home prices this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2021/Twin+Cities+Median+Home+Prices.mp4
 pullquote: >-
   We predict that we’ll see a 12% to 15% increase in median home sales prices
   this year.
