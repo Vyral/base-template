@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Staging Can Make or Break a Listing
-date: 2018-05-22 00:00:00
+date: 2021-07-30 10:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
