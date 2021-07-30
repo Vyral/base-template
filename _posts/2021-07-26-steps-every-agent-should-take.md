@@ -25,6 +25,6 @@ Today, we’ll be discussing the next steps every new agent should be taking to 
 
 {% include pullquote.html %}
 
-**3\. Market yourself to agents in feeder markets.** In Utah, we have a lot of people moving in from California, so we directed our team to connect with agents in the big metro areas of California. Now they have opportunities to procure additional business just through referrals as people move east to Utah. If you reach out to them, make a connection, and offer value, before you know it, you're going to be getting some referral business from them.
+**3\. Market yourself to agents in feeder markets.** In Utah, we have a lot of people moving in from California, so we directed our team to connect with agents in the big metro areas of California. Now they have opportunities to procure additional business just through referrals as people move east to Utah. If you reach out to them, make a connection, and offer value, you’ll get some referral business from them before you know it.
 
 We'll be back with some more steps that every new agent should take to build their business. Until then, have a great and profitable week, and reach out to us if you have any other questions.
