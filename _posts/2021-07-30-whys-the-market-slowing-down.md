@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why’s the Market Slowing Down?
-date: 2021-07-29 08:20:00
+date: 2021-07-30 08:00:00
 tags:
   - Market Update
 excerpt: Here’s why our market is slowing down a bit but still very active.
@@ -28,10 +28,8 @@ Fast forward to July, and the average median price for a single-family home in t
 
 Over the last few months, we’ve not only been seeing multiple offers but dozens of offers. However, **in the last 30 days, that’s beginning to dwindle a little.** I think that has to do with the fact that people are now able to travel and get out of the house, so many are making the most of the summer vacations they weren’t able to take last year. June and the first two weeks of July tend to be the slowest times of the year for real estate.
 
-Also consider the fact that many buyers have been priced out of the market due to rising home prices, which have gone up over 30% since COVID started. On top of that, many have also been dealing with the emotional toll that writing 20 to 30 offers can entail, especially when those offers aren’t accepted. Buyers like those have moved to the sidelines to wait until the market cools down.&nbsp;
+Also consider the fact that many buyers have been priced out of the market due to rising home prices, which have gone up over 30% since COVID started. On top of that, many have also been dealing with the emotional toll that writing 20 to 30 offers can entail, especially when those offers aren’t accepted. Buyers like those have moved to the sidelines to wait until the market cools down.
 
-So what does this all mean? **If you’re a buyer, you’ll start to see a bit less competition**; a home that might have had 25 to 30 offers on it might only now have five to 10. There will still be multiple-offer situations, but the competition will be less fierce unless you’re under the $1 million price point. If you’re a seller, prices have already increased a lot this year (up to 35% in some areas of the San Fernando Valley), so this is still an extremely good time to sell your home for top dollar.&nbsp;
+So what does this all mean? **If you’re a buyer, you’ll start to see a bit less competition**; a home that might have had 25 to 30 offers on it might only now have five to 10. There will still be multiple-offer situations, but the competition will be less fierce unless you’re under the $1 million price point. If you’re a seller, prices have already increased a lot this year (up to 35% in some areas of the San Fernando Valley), so this is still an extremely good time to sell your home for top dollar.
 
 If you have any questions about the market or real estate in general, don’t hesitate to reach out to us. We’d love to help you.
-
-&nbsp;
