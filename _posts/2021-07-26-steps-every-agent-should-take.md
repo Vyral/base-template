@@ -5,13 +5,13 @@ tags:
   - Real Estate
 excerpt: The steps every new agent should take to help grow their business.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2021/Steps+Every+Agent+Should+Take.mp4
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/MAM/Steps+Every+Agent+Should+Take.mp4
 pullquote: Do not be a silent agent in this world of social media.
 enclosure_type: video/mp4
 enclosure_time: 10:39 am
 use_youtube_image: false
 youtube_alternate_image: /uploads/stern.jpg
-youtube_code: DNH4pWblMNM
+youtube_code: WfyWBA3c6bU
 ---
 {% include youtube.html %}
 
