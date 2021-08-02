@@ -18,7 +18,7 @@ youtube_code: '-TXYAtY6FXw'
 
 {% include excerpt.html %}
 
-Has hesitation ever cost you money? I'll tell you how you can avoid what I call WCS or “Woulda Coulda Shoulda” Syndrome.
+Has hesitation ever cost you money? I'll tell you how you can avoid what I call WCS or “Woulda Coulda Shoulda Syndrome."
 
 Last year, I could have bought an air conditioning unit for my home for $3,800. This year, when I went to purchase the same unit, it cost $1,000 more. The same thing happens in the housing market.
 
