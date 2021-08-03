@@ -5,7 +5,8 @@ date: 2021-07-26 19:24:09
 tags:
   - Market Update
 excerpt: Here are the main reasons why our market is so crazy right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jay+White/2021/Jay+White+-+July+2021+-+2+-+When+will+the+housing+market+crash.mp4
 pullquote: >-
   The bottom line is, the market is showing no signs of slowing down, never mind
   crashing.
