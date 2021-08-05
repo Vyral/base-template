@@ -1,10 +1,12 @@
 ---
 layout: post
 title: The Benefits of Buying vs. Renting a Home
-date: 2021-07-30 18:46:11
+date: 2021-08-05 10:00:00
 tags:
   - Real Estate Tips
-excerpt: There are few situations when it’s better to rent a home instead of buy one.
+excerpt: >-
+  There are few situations when it’s better to rent a home instead of buying
+  one.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2021/Sarita+Dua+Should+You+Rent+or+Buy-.mp4
 pullquote: >-
@@ -22,7 +24,7 @@ youtube_code: vSFPek048q0
 
 I get a lot of questions from renters who are thinking about buying a home. Most commonly, I’m asked about whether it’s better to buy or rent a home in today’s market. It’s a hard question to answer, since everyone’s life situations and needs are different.
 
-**There are some times when renting may make sense.** For example, you may be new to the area or might not be in your home for a long time. It’s hard to recommend buying when a person will leave within a year, as their home likely won’t appreciate enough to cover the costs of selling. So, if your living situation would be short-term, it may be best to rent.
+**There are some times when renting may make sense.** For example, you may be new to the area or might not be in your home for a long time. It’s hard to recommend buying when a person will leave within a year, as their home likely won’t appreciate enough to cover the costs of selling. So, if your living situation would be short term, it may be best to rent.
 
 {% include pullquote.html %}
 
@@ -30,4 +32,4 @@ I get a lot of questions from renters who are thinking about buying a home. Most
 
 Buying a home makes a lot of sense, and it helps you create a cycle of building equity and using it to move into bigger, better homes. Additionally, you’ll typically see more appreciation on higher-priced homes.
 
-If you have any questions or are ready to begin your home buying journey, feel free to reach out to me. I look forward to hearing from you soon.
+If you have any questions or are ready to begin your home-buying journey, feel free to reach out to me. I look forward to hearing from you soon.
