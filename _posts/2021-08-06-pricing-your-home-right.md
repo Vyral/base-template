@@ -4,7 +4,7 @@ title: Pricing Your Home Right
 date: 2021-08-06 00:00:00
 tags:
   - Home Seller Tips
-excerpt: Don’t let seller’s market excitement make you overprice your home
+excerpt: Don’t let seller’s market excitement make you overprice your home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
