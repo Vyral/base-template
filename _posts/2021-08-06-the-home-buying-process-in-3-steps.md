@@ -1,18 +1,18 @@
 ---
 layout: post
 title: The Home Buying Process in 3 Steps
-date: 2021-08-05 13:56:07
+date: 2021-08-06 12:56:00
 tags:
   - Home Buyer Tips
-excerpt: The three steps of the home buying process will save you headaches.
+excerpt: The three steps of the home-buying process will save you headaches.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/The+Home+Buying+Process+in+3+Steps.mp4
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/The+Home+Buying+Process+in+3+Steps+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tk00U-njq0U
+youtube_code: cw6iDJovt-E
 ---
 {% include youtube.html %}
 
