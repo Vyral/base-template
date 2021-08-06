@@ -5,20 +5,20 @@ date: 2021-08-02 00:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: “Woulda Coulda Shoulda Syndrome” is causing many to lose out on a home.
+excerpt: “Woulda, Coulda, Shoulda Syndrome” is causing many to lose out on a home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/07-30-canale-youtube.jpg
-youtube_code: '-TXYAtY6FXw'
+youtube_code: gXF6HXDUw5Y
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Has hesitation ever cost you money? I'll tell you how you can avoid what I call WCS or “Woulda Coulda Shoulda Syndrome."
+Has hesitation ever cost you money? I'll tell you how you can avoid what I call WCS or “Woulda, Coulda, Shoulda Syndrome."
 
 Last year, I could have bought an air conditioning unit for my home for $3,800. This year, when I went to purchase the same unit, it cost $1,000 more. The same thing happens in the housing market.
 
