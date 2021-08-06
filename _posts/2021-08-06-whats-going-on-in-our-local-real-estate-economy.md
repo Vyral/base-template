@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in Our Local Real Estate Economy?
-date: 2021-08-02 20:57:54
+date: 2021-08-06 11:30:00
 tags:
   - Market Update
   - Real Estate
@@ -19,7 +19,7 @@ youtube_code: beNm21ctjps
 
 {% include excerpt.html %}
 
-Today we’re taking a deep dive into the local economy, specifically the local real estate economy. I’m joined by special guest Dr. Joey Von Nessen, an Economist here in South Carolina, who’s going to give us the inside scoop about what’s going on.
+Today we’re taking a deep dive into the local economy, specifically the local real estate economy. I’m joined by special guest Dr. Joey Von Nessen, an economist here in South Carolina, who’s going to give us the inside scoop about what’s going on.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
