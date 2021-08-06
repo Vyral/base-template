@@ -17,7 +17,7 @@ youtube_code: gw5sX9CitNQ
 
 {% include excerpt.html %}
 
-We’ve just hit the third quarter of 2021, meaning it’s a perfect time to look at the emerging trends in our housing market. Today we’ll be going over all the important stats you should know in order to see where our real estate market has been, where it’s going, and where it is now.
+We’ve just hit the third quarter of 2021, and that means it’s a perfect time to look at the emerging trends in our housing market. Today we’ll be going over all the important stats you should know in order to see where our real estate market has been, where it’s going, and where it is now.
 
 **Now that many people are vaccinated and more places are opening up, we’re seeing a slight drop in buyer demand.** School is out, so families are going out, taking vacations, and spending time away from home. Just a few months ago, almost everyone was still stuck at home, and many people were trying to buy a house to have more space.
 
