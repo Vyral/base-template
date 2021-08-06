@@ -29,4 +29,4 @@ In the current hot seller’s market, many people have been reaching out to ask 
 
 If you’re considering selling your home within the next few years, you’ll want to think about selling in the present market. Again, all markets are cyclical, and what goes up must come back down.
 
-If you’d like to know what your home could sell for in today’s market, get a free home estimate [on our website](https://johnschustergroup.com/){: target="_blank" rel="noopener"}, or give us a call. If you have any real estate questions, feel free to reach out to us as well. We would love to help you.
+If you’d like to know what your home could sell for in today’s market, get a free home estimate <u><a target="_blank" rel="noopener" href="https://johnschustergroup.com/">on our website</a></u>, or give us a call. If you have any real estate questions, feel free to reach out to us as well. We would love to help you.
