@@ -5,7 +5,8 @@ date: 2021-07-20 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: What are the benefits of owning a second property and renting it out?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/Get+an+Investment+Property.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
