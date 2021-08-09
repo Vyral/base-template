@@ -5,13 +5,14 @@ date: 2021-08-05 00:00:00
 tags:
   - Market Update
 excerpt: Here’s how the market has changed in the last year.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+Market+Update.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/How+Our+Housing+Market+Has+Changed+Throughout+the+Past+Year.mp4
 pullquote: From August 2020 to now, there has been a 40% decrease in inventory.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/alex-2.jpg
-youtube_code: gw5sX9CitNQ
+youtube_alternate_image: /alex.jpg
+youtube_code: 9IRPzazp1ao
 ---
 {% include youtube.html %}
 
