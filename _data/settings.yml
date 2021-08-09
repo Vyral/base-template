@@ -24,7 +24,7 @@ client:
   market: Hudson County
   brand: eXp Realty
   brokerage:
-  address: '28 Valley Rd, # 1<br>Montclair, NJ 07042'
+  address: '28 Valley Rd # 1<br>Montclair, NJ 07042'
   phone: (551) 200-1000
   phone_type:
   phone2:
