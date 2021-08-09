@@ -17,7 +17,7 @@ youtube_code: My9IGBUxJYE
 
 {% include excerpt.html %}
 
-ding to the national news media, the real estate housing boom is officially over. To further confirm this, I spoke to a couple of real estate agents I know from other parts of the country who are feeling the same thing. For example, one agent in the southeast told me that she has a listing that has been sitting on the market for 12 days, and a friend in Texas said his listings went from getting 60-something offers to about 30. So today I’m taking a deep dive into the data and sharing where I think our market is heading.
+According to the national news media, the real estate housing boom is officially over. To further confirm this, I spoke to a couple of real estate agents I know from other parts of the country who are feeling the same thing. For example, one agent in the southeast told me that she has a listing that has been sitting on the market for 12 days, and a friend in Texas said his listings went from getting 60-something offers to about 30. So today I’m taking a deep dive into the data and sharing where I think our market is heading.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
