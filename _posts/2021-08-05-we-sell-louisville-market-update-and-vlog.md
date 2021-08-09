@@ -19,7 +19,7 @@ youtube_code: Dyj4Kk01ezc
 
 {% include excerpt.html %}
 
-What’s happening in our real estate market? Is now a good time to travel? How are businesses recovering from the Coronavirus pandemic? Today, I’ll answer all these questions and more from beautiful Maui, Hawaii.&nbsp;
+What’s happening in our real estate market? Is now a good time to travel? How are businesses recovering from the coronavirus pandemic? Today I’ll answer all these questions and more from beautiful Maui, Hawaii.&nbsp;
 
 **You can watch my full video above, or you can skip around using the timestamps provided for your convenience:**
 
