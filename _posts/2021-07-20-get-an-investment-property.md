@@ -3,7 +3,7 @@ layout: post
 title: Get an Investment Property
 date: 2021-07-20 00:00:00
 tags:
-  - Home Buyer Tips
+  - Investing in Real Estate
 excerpt: What are the benefits of owning a second property and renting it out?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/Get+an+Investment+Property.mp4
