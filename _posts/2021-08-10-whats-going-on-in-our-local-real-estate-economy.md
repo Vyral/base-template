@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in Our Local Real Estate Economy?
-date: 2021-08-06 11:30:00
+date: 2021-08-10 11:30:00
 tags:
   - Market Update
   - Real Estate
