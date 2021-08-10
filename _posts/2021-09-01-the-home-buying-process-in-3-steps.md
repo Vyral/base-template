@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Home-Buying Process in 3 Steps
-date: 2021-08-06 12:56:00
+date: 2021-09-01 12:56:00
 tags:
   - Home Buyer Tips
 excerpt: The three steps of the home-buying process will save you headaches.
