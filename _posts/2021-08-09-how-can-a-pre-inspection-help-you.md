@@ -22,8 +22,8 @@ On a recent episode of The Central Iowa Real Estate Scoreboard, we discussed the
 
 {% include pullquote.html %}
 
-**Anything can be fixed in a home, but it’s a matter of what it’s going to cost.** Adam helps give his clients lists of features in the home that have been updated and areas that need work. It’s all about getting the most accurate picture of the house possible.
+**Anything can be fixed in a home, but it’s a matter of what it’s going to cost.** Adam helps give his clients lists of features in the home that have been updated and areas that need work. It’s all about getting the most accurate picture of the house as possible.
 
-We avoid this often with a pre-inspection. Adam highlights everything that could possibly be wrong at an early stage so you can get ahead of any issues. Even simple maintenance is highlighted so you have an accurate picture.
+We can avoid negative reports with a pre-inspection. Adam highlights everything that could possibly be wrong at an early stage so you can get ahead of any issues. Even simple maintenance is highlighted so you have an accurate picture.
 
 If you have any questions about home inspections, reach out to RightWay at (515) 802-0141 or visit them [online](http://rightwayhi.com). If you have any questions for us, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
