@@ -20,9 +20,9 @@ youtube_code: 72p5J8wREXk
 
 {% include excerpt.html %}
 
-Today we’re discussing the steps of our home-selling process. First, if you’re still living in the house, we’ll generally set up a time for one of us to come by and take a look at it. We’ll walk around and prepare a list of things you need to do to get the house into showable shape. Then, we’ll go over comparable homes so you can see what similar properties have sold for recently.&nbsp;
+Today we’re discussing the steps of our home-selling process. First, if you’re still living in the house, we’ll generally set up a time for one of us to come by and take a look at it. We’ll walk around and prepare a list of things you need to do to get the house into showable shape. Then, we’ll go over comparable homes, so you can see what similar properties have sold for recently.&nbsp;
 
-Afterwards, **we’ll talk about and agree on a price for your home**. Everyone wants to get the most money they can, but pricing depends on the market. It’s crucial to price the house according to the current market; overpricing never does anyone any good. After that, we sign the listing paperwork and set up a marketing appointment. During that appointment, we’ll take professional photos, put signs in the yard, place a lockbox on the door, and put your property on the market.
+Afterward, **we’ll talk about and agree on a price for your home**. Everyone wants to get the most money they can, but pricing depends on the market. It’s crucial to price the house according to the current market; overpricing never does anyone any good. After that, we sign the listing paperwork and set up a marketing appointment. During that appointment, we’ll take professional photos, put signs in the yard, place a lockbox on the door, and put your property on the market.
 
 {% include pullquote.html %}
 
