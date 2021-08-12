@@ -3,7 +3,8 @@ layout: post
 title: Common Questions Sellers Ask
 date: 2021-08-06 14:52:41
 excerpt: Here are the three most common questions sellers ask and what we tell them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2021/Common+Questions+Sellers+Ask.mp4
 pullquote: >-
   If you’re considering selling your home within the next few years, you’ll want
   to think about selling in the present market.
