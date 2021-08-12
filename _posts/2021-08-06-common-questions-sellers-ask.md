@@ -17,7 +17,7 @@ youtube_code: Pb2xRyfbL9w
 
 {% include excerpt.html %}
 
-In the current hot seller’s market, many people have been reaching out to ask for our help with their home sales. Today I’m sharing the top three questions sellers ask us before we list their homes and what we tell them:
+In the current hot seller’s market, many people have been reaching out to ask for our help with their home sales. Today I’m answering the top three questions sellers ask us before we list their homes:
 
 **1\. Why is it such a crazy seller’s market?** There are a few factors at play: very low interest rates, the lack of new construction over the last decade, millennials entering the real estate market in droves, and the pandemic. All this has led to an imbalance of supply and demand.&nbsp;
 
