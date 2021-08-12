@@ -34,7 +34,7 @@ We somehow missed a clip of the “hydrotube” slide, but for the super low ent
 
 {% include pullquote.html %}
 
-**4\.**[**Veyo Pool**](https://www.veyopool.com/){: target="_blank" rel="noopener"} **Resort & Crawdad Canyon Rock Climbing.** Could there be a natural, spring-fed swimming pool in a volcanic canyon in the desert? The answer is yes, this is where you’ll find it. You’ll also have the chance to snack on a Pronto Pup, which is Utah’s version of a corndog. I’ve been coming to this place even longer than the St. George municipal pool, and as you can see in the video at 2:36, the crowds flock here even on weekdays.&nbsp;
+**4\.&nbsp;**[**Veyo Pool**](https://www.veyopool.com/){: target="_blank" rel="noopener"} **Resort & Crawdad Canyon Rock Climbing.** Could there be a natural, spring-fed swimming pool in a volcanic canyon in the desert? The answer is yes, this is where you’ll find it. You’ll also have the chance to snack on a Pronto Pup, which is Utah’s version of a corndog. I’ve been coming to this place even longer than the St. George municipal pool, and as you can see in the video at 2:36, the crowds flock here even on weekdays.&nbsp;
 
 **5\. Someone else’s swimming pool** 😎. If all else fails, find a friend, family member, or neighbor who has a pool. That’s what I did most recently\!
 
