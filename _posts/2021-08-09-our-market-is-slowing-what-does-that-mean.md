@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /08-06-rosado-youtube.jpg
-youtube_code: My9IGBUxJYE
+youtube_code: 9R6xI_LPJbg
 ---
 {% include youtube.html %}
 
@@ -27,7 +27,7 @@ According to the national news media, the real estate housing boom is officially
 
 2:10 — The COVID-19 Delta variant could cause issues, but vaccination rates remain steady
 
-2:55 — The slowdown is likely the result of buyers getting tired and people going on vacations
+2:55 — The slowdown is likely the result of buyers getting tired and people going on vacation
 
 4:05 — How you can see my market data reports every two weeks
 
