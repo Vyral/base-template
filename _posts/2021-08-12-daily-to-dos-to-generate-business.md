@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily To-Dos To Generate Business
-date: 2021-08-10 18:33:48
+date: 2021-08-12 18:33:00
 tags:
   - Expert Advice
 excerpt: Here are the three things to always have on your to-do list.
@@ -18,7 +18,7 @@ youtube_code: YdVjEjH6Tmk
 
 {% include excerpt.html %}
 
-You need a plan in order to have success in the real estate business. If you do these things on a daily basis, you’ll build up momentum, and transactions will start happening.
+You need a plan in order to have success in the real estate business. If you do these things daily, you’ll build up momentum, and transactions will start happening.
 
 **1\. Educate yourself on your craft.**
 
