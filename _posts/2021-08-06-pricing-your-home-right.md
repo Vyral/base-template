@@ -5,7 +5,8 @@ date: 2021-08-06 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Don’t let seller’s market excitement make you overprice your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Pricing+Your+Home+Right.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
