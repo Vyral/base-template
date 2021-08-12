@@ -6,13 +6,13 @@ tags:
   - Expert Advice
 excerpt: Here are the three things to always have on your to-do list.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2021/Daily+To-Dos+To+Generate+Business.mp4
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2021/Daily+To-Dos+To+Generate+Business+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YdVjEjH6Tmk
+youtube_code: QC5yzChvcwY
 ---
 {% include youtube.html %}
 
