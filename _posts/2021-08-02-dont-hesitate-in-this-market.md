@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: “Woulda, Coulda, Shoulda Syndrome” is causing many to lose out on a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/Don%E2%80%99t+Hesitate+in+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
