@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /misty-sodwich---august-2021---youtube.jpg
+youtube_alternate_image: /misty-sodwisch---august-2021---youtube-edit.jpg
 youtube_code: eIrAroO0-4c
 ---
 {% include youtube.html %}
