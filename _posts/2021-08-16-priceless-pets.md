@@ -4,9 +4,7 @@ title: Priceless Pets
 date: 2021-08-16 00:00:00
 tags:
   - Real Estate
-excerpt: >-
-  Our commitment is to make a difference in the community, while serving our
-  clients.
+excerpt: Thank you for all of your support.
 enclosure: https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Priceless+Pets.mp4
 pullquote:
 enclosure_type: video/mp4
