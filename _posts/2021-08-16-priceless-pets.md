@@ -3,6 +3,7 @@ layout: post
 title: Priceless Pets
 date: 2021-08-16 00:00:00
 tags:
+  - Real Estate
 excerpt: >-
   Our commitment is to make a difference in the community, while serving our
   clients.
@@ -18,7 +19,7 @@ youtube_code: ccyUaQ4lCh8
 
 {% include excerpt.html %}
 
-If you love animals as much as we do...keep watching.
+If you love animals as much as we do…keep watching.
 
 We did it\! Thank you for all of your support. We collected over 200 pounds or dog and cat food, 147 pounds of cat litter, 77 towels, 11 gallons of detergent and countless toys.
 
