@@ -30,3 +30,9 @@ There’s a very interesting report where I found all this data. **I can email t
 {% include pullquote.html %}
 
 If you have any questions about today’s topic, or you’d like a copy of either report, do not hesitate to reach out to me. I am always willing to help.
+
+---
+
+<center><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome.jpg" /></center>
+
+<center><img alt="Things to Consider When Selling Your House" title="Things to Consider When Selling Your House" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenSellingYourHouse.jpg" /></center>
