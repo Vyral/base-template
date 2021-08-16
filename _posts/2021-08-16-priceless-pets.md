@@ -19,6 +19,6 @@ youtube_code: ccyUaQ4lCh8
 
 {% include excerpt.html %}
 
-We did it\! Thank you for all of your support. We collected over 200 pounds or dog and cat food, 147 pounds of cat litter, 77 towels, 11 gallons of detergent and countless toys.
+We did it\! Thank you for all of your support. We collected over 200 pounds of dog and cat food, 147 pounds of cat litter, 77 towels, 11 gallons of detergent and countless toys.
 
 We're grateful for the incredible community for supporting our local event, benefitting shelter animals with Priceless Pets, A No Kill Shelter. Our commitment is to make a difference in the community, while serving our clients. Thank you for your support\!
