@@ -21,7 +21,7 @@ youtube_code: eIrAroO0-4c
 
 I’m so excited to announce our third annual Teacher Giveaway. When we started this three years ago, we gave away $500 to five deserving Central Iowa educators. Last year, with all the challenges of 2020, we upped the number to $2,020 in gifts. This year, we decided to make our contribution even bigger by giving $2,500 to 50 different Central Iowa educators.
 
-**To enter, go to our Facebook page, tag your favorite teacher (and the school they’re from), like our business page, like the post, and share the post.** Get the word out and help us celebrate our local teachers\!
+**To enter, go to our Facebook page or [website](www.SOLDinCentralIowa.com/TeacherGiveaway){: target="_blank" rel="noopener"}, tag your favorite teacher (and the school they’re from), like our business page, like the post, and share the post.** Get the word out and help us celebrate our local teachers\!
 
 I would like to give special thanks to Home Warranty of America and Eric Bokker at Mortgage Central for making this happen.&nbsp;
 
