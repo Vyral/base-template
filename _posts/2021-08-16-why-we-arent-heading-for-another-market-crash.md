@@ -33,6 +33,6 @@ If you have any questions about today’s topic, or you’d like a copy of eithe
 
 ---
 
-<center><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome.jpg" /></center>
+<center><a href="LINK"><img alt="Things to Consider When Buying a Home" title="Things to Consider When Buying a Home" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenBuyingaHome.jpg" /></center>
 
-<center><img alt="Things to Consider When Selling Your House" title="Things to Consider When Selling Your House" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenSellingYourHouse.jpg" /></center>
+<center><a href="LINK"><img alt="Things to Consider When Selling Your House" title="Things to Consider When Selling Your House" width="100%" height="100%" src="/uploads/ThingstoConsiderWhenSellingYourHouse.jpg" /></center>
