@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your End-of-Summer Update on Charlotte Real Estate
-date: 2021-08-13 20:41:01
+date: 2021-08-17 08:41:00
 tags:
   - Market Update
 excerpt: Here are some key numbers to know if you’re planning to buy or sell a home.
@@ -28,6 +28,6 @@ The average mortgage rate right now is 3.17%. By the end of the second quarter o
 
 As far as monthly payments are concerned, homebuyers were paying an average of $1,184 per month on their mortgage payments in May. This figure is slightly up from right around $1,000 in May 2020. If we wind the clock back to 2008, that average payment was closer to $1,500. **We’re still well over $300 below the average payment from that time.**
 
-This is still a crazy-hot market if you’re looking to sell. There is also more inventory coming your way if you’re a buyer.&nbsp;
+This is still a crazy-hot market if you’re looking to sell. There is also more inventory coming your way if you’re a buyer.
 
 If you have any questions about the market or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
