@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing the Best Agent for You
-date: 2021-08-16 20:32:15
+date: 2021-08-17 11:19:00
 tags:
   - Real Estate
 excerpt: Here are a few tips for choosing the best agent to help you in the market.
