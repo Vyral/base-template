@@ -27,7 +27,7 @@ Pre-listing inspections can also make a transaction more efficient and reduce th
 
 **2\. Time and money savings:** A pre-listing inspection costs about the same as a regular inspection, but it gives sellers plenty of time to fix problems. Better yet, they have the time to compare repair costs for different companies and negotiate the best deal.
 
-**3\. Reduces risk of buyer requests:** Because buyers know everything up front, they’re less likely to ask for seller concessions or price reductions.
+**3\. Reduces risk of buyer requests:** Because buyers know everything upfront, they’re less likely to ask for seller concessions or price reductions.
 
 **4\. Earns a higher level of trust:** The pre-listing inspection aids the seller’s disclosures, earning the seller a higher level of trust from buyers. It makes the home seem more attractive as well.
 
