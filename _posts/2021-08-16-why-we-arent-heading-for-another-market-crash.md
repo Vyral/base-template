@@ -6,9 +6,7 @@ tags:
   - Market Update
 excerpt: My brief explanation as to why our housing bubble isn’t going to burst.
 enclosure:
-pullquote: >-
-  Unlike in 2008, our hot market is being driven by high demand and low
-  inventory.
+pullquote: Unlike in 2008, high demand and low inventory are driving this hot market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +21,7 @@ The most common question people ask me is: “When is the housing bubble going t
 
 To get right to the point, leading economists seem to agree that **a crash is not imminent**. Why do they think this? The factors that led to the crash in 2008 are not present in 2021.
 
-For example, the market in 2007 and 2008 was full of low down payments, flexible mortgage rates, and too much inventory. **2021 couldn’t be more different**. Our hot market is being driven by high demand and low inventory. In 2007, there were 4 million homes for sale. This summer, there are only 1.16 million. You add low interest rates into the mix, and suddenly we have today’s crazy market.
+For example, the market in 2007 and 2008 was full of low down payments, flexible mortgage rates, and too much inventory. **2021 couldn’t be more different**. High demand and low inventory are driving this hot market. In 2007, there were 4 million homes for sale. This summer, there are only 1.16 million. You add low interest rates into the mix, and suddenly we have today’s crazy market.
 
 There’s a very interesting report where I found all this data. **I can email them to you, or you can download them through the links below**. They have a lot of great information, so I highly recommend you read them.
 
