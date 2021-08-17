@@ -25,7 +25,7 @@ Today I’m bringing you episode four of our series on the 10 actions every new 
 
 {% include pullquote.html %}
 
-**The eighth action you should take as a new agent is to choose a farm.** I’ve recently moved, and this is a great opportunity to build a new database. Even going door to door can be a great way to introduce yourself to a community. The key takeaway is that you want to offer people value up front. For me, this usually means a complimentary market analysis. By keeping in touch with my database (or ‘farm’), I can have a constant stream of potential clients at the ready.&nbsp;
+**The eighth action you should take as a new agent is to choose a farm.** I’ve recently moved, and this is a great opportunity to build a new database. Even going door to door can be a great way to introduce yourself to a community. The key takeaway is that you want to offer people value upfront. For me, this usually means a complimentary market analysis. By keeping in touch with my database (or ‘farm’), I can have a constant stream of potential clients at the ready.&nbsp;
 
 **Hosting open houses and farming for your database are perhaps two of the most important actions you can take as a new agent.** They are relatively cheap or even free, and they can bring in a huge return on your investment.&nbsp;
 
