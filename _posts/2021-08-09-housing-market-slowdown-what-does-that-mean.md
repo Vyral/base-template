@@ -5,7 +5,8 @@ date: 2021-08-09 00:00:00
 tags:
   - Market Update
 excerpt: Our market is starting to slow down, and here’s what that means.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/Housing+Market+Slowdown%3B+What+Does+That+Mean_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
