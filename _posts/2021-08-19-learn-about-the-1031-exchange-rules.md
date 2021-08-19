@@ -4,7 +4,7 @@ title: Learn About the 1031 Exchange Rules
 date: 2021-08-19 14:08:00
 tags:
   - Real Estate
-excerpt: Here are the ten big rules surrounding the 1031 tax-deferred exchange.
+excerpt: Here are the 10 big rules surrounding the 1031 tax-deferred exchange.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Learn+About+the+1031+Exchange+Rules.mp4
 pullquote:
@@ -26,7 +26,7 @@ Today I want to talk about the 1031 tax-deferred exchange. As the market gets st
 
 1:06 — No. 1 Once you close, you have 45 days to identify replacement properties
 
-1:49 — No. 2 The 3 property rule
+1:49 — No. 2 The three property rule
 
 2:16 — No. 3 The 200% rule
 
@@ -46,4 +46,4 @@ Today I want to talk about the 1031 tax-deferred exchange. As the market gets st
 
 7:58 — Wrapping up
 
-If you have any questions, please feel free to reach out to me.
+If you have any questions, please feel free to reach out to me via phone or email.
