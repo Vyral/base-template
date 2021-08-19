@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn About the 1031 Exchange Rules
-date: 2021-08-17 14:08:01
+date: 2021-08-19 14:08:00
 tags:
   - Real Estate
 excerpt: Here are the ten big rules surrounding the 1031 tax-deferred exchange.
@@ -18,7 +18,7 @@ youtube_code: o85Rr1x1P_s
 
 {% include excerpt.html %}
 
-Today I want to talk about the 1031 tax-deferred exchange. As the market gets stronger and people are willing to sell, I’ve been getting asked about it a lot. There are 10 rules to follow with 1031 exchanges that we’ll go through in detail today.
+Today I want to talk about the 1031 tax-deferred exchange. As the market gets stronger and people are willing to sell, I’ve been asked about it a lot. There are 10 rules to follow with 1031 exchanges that we’ll go through in detail today.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
