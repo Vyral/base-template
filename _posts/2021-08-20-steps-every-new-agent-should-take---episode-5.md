@@ -4,7 +4,8 @@ title: Steps Every New Agent Should Take - Episode 5
 tags:
   - Real Estate
 excerpt: The final three things new agents can do to grow their business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2021/The+Stern+Team_+Steps+Every+New+Agent+Should+Take+-+Episode+5.mp4
 pullquote: >-
   Showing your value is your ticket to getting contacts and building your
   business.
