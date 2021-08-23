@@ -22,7 +22,7 @@ youtube_code: QIyOU-LfKUo
 
 When renovating your home, there are a lot of things that can go wrong. Joining me today is **Ian Galvin of Velao Projects**, a home restoration and remodeling company. Ian has over 30 years of residential construction experience, and we’ll be discussing three of the biggest mistakes you can make during a home renovation. **Here’s what to avoid doing:**
 
-**1\. Not hiring a competent design professional**. Some services both design and build while others do not, so it’s important to find out what you’re getting. Who is going to build the project? Who is going to advise them? You want everything laid out for you from the beginning: What your countertops will be made of, the colors of cabinets, the type of wood, etc.&nbsp;
+**1\. Not hiring a competent design professional**. Some services both design and build while others do not, so it’s important to find out what you’re getting. Who is going to build the project? Who is going to advise them? You want everything laid out for you from the beginning: what your countertops will be made of, the colors of cabinets, the type of wood, etc.&nbsp;
 
 **2\. Being your own supplier**. Problems arise when you provide your own products for others to install. If there’s a mistake, what happens? Who looks after you if something is broken? That’s between you and your contractor, and it can be a messy situation to navigate. It’s advised to use an outside supplier to avoid the issues that can arise from supplying your own products, especially during larger projects.&nbsp;
 
