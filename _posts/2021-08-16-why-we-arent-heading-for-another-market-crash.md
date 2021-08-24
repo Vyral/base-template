@@ -5,7 +5,8 @@ date: 2021-08-16 00:00:00
 tags:
   - Market Update
 excerpt: My brief explanation as to why our housing bubble isn’t going to burst.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/Why+We+Aren%E2%80%99t+Heading+for+Another+Market+Crash.mp4
 pullquote: Unlike in 2008, high demand and low inventory are driving this hot market.
 enclosure_type: video/mp4
 enclosure_time:
