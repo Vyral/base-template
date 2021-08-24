@@ -30,6 +30,6 @@ Here are four main things to keep in mind about where our real estate market is 
 
 **3\. Interest rates.** Keep an eye on interest rates; they control buyer’s purchasing power when buying homes. If rates climb, buyers can afford less house, and that puts pressure on housing prices. The rates could change in light of the current uncertainty throughout the world due to recent events. Also, inflation is moving upward. We’ll see whether the Federal Reserve decides to make a change with short-term interest rates because of inflation.
 
-**4\. Home building.** Building has been a real challenge in this economy for the past year. Due to the difficulties they’re seeing, builders are putting a cap on their inventory, meaning they’re only committing to build so many houses because their costs are escalating, and they can’t build an infinite number of homes at fixed prices. The cost of materials and labor have spiked and are out of builders’ control.&nbsp;
+**4\. Homebuilding.** Building has been a real challenge in this economy for the past year. Due to the difficulties they’re seeing, builders are putting a cap on their inventory, meaning they’re only committing to build so many houses because their costs are escalating, and they can’t build an infinite number of homes at fixed prices. The cost of materials and labor have spiked and are out of builders’ control.&nbsp;
 
 If you have more questions about our market or any other real estate topic, please reach out to us via phone or email. We would love to help you.
