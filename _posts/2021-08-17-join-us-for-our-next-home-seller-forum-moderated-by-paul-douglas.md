@@ -5,7 +5,8 @@ date: 2021-08-17 15:27:33
 tags:
   - Real Estate
 excerpt: Here are the exciting details about our upcoming home seller forum.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2021/Join+us+for+our+next+Home+Seller+Forum+moderated+by+Paul+Douglas.mp4
 pullquote: We can’t wait to share everything with you.
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,4 +34,4 @@ Dozens of sellers attended last year’s virtual forum, and some sold their home
 
 We can’t wait to share everything with you. Sign up today; each forum has a limited number of available slots. Our previous seller forums all sold out ahead of time, so claim your spot soon\! <u><a target="_blank" rel="noopener" href="https://johnschustergroup.com/home_seller_forum">Visit this link to learn more and sign up.</a>&nbsp;</u>
 
-If you have further questions about our seller forum or anything else, call or email us. We hope to see you there\!<br>
+If you have further questions about our seller forum or anything else, call or email us. We hope to see you there\!
