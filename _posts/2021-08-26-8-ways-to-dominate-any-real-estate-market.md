@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Ways to Dominate Any Real Estate Market
-date: 2021-08-24 18:45:17
+date: 2021-08-26 08:20:00
 tags:
   - Real Estate
 excerpt: We wrote a book (actually two) and we’re thrilled to tell you about them!
