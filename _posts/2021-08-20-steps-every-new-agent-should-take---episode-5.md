@@ -21,7 +21,7 @@ youtube_code: mUOQwzGoTOM
 
 We’re back for the final episode of our series on the 10 steps new agents should be doing to grow their business. Today we’ll be talking about calling expired listings, for sale by owners (FSBOs), and direct action.
 
-We encourage everybody to call the current expired listings because there aren’t many of them. However, you should also **call the people that expired their listing two or three years ago.** Touch base with them and see if they're still looking to sell. You’ll be surprised how many people will want to meet with you because nobody else is making these calls.
+We encourage everybody to call the recently expired listings since there aren’t many of them. However, you should also **call the people that expired their listing two or three years ago.** Touch base with them and see if they're still looking to sell. You’ll be surprised how many people will want to meet with you because nobody else makes these calls.
 
 {% include pullquote.html %}
 
