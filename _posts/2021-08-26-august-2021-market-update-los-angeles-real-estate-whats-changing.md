@@ -5,10 +5,9 @@ date: 2021-08-26 19:44:00
 tags:
 excerpt: >-
   What's going on in the Los Angeles real estate market here in August of 2021?
-  Hey there, it's Scott with the Scott Himelstein Group and today we're going to
-  talk a little bit about what's going on in the Los Agneles real estate market
-  here in August of 2021. And for the first time in a long time, we're getting
-  some change in the market. 
+  Hey there, it's Scott with the Scott Himelstein Group and today we're talking
+  about the changes that are taking place in the real estate market and how it
+  can affect you.
 enclosure:
 pullquote: >-
   There is still more properties right now in escrow or that are pending or
