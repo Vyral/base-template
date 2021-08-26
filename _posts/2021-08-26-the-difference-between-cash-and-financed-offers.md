@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Cash and Financed Offers
-date: 2021-08-23 14:13:30
+date: 2021-08-26 14:13:00
 tags:
   - Home Seller Tips
 excerpt: Here’s our explanation of the difference between cash and financed offers.
