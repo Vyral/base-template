@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: Here’s why your offer may not be getting accepted in the present market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Why+Isn%E2%80%99t+My+Offer+Getting+Accepted_.mp4
 pullquote: >-
   Don’t stretch yourself so that your life becomes difficult after you buy a
   home.
