@@ -22,7 +22,7 @@ Today I’m here with a special guest Sarah Michelle Bliss. We’ve been lucky t
 
 Sarah says that writing this was a pleasure because she’s known me for so long and wanted to memorialize the story of how I got started as a real estate agent. It also tells her story of starting as a very young agent. We wrote about how our brokerage became what it is now, 20 years later. In the book, we discuss what our clients contributed to our stories and success. **We wouldn’t be here if it weren’t for the thousands of people who have trusted our team to help them buy and sell over the years.** We wanted to discuss this today because you may know someone who wants to begin a real estate career or who already is a Realtor but needs a little motivation.
 
-About halfway through the process of writing our book, I said, “Wouldn’t it be nice if we added a companion journal that supports our book and helps people take action to apply the principles?” Sowe wrote a companion journal too\! It helps you with the eight steps in the book and includes daily accountability help for a year. It also has space for your business and life plans and spending habits.
+About halfway through the process of writing our book, I said, “Wouldn’t it be nice if we added a companion journal that supports our book and helps people take action to apply the principles?” So we wrote a companion journal too\! It helps you with the eight steps in the book and includes daily accountability help for a year. It also has space for your business and life plans and spending habits.
 
 {% include pullquote.html %}
 
