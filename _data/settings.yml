@@ -1,54 +1,54 @@
 audit_header: false
 title: Abby Realty | Houston's Best Real Estate Training and Coaching Team
-description: Frank Gray, a top Real Estate Agent in Houston, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
+description: >-
+  Frank Gray, a top Real Estate Agent in Houston, shares his own internal agent
+  training for free. His Real Estate Coaching, Tips and Advice will help you
+  sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: https://www.eventbrite.com/o/abby-realty-frank-gray-17469473259
   - title: Request a Consultation
     url: /contact/
-
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809481';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809481';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 client:
   name: Frank Gray
   license_number:
-  about_markdown: |
-
-    Helping people has always been Frank’s passion. After college and graduate school, Frank served as a youth minister and senior pastor for several years. When he went back to school to work on his doctorate, he took a job in sales to support his family. Through that experience, he discovered a love for helping people with important financial decisions. After graduation, he accepted a position in new home sales with the David Weekley company in Katy, Texas. From there, he was hired by a large international real estate franchise and spent 19 years serving as a management consultant and business coach for real estate brokers and agents. From that perspective, he developed a keen sense of what real estate agents need to succeed at a high level. In order to create the perfect environment for agents, Frank left the large international real estate franchise in November of 2017 to open his own real estate brokerage, Abby Realty. Today, Frank is totally focused on helping real estate agents create amazing careers that fully fund their lives and aspirations.
-
-  market: Houston Metro Area
+  about_markdown: >-
+    Helping people has always been Frank’s passion. After college and graduate
+    school, Frank served as a youth minister and senior pastor for several
+    years. When he went back to school to work on his doctorate, he took a job
+    in sales to support his family. Through that experience, he discovered a
+    love for helping people with important financial decisions. After
+    graduation, he accepted a position in new home sales with the David Weekley
+    company in Katy, Texas. From there, he was hired by a large international
+    real estate franchise and spent 19 years serving as a management consultant
+    and business coach for real estate brokers and agents. From that
+    perspective, he developed a keen sense of what real estate agents need to
+    succeed at a high level. In order to create the perfect environment for
+    agents, Frank left the large international real estate franchise in November
+    of 2017 to open his own real estate brokerage, Abby Realty. Today, Frank is
+    totally focused on helping real estate agents create amazing careers that
+    fully fund their lives and aspirations.
+  market: Houston metro area
   brand: Abby Realty
   brokerage:
-  address: '26403 Oak Ridge Dr.<br>Spring, TX 77380'
-  phone: 713-702-6978
+  address: 26403 Oak Ridge Dr<br>Spring, TX 77380
+  phone: (713) 702-6978
   phone_type:
   phone2:
   phone2_type:
   email: frank@frankgray.net
   url: http://insideabbyrealty.com
-
-# CTAs:
-#   first_CTA_text: Request a Consultation
-#   first_CTA_URL: /contact/
-  # second_CTA_text: Apply
-  # second_CTA_URL: /apply/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Request a Free Strategy Session
     CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -60,35 +60,37 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
-    Whether you are just starting out, or you are licensed Broker, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
-
+    Whether you are just starting out, or you are licensed Broker, our team of
+    professionals can answer any questions you might have about real estate.
+    Subscribe to this blog to get the latest news on local market trends and
+    receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/abbyrealtyonline/
   linkedin_url: https://www.linkedin.com/in/frank-gray-5128686/
-  gplus_url: 
+  gplus_url:
   youtube_url: www.youtube.com/c/abbyrealty
   twitter_url: https://twitter.com/frankgrayabby
   instagram_url:
   pinterest_url:
-  # zillow_url: https://www.zillow.com/profile/frankgray7/
-  # trulia_url:
-  # yelp_url: https://www.yelp.com/biz/frank-gray-abby-realty-the-woodlands
   podcast_url:
-
 podcast:
   title:
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Boost your Career with Veteran Real Estate Agent -- CLIENT NAME --'
-  description: A Podcast about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
-  keywords: '-- MARKET -- Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make'
+  subtitle: Boost your Career with Veteran Real Estate Agent -- CLIENT NAME --
+  description: >-
+    A Podcast about -- MARKET -- Real Estate; It's industry, and the people
+    working in it. Whether you're just starting out, aspiring to begin, or been
+    working in the field for a few years, tune in to get updates, tips, tricks
+    and more!
+  keywords: >-
+    -- MARKET -- Real Estate, Real Estate Careers, Real Estate Professionals,
+    Realtors, Real estate industry, how much do realtors make
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   team_headshot_1: /img/adam.jpg
@@ -109,13 +111,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: rgba(0,89,166,0.6)
-
 buttons:
   button_radius_number: 3
   button_padding_width_number: 10
@@ -124,5 +124,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
