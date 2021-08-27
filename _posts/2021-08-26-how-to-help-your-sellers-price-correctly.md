@@ -23,7 +23,7 @@ It’s no secret our market is white-hot. In fact, it’s so hot some agents thi
 
 No matter what market we’re in, **price is still the most important factor in selling a home**. I have over 20 years of real estate experience, and I can confidently say that pricing is 90% of marketing homes. No matter what objections a buyer may have, if a home is priced correctly, it will sell.
 
-In our changing market, how can you help your clients price their homes correctly while still getting top dollar? One thing is for sure: **never guarantee your seller a specific amount of money from selling their home**. This is a surefire way to make your client mad at you.
+In our changing market, how can you help your clients price their homes correctly while still getting top dollar? One thing is for sure: **Never guarantee your seller a specific amount of money from selling their home**. This is a surefire way to make your client mad at you.
 
 {% include pullquote.html %}
 
