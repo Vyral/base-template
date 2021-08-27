@@ -5,9 +5,6 @@ baseurl: ""
 # Change for production:
 url: "http://tmgvideoblog.com"
 
-# Build settings
-markdown: kramdown
-
 #Handling Reading
 encoding: "utf-8"
 
