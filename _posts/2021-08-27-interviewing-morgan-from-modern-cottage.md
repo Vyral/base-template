@@ -22,7 +22,7 @@ hidden: false
 
 Today I want to bring you the inspiring story of a local entrepreneur. Morgan, the owner of Modern College on Cherry Street, has a surprising backstory, so I’m glad I have the opportunity to share it with you:
 
-<blockquote>“<p><b>I come from a great family of business owners</b>. My great, great grandfather opened a hardware store in Collinsville back in 1887. In those days, hardware stores had a much wider range of products and services, so he had his hands full. He was even elected mayor of Collinsville! Then the hardware store was passed down throughout the generations.</p>
+<blockquote><p><b>"I come from a great family of business owners</b>. My great, great grandfather opened a hardware store in Collinsville back in 1887. In those days, hardware stores had a much wider range of products and services, so he had his hands full. He was even elected mayor of Collinsville! Then the hardware store was passed down throughout the generations.</p>
 
 <p>Eventually, the hardware store was passed down to my grandparents. However, when Walmart came to town in the 80s, they were driven out of business. The hardware store had been open for 95 years, and my mother had grown up in it as a child. When the store closed, she never let go of the dream of owning her own business.</p></blockquote>
 
