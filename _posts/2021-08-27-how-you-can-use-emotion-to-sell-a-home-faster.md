@@ -23,6 +23,8 @@ How can you get the most money for your home? Sellers ask me this quite a bit, b
 
 I walked into the kitchen last week and saw a crack down the side of the cup. I wanted to try and salvage it, but when I told my wife, she looked at me like I was crazy. Throw it away, she said, and when I thought about it more, I had to admit we had plenty of other, less dangerous cups.
 
+{% include pullquote.html %}
+
 But I wanted to salvage the cup because it came from a client of mine, Rose, who would always serve me water in it when I talked with her. It also reminded me of the cups my grandma used to use. **To me, it was a big deal; to my wife, it wasn’t.**
 
 Real estate can have similar emotions: emotional sellers, emotional buyers, and even emotional agents. For me, the cup was worth a lot. For my wife, it was worthless. It’s important to remember that logic makes people think, but emotion makes people act. To sell a home for the most, or buy a home for the least, **we’re trying to tap into those emotional buttons.&nbsp;**
