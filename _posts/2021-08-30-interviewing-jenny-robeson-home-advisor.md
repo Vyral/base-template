@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interviewing Jenny Robeson, Home Advisor
-date: 2021-08-27 15:46:26
+date: 2021-08-30 11:40:00
 tags:
   - The Dave Hooke Team
 excerpt: My interview with Jenny Robeson about why she started doing real estate.
@@ -18,22 +18,22 @@ youtube_code: j9z-vzJPXig
 
 {% include excerpt.html %}
 
-I’m thrilled to introduce Jenny Robeson, who will be sharing her journey in real estate with us today. She joined our team in September 2019 because she wanted to make a big life change. Real estate was always something she wanted to try doing, and we’re glad she decided to take the next step with us\!
+I’m thrilled to introduce Jenny Robeson, who will share her journey in real estate with us today. She joined our team in September 2019 because she wanted to make a big life change. Real estate was always something she wanted to try doing, and we’re glad she decided to take the next step with us\!
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
-0:00: Goofing around a little before the interview
+0:00— Goofing around a little before the interview
 
-0:25: Why Jenny decided to do real estate and join the Dave Hooke Team
+0:25— Why Jenny decided to do real estate and join the Dave Hooke Team
 
-1:30: Jenny’s favorite part of her job
+1:30— Jenny’s favorite part of her job
 
-2:25: Jenny’s biggest challenge in her new leadership role
+2:25— Jenny’s biggest challenge in her new leadership role
 
-3:40: What she's most excited to do in the next few years
+3:40— What she's most excited to do in the next few years
 
-4:45: Jenny is an inspiration to our whole team
+4:45— Jenny is an inspiration to our whole team
 
-5:30: Wrapping up today’s topic
+5:30— Wrapping up today’s topic
 
 **If you know a buyer or seller who could use some advice, Jenny is a fantastic person to call**. If you’re interested in talking about joining our team and you’d like to have a conversation about that, reach out to us via phone at (717) 216-0860 or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We’ll follow up with you soon.
