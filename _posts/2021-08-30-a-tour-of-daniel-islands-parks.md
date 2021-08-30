@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Tour of Daniel Island’s Parks
-date: 2021-08-27 13:00:00
+date: 2021-08-30 09:35:00
 tags:
   - Community
 excerpt: Today I’ll show you around some of my favorite parks on Daniel Island.
