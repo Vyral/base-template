@@ -6,7 +6,7 @@ tags:
   - Community
 excerpt: Today I’ll show you around some of my favorite parks on Daniel Island.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/A+Tour+of+Daniel+Island%E2%80%99s+Parks+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/A+Tour+of+Daniel+Island%E2%80%99s+Parks+(2).mp4
 pullquote: We have a lot of great parks here.
 enclosure_type: video/mp4
 enclosure_time:
