@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Waiving Appraisals: What You Need To Know'
-date: 2021-08-23 00:20:00
+date: 2021-08-30 00:20:00
 tags:
   - Home Buyer Tips
 excerpt: Attorney Arielle Cecala explains what waiving an appraisal can mean.
