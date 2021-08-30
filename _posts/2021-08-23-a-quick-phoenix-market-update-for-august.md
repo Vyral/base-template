@@ -5,7 +5,8 @@ date: 2021-08-23 00:00:00
 tags:
   - Market Update
 excerpt: Where the Phoenix real estate market is headed as we approach fall.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/A+Quick+Phoenix+Market+Update+for+August.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
