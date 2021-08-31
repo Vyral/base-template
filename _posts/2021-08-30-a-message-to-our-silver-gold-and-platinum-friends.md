@@ -17,7 +17,7 @@ youtube_code: 7cMW-g0xlXQ
 
 {% include excerpt.html %}
 
-Today I’m here to explain our “Friends of the Myles Group” rewards program. It’s our way to shower our past clients and referral partners with monthly giveaways, exclusive offers, and fun client events to show our appreciation for your continued business and referrals.
+Today I’m here to explain our “Friends of the Myles Group” rewards program. It’s our way to shower past clients and referral partners with monthly giveaways, exclusive offers, and fun client events to show our appreciation for your continued business and referrals.
 
 **The first level is the “silver level.”** All of our past clients and anyone who has referred business to us in the past automatically begins at this level. You’re eligible for monthly giveaways that you’ll find out about via email and our exclusive Facebook group at the beginning of each month.
 
