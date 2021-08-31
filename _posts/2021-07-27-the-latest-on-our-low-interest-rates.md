@@ -7,13 +7,13 @@ tags:
   - Central Iowa Real Estate
 excerpt: Our current low interest rates make properties more affordable.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+Latest+on+Our+Low+Interest+Rates.mp4
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Low+Interest+Rates+++Updated.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/what-do-low-rates-mean-yt.jpg
-youtube_code: 9lQihBwzV-Q
+youtube_code: 2It6ESpfRV4
 ---
 {% include youtube.html %}
 
