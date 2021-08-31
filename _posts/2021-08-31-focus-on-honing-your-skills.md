@@ -5,8 +5,8 @@ tags:
   - Real Estate
 excerpt: Skills pay the bills in every industry, and real estate is no different.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/2021/The+Stern+Team_+Focus+On+Honing+Your+Skills+(1).mp4
+pullquote:
 enclosure_type: video/mp4
 enclosure_time: 10:39 am
 use_youtube_image: true
