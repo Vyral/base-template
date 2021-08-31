@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solar Power in Hawaii with Jacob Kissack
-date: 2021-08-31 20:25:03
+date: 2021-08-24 20:25:00
 tags:
   - Team Lally Radio Show
 excerpt:
