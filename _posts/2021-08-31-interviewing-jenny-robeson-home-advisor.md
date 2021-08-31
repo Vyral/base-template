@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interviewing Jenny Robeson, Home Advisor
-date: 2021-08-30 11:40:00
+date: 2021-08-31 15:25:00
 tags:
   - The Dave Hooke Team
 excerpt: My interview with Jenny Robeson about why she started doing real estate.
