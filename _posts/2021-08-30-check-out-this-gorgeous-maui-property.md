@@ -25,7 +25,7 @@ If you’ve ever wondered what kind of home $8 million can buy you in Maui, toda
 
 With 4,670 square feet, this 4-bed, 4.5-bath home sits on 35+ acres of land. It is a masterpiece\! All of the art here is just exquisite. The floors are all monkeypod, and the accents and trims are all African mahogany. The four posts in the back and front yards are native Hawaiian ohia. Venetian plaster adorns every wall as well as the ceilings; no expense was spared on this amazing home.
 
-Inside, **the kitchen is stocked with state-of-the-art appliances** including a full-range gas burner stove, Kitchenaid appliances, and a huge pantry. The home has two primary suites with huge bathrooms. The one highlighted in the video above has an enormous walk-in shower and Whirlpool jacuzzi tub. With all its amazing amenities, this is one of my favorite bathrooms I’ve ever seen.
+Inside, **the kitchen is stocked with state-of-the-art appliances** including a full-range gas burner stove, Kitchenaid appliances, and a huge pantry. The home has two primary suites with huge bathrooms. The one highlighted in the video above has an enormous walk-in shower and a Whirlpool jacuzzi tub. With all its amazing amenities, this is one of my favorite bathrooms I’ve ever seen.
 
 {% include pullquote.html %}
 
