@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Who’s to Blame for Skyrocketing Home Prices?
-date: 2021-09-01 14:14:42
+title: Who Should We Blame For Skyrocketing Real Estate Prices?
+date: 2021-09-02 11:35:00
 tags:
   - Real Estate
 excerpt: Here are my thoughts on who’s responsible for these crazy home prices.
