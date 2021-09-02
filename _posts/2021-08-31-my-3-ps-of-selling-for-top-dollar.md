@@ -25,10 +25,10 @@ The following tips will help you get 2.7% more for the sale of your home, meanin
 
 **2\. Price**. If you overprice your home, all the preparation in the world isn’t going to make a difference, even in the current seller’s market. Price strategy is key to selling for top dollar.
 
-**3\. Promotion**. Today’s tech-savvy and mobile buyers are looking for their next home online. That means you need aggressive, cutting-edge internet and social marketing strategies to ensure your success.
+**3\. Promotion**. Today’s tech-savvy and mobile buyers are looking for their next homes online. That means you need aggressive, cutting-edge internet and social media marketing strategies to ensure your success.
 
 {% include pullquote.html %}
 
 I’ve only briefly touched on these three imperative selling components, so if you’re serious about selling your home, I’d love to discuss my strategies in more detail. I’ll get your home in front of three times more buyers than other agents can.
 
-If you have any questions or there's another topic you’d like me to cover in a future video, please each out to me via phone or email. I look forward to meeting with you soon.
+If you have any questions or there's another topic you’d like me to cover in a future video, please reach out to me via phone or email. I look forward to meeting with you soon.
