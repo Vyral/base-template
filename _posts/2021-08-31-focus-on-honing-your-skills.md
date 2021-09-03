@@ -19,7 +19,7 @@ youtube_code: JS7gg2yRqOo
 
 When I was listening to a podcast this week, a phrase stopped me in my tracks. “Skills pay the bills.” That hit me as a team leader who is coaching many agents on my team and outside of my team. Our coaching always comes back to skills like lead generating, time blocking, the language of sales,&nbsp; tie-downs, and assumptive closes. **Those agents who work hard on their skills have a much higher income in this industry.**
 
-Here’s an example of this in the sports industry. Tom Brady was a late-round draft pick for the Patriots 20 years ago, but he is now considered the greatest quarterback of all time. What he did better than anybody is that he focused on his skills. He has more rings than he can fit on one hand.
+Here’s an example of this in the sports industry: Tom Brady was a late-round draft pick for the Patriots 20 years ago, but he is now considered the greatest quarterback of all time. What he did better than anybody is that he focused on his skills. He has more Super Bowl rings than he can fit on one hand.
 
 If you're looking to grow your business and thrive, find a coach and hone your skills. Give me and my team a call. We’d love to talk through these things with you.
 
