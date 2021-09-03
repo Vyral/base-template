@@ -5,7 +5,8 @@ date: 2021-08-27 00:00:00
 tags:
   - Local Spotlight
 excerpt: My conversation with Morgan, the owner of Modern Cottage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Tulsa+Looks+Good+on+Modern+Cottage.mp4
 pullquote: >-
   I always tell people that if they have an entrepreneurial dream, they can make
   it happen.
