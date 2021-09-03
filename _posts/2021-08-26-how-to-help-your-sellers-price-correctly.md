@@ -5,7 +5,8 @@ date: 2021-08-26 00:00:00
 tags:
   - Listing Presentation
 excerpt: Listing homes at the right price is still the best way to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/JENNIE_WOLEK_PRICING_PROPERLY.mp4
 pullquote: >-
   No matter what objections a buyer may have, if a home is priced correctly, it
   will sell.
