@@ -18,7 +18,7 @@ youtube_code: Gxr_Yeyek_8
 
 {% include excerpt.html %}
 
-Ok, guys, we’re ALL aware that St. George home values are sky-high right now\! And I imagine that ten years from now, we might wish they were “this cheap” again\!
+Ok, guys, we’re ALL aware that St. George home values are ***sky-high*** right now\! And I imagine that ten years from now, we might wish they were “this cheap” again\!
 
 <br>In the short term, locals hate the prices, and out-of-state Buyers think St. George is a bargain\!&nbsp;
 
