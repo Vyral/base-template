@@ -6,13 +6,14 @@ tags:
   - Central Iowa Real Estate
   - Home Buyer Tips
 excerpt: Here’s how a pre-inspection can help you be a better seller.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Getting+Pre+Approved++UPDATED.mp4
 pullquote: We avoid inaccurate pricing with a pre-inspection.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /the-importance-of-a-pre-inspection-yt.jpg
-youtube_code: B9jIfqu8ca0/
+youtube_code: POo-0yPMZeg
 ---
 {% include youtube.html %}
 
