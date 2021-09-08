@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /market-update-yt.jpg
+youtube_alternate_image: /market-update-yt-1.jpg
 youtube_code: Q8MYALr-XJI
 ---
 {% include youtube.html %}
