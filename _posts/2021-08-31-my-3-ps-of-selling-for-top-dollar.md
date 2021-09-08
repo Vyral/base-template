@@ -5,7 +5,8 @@ date: 2021-08-31 00:00:00
 tags:
   - Home Seller Tips
 excerpt: How can you receive top dollar when selling your home? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/My+3+P%E2%80%99s+of+Selling+for+Top+Dollar.mp4
 pullquote: It’s not just about what you do but how you do it.
 enclosure_type: video/mp4
 enclosure_time:
