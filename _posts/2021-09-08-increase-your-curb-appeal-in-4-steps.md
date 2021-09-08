@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Increase Your Curb Appeal in 4 Steps
-date: 2021-09-03 16:24:42
+date: 2021-09-08 10:05:00
 tags:
   - Home Seller Tips
 excerpt: Here are four easy ways to boost your home’s curb appeal this fall.
