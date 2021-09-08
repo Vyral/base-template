@@ -17,7 +17,7 @@ youtube_code: fyOSdXalrhw
 
 {% include excerpt.html %}
 
-Is the market crashing? In our market, **we've had very rapid appreciation over the last 12 months**. Values have risen about 30%, depending on your location in the Phoenix metro area. Due to this rapid appreciation, it's easy to think that the market is going to crash once it starts to flatten out and normalize. That couldn't be further from the truth.
+Is the market crashing? As you might have noticed, **we've had very rapid appreciation over the last 12 months**. Values have risen about 30%, depending on your location in the Phoenix metro area. Due to this rapid appreciation, it's easy to think that the market is going to crash once it starts to flatten out and normalize. That couldn't be further from the truth.
 
 {% include pullquote.html %}
 
