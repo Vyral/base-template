@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Are You Going To Move Next?
-date: 2021-09-08 13:34:00
+date: 2021-09-08 10:25:00
 tags:
   - Home Seller Tips
 excerpt: Here’s one way to take advantage of the market and start building wealth.
@@ -18,7 +18,7 @@ youtube_code: w1fB-RzAnwI
 
 {% include excerpt.html %}
 
-So you’ve decided to sell your house. This is the best market we’ve ever seen for sellers who want to get top dollar, but where are you going to move to next?&nbsp;
+So you’ve decided to sell your house. This is the best market we’ve ever seen for sellers who want to get top dollar, but where are you going to move to next?
 
 **I think now is an excellent time to buy investment property and use that to leverage the future purchase of your dream home.** With low interest rates, you can get into a property that’s smaller for a short period of time and use that home as a future investment.
 
