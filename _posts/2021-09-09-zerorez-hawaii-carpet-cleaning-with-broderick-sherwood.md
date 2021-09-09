@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   This week on the Team Lally Real Estate Radio Show, we interview Broderick
   Sherwood of ZeroRez Hawaii.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Adrienne+Lally/ZeroRez+Hawaii+Carpet+Cleaning+with+Broderick+Sherwood+_+Carpet+Cleaning+_+Hawaii+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
