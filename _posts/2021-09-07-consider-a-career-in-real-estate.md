@@ -5,7 +5,8 @@ date: 2021-09-07 00:00:00
 tags:
   - Real Estate
 excerpt: We want to help you have a successful career in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Consider+a+Career+in+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
