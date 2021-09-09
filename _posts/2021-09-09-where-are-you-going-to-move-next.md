@@ -1,18 +1,17 @@
 ---
 layout: post
 title: Where Are You Going To Move Next?
-date: 2021-09-08 10:25:00
+date: 2021-09-09 09:50:00
 tags:
   - Home Seller Tips
 excerpt: Here’s one way to take advantage of the market and start building wealth.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Where+Are+You+Going+to+Move+Next_.mp4
+enclosure:
 pullquote: This is an area that I’m very passionate about.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: w1fB-RzAnwI
+youtube_code: 194wSff9VxY
 ---
 {% include youtube.html %}
 
