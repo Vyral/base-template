@@ -5,7 +5,8 @@ date: 2021-09-09 14:10:27
 tags:
   - Market Update
 excerpt: What’s going to happen to home values over the next three or four years?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2021/What%E2%80%99s+Going+to+Happen+to+Home+Values_.mp4
 pullquote: >-
   We’ll see more moderate changes (3% to 4%) as more inventory comes on the
   market.
