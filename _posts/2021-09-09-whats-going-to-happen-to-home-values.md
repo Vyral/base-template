@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Going to Happen to Home Values?
+title: What’s Going To Happen to Home Values?
 date: 2021-09-09 14:10:27
 tags:
   - Market Update
