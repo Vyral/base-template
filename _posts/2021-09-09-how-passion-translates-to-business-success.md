@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Passion Translates to Business Success
-date: 2021-09-08 18:10:18
+date: 2021-09-09 13:30:00
 tags:
   - Expert Advice
 excerpt: Here’s why I emphasize living with passion every single day.
@@ -22,7 +22,7 @@ One thing I like to emphasize in my life is living every day with passion. I’v
 
 {% include pullquote.html %}
 
-I compare business to sports a lot. The goal of playing sports is to win a championship, but to do that, you have to prepare and train the right way. You need to learn the fundamentals, stay healthy, and get stuff done.&nbsp;
+I compare business to sports a lot. The goal of playing sports is to win a championship. To do that, you have to prepare and train the right way. You need to learn the fundamentals, stay healthy, and get stuff done.&nbsp;
 
 The same thing goes for business. Sometimes you have to stay late and study up on the playbook. If you do that, you’ll put yourself in a position to go to the next level.&nbsp;
 
