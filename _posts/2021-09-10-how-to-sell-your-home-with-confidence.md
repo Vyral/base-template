@@ -1,18 +1,18 @@
 ---
 layout: post
 title: How To Sell Your Home With Confidence
-date: 2021-09-09 18:54:06
+date: 2021-09-10 11:25:00
 tags:
   - Home Seller Tips
 excerpt: Call me now so I can help you get your house ready to sell for top dollar.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2021/How+To+Sell+Your+Home+With+Confidence.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2021/How+To+Sell+Your+Home+With+Confidence+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5kvYGTei09E
+youtube_code: iBh7ODXgx9c
 ---
 {% include youtube.html %}
 
