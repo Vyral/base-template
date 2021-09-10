@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Market Going to Crash?
+title: Is the Market Going To Crash?
 tags:
   - Real Estate
 date: 2021-09-08 00:54:00
@@ -17,11 +17,11 @@ youtube_code: eZNm3KvmIJM
 
 {% include excerpt.html %}
 
-Everyone’s been discussing whether we’re in a housing bubble, so today I want to address those concerns.&nbsp;
+Everyone’s been discussing whether we’re in a housing bubble or not, so today I want to address those concerns.&nbsp;
 
 It’s been about 13 years since the last real estate market crash, so it’s still fairly fresh in our minds. Many of us grew up with it and its aftermath, **so we have this constant fear in the back of our minds that it’s only a matter of time before it happens again.** Plenty of things we’re currently seeing in the market are adding to those fears. Rapidly increasing prices can be alarming because it may mean a bubble is on the horizon.&nbsp;
 
-However, most experts agree that we’re not in a bubble; we’re in a regular appreciating market. Supply and demand is at work in our market, and we don’t have the underlying factors we had last time that contributed to the crash. These include the subprime mortgage crisis and collateralized debt obligations.&nbsp;
+However, most experts agree that we’re not in a bubble; we’re in a regular appreciating market. Supply and demand are at work in our market, and we don’t have the underlying factors we had last time that contributed to the crash. These include the subprime mortgage crisis and collateralized debt obligations.&nbsp;
 
 **We have more equity in our houses these days as a country than we’ve ever had in the past.** Even if someone got into trouble, couldn’t afford their mortgage payments, and had to sell their house, they could still likely sell it and make money or take money out of it. Even with the rental moratorium soon to expire, we’re not expecting any sort of bubble to burst as we head into 2022.&nbsp;
 
