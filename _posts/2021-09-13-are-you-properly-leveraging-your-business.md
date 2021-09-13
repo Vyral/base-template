@@ -4,7 +4,8 @@ title: Are You Properly Leveraging Your Business?
 tags:
   - Transaction Management
 excerpt: An example of how our team leverages showing agents to grow the business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2021/The+Stern+Team_+Are+You+Properly+Leveraging+Your+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
