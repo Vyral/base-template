@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Are You Going To Move Next?
-date: 2021-09-09 09:50:00
+date: 2021-09-13 09:50:00
 tags:
   - Home Seller Tips
 excerpt: Here’s one way to take advantage of the market and start building wealth.
