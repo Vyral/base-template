@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Passion Translates to Business Success
-date: 2021-09-09 13:30:00
+date: 2021-09-13 11:30:00
 tags:
   - Expert Advice
 excerpt: Here’s why I emphasize living with passion every single day.
