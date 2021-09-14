@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going To Happen to Home Values?
-date: 2021-09-09 14:10:27
+date: 2021-09-14 10:30:00
 tags:
   - Market Update
 excerpt: What’s going to happen to home values over the next three or four years?
