@@ -5,7 +5,8 @@ date: 2021-09-14 15:21:56
 tags:
   - Home Buyer Tips
 excerpt: Is purchasing real estate still a good idea?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Is+It+Still+a+Good+Idea+to+Buy_.mp4
 pullquote: >-
   Real estate is a great vehicle to save up and plan for your financial future,
   but there are a lot of things to consider.
