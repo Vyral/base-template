@@ -15,7 +15,7 @@ youtube_code: xjqkXALCUQA
 ---
 {% include youtube.html %}
 
-<center><em>Reach out to us if you have any questions so that we can help you.</em></center>
+<p style="text-align:center;"><em>Reach out to us if you have any questions so that we can help you.</em></p>
 
 <center>&nbsp;</center>
 
