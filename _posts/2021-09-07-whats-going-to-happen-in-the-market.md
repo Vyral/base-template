@@ -5,7 +5,8 @@ date: 2021-09-07 00:00:00
 tags:
   - Market Update
 excerpt: The real estate market is starting to balance out, not crash.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/What%E2%80%99s+Going+to+Happen+in+the+Market_.mp4
 pullquote: This fall is going to be a good time to get back into the market.
 enclosure_type: video/mp4
 enclosure_time:
