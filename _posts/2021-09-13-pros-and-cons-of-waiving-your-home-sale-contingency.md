@@ -19,7 +19,7 @@ youtube_code: KmSVnqdrJVM
 
 Today we’re concluding our three-part discussion with Arielle Cecala on waiving contingencies. For the final installment of this series, we’ll focus on the pros and cons of waiving the home sale contingency and what you need to know about it.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
+**Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
 0:50 - The legal dangers of waiving a home sale contingency according to Arielle
 
@@ -29,6 +29,6 @@ Today we’re concluding our three-part discussion with Arielle Cecala on waivin
 
 6:05 - Wrapping things up
 
-It’s always great having Arielle on and I thank her for joining us to offer this important, insightful info. If you have any questions for her, reach out to her via phone at (781) 251-0541 or by email at acecala@crowleycummings.com.
+It’s always great having Arielle on, and I thank her for joining us to offer this important, insightful info. If you have any questions for her, reach out to her via phone at (781) 251-0541 or by email at acecala@crowleycummings.com.
 
 If you have any other real estate-related questions for me, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
