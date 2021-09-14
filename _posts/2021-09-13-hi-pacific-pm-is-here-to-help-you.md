@@ -5,7 +5,8 @@ date: 2021-09-13 10:46:00
 tags:
   - Property Management
 excerpt: Reach out to us if you have any questions so that we can help you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/HI+Pacific+PM+Is+Here+To+Help+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: xjqkXALCUQA
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Reach out to us if you have any questions so that we can help you.</em></p>
+*Reach out to us if you have any questions so that we can help you.*
 
 <center>&nbsp;</center>
 
