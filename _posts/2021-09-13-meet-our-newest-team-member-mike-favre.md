@@ -20,7 +20,7 @@ We are so excited to announce that Mike Favre has joined our team. Let’s quick
 
 **1\. What got him into real estate?** He comes from a real estate background. It’s something he has been around his whole life, and he always kind of knew he’d go this route.
 
-**2\. What brought him to Minnesota?** It’s close enough to home but far enough away. You get all the things that he loves about Wisconsin and Minnesota with the outdoors. At the end of the day, though, he’s a Pack fan.
+**2\. What brought him to Minnesota?** It’s close enough to home but far enough away. For example, all the outdoorsy things he loves about Wisconsin are still in Minnesota. At the end of the day, though, he’s a Pack fan.
 
 {% include pullquote.html %}
 
