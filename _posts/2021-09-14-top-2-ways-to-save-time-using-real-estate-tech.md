@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 2 Ways to Save Time Using Real Estate Tech
-date: 2021-09-09 20:55:47
+date: 2021-09-14 08:35:00
 tags:
   - Real Estate Business Tips
 excerpt: Here are two ways to use technology to optimize your real estate business.
@@ -28,6 +28,6 @@ How can you get some more of your time back using technology? **Here are my two 
 
 {% include pullquote.html %}
 
-These are the top two principles for saving time with tech in the real estate world. If you have any questions about how we use this technology or anything else related to the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+These are the top two principles for saving time with tech in the real estate world. If you have any questions about how we use this technology or anything else related to the real estate business, don’t hesitate to reach out via phone at (717) 216-0860 or email&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com). I look forward to hearing from you soon.
 
 &nbsp;
