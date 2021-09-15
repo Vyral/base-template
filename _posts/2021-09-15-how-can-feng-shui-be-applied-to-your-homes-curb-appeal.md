@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can Feng Shui Be Applied to Your Home's Curb Appeal?
-date: 2018-07-11 00:00:00
+date: 2021-09-15 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -11,14 +11,13 @@ excerpt: >-
   explain.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/How+Can+Feng+Shui+Be+Applied+to+Your+Home%2527s+Curb+Appeal%253F.mp4
-pullquote: 'When you change your space, you can change your life.'
+pullquote: When you change your space, you can change your life.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/eric-mortimer-ss-june-1-no-play.jpg
 youtube_code: xZpxBXzwLWM
 ---
-
 {% include youtube.html %}
 
 <center><em>You may have heard of the ancient art of feng shui, but do you know what it can do for your life and your home? Today I&rsquo;ve brought on an expert to explain.</em></center>
