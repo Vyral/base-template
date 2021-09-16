@@ -32,7 +32,3 @@ The moral of the story is this: Interest rates have a much higher impact on your
 **Appreciation has also been very consistent in recent years.** Even when there’s a correction, the market adjusts, and homes continue to appreciate at a steady pace. If no market crash ends up coming, you could find yourself looking at more expensive homes and higher interest rates.&nbsp;
 
 If you or anyone you know is looking for real estate-related help, please reach out to me via phone or email. I am always looking to help.
-
-<center><em>EXCERPT.</em></center>
-
-<br>ARTICLE
