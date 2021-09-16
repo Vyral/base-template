@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening With Portland Real Estate?
-date: 2021-09-14 21:17:16
+date: 2021-09-16 13:55:00
 tags:
   - Market Update
 excerpt: Here are the latest numbers and my take on the Portland real estate market.
@@ -18,11 +18,11 @@ youtube_code: MsIYbUf0vDc
 
 {% include excerpt.html %}
 
-The Portland MLS just released their August 2021 market numbers, and I wanted to break down some of the key statistics for you today:
-
-**First, we have just one month of inventory.** This means with no new listings, it would take one month to sell everything that’s listed. While this is an incredibly low number, it’s actually up from the last few months. We had 0.7 months in June and 0.8 months in July. If you’re a seller, it’s still a great time to sell because there’s very little competition and very high demand.
+The Portland MLS just released their August 2021 market numbers, and I wanted to break down some of the key statistics for you today.
 
 {% include pullquote.html %}
+
+**First, we have just one month of inventory.** This means that with no new listings, it would take one month to sell everything that’s listed. While this is an incredibly low number, it’s up from the last few months. We had 0.7 months in June and 0.8 months in July. If you’re a seller, it’s still a great time to sell because there’s very little competition and very high demand.
 
 The average home price for August 2021 was $583,600. This is up 16.2% from August 2020. The median price is up 14.2% year over year.&nbsp;
 
