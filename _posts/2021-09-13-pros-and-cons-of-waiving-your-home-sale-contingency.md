@@ -5,7 +5,8 @@ date: 2021-09-13 00:20:00
 tags:
   - Real Estate
 excerpt: ' Here’s the conclusion to our contingency discussion with Arielle Cecala.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/Pros+and+Cons+of+Waiving+Your+Home+Sale+Contingency.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
