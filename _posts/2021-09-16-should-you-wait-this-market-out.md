@@ -19,7 +19,7 @@ youtube_code: 9bcAFs4LBK8
 
 {% include excerpt.html %}
 
-Recently, a lot of clients have asked me, “Should I wait for a market crash before I buy?” Today, I want to answer that question and give you an overview of where our market is currently at.&nbsp;
+Recently, a lot of clients have asked me, “Should I wait for a market crash before I buy?” Today I want to answer that question and give you an overview of where our market is currently at.&nbsp;
 
 Let’s take a look at an average Chicago condo to figure out what you should do. The median price for a two-bedroom, two-bath condo is currently **$420,000**, and interest rates are around **3\.5%**. If the market were to crash, we could expect a 10% drop in price, leaving that condo at **$378,000.**
 
