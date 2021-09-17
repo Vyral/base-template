@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s a really quick end-of-summer/early fall market update.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/An+Update+on+Our+Prior+Lake+Market.mp4
 pullquote: ' It seems like the market is normalizing a bit.'
 enclosure_type: video/mp4
 enclosure_time:
