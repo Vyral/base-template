@@ -5,7 +5,8 @@ date: 2021-09-09 00:00:00
 tags:
   - Homeownership
 excerpt: You have multiple ways to appeal your taxes if they’re too high.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Make+Sure+Your+Taxes+Are+Fair.mp4
 pullquote: You need verifiable evidence to appeal your taxes.
 enclosure_type: video/mp4
 enclosure_time:
