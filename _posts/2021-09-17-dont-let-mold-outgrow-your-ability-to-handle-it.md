@@ -15,7 +15,7 @@ youtube_code: d2XQNCc-I3o
 ---
 {% include youtube.html %}
 
-Mold is a serious problem here in Hawaii.
+<p style="text-align:center;"><em>Mold is a serious problem here in Hawaii.</em></p>
 
 <center>&nbsp;</center>
 
