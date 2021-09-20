@@ -11,13 +11,13 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Schedule a Consultation Call with Rick
-    url: 'https://calendly.com/rick-138'
+    url: https://calendly.com/rick-138
 client:
   name: Richard (Rick) Canale
   license_number: REALTOR® | S.50680
   about_markdown: >-
     Rick is an educator and coach first and a REALTOR&reg; second. He enjoys
-    educating you, whether you're a Buyer or Seller, dispelling the many "myths"
+    educating you, whether you're a buyer or seller, dispelling the many "myths"
     of buying and selling real estate, and helping you realize the opportunity
     to fulfill your dreams. As a successful real estate investor, Rick can offer
     practical and useful advice regardless of whether you are a first-time
@@ -31,12 +31,12 @@ client:
   phone2: (775) 823-8787
   phone2_type: Office
   email: Rick@NorthernNevadaHouseHunters.com
-  url: 'https://www.NorthernNevadaHouseHunters.com'
+  url: https://www.NorthernNevadaHouseHunters.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.northernnevadahousehunters.com/selling/'
+  first_CTA_URL: https://www.northernnevadahousehunters.com/selling/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.northernnevadahousehunters.com/search/advanced_search/'
+  second_CTA_URL: https://www.northernnevadahousehunters.com/search/advanced_search/
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808882';</script><script
@@ -48,24 +48,24 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://www.northernnevadahousehunters.com/selling/'
+    CTA_url: https://www.northernnevadahousehunters.com/selling/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.northernnevadahousehunters.com/search/advanced_search/'
+    CTA_url2: https://www.northernnevadahousehunters.com/search/advanced_search/
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -76,12 +76,12 @@ welcome_box:
     for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/RickCanaleRE/'
-  linkedin_url: 'https://www.linkedin.com/in/rcanale/'
+  facebook_url: https://www.facebook.com/RickCanaleRE/
+  linkedin_url: https://www.linkedin.com/in/rcanale/
   gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UCYa-OhNINSae0QBdCr1QZeg'
-  twitter_url: 'https://twitter.com/Rick_Canale'
-  instagram_url: 'https://www.instagram.com/rcan74/'
+  youtube_url: https://www.youtube.com/channel/UCYa-OhNINSae0QBdCr1QZeg
+  twitter_url: https://twitter.com/Rick_Canale
+  instagram_url: https://www.instagram.com/rcan74/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -125,15 +125,15 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0.65)'
+  shadow_color: rgba(0, 0, 0, 0.65)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#000000'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(255, 255, 255, 0)'
+  secondary_button_background_color: rgba(255, 255, 255, 0)
   secondary_button_text_color: '#ffffff'
 ---
