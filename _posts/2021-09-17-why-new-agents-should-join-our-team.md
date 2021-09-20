@@ -5,7 +5,7 @@ date: 2021-09-17 00:00:00
 tags:
   - Real Estate
   - Join Our Team
-excerpt: Here’s why Anjanette decided to take her talents to the Select Premier team.
+excerpt: Here’s why Anjanette decided to join the Select Premier Properties team.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/Victoria+Sandoval+-+San+Diego+Realtor_.mp4
 pullquote: >-
