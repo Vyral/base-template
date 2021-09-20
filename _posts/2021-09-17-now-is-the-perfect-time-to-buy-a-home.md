@@ -19,8 +19,8 @@ youtube_code: 5M3K15Ts_4Q
 
 {% include excerpt.html %}
 
-We know that buying is more affordable than renting, but it’s not just because it’s a lower payment. **One of the most powerful long term savings plans is building the equity in your home.** You will be paying for where you’re living regardless, but with a home, these payments are building up equity. This is especially great when compared to renting, where you're practically throwing the money away.
+We know that buying is more affordable than renting, but it’s not just because it’s a lower payment. **One of the most powerful long-term savings plans is building equity in your home.** You will be paying for where you’re living regardless, but with a home, these payments are building up equity. This is especially great when compared to renting, where you're practically throwing the money away.
 
 With interest rates as low as they are, you’re building that equity quicker than ever. There is so much opportunity right now to build long-term wealth by buying a home.
 
-If you have any real estate questions, reach out to Misty at 515-575-9950. We’d love to talk\!
+If you have any real estate questions, reach out to Misty at 515-575-9950. I’d love to talk\!
