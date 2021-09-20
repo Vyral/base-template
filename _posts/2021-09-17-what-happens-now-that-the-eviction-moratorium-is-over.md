@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Happens Now That The Eviction Moratorium is Over?
+title: What Happens Now That The Eviction Moratorium Is Over?
 date: 2021-09-17 00:00:00
 tags:
   - Market Update
@@ -18,9 +18,9 @@ youtube_code: Yz0ALMGGfts
 
 {% include excerpt.html %}
 
-What’s the deal with the eviction moratorium ending? Some people are saying everything will be fine, while others are saying we’ll see a wave of foreclosures. Who is right? Today, I’ll tell you everything you need to know about the end of the eviction moratorium.&nbsp;
+What’s the deal with the eviction moratorium ending? Some people are saying everything will be fine, while others are saying we’ll see a wave of foreclosures. Who is right? Today I’ll tell you everything you need to know about the end of the eviction moratorium.&nbsp;
 
-Those who claim we’re heading towards a crash are saying so because **they think there is a wave of foreclosures right around the corner.** During the pandemic, a lot of people went into forbearance. Now that the eviction moratorium is over, these people will have their homes foreclosed on, and it will be like 2008 all over again. In my experience of managing properties, I haven’t seen a lot of tenants missing rent because we vet our clients thoroughly. However, this doesn’t necessarily reflect the rest of the country.&nbsp;
+Those who claim we’re heading towards a crash are saying so because **they think there is a wave of foreclosures right around the corner.** During the pandemic, a lot of people went into forbearance. Now that the eviction moratorium is over, these people will have their homes foreclosed on, and it will be like 2008 all over again. Some people are even worried about landlords who couldn't pay the mortgage because renters weren't paying rent. In my experience of managing properties, I haven’t seen a lot of tenants missing rent because we vet our clients thoroughly. However, this doesn’t necessarily reflect the rest of the country.&nbsp;
 
 {% include pullquote.html %}
 
