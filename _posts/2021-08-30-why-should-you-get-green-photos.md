@@ -3,6 +3,8 @@ layout: post
 title: Why Should You Get Green Photos?
 date: 2021-08-30 17:47:34
 tags:
+  - Real Estate
+  - Home Seller Tips
 excerpt: Here’s one tip that will get you thousands more from your home sale.
 enclosure:
 pullquote:
@@ -10,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: a-Xon8Nj-14
+youtube_code: qcnozSuC4ic
 ---
 {% include youtube.html %}
 
