@@ -4,7 +4,8 @@ title: 'Six Personal Perspectives, Part 1: Self-Mastery'
 tags:
   - Transaction Management
 excerpt: To attain self-mastery, use the KASH acronym.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/The+Stern+Team_+Six+Personal+Perspectives%2C+Part+1_+Self-Mastery.mp4
 pullquote: As you reflect on what you’re trying to master, remember KASH.
 enclosure_type: video/mp4
 enclosure_time:
