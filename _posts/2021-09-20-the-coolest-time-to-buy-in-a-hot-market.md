@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Coolest Time to Buy in a Hot Market
+title: The Coolest Time To Buy in a Hot Market
 date: 2021-09-20 00:00:00
 tags:
   - Home Buyer Tips
@@ -17,9 +17,9 @@ youtube_code: XZs2jE7202s
 
 {% include excerpt.html %}
 
-Our spring and summer markets have been white-hot. Buyers are looking for homes, and sellers are looking for top dollar. This has led a lot of people to ask me, “When is the coolest time to buy in a hot market?” Today, I want to answer that question.
+Our spring and summer markets have been white-hot. Buyers are looking for homes, and sellers are looking for top dollar. This has led a lot of people to ask me, “When is the coolest time to buy in a hot market?” Today I want to answer that question.
 
-**The underlying factors for our crazy market are still present**. We have low inventory and high demand, leading to buyer competition. However, winter is typically the coolest season for the real estate market. Sellers want to have everything taken care of before cold weather and the holidays, so they are more motivated than usual. Buyers will be motivated too, but it will still be a more balanced market than we’ve seen recently.
+**The underlying factors for our crazy market are still present**. We have low inventory and high demand, leading to buyer competition. However, winter is typically the coolest season for the real estate market. Sellers want to have everything taken care of before the cold weather and holidays, so they are more motivated than usual. Buyers will be motivated too, but it will still be a more balanced market than we’ve seen recently.
 
 {% include pullquote.html %}
 
