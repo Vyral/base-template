@@ -9,10 +9,13 @@ tags:
   - Market Update
   - Real Estate
 excerpt: >-
-  Los Angeles Realtor, Scott Himelstein walks you through the leading indicators
+  Los Angeles Realtor, <a href="https://www.facebook.com/ScottWorks4u"
+  target="_blank">Scott Himelstein</a> walks you through the leading indicators
   to look at to assess how the Los Angeles Housing Market is doing.
 enclosure:
-pullquote:
+pullquote: >-
+  Taking notice of these indicators will give you the proper strategy in the
+  real estate market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,18 +26,12 @@ youtube_code: F0iUsoweONg
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
+Hi there, it's Scott Himelstein with the Scott Himelstein Group. As a realtor I often got asked the questions on a daily basis, what is the market like? Or how is the market? Today, Im going to detail how the these leading indicators can help you asses the market whether you are looking to buy or sell a home.&nbsp;
 
-Scott has been asked almost everyday with the following questions: How is the market? What is going on today that I need to know as a buyer or seller in the real estate market? He gives three indicators and explains them in a language that is simple and easy to understand.
+The first indicator is inventory. We look at inventory in terms of the amount of months of supply; which is how long will it take for all of the current properties that are active to sell if there are no new homes coming on the market. In a normal market, this is abut 6 months worth of homes. Earlier this year, in most of LA County, there was under a month supply on the market that helped fueled multiple offers and homes selling above&nbsp;<br>their asking price.&nbsp;
 
-The first indicator is inventory. Inventory is the amount of homes available on the market and how long will it take for those homes to sell if there are no new homes coming in the market. In a normal market, this is about 6 months worth of homes.&nbsp;
+The second indicator is list-to-sales price. List-to-sale price is the percentage of the list price versus the sales price. If the property is listed at $1 million and sold at $900,000, the list-to-sales price is 90%. That's an indicator, we're going to take a look at to see where the health of the market is. We like to think in the high nineties, that's a pretty healthy market. If we're getting over hundred percent or even at hundred percent, we know bidding wars are happening in that market.&nbsp;<br>&nbsp;<br>The last indicator is days-on-the-market. It means how long does it take for a home to sell in the market. In the San Fernando Valley, the days-on-the-market is 2-3 weeks. Although this time has increased, this is still a record low time to be able to sell your property.
 
-Earlier this year, in most of LA county, there is under a month of supply on the market. This results to multiple offers and homes selling over their list price.
+&nbsp;{% include pullquote.html %}
 
-The second indicator is list-to-sales price. List-to-sale price is the percentage of the list price versus the sales price. If the property is listed at $1 million and sold at $900,000, the list-to-sales price is 90%. Normally, the list-to-sales price is on the high 90s.&nbsp;
-
-Early this year, the list-to-sales price is over 100%. Meaning, homes on the market are being sold over their list price, giving top dollars to the owners.
-
-The last indicator is days-on-the-market. It means how long does it take for a home to sell in the market. In the San Fernando Valley, the days-on-the-market is 2-3 weeks. Although this time has increased, this is still a record low time to be able to sell your property.
-
-These three indicators are very important as they affect the pricing and market strategy. If you are interested in selling your home and in need of expert advice, Scott is the man you are looking for\!
+These three indicators are very important as they affect the pricing and market strategy. We have a very hypermarket and we want to account for that when we're putting a property for sale and are making decisions so that you can maximize the amount of money in your pocket. Contact me to discuss houses in your market and specific area. Thanks\!
