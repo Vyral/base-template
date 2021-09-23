@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can Feng Shui Be Applied to Your Home's Curb Appeal?
+title: How Can Feng Shui Quickly Change Your Life & The Value of Your Home?
 date: 2021-09-15 00:00:00
 tags:
   - Real Estate
