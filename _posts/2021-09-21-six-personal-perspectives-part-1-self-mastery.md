@@ -17,7 +17,7 @@ youtube_code: sbPfJakmWdU
 
 {% include excerpt.html %}
 
-Today’s video marks the beginning of a six-part series on Six Personal Perspectives, a curriculum developed by Gary Keller that was designed around self-development. The first of the six personal perspectives is self-mastery. Let’s dive in\!
+Today’s video marks the beginning of a six-part series called "Six Personal Perspectives," a curriculum developed by Gary Keller that was designed around self-development. The first of the six personal perspectives is self-mastery. Let’s dive in\!
 
 **Self-mastery starts with a process called KASH, which stands for “knowledge, attitude, skills, and habits.”** To be the master of anything, you have to have the right knowledge, attitude, and skills. Once your skills are established, you can develop long-lasting habits that will allow you to accomplish anything that you want.
 
