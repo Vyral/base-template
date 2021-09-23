@@ -35,7 +35,7 @@ We removed the "post a picture" part and instantly doubled the number of registr
 
 We just wanted to remind you that the cool thing about our business is that it’s ours. It’s a relationship-based business, so our database wants to hear from us and have fun too. Let’s give them opportunities to do so.
 
-We also called our clients to confirm their registration, and in that conversation, we got to build real relationships, ask them if they knew anyone who needed real estate help (because that got them five extra points in the contest), and ask them if they needed any assistance or a home equity analysis. **The fun part is that we got referrals got to add new people, and got to send new CMAs.** The whole point of it was to shake the trees so that eventually the fruit will fall, and we’re seeing that to be true.
+We also called our clients to confirm their registration, and in that conversation, we got to build real relationships, ask them if they knew anyone who needed real estate help (because that got them five extra points in the contest), and ask them if they needed any assistance or a home equity analysis. **The fun part is that we got referrals to add new people, and got to send new CMAs.** The whole point of it was to shake the trees so that eventually the fruit will fall, and we’re seeing that to be true.
 
 We just want to know: How are you guys shaking the trees? Are you calling your database or maybe getting them to call you?
 
