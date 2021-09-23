@@ -5,7 +5,7 @@ date: 2021-09-15 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: Myrna Brown explains how feng shui can improve your home’s curb appeal.
+excerpt: How to avoid bad energy, improve your life and the value of your home.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/How+Can+Feng+Shui+Be+Applied+to+Your+Home%2527s+Curb+Appeal%253F.mp4
 pullquote: When you change your space, you can change your life.
