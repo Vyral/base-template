@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /why-you-shouldnt-wait-to-buy-yt.jpg
-youtube_code: 9bcAFs4LBK8
+youtube_code: ovWNV_rHZHM
 ---
 {% include youtube.html %}
 
