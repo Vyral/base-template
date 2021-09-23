@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /why-buying-is-far-better-than-renting-yt.jpg
+youtube_alternate_image: /why-buying-is-far-better-than-renting-yt-1.jpg
 youtube_code: 5M3K15Ts_4Q
 ---
 {% include youtube.html %}
