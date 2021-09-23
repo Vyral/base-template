@@ -21,7 +21,7 @@ youtube_code: 3aLsETRbsWU
 
 {% include excerpt.html %}
 
-Are there events or giveaways that you do over and over again and get similar results? Maybe you can come up with an idea to plus your giveaways and get some engagement, growth, promote a local partner or non-profit, and generate some referrals. Does that sound good?
+Are there events or giveaways that you do over and over again and get similar results? Maybe you can come up with an idea to add to your giveaways and get some engagement, growth, promote a local partner or non-profit, and generate some referrals. Does that sound good?
 
 That’s exactly what we just did with our Yeti for Football giveaway. Every year, we send out a football magnet to our database because, in Oklahoma, football is life. This year, we thought, wait a minute, **we’re sending out this magnet, why not add some excitement and do a giveaway on top of it?**
 
