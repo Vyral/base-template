@@ -23,7 +23,7 @@ youtube_code: 3aLsETRbsWU
 
 Are there events or giveaways that you do over and over again and get similar results? Maybe you can come up with an idea to add to your giveaways and get some engagement, growth, promote a local partner or non-profit, and generate some referrals. Does that sound good?
 
-That’s exactly what we just did with our Yeti for Football giveaway. Every year, we send out a football magnet to our database because, in Oklahoma, football is life. This year, we thought, wait a minute, **we’re sending out this magnet, why not add some excitement and do a giveaway on top of it?**
+That’s exactly what we just did with our Yeti for Football giveaway. Every year, we send out a football magnet to our database because, in Oklahoma, football is life. This year, we thought, wait a minute, **we’re sending out this magnet; why not add some excitement and do a giveaway on top of it?**
 
 We know we’ve had lots of success reaching out to our database and getting people to call in on a certain day or opt in by filling out a form and getting their permission to call them on a certain day. So that’s what we decided to do. You can find the Yeti for Football giveaway [<u>on our blog</u>](https://www.thewolekgroup.com/blog){: target="_blank" rel="noopener"}, but what we’re giving away is a Yeti cooler and some coasters that were donated by our amazing lending partner. It was a zero-cost event because we were already spending money to send them the magnets.
 
