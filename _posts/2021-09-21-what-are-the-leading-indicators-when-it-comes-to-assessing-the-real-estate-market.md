@@ -26,7 +26,7 @@ youtube_code: F0iUsoweONg
 
 {% include excerpt.html %}
 
-Hi there, it's [Scott Himelstein](https://www.facebook.com/scott.himelstein){: target="_blank" rel="noopener"} with the [Scott Himelstein Group](https://www.facebook.com/ScottWorks4u){: target="_blank" rel="noopener"}. As a realtor I often got asked the questions on a daily basis, what is the market like? Or how is the market? Today, I'm going to detail how the these leading indicators can help you asses the market whether you are looking to buy or sell a home.&nbsp;
+Hi there, it's [Scott Himelstein](https://www.facebook.com/scott.himelstein){: target="_blank" rel="noopener"} with the [Scott Himelstein Group](https://www.facebook.com/ScottWorks4u){: target="_blank" rel="noopener"}. As a realtor I often get asked the questions on a daily basis, what is the market like? Or how is the market? Today, I'm going to detail how the these leading indicators can help you assess the market whether you are looking to buy or sell a home.&nbsp;
 
 The **first indicator** is inventory. We look at inventory in terms of the amount of months of supply; which is how long will it take for all of the current properties that are active to sell if there are no new homes coming on the market. In a normal market, this is about 6 months worth of homes. Earlier this year, in most of LA County, there was under a month supply of inventory on the market that helped fueled multiple offers and homes selling above their asking price.&nbsp;
 
