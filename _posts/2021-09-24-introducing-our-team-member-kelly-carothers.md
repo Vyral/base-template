@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Our Team Member Kelly Carothers
-date: 2021-09-20 16:46:14
+date: 2021-09-24 09:00:00
 tags:
   - The Dave Hooke Team
 excerpt: Here’s my conversation with Kelly, a great member of the Dave Hooke Team.
@@ -36,4 +36,4 @@ Today I’m talking with Kelly Carothers about her journey as a real estate agen
 
 5:52 - Wrapping up
 
-Hopefully, you enjoyed getting to know a great member of our team a little better. If you or someone you know is looking to buy or sell a home, please reach out to us at (717) 216-0860 or [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We have plenty of awesome agents like Kelly ready to help.
+Hopefully, you enjoyed getting to know a great member of our team a little better. If you or someone you know has interest in learning more about the available positions on our team, please reach out to us at (717) 216-0860 or [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We have plenty of awesome agents like Kelly ready to help.
