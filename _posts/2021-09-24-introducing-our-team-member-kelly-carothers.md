@@ -36,4 +36,4 @@ Today I’m talking with Kelly Carothers about her journey as a real estate agen
 
 5:52 - Wrapping up
 
-Hopefully, you enjoyed getting to know a great member of our team a little better. If you or someone you know has interest in learning more about the available positions on our team, please reach out to us at (717) 216-0860 or [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We have plenty of awesome agents like Kelly ready to help.
+Hopefully, you enjoyed getting to know a great member of our team a little better. If you or someone you know has interest in learning more about the available positions on our team, please reach out to us at (717) 216-0860 or [dave@davehooketeam.com](mailto:dave@davehooketeam.com).
