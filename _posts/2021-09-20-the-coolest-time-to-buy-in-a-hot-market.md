@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /09-18-canale-youtube.jpg
-youtube_code: XZs2jE7202s
+youtube_code: 6tFmdOKF_4Y
 ---
 {% include youtube.html %}
 
