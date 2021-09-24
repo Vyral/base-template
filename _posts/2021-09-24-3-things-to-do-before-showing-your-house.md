@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things To Do Before Showing Your House
-date: 2021-09-23 16:59:15
+date: 2021-09-24 09:40:00
 tags:
   - Home Seller Tips
 excerpt: Here are three things you should do to get your house ready to show.
