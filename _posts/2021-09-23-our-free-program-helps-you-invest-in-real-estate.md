@@ -25,7 +25,7 @@ We have a free program where we’ll meet once a month as a group via Zoom and a
 
 {% include pullquote.html %}
 
-**One of my goals in life is to create 40 millionaires. The only question is, do you want to be one of them?** If you’re interested, we’d love to have you join us, just register at the link above.&nbsp;
+**One of my goals in life is to create 40 millionaires. The only question is, do you want to be one of them?** If you’re interested, we’d love to have you join us — just register at the link above.&nbsp;
 
 We do this to help clients; we see gurus out there charging $25,000 to $40,000 for classes, and then they have all your money, and you have very little education on the topic. Save your money for your investment. We want to help you succeed at investing in real estate.&nbsp;
 
