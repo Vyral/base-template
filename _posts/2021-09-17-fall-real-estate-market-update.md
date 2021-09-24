@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Update on the Future of Our Market
+title: Fall Real Estate Market Update
 date: 2021-09-17 00:00:00
 tags:
   - Market Update
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /09-16-rosado-youtube.jpg
-youtube_code: sSD2wAz9B14
+youtube_code: UVf045Gph3w
 ---
 {% include youtube.html %}
 
