@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Innovative To Stay Relevant
-date: 2021-09-23 19:46:54
+date: 2021-09-24 13:20:00
 tags:
   - Expert Advice
 excerpt: How being innovative and ahead of the curve has helped my business thrive.
