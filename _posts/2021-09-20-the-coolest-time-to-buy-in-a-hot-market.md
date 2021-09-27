@@ -5,7 +5,8 @@ date: 2021-09-20 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Why winter is the best time to buy in a hot real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/The+Coolest+Time+To+Buy+in+a+Hot+Market.mp4
 pullquote: Be prepared for when the market cools.
 enclosure_type: video/mp4
 enclosure_time:
