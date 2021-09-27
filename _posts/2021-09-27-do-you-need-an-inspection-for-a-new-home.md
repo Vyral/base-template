@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Is it necessary to get an inspection done on a new construction home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Do+You+Need+an+Inspection+for+a+New+Home_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
