@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Will Forbearance Ruin Your Future Buying Plans?
+title: Will Forbearance Ruin Your Future Home financing or refinancing?
 date: 2021-09-16 00:00:00
 tags:
   - Refinancing
   - Finance Advice
   - Home Purchase
-excerpt: Will Forbearance Ruin Your Future Home financing or refinancing?
+excerpt: Here’s how homeowners in forbearance can purchase or refinance again.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/Abel+Tejada+forbearance.mp4
 pullquote: Mortgage brokers can help you shop around for different lenders.
