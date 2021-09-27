@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   We’re proud to introduce you to Chris, the newest buyer’s agent on our team.
   Here’s what he had to say about joining Team Lally.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Adrienne+Lally/2020/Introducing+Our+Newest+Buyer%E2%80%99s+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
