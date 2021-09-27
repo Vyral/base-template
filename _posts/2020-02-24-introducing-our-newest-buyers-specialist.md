@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   We’re proud to introduce you to Dana, the newest buyer’s specialist on our
   team. Here’s what she had to say about joining Team Lally.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Adrienne+Lally/2020/Introducing+Our+Newest+Buyer%E2%80%99s+Specialist.mp4
 pullquote: I enjoy that there’s constant learning and growth happening.
 enclosure_type: video/mp4
 enclosure_time:
