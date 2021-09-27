@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waiting to Buy Can Cost You More
+title: Waiting To Buy Can Cost You More
 date: 2021-09-23 00:00:00
 tags:
   - Home Buyer Tips
