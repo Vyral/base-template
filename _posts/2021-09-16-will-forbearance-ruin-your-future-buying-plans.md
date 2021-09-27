@@ -6,7 +6,7 @@ tags:
   - Refinancing
   - Finance Advice
   - Home Purchase
-excerpt: Here’s how homeowners in forbearance can purchase or refinance again.
+excerpt: Will Forbearance Ruin Your Future Home financing or refinancing?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/Abel+Tejada+forbearance.mp4
 pullquote: Mortgage brokers can help you shop around for different lenders.
@@ -22,9 +22,9 @@ youtube_code: gTsV32P08kQ
 
 If you were enrolled in a forbearance plan, can you buy or refinance now that you’re out of it? You can, but there are some rules you need to know. Every lender has slightly different standards.
 
-**If you’re still in forbearance, you cannot buy or refinance.** A forbearance is a financial hardship, so why would they give you another loan if you can’t pay your first one?&nbsp;
+**If you’re still in forbearance, you cannot buy or refinance.** A forbearance is a financial hardship, so why would they give you another loan if you can’t pay your first one?
 
-If you were in forbearance and now owe back payments, you have a couple of different options. First, you can pay it back in full. If you can’t, they can put the balance on the end of your loan. It’s like a “second” mortgage that sits at the end of your current mortgage. When you refinance or sell, you’ll have to pay it back in full. You also have the option to set up a repayment plan with your lender that slightly increases your payment each month.&nbsp;
+If you were in forbearance and now owe back payments, you have a couple of different options. First, you can pay it back in full. If you can’t, they can put the balance on the end of your loan. It’s like a “second” mortgage that sits at the end of your current mortgage. When you refinance or sell, you’ll have to pay it back in full. You also have the option to set up a repayment plan with your lender that slightly increases your payment each month.
 
 {% include pullquote.html %}
 
