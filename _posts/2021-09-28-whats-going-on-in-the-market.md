@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Market?
-date: 2021-09-24 21:28:50
+date: 2021-09-28 11:15:00
 tags:
   - Market Update
 excerpt: Here are the latest numbers and news in Charlotte real estate.
