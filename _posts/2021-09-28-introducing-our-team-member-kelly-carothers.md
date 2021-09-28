@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Our Team Member Kelly Carothers
-date: 2021-09-24 09:00:00
+date: 2021-09-28 09:00:00
 tags:
   - The Dave Hooke Team
 excerpt: Here’s my conversation with Kelly, a great member of the Dave Hooke Team.
