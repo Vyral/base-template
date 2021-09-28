@@ -5,7 +5,8 @@ date: 2021-09-17 10:46:00
 tags:
   - Property Management
 excerpt: Mold is a serious problem here in Hawaii.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/Don%E2%80%99t+Let+Mold+Outgrow+Your+Ability+to+Handle+It.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
