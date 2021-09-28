@@ -4,7 +4,8 @@ title: 'The 6 Personal Perspectives, Part 2: 80/20 Rule'
 tags:
   - Transaction Management
 excerpt: I discuss the 80/20 rule and how we can apply it to real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/2021/Recruiting/The+Stern+Team_+The+6+Personal+Perspectives%2C+Part+2_+80_20+Rule.mp4
 pullquote: >-
   Find out this week what you’re currently doing and develop those key items,
   the 20%.
