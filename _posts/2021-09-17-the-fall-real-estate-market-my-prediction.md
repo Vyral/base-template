@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall Real Estate Market Update
+title: 'The Fall Real Estate Market: My Prediction'
 date: 2021-09-17 00:00:00
 tags:
   - Market Update
