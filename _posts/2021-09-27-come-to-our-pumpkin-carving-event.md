@@ -21,4 +21,4 @@ We have an exciting announcement for you today. Now that Halloween is coming up,
 
 **We're going to have our Colemere Realty pumpkin carving event on Thursday, October 7 from 4:30 p.m. to 7 p.m. at the Lone Peak Park pavilion at [<u>10140 South 700 East</u>](https://goo.gl/maps/cKJ3U6YvDU6jwc3d7){: target="_blank" rel="noopener"} in Sandy**. You get to carve a pumpkin without the hassle of cleaning it. We invite you to bring a non-perishable item for the Utah food bank to help fill their shelves. We’ll have refreshments, plenty of games, and drawings for gift baskets as well.
 
-Check your email for the invitation and be sure to RSVP. We'd love to see you there. If you have any questions, don’t hesitate to reach out to us by phone or email. We’d love to hear from you.
+Check your email for the invitation, and be sure to RSVP. We'd love to see you there. If you have any questions, don’t hesitate to reach out to us by phone or email. We’d love to hear from you.
