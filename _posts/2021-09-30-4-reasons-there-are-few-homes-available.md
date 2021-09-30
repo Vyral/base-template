@@ -5,7 +5,8 @@ date: 2021-09-30 15:14:20
 tags:
   - Market Update
 excerpt: What’s behind the low inventory of homes here in Orange County?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/4+Reasons+There+Are+Few+Homes+Available.mp4
 pullquote: We can reach out to potential sellers to find you off-market properties.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,9 +22,9 @@ There are four reasons that the inventory in Orange County remains so low:
 
 **1\. There is a foreclosure moratorium.** The moratorium preventing foreclosure expired, but it was extended in August. However, we don’t anticipate that there will be a lot of foreclosures, at least in the short term. The reason for that is that many people who were behind on their mortgage during forbearance have seen their equity positions grow quite a bit. Where 15% of people were in forbearance, now only 5% are.
 
-Another aspect of this is the eviction moratorium. Some people who own rental properties haven’t been paid in close to 18 months since COVID started and protections were put in place to protect renters. Since then, rents have increased quite a bit. It’s believed that a number of these owners, if they’re not professionally managed, will decide to sell their units.&nbsp;
+Another aspect of this is the eviction moratorium. Some people who own rental properties haven’t been paid in close to 18 months since COVID started and protections were put in place to protect renters. Since then, rents have increased quite a bit. It’s believed that a number of these owners, if they’re not professionally managed, will decide to sell their units.
 
-Historically, that means the owners of units in the lower price ranges will be the ones to sell, which would bring new inventory to the market. However,&nbsp; because the moratorium prevents the eviction of tenants, that inventory hasn’t yet hit the market.
+Historically, that means the owners of units in the lower price ranges will be the ones to sell, which would bring new inventory to the market. However, because the moratorium prevents the eviction of tenants, that inventory hasn’t yet hit the market.
 
 {% include pullquote.html %}
 
