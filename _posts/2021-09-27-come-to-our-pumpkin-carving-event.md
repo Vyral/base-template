@@ -5,7 +5,8 @@ date: 2021-09-27 00:00:00
 tags:
   - Real Estate
 excerpt: We’d like to invite all of you to come to our pumpkin carving event.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Come+to+Our+Pumpkin+Carving+Event.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
