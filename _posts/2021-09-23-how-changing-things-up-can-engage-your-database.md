@@ -6,7 +6,7 @@ tags:
   - Lead Generation
   - Lead Conversion
   - Reviews and Referrals
-excerpt: ' Changing things up engages your database more.'
+excerpt: Changing things up engages your database more.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/How+Changing+Things+Up+Can+Engage+Your+Database.mp4
 pullquote: >-
