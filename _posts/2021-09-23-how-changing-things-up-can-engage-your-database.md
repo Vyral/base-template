@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Reviews and Referrals
 excerpt: ' Changing things up engages your database more.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/How+Changing+Things+Up+Can+Engage+Your+Database.mp4
 pullquote: >-
   The whole point of this is to shake the trees so that eventually the fruit
   will fall.
