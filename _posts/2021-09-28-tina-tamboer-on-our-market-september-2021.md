@@ -4,7 +4,7 @@ title: 'Tina Tamboer on Our Market: September 2021'
 date: 2021-09-28 00:10:00
 tags:
   - Real Estate
-excerpt: ' I talk with Tina Tamboer from the Cromford Report about our market.'
+excerpt: ' My talk with Tina Tamboer from the Cromford Report about our market.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -39,11 +39,11 @@ Today I sat down with Tina Tamboer from the Cromford Report. As some of you may 
 
 8:40 — How does inflation affect the housing market?
 
-11\.50 — What is the expectation for future home appreciation?
+11:50 — What is the expectation for future home appreciation?
 
 12:40 — Are we behind on building new homes?
 
-13\.20 — Is it still safe to buy investment properties?
+13:20 — Is it still safe to buy investment properties?
 
 15:05 — What is going to happen in the next three months?
 
@@ -55,12 +55,12 @@ Today I sat down with Tina Tamboer from the Cromford Report. As some of you may 
 
 20:50 — How to decide where to buy an investment property
 
-21\.15 — Areas that are growing
+21:15 — Areas that are growing
 
 22:29 — Phoenix area 20-year prediction
 
-23:25 — USA population issues and the risk for the home values
+23:25 — USA population issues and the risk for home values
 
 24:10 — How does Phoenix compare to the rest of the country?
 
-I hope this information helped you get a better grasp of where the market is at and where it’s headed. If you have questions about our conversation or anything else real estate-related, feel free to give me a call. I’d love to help.
+I hope this information helped you get a better grasp of where the market is and where it’s headed. If you have questions about our conversation or anything else real estate-related, feel free to give me a call. I’d love to help.
