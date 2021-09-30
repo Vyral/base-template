@@ -5,7 +5,8 @@ date: 2021-09-23 00:00:00
 tags:
   - Real Estate
 excerpt: Our free once-a-month program will help you invest in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Our+Free+Program+Helps+You+Invest+in+Real+Estate.mp4
 pullquote: >-
   If you want to use real estate to your advantage but don’t know where to
   start, we have the solution.
