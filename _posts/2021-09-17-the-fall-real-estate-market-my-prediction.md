@@ -5,7 +5,8 @@ date: 2021-09-17 00:00:00
 tags:
   - Market Update
 excerpt: Everything you need to know about our market as we head into fall.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/The+Fall+Real+Estate+Market_+My+Prediction.mp4
 pullquote: >-
   The rainy weather might be putting homes literally underwater, but I predict
   our market to do the opposite.
