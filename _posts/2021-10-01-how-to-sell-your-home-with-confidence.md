@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Sell Your Home With Confidence
-date: 2021-09-30 11:25:00
+date: 2021-10-01 10:00:00
 tags:
   - Home Seller Tips
 excerpt: Call me now so I can help you get your house ready to sell for top dollar.
