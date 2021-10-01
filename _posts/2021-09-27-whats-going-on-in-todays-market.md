@@ -22,8 +22,8 @@ At just over $381,000, the average sales price is up by 12.6%. We’re still fac
 
 {% include pullquote.html %}
 
-Over the last 12 months, new listings are up by 4.8%, and closed sales are up by 13.7%. We are having a difficult time adding inventory to our market, as evidenced by our 1.3 months’ supply, which is down 35%. Remember that a balanced market is a six-month supply.
+Over the last 12 months, new listings are up by 4.8%, and closed sales are up by 13.7%. We are having a difficult time adding inventory to our market, as evidenced by our 1.3-month supply, which is down 35%. Remember that a balanced market is a six-month supply.
 
-**For sellers, proper piercing is key** since buyers have become more selective as prices have surged. Buyers, on the other hand, need to be ready to act on brand-new listings immediately or be willing to find a seller whose house has been on the market for a few weeks because they overshot their price initially. Many times, buyers can negotiate with those sellers to get a price that is appropriate to the condition of the house.
+**For sellers, proper pricing is key** since buyers have become more selective as prices have surged. Buyers, on the other hand, need to be ready to act on brand-new listings immediately, or be willing to find a seller whose house has been on the market for a few weeks because they overshot their price initially. Many times, buyers can negotiate with those sellers to get a price that is appropriate to the condition of the house.
 
-As always, all markets are different, so contact a trusted real estate expert for more information on your individual situation. But if you have any questions or would like assistance buying or selling a home in today’s market, don’t hesitate to reach out to us. We’d love to help you.
+As always, all markets are different, so contact a trusted real estate expert for more information on your individual situation. If you have any questions or would like assistance buying or selling a home in today’s market, don’t hesitate to reach out to us. We’d love to help you.
