@@ -25,3 +25,6 @@ On our team, it’s all about our lead-generation systems. Just last month, betw
 If you’ve been thinking about joining a team to kickstart your real estate journey or get back on track, we would love to hear from you. **Reach out, give us a call, and we would love to have a confidential conversation about how joining our team could help take your career to the next level.**
 
 If you have any questions for us, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
+
+
+
