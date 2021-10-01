@@ -20,11 +20,11 @@ youtube_code: Ey7ENUAHQnM
 
 There are four reasons that the inventory in Orange County remains so low:
 
-**1\. There is a foreclosure moratorium.** The moratorium preventing foreclosure expired, but it was extended in August. However, we don’t anticipate that there will be a lot of foreclosures, at least in the short term. The reason for that is that many people who were behind on their mortgage during forbearance have seen their equity positions grow quite a bit. Where 15% of people were in forbearance, now only 5% are.
+**1\. There is a foreclosure moratorium.** The moratorium preventing foreclosure expired, but it was extended in August. However, we don’t anticipate that there will be a lot of foreclosures, at least in the short term. Many people who were behind on their mortgage during forbearance have seen their equity positions grow quite a bit. Where 15% of people were in forbearance, now only 5% are.
 
 Another aspect of this is the eviction moratorium. Some people who own rental properties haven’t been paid in close to 18 months since COVID started and protections were put in place to protect renters. Since then, rents have increased quite a bit. It’s believed that a number of these owners, if they’re not professionally managed, will decide to sell their units.
 
-Historically, that means the owners of units in the lower price ranges will be the ones to sell, which would bring new inventory to the market. However, because the moratorium prevents the eviction of tenants, that inventory hasn’t yet hit the market.
+Historically, that means the owners of units in the lower price ranges will be the ones to sell. However, because the moratorium prevents the eviction of tenants, that inventory hasn’t yet hit the market.
 
 {% include pullquote.html %}
 
@@ -32,6 +32,6 @@ Historically, that means the owners of units in the lower price ranges will be t
 
 **3\. Some transactions are done off-market.** Since many still have concerns about COVID, instead of listing their homes to the general market, some homeowners have been selling off-market to avoid having all those people coming through their homes for showings. When homes are sold off-market, they don’t enter the MLS.
 
-**4\. Investors are looking for rental properties.** The reason investors are looking for long-term rentals that they can improve in value is that interest rates are currently low. They’re looking for ways to increase their returns, and the properties they buy are also sometimes purchased off-market.
+**4\. Investors are looking for rental properties.** Investors are looking for long-term rentals that they can improve in value because interest rates are currently low. They’re looking for ways to increase their returns, and the properties they buy are also sometimes purchased off-market.
 
 If you or someone you know is looking to buy in this market, know that it is challenging right now. However, we can reach out to potential sellers to find you off-market properties. If you have any questions about buying a home or the market in general, reach out to us via phone or email. We’d love to be a resource for you.
