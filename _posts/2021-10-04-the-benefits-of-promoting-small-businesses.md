@@ -3,7 +3,9 @@ layout: post
 title: The Benefits of Promoting Small Businesses
 date: 2021-10-04 00:00:00
 tags:
-  - Reviews and Referrals
+  - Lead Generation
+  - Lead Conversion
+  - Transaction Management
 excerpt: Every agent should support their local businesses. Here’s why.
 enclosure:
 pullquote: When you’re giving back, you should have a plan of how you want to do it.
