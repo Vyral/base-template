@@ -5,7 +5,8 @@ date: 2021-10-04 18:11:55
 tags:
   - St. George Utah Real Estate
 excerpt: Here’s a quick tour of St. George I took with my dad, Dale Larkin.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2021/A+Nostalgic+Downtown+St.+George+walk+with+a+local+legend!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,10 +30,10 @@ Today, I’m joined by one of the greatest St. George legends in living memory: 
 
 4:35 — Tabernacle Street and Dale’s father’s business
 
-6:12 — Town square&nbsp;
+6:12 — Town square
 
 7:38 — Dale’s brother as mayor and the evolution of St. George
 
-9:08 — Wrapping up&nbsp;
+9:08 — Wrapping up
 
 I would like to thank my dad for joining me today, it was a real pleasure\! As always, if you are looking to buy or sell, please give me a call. I’m always willing to help.
