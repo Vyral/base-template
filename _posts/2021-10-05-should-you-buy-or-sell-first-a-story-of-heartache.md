@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Buy or Sell First? A Story of Heartache
-date: 2017-12-13 09:57:00
+date: 2021-10-05 09:57:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -17,11 +17,9 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /maxresdefault.jpg
 youtube_code: E9N1qH_PPY4
 ---
-
-
 {% include youtube.html %}
 
 Should you buy first or sell first? I get the dilemma: You don’t want to lose a whole bunch of money, but you also don’t want to end up homeless either. Today, we’re going to discuss some mistakes that buyers and sellers make that can cause them to lose sleep, money, and even your marbles.
@@ -36,7 +34,7 @@ Tom and Mary also understand that **if another offer comes along, they’re goin
 
 Tom and Mary are eager to get their home going, so they don’t have time to make the necessary repairs or even stage their home. They decide to put it at about $5,000 under the last comparable sale—**they figure it will sell a little faster this way too, and what’s another $5,000?**
 
-Things are going well on the purchase of their dream home; the home inspection went well, and the last-minute financing was sorted out as well. Now they even have an offer on their place. However, this offer is about $20,000 under their already aggressive price. They can’t accept that; that’s crazy!
+Things are going well on the purchase of their dream home; the home inspection went well, and the last-minute financing was sorted out as well. Now they even have an offer on their place. However, this offer is about $20,000 under their already aggressive price. They can’t accept that; that’s crazy\!
 
 Just then, they get a notice from the other agent, saying that there’s another offer that has come in on their dream home. Now they have 48 hours to waive all of their conditions. They decide to think about it overnight.&nbsp;
 
