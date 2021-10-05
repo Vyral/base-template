@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has St. George Changed In The Last 80 Years?
-date: 2021-10-04 18:11:55
+date: 2021-10-05 08:20:00
 tags:
   - St. George Utah Real Estate
 excerpt: Here’s a quick tour of St. George I took with my dad, Dale Larkin.
@@ -26,7 +26,7 @@ Today, I’m joined by one of the greatest St. George legends in living memory: 
 
 1:15 — Robert Gardner Jr. statue and the center of town
 
-2:26 — Dale’s memories walking to school and playing hooky
+2:26 — Dale’s memories of walking to school and playing hooky
 
 4:35 — Tabernacle Street and Dale’s father’s business
 
