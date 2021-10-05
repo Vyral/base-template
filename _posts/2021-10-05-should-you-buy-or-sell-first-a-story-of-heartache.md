@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /maxresdefault.jpg
+youtube_alternate_image: /mortimer-ss-1005-yt.jpg
 youtube_code: E9N1qH_PPY4
 ---
 {% include youtube.html %}
