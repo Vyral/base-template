@@ -7,18 +7,18 @@ tags:
   - Home Buying Tips
 excerpt: Here’s what I tell buyers when they ask if it’s the right time to purchase.
 enclosure:
-pullquote: ' Home values always increase in the long term.'
+pullquote: Home values always increase in the long term.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /is-now-a-good-time-to-buy-yt.jpg
-youtube_code: 2_khwkJBzfs
+youtube_code: vRBgtIC0Q-c
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-We’ve been seeing home values rise for years now, and the question “Is now a good time to buy?” comes up a lot. People are worried about a possible market shift or recession with the recent spike in home prices. Anybody that automatically answers “Yes\!” to that question is not looking at your specific situation. The answer of whether it’s the right time to buy or not depends on you, the buyer.&nbsp;
+We’ve been seeing home values rise for years now, and the question, “Is now a good time to buy?” comes up a lot. People are worried about a possible market shift or recession with the recent spike in home prices. Anybody that automatically answers “Yes\!” to that question is not looking at your specific situation. The answer of whether it’s the right time to buy or not depends on you, the buyer.&nbsp;
 
 {% include pullquote.html %}
 
