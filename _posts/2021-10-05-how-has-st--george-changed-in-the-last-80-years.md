@@ -18,7 +18,7 @@ youtube_code: 5Kw4Jl1y36Q
 
 {% include excerpt.html %}
 
-Today, I’m joined by one of the greatest St. George legends in living memory: My dad\! Dale Larkin is 80 years young, so I thought it would be interesting to walk around the city with him and find out how it’s changed in the last 80 years. While St. George has changed a lot since my dad was a kid, there are some things that haven’t changed at all.
+Today I’m joined by one of the greatest St. George legends in living memory: my dad\! Dale Larkin is 80 years young, so I thought it would be interesting to walk around the city with him and find out how it’s changed in the last 80 years. While St. George has changed a lot since my dad was a kid, there are some things that haven’t changed at all.
 
 **You can watch our full journey in the video above or skip to each location using the timestamps provided below:**
 
