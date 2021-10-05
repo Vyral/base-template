@@ -38,4 +38,4 @@ I’m so excited to be here today with my friend Chris Padley with Gateway Mortg
 
 7:50 — Wrapping up today’s topic
 
-If you have any questions about mortgages or want to start the process, **[<u>visit Chris&rsquo;s website</u>](https://www.gatewayfirst.com/locations-atms/chris-padley){: target="_blank" rel="noopener"} to contact him**. If you have any real estate questions or needs, call or email us at The Wolek Group. We would love to be your real estate resource.
+If you have any questions about mortgages or want to start the process, **[<u>visit Chris&rsquo;s website</u>](https://www.chrispadley.com){: target="_blank" rel="noopener"} to contact him**. If you have any real estate questions or needs, call or email us at The Wolek Group. We would love to be your real estate resource.
