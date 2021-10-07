@@ -15,7 +15,7 @@ youtube_code: fWGO47YpgYQ
 ---
 {% include youtube.html %}
 
-*Here’s why we recommend allowing tenants with pets to live in your property.*
+<p style="text-align:center;"><em>Here’s why we recommend allowing tenants with pets to live in your property.</em></p>
 
 <center>&nbsp;</center>
 
