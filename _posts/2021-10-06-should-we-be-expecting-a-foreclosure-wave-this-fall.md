@@ -28,4 +28,4 @@ When the pandemic started, **1\.6 million homeowners went into forbearance**. No
 
 {% include pullquote.html %}
 
-Now the remaining 5%, or only 80,000 nationwide, will be in **foreclosure** and will be gobbled up quickly. This small number will not affect the inventory in the market, hence it **will still be a strong market**. In Los Angeles, we still have under 2 months of inventory and under a month for Porter Ranch.
+Now the remaining 5%, or only 80,000 nationwide, will be in **foreclosure** and will be gobbled up quickly. This small number will not affect the inventory in the market, hence **we expect the market to remain strong**. In Los Angeles, we still have under 2 months of inventory and under a month for Porter Ranch.
