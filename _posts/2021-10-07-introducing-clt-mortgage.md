@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing CLT Mortgage
-date: 2021-10-05 19:36:54
+date: 2021-10-07 14:25:00
 tags:
   - Real Estate
 excerpt: We’ve partnered with Movement Mortgage to create CLT Mortgage.
@@ -18,7 +18,7 @@ youtube_code: '-dqSqW-aKb0'
 
 {% include excerpt.html %}
 
-Today we want to introduce you to CLT Mortgage. CLT Mortgage is a joint venture with Movement Mortgage who we’ve partnered with. They’re one of the top mortgage companies in the area, and **we are going to be doing business as CLT Mortgage, going forward.**
+Today we want to introduce you to CLT Mortgage. CLT Mortgage is a joint venture with Movement Mortgage who we’ve partnered with. They’re one of the top mortgage companies in the area, and **we are going to be doing business as CLT Mortgage going forward.**
 
 If you need anything in regards to mortgage services, getting your house sold, finding your first house, or buying and selling at the same time, keep us in mind. We're here to make this process easy for you and ensure you get the best terms and conditions as part of your real estate experience.
 
