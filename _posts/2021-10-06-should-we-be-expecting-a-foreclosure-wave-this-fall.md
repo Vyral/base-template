@@ -22,7 +22,7 @@ youtube_code: Itxq5JTb0Jk
 
 At a conference last month of mortgage service companies that work with real estate agents on bank-owned properties, they announced that over **80% of homeowners** that went into forbearance after the pandemic started are now current on their mortgage.
 
-What is a **forbearance**? It is when a mortgage service company, lender or bank allows homeowners to pause making payments and move those missed payments at the back of their mortgage. It will add the missed payments to the back of the loan.&nbsp;
+What is a **forbearance**? It is when a mortgage service company, lender or bank allows homeowners to pause making payments and move those missed payments at the back of their mortgage. It will add the missed payments to the back of the loan. You'll have to **repay any missed or reduced payments in the future**.&nbsp;
 
 When the pandemic started, **1\.6 million homeowners went into forbearance**. Now, 80% of those homeowners, are now current on their mortgage. Of the remaining 20%, approximately **15% will not be able to afford and pay their monthly mortgage**. A majority will be able to sell their home with equity and walk away with a profit as prices in the San Fernando Valley have increased 30-35% since the pandemic began last year.&nbsp;
 
