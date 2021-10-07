@@ -15,7 +15,7 @@ youtube_code: fWGO47YpgYQ
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why we recommend allowing tenants with pets to live in your property.</em></p>
+*Here’s why we recommend allowing tenants with pets to live in your property.*
 
 <center>&nbsp;</center>
 
@@ -23,8 +23,6 @@ Many property owners we work with do not want tenants to have pets in their home
 
 Additionally, you can not discriminate against service animals or emotional support animals. These animals can come into your house whether you want them to or not.
 
-We find that most pets under 25 lbs are good to go, and we typically get really good tenants because of that. We require them to send a picture of the pet in advance, and we take great care of houses with pets.
+We find that most pets under 25 lbs. are good to go, and we typically get really good tenants because of that. We require them to send a picture of the pet in advance, and we take great care of houses with pets.&nbsp;**Our property managers do walk-throughs every six months in homes without pets, but we do one every four months when there is a pet present.** We also take pet deposits and require some form of pet insurance.
 
-**Our property managers do walkthroughs every six months in homes without pets, but we do one every four months when there is a pet present.** We also take pet deposits and require some form of pet insurance.
-
-If you have any questions for us about this type of situation or anything else related to property management, don’t hesitate to reach out via phone or email. We would love to hear from you.
+If you have questions for us about this type of situation or anything else related to property management, don’t hesitate to reach out via phone or email. We would love to hear from you.
