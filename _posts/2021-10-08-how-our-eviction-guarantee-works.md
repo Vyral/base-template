@@ -15,7 +15,7 @@ youtube_code: U5fpGv48bTI
 ---
 {% include youtube.html %}
 
-*Here’s how we’re able to offer an eviction guarantee for our clients.*
+<p style="text-align:center;"><em>Here’s how we’re able to offer an eviction guarantee for our clients.</em></p>
 
 <center>&nbsp;</center>
 
