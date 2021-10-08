@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Investing
 excerpt: Chris Padley from Gateway Mortgage is here to talk all about mortgages.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Interviewing+Chris+Padley+From+Gateway+Mortgage.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
