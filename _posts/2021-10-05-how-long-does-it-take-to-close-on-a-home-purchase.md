@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Long Does It Take to Close on a Home Purchase?
+title: How Long Does It Take To Close on a Home Purchase?
 date: 2021-10-05 00:00:00
 tags:
   - Home Buyer Tips
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /10-04-21yt.jpg
-youtube_code: 1DTKuTscChQ
+youtube_code: 2fxzbcMFvos
 ---
 {% include youtube.html %}
 
