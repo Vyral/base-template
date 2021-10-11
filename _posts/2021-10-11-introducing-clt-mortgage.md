@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introducing CLT Mortgage
-date: 2021-10-07 14:25:00
+title: Introducing Our New Mortgage Company- Check It Out
+date: 2021-10-11 08:00:00
 tags:
   - Real Estate
 excerpt: We’ve partnered with Movement Mortgage to create CLT Mortgage.
