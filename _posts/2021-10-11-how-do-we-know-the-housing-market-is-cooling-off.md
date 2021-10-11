@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/Celeste_Zarling_YT.jpg
-youtube_code: 3ihfVTIzuwI
+youtube_code: 7q1ObdLIsMw
 ---
 {% include youtube.html %}
 
