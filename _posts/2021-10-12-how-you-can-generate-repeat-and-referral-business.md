@@ -4,7 +4,7 @@ title: How You Can Generate Repeat and Referral Business
 date: 2021-10-12 00:00:00
 tags:
   - Reviews and Referrals
-excerpt: I’m sharing how The Wolek Group creates repeat and referral business.
+excerpt: I’m sharing The Wolek Group's 5 “S” model for repeat and referral business.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
