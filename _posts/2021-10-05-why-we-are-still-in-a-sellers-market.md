@@ -5,7 +5,8 @@ date: 2021-10-05 00:00:00
 tags:
   - Home Seller Tips
 excerpt: We are still in a seller’s market, but it has become less crazy.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Why+We+Are+Still+in+a+Seller%E2%80%99s+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
