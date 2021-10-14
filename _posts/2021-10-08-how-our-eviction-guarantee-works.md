@@ -15,7 +15,7 @@ youtube_code: U5fpGv48bTI
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s how we’re able to offer an eviction guarantee for our clients.</em></p>
+*Here’s how we’re able to offer an eviction guarantee for our clients.*
 
 <center>&nbsp;</center>
 
@@ -25,7 +25,7 @@ When owners are comparing us against other property management companies, I tell
 
 {% include pullquote.html %}
 
-90% of the time, you won’t have an eviction and need to worry about the costs. However, if you go to eviction court, you won’t be the only one there. Every time I’ve been to eviction court, there have been 10 to 20 cases at the same time, and sometimes the property manager is there, and sometimes they’re not. In all those cases, the owner is paying for going to eviction court and civil court. Now, evictions will be even more difficult with the new 1371 law, which will change the eviction process in Honolulu to accommodate for mediation.&nbsp;
+90% of the time, you won’t have an eviction, so you don't need to worry about the costs. However, if you go to eviction court, you won’t be the only one there. Every time I’ve been to eviction court, there have been 10 to 20 cases at the same time, and sometimes the property manager is there, and sometimes they’re not. In all those cases, the owner is paying for going to eviction court and civil court. Now, evictions will be even more difficult with the new 1371 law, which will change the eviction process in Honolulu to accommodate for mediation.&nbsp;
 
 I’m so sure of our vetting process to get a good tenant in your house that **if you’re our client and you need someone evicted from your home, I will pay the legal costs.** We usually won’t take you on as a client if you need help with the eviction of a tenant first. We let the owner or previous property manager take care of the legal processes first, and then we can take over afterward.
 
