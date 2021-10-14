@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Be Learning-Based
+title: How You Can Approach Everything Ready To Learn
 tags:
     - Transaction Management
     - Reviews and Referrals
