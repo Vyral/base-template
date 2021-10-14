@@ -5,7 +5,8 @@ date: 2021-10-12 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: 'Deliver an Amazing Customer Experience: Generate 100 Referrals a Year!'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/How+You+Can+Generate+Repeat+and+Referral+Business.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
