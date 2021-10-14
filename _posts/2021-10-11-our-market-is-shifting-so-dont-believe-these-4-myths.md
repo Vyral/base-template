@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/josh-loice-screenshots-youtube-7.jpg
-youtube_code: rxdN9gwGD6Q
+youtube_code: 04YCV54upVs
 ---
 {% include youtube.html %}
 
