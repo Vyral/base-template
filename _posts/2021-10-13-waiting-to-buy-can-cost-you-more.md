@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waiting To Buy Can Cost You More
-date: 2021-09-23 00:00:00
+date: 2021-10-13 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Waiting to buy a home may not be the best idea in our current market.
