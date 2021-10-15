@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Make It a Fun, Safe Halloween With This Spooktacular Guide'
-date: 2020-10-22 00:00:00
+title: Make It a Fun, Safe Halloween With This Spooktacular Guide
+date: 2021-10-15 00:00:00
 tags:
   - Real Estate
 excerpt: Halloween will be here before you know it!
@@ -14,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/10-15---eric-mortimer---yt.jpg
 youtube_code: mFD8loLuEaE
 ---
-
 {% include youtube.html %}
 
 <center><em>Halloween will be here before you know it, so today I&rsquo;ll share some quick tips that will help you and your family have a fun, safe holiday.</em></center>
