@@ -5,7 +5,7 @@ date: 2021-10-12 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Here’s everything you need to know about rent-back agreements.
+excerpt: Here’s everything you need to know about rentback agreements.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/An+Update+on+Our+Prior+Lake+Market.mp4
 pullquote: >-
