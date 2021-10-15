@@ -4,7 +4,7 @@ title: Make It a Fun, Safe Halloween With This Spooktacular Guide
 date: 2021-10-15 00:00:00
 tags:
   - Real Estate
-excerpt: Halloween will be here before you know it!
+excerpt: Here are some tips to help you and your family have a fun, safe Halloween.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Make+It+a+Fun%2C+Safe+Halloween+With+This+Spooktacular+Guide.mp4
 pullquote: You can help make this Halloween a fun and safe treat for everyone.
@@ -20,7 +20,7 @@ youtube_code: mFD8loLuEaE
 
 &nbsp;
 
-Skeletons, spiderwebs, and Jack-o’-lanterns galore are popping up all over our neighborhoods, and that can only mean one thing: Halloween is just around the corner. If your preparations so far have involved stocking up on candy and choosing the perfect costume for yourself or your children, you’re on the right track.
+Skeletons, spiderwebs, and jack-o’-lanterns galore are popping up all over our neighborhoods, and that can only mean one thing: Halloween is just around the corner. If your preparations so far have involved stocking up on candy and choosing the perfect costume for yourself or your children, you’re on the right track.
 
 Getting in the Halloween spirit is great, but decking out your yard with spooky decor and buying sweets for trick-or-treaters isn’t the only thing you should be doing to get ready for the holiday ahead. **Ghouls and goblins might be nothing more than fun, fictional frights, but there are some real dangers to watch out for on Halloween night**.
 
