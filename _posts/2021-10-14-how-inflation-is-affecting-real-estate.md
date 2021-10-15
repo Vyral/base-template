@@ -19,7 +19,7 @@ youtube_code: sYIksIZqICk
 
 Not only is inflation here, but it’s much more rampant than the Federal Reserve will acknowledge. All of us have stories about products that we are used to buying increasing two to three times their normal cost in the past two years. **With semiconductors, lumber, raw materials, and warehousing costs all skyrocketing due to lack of supply, it’s no wonder that cars, homes, and electronics have gone up considerably in price.**
 
-What makes this round of inflation exponentially worse is the fact that there is one thing that’s increased in supply at an alarming rate: The amount of newly printed money entering the economy. **The housing market is about to see another price jump soon, and this time I believe it will be in the North Jersey/Metro NYC area.**
+What makes this round of inflation exponentially worse is the fact that there is one thing that’s increased in supply at an alarming rate: the amount of newly printed money entering the economy. **The housing market is about to see another price jump soon, and this time I believe it will be in the North Jersey/Metro NYC area.**
 
 So, what’s the Fed telling us right now? The first thing they're saying is that push inflation is happening. This is a scenario in which all of the additional costs of the inflated goods used to fabricate products and services are pushed onto the buyer. The Fed has been calling this “transitory” inflation, suggesting that it’s temporary and will fade over time.
 
@@ -35,6 +35,6 @@ To add insult to injury, gas prices are increasing, making commutes more expensi
 
 Inflation has already brought rental inventory back to pre-pandemic levels, as evidenced by an email I recently received from StreetEasy. **The volume of rental visits on their website is up 52%, viewership is up 63%, and rental contacts are up 79% year over year.** Meanwhile, rental prices are soaring, and rates continue to drop. We’ve seen the sales market pick up a bit, but not like it has in other areas of the country.
 
-This leads me to believe that the Hudson County market is primed to take off here in the next 30-45 days. We’re talking more showings, more offers, and higher prices. As a buyer or seller, it's important to evaluate the direction of the market. You don’t want to sell yourself short as a homeowner or miss an opportunity as a buyer.
+This leads me to believe that the Hudson County market is primed to take off here in the next 30 to 45 days. We’re talking more showings, more offers, and higher prices. As a buyer or seller, it's important to evaluate the direction of the market. You don’t want to sell yourself short as a homeowner or miss an opportunity as a buyer.
 
-If you have any questions for me about anything that was discussed in today’s video, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions for me about anything that was discussed in today’s video, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
