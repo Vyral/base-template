@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/huebners-ss-youtube-2.jpg
+youtube_alternate_image: /uploads/huebners-ss-youtube-3.jpg
 youtube_code: 2lZtIu1K_x0
 ---
 {% include youtube.html %}
