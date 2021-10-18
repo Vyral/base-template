@@ -6,7 +6,7 @@ tags:
     - Market Update
 excerpt: Here’s what’s happening nowadays in our Anchorage real estate market.
 enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Our+Autumn+2021+Market+Update.mp4
+    https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Our+Autumn+2021+Market+Update+(1).mp4
 pullquote: >-
     Inventory in the Anchorage municipality is currently exceedingly low; it’s
     the lowest I’ve seen in my 20+ year career.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WwqZabGZ5Lo
+youtube_code: S80rqAwMp9Q
 ---
 {% include youtube.html %}
 
