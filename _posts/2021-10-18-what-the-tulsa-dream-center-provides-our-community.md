@@ -32,6 +32,8 @@ It’s been so fun getting to know Pastor Tim and this amazing organization. We 
 
 He mentioned that **they serve meals, and there’s basketball, other sports, and so much engagement in classrooms.** I feel his energy and love; what is the stuff that fires him up and gets him pumped every day?
 
+{% include pullquote.html %}
+
 “The people are what gets me going, but honestly, it’s what we’re able to do with our young people. With our after-school programs, we serve over 400 boys and girls every single day in three locations, whether it’s here at the Dream Center or in our remote locations.
 
 We’re also doing something new; when I was a kid, my baseball coach was an LAPD police officer, and he made a great impact on my life. **We’ve started this new program called Badges** where we bring our boys and girls and the police force together in a mentorship relationship. Kind of like Big Brother Big Sister but police edition—police Dream Center edition. So it’s exciting to be able to facilitate the coming together of those two communities, especially when as those kids get older, historically there has been a wedge drawn between them and the police. So if we can bring them together by creating great relationships now, when they get older, that won’t be able to be severed.”
