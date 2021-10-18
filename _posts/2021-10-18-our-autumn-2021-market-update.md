@@ -24,7 +24,7 @@ Many people are curious right now about what’s going on in the real estate mar
 
 You’ve likely heard that inventory in the Anchorage municipality is currently exceedingly low; it’s the lowest I’ve seen in my 20+ year career. As of the recording of this video, we have around 243 active listings, but it changes day to day; that’s about a month’s worth of inventory. **Roughly 200 homes sell per week in our area,** on average. Usually, we have about three to five months of inventory, depending on the price point; the higher the price point, the higher the monthly average.&nbsp;
 
-Approximately 700 homes are under contract at present, which is interesting since we have such low inventory. What’s happening is that as soon as a house hits the market, multiple offers come in for it. The homes I list these days are typically gone within 72 hours, with five to 15 offers, and often over list price.
+Approximately 700 homes are under contract at present, which is interesting since we have such low inventory. What’s happening is that as soon as a house hits the market, multiple offers come in for it. The homes I list these days typically sell over list price, within 72 hours, and with five to 15 offers.
 
 {% include pullquote.html %}
 
