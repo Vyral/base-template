@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---oct-2021---1---youtube.jpg
-youtube_code: cHR148jJ9ms
+youtube_code: p6P6c4Oc870
 ---
 {% include youtube.html %}
 
