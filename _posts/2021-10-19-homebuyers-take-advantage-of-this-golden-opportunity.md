@@ -9,7 +9,7 @@ enclosure:
 pullquote: If rates increase before you buy, you’ll be paying more for less.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cedillo--thumbnail.jpg
 youtube_code: Lh0OkZNqNug
 ---
