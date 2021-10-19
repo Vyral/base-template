@@ -4,7 +4,7 @@ title: 'Six Personal Perspectives, Part 5: Self-Mastery'
 tags:
 excerpt: Here’s how your limiting beliefs keep you from achieving more.
 enclosure:
-pullquote: When we go all-in, we can typically do much more than 40%.
+pullquote: When we go all in, we can typically do much more than 40%.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,6 +23,6 @@ Over the last month, we have gone over four principles that, when applied, will 
 
 **If you train your mind properly, you can remove any beliefs you have about what you think you can’t do** and push yourself to achieve much more. This shows up in our businesses, our relationships, and our finances.
 
-We challenge you today to identify those limiting beliefs in your life. Maybe you think you can only grow your business a little bit, or maybe you think you’re too old to take up a new hobby. Dive in; don’t be reckless, but dive in. When we go all-in like this, we can typically do much more, certainly more than 40%.
+We challenge you today to identify those limiting beliefs in your life. Maybe you think you can only grow your business a little bit, or maybe you think you’re too old to take up a new hobby. Dive in; don’t be reckless, but dive in. When we go all in like this, we can typically do much more, certainly more than 40%.
 
 If you have any questions about this or other real estate topics, feel free to give us a call. We’d love to help.
