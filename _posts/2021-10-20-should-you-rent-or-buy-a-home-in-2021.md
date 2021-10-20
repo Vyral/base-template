@@ -7,7 +7,7 @@ excerpt: >-
     For the excerpt can't say gives another valuable advice. it sounds like we
     are talking down to them Is it cheaper to rent or to buy?
 enclosure:
-pullquote:
+pullquote: If you are looking long-term, it would make more sense to buy than to rent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
