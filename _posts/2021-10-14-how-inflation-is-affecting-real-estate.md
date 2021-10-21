@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Inflation Is Affecting Real Estate
+title: How Inflation Will Affect Real Estate
 date: 2021-10-14 00:00:00
 tags:
     - Home Buyer Tips
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/thumbnail.png
-youtube_code: sYIksIZqICk
+youtube_code: I3M6yDuQads
 ---
 {% include youtube.html %}
 
