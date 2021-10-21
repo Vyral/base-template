@@ -17,16 +17,18 @@ youtube_code: Lh0OkZNqNug
 
 {% include excerpt.html %}
 
-If you’re a buyer, you have a golden opportunity right now. If you missed out this last spring and summer and were frustrated with multiple offers and high prices, now is your chance.
+If you’re a buyer, you have a golden opportunity right now. If you were frustrated last spring and summer by the competitive market with multiple offers and high prices, now is your chance.
 
-You’re not going to get a deep discount, but you are going to get a fair shot with an awesome interest rate. **I’m not sure we’ll ever see them this low in our lifetime.**
+You’re not going to get a deep discount, but you are going to get a fair shot with an awesome interest rate. **We're not sure we’ll ever see them this low in our lifetime again.**
 
-If you’re waiting for the market to crash, I don’t think it’s going to happen. There may be some stabilization, but it won’t be like 2008. **Even if home prices do come down by $20,000 dollars, an increase in interest will lead to you paying more than what you’re “saving.”**
+If you’re waiting for the market to crash, we don’t think it’s going to happen. There may be some stabilization, but it won’t be like 2008. **Even if home prices do come down by $20,000, an increase in interest will lead to you paying more than what you’re “saving.”**
 
-If you’re getting sticker shock right now looking at prices but still paying $3,000 a month in rent, talk to us or reach out to your loan officer. There’s a big long-term effect of a low interest rate. Let us walk you through it and let's get your foot in the door for this golden opportunity.
-
-Rent is only going to go up from here on out. If you buy now, you can lock in a mortgage payment with a fixed interest rate. If rates go lower, you can even refinance. If they increase before you buy, however, you’ll be paying more for less.
-
-If you have any questions about buying, the market, or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you’re getting sticker shock right now looking at prices but still paying $3,000 a month in rent, talk to us or reach out to your loan officer. There’s a big long-term effect of a low interest rate. Let us walk you through it and get your foot in the door for this golden opportunity.
 
 {% include pullquote.html %}
+
+Rent is only going to go up from here. If you buy now, you can lock in a mortgage payment with a fixed interest rate. If rates go lower, you can even refinance. However, if they increase before you buy, you’ll be paying more for less.
+
+If you have any questions about buying, the market, or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
+
+&nbsp;
