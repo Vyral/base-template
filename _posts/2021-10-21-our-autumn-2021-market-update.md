@@ -5,7 +5,8 @@ date: 2021-10-21 12:00:00
 tags:
     - Market Update
 excerpt: Here’s what’s happening nowadays in our Anchorage real estate market.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Our+Autumn+2021+Market+Update+(2).mp4
 pullquote: >-
     Inventory in the Anchorage municipality is currently exceedingly low; it’s
     the lowest I’ve seen in my 20+ year career.
@@ -29,6 +30,6 @@ Approximately 700 homes are under contract at present, which is interesting sinc
 
 **If you’re a buyer out there, it might be a bit treacherous to navigate through the market these days**, but if you have a great buyer’s agent, it can be done. However, buyers sometimes have to write four to six offers before they get a house under contract. Don’t get too discouraged; interest rates are still wonderful, so it’s a good time to buy—you’ll just have to work a little harder.
 
-Today’s average sales price is $406,000 and was about $385,000 last December. Our average days on market is 20 days at the moment, but condition and location play into that number. Since, again, **most houses that are in decent condition are gone within 72 hours. **
+Today’s average sales price is $406,000 and was about $385,000 last December. Our average days on market is 20 days at the moment, but condition and location play into that number. Since, again, \*\*most houses that are in decent condition are gone within 72 hours. \*\*
 
 Whether you’re a buyer or seller, we can help you. If you’re considering selling, now is the time to contact us since we’re so short on inventory. Call or email us if you have questions or are thinking about buying or selling. We’d love to speak with you.
