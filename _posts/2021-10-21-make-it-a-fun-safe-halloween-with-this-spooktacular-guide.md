@@ -6,7 +6,8 @@ tags:
   - Real Estate
 excerpt: Here are some tips to help you and your family have a fun, safe Halloween.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Make+It+a+Fun%2C+Safe+Halloween+With+This+Spooktacular+Guide.mp4
+  s3://vyralmarketing/Eric Mortimer/Videos/2021/Make It a Fun, Safe Halloween
+  With This Spooktacular Guide.mp4
 pullquote: You can help make this Halloween a fun and safe treat for everyone.
 enclosure_type: video/mp4
 enclosure_time:
