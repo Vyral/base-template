@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make It a Fun, Safe Halloween With This Spooktacular Guide
-date: 2021-10-15 00:00:00
+date: 2021-10-21 00:00:00
 tags:
   - Real Estate
 excerpt: Here are some tips to help you and your family have a fun, safe Halloween.
