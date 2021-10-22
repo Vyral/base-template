@@ -5,7 +5,8 @@ date: 2021-10-13 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Waiting to buy a home may not be the best idea in our current market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Waiting+To+Buy+Can+Cost+You+More.mp4
 pullquote: Rents have risen 8.2% nationally.
 enclosure_type: video/mp4
 enclosure_time:
