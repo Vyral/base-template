@@ -5,14 +5,13 @@ date: 2021-10-21 18:51:12
 tags:
     - Market Update
 excerpt: Here’s an overview of our Central Ohio real estate market in October.
-enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2021/Central+Ohio+October+Market+Update.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: R9XkX0XzYR8
+youtube_code: qUIbcBoLHSo
 ---
 {% include youtube.html %}
 
