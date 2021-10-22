@@ -4,7 +4,7 @@ title: How Inflation Will Affect Real Estate
 date: 2021-10-14 00:00:00
 tags:
     - Home Buyer Tips
-excerpt: ' Inflation is playing a major role in the real estate market.'
+excerpt: Inflation is playing a major role in the real estate market.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/How+Inflation+Will+Affect+Real+Estate.mp4
 pullquote: ' Inflation has brought rental inventory back to pre-pandemic levels.'
