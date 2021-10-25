@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Team Member Spotlight: Phil Long'
-date: 2021-10-22 14:48:31
+date: 2021-10-25 12:00:00
 tags:
     - The Dave Hooke Team
 excerpt: Here’s my full conversation with our awesome team member, Phil Long.
@@ -20,7 +20,7 @@ youtube_code: B0U_fUnlDXY
 
 {% include excerpt.html %}
 
-Today, I’m excited to sit down and talk with Phil Long, a great member of the Dave Hooke Team. We’ll discuss why he joined the team, what he does, and what’s in store for the future. Let’s get started\!
+Today I’m excited to sit down and talk with Phil Long, a great member of the Dave Hooke Team. We’ll discuss why he joined the team, what he does, and what’s in store for the future. Let’s get started\!
 
 **So, Phil, how did you first become interested in joining the Dave Hooke Team?**
 
