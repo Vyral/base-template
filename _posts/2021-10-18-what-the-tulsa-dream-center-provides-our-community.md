@@ -5,7 +5,8 @@ date: 2021-10-18 16:48:17
 tags:
   - Real Estate
 excerpt: Pastor Tim talks about the amazing work they do at the Tulsa Dream Center.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/What+the+Tulsa+Dream+Center+Provides+Our+Community.mp4
 pullquote: >-
   Our goal is to be able to serve our community all over the city, not just
   North Tulsa but all of Tulsa.
