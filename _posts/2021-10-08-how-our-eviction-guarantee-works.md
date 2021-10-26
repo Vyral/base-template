@@ -5,7 +5,8 @@ date: 2021-10-08 10:46:00
 tags:
   - Property Management
 excerpt: Here’s how we’re able to offer an eviction guarantee for our clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/How+Our+Eviction+Guarantee+Works+(1).mp4
 pullquote: 'No one else in Honolulu offers an eviction guarantee. '
 enclosure_type: video/mp4
 enclosure_time:
