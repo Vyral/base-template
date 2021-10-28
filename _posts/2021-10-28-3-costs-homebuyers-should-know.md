@@ -20,10 +20,10 @@ youtube_code: JbR2YY7hvv0
 
 Are you looking to purchase a home? There are three funds you need to have ready:
 
-**1\. Closing cost fund.** Closing costs are what’s required to sustain a mortgage. You should plan on saving 2.5% or 3% of the purchase price saved to cover closing costs.
+**1\. Closing cost fund.** Closing costs are what’s required to sustain a mortgage. You should plan on saving 2.5% or 3% of the purchase price to cover closing costs.
 
 **2\. Down payment costs.** Depending on your mortgage, this amount will be different. Make sure you understand your mortgage and know how much you need to save.
 
-**3\. Cash reserves.** Loan officers will look into your bank account to ensure you have the cash in case anything goes wrong. Plus, it’s always nice to have extra laying around.
+**3\. Cash reserves.** Loan officers will look into your bank account to ensure you have the cash. Plus, it’s always nice to have extra laying around.
 
 If you have any questions about today’s video, please call or email me. I am always willing to talk.
