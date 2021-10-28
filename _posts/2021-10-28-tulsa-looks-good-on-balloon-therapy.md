@@ -20,7 +20,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Tulsa looks good on you\! Tulsa also looks super great on Chelsea from [<u>Balloon Therapy</u>](https://www.balloontherapytulsa.com/){: target="_blank" rel="noopener"}. I’m excited to meet with her today and learn all about her business. She’s here to share who she is, what she does, and how she got into the business of creating beautiful balloon displays.
+Tulsa looks good on you\! Tulsa also looks super great on Chelsea Trinidad from [<u>Balloon Therapy</u>](https://www.balloontherapytulsa.com/){: target="_blank" rel="noopener"}. I’m excited to meet with her today and learn all about her business. She’s here to share who she is, what she does, and how she got into the business of creating beautiful balloon displays.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
