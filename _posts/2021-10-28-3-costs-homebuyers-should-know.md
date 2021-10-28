@@ -6,13 +6,13 @@ tags:
     - Home Buyer Tips
 excerpt: Here are three costs every buyer should know before purchasing a home.
 enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/3+Costs+Homebuyers+Should+Know.mp4
+    https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/3+Costs+Homebuyers+Should+Know+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 6bAtQ7H9JDc
+youtube_code: JbR2YY7hvv0
 ---
 {% include youtube.html %}
 
