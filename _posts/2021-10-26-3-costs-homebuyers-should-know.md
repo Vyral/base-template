@@ -24,6 +24,6 @@ Are you looking to purchase a home? There are three funds you need to have ready
 
 **2\. Down payment costs.** Depending on your mortgage, this amount will be different. Make sure you understand your mortgage and know how much you need to save.
 
-**3\. Cash reserves.** Loan officers will look into your bank account to ensure you have the cash in case anything goes wrong. Plus, it’s always nice to have extra laying around in case anything goes wrong.
+**3\. Cash reserves.** Loan officers will look into your bank account to ensure you have the cash in case anything goes wrong. Plus, it’s always nice to have extra laying around.
 
 If you have any questions about today’s video, please call or email me. I am always willing to talk.
