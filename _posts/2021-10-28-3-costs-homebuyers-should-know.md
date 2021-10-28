@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Costs Homebuyers Should Know
-date: 2021-10-26 20:29:27
+date: 2021-10-28 13:00:00
 tags:
     - Home Buyer Tips
 excerpt: Here are three costs every buyer should know before purchasing a home.
@@ -18,7 +18,7 @@ youtube_code: 6bAtQ7H9JDc
 
 {% include excerpt.html %}
 
-Are you looking to purchase a home? There are three funds you need to have ready, and I want to discuss all of them with you today:
+Are you looking to purchase a home? There are three funds you need to have ready:
 
 **1\. Closing cost fund.** Closing costs are what’s required to sustain a mortgage. You should plan on saving 2.5% or 3% of the purchase price saved to cover closing costs.
 
