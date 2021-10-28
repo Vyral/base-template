@@ -1,6 +1,12 @@
 audit_header: false
 title: Charleston Real Estate Video Blog with Mikki Ramey
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Virtual Tours
@@ -8,14 +14,27 @@ custom_links:
   - title: Download Free Home Search App
     url: https://homestack.com/a/charlestonproperties
   - title: Zillow
-    url: https://www.zillow.com/profile/Mikki-Ramey/ 
+    url: https://www.zillow.com/profile/Mikki-Ramey/
 client:
   name: Mikki Ramey
   license_number:
-  about_markdown: |
-    The Mikki Ramey team is in the top 1% for sales in Charleston (14 out of 4100 agents). Mikki has appeared on HGTV National Open House, and also has been featured in HGTV Magazine. She has been recognized by Charleston Moms as the “best real estate agent in Charleston” by Lowcountry Parent’s Magazine. In addition, Trulia picked her as one of the 1% of agents in the country with the 2014 Be st of Trulia Top Agent Award.
+  about_markdown: >
+    The Mikki Ramey team is in the top 1% for sales in Charleston (14 out of
+    4100 agents). Mikki has appeared on HGTV National Open House, and also has
+    been featured in HGTV Magazine. She has been recognized by Charleston Moms
+    as the “best real estate agent in Charleston” by Lowcountry Parent’s
+    Magazine. In addition, Trulia picked her as one of the 1% of agents in the
+    country with the 2014 Be st of Trulia Top Agent Award.
 
-    Mikki Ramey is the broker in charge for Healthy Realty and has served the Charleston area for over ten years. She has been recognized for her excellence in real estate as an East Cooper Top Producer and a Realtor of Distinction. Mikki is also certified as a Short Sale and Foreclosure specialist. She is a licensed real estate broker in South Carolina and is a member of the National Association of Realtors. As a realtor, she gives real estate lectures to students, residents, dentists, and doctors at the Medical University of South Carolina.
+
+    Mikki Ramey is the broker in charge for Healthy Realty and has served the
+    Charleston area for over ten years. She has been recognized for her
+    excellence in real estate as an East Cooper Top Producer and a Realtor of
+    Distinction. Mikki is also certified as a Short Sale and Foreclosure
+    specialist. She is a licensed real estate broker in South Carolina and is a
+    member of the National Association of Realtors. As a realtor, she gives real
+    estate lectures to students, residents, dentists, and doctors at the Medical
+    University of South Carolina.
   market: Charleston
   brand: The Mikki Ramey Team
   brokerage: Healthy Realty
@@ -26,31 +45,30 @@ client:
   phone2_type:
   email: MikRamey@gmail.com
   url: http://www.Healthy-Realty.com
-
 forms:
   sitekey: 6LfhGkAaAAAAAOyDKJyGgKP8hIe2IPHBrZ2Dqeh-
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
+  first_CTA_URL: >-
+    http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
   second_CTA_text: Home Search
   second_CTA_URL: https://search.movingwithmikki.com/
   VR_form: http://oi.vresp.com?fid=4eec3c351b
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: >-
+      http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
     CTA_url2: https://search.movingwithmikki.com/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -62,44 +80,52 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/healthyrealty
   linkedin_url: https://www.linkedin.com/in/mikkiramey/
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCILy2e4CfqbFRatzlwsbKCQ
   twitter_url: http://www.twitter.com/mikkiramey
-  instagram_url:
+  instagram_url: https://www.instagram.com/movingwithmikkicharleston/
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/Mikki-Ramey/
-  trulia_url: https://www.trulia.com/profile/mikki-ramey-agent-daniel-island-sc-zg7n9bn3/overview
+  trulia_url: >-
+    https://www.trulia.com/profile/mikki-ramey-agent-daniel-island-sc-zg7n9bn3/overview
   yelp_url: https://www.yelp.com/biz/healthy-realty-daniel-island?osq=mikki+ramey
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -109,13 +135,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: rgba(78, 50, 36, .5)
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -124,5 +148,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
