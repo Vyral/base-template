@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Smartest Way to Choose An Investment Property
+title: The Smartest Way To Choose an Investment Property
 date: 2021-10-26 00:10:00
 tags:
     - Real Estate
@@ -21,7 +21,7 @@ youtube_code: _vKWJt0IzUM
 
 How do you pick the right investment property?&nbsp; There’s a lot that goes into the decision, but one key factor stands above the rest.&nbsp;
 
-**Let’s say you have to pick between two properties.** One is a new-build property on the outskirts of the city. You can begin renting right away, and it probably doesn’t need too much maintenance for 10 years. The other property is older and will need continuous work, but it’s located in the center in the city. Which do you choose?&nbsp;
+**Let’s say you have to pick between two properties.** One is a new-build property on the outskirts of the city. You can begin renting right away, and it probably doesn’t need too much maintenance for 10 years. The other property is older and will need continuous work, but it’s located in the center of the city. Which do you choose?&nbsp;
 
 {% include pullquote.html %}
 
