@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Transaction Management
 excerpt: Every agent should support their local businesses. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/The+Benefits+of+Promoting+Small+Businesses.mp4
 pullquote: When you’re giving back, you should have a plan of how you want to do it.
 enclosure_type: video/mp4
 enclosure_time:
