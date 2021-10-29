@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Costs Homebuyers Should Know
-date: 2021-10-28 13:00:00
+date: 2021-10-29 09:30:00
 tags:
     - Home Buyer Tips
 excerpt: Here are three costs every buyer should know before purchasing a home.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/3+Costs+Homebuyers+Should+Know+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
