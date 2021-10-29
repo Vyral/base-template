@@ -32,12 +32,12 @@ Tulsa looks good on you\! Tulsa also looks super great on Chelsea Trinidad from 
 
 3:15 — The unique projects with which Balloon Therapy has made a name for themselves
 
-4:10 — Why they use regular oxygen instead of helium&nbsp;
+4:10 — Why do they use regular oxygen instead of helium?
 
 5:40 — Showcasing the Balloon Therapy studio
 
 7:05 — How to learn more and get in touch with Balloon Therapy
 
-7:30 — Wrapping up today’s topic
+7:30 — Wrapping up
 
-Feel free to get in touch with Balloon Therapy if you need a classy, fun balloon display or have any questions for them. If you ever have any questions or real estate needs, please call us or visit our website. We would love to help you.
+Feel free to get in touch with Balloon Therapy if you need a classy, fun balloon display or have questions for them. If you ever have any questions or real estate needs, please call us or visit our website. We would love to help you.
