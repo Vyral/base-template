@@ -5,14 +5,13 @@ date: 2021-11-01 09:00:00
 tags:
     - Real Estate
 excerpt: Here are the four main ways real estate can improve your financial future.
-enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/Building+Wealth+Through+Real+Estate+(1).mp4
+enclosure:
 pullquote: Equity can be used for another home or some other investment opportunity.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nEMu3gLW-ao
+youtube_code: PGMQZbzA1_4
 ---
 {% include youtube.html %}
 
