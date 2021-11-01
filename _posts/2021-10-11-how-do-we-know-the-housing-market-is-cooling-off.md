@@ -12,8 +12,8 @@ pullquote: Buyers are tired of overpaying and losing in multiple-offer situation
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/Celeste_Zarling_YT.jpg
-youtube_code: 9CO6sDhf6SU
+youtube_alternate_image: /uploads/celeste-zarling-yt-1.jpg
+youtube_code: VR6IAJPlYEk
 ---
 {% include youtube.html %}
 
