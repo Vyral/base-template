@@ -5,7 +5,8 @@ date: 2021-11-01 20:26:20
 tags:
     - Real Estate
 excerpt: Here’s the whole process behind a competitive market analysis.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/What+Exactly+Is+a+CMA_.mp4
 pullquote: >-
     We’ll call you in, give you a range of values, explain how exactly we came
     to that decision, and talk about what might fit you best.
