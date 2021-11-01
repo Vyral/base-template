@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Guaranteed Rent
-    url: 'https://www.hipacificpm.com/guaranteed-rent'
+    url: https://www.hipacificpm.com/guaranteed-rent
   - title: About
-    url: 'http://www.hipacificpm.com/aboutus'
+    url: http://www.hipacificpm.com/aboutus
   - title: Tip of the Week
     url: /tip-of-the-week/
 client:
@@ -36,39 +36,39 @@ client:
   phone2:
   phone2_type:
   email: info@HIPacificPM.com
-  url: 'http://HIPacificPM.com'
+  url: http://HIPacificPM.com
 CTAs:
   first_CTA_text: Rent Your Home
-  first_CTA_URL: 'https://www.hipacificpm.com/guaranteed-rent'
+  first_CTA_URL: https://www.hipacificpm.com/guaranteed-rent
   second_CTA_text: Vacancies
-  second_CTA_URL: 'https://www.hipacificpm.com/vacancies'
-  VR_form: 'http://oi.vresp.com?fid=bc9bd80877'
+  second_CTA_URL: https://www.hipacificpm.com/vacancies
+  VR_form: http://oi.vresp.com?fid=bc9bd80877
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: 'If We Don’t Lease Your Home in 30 Days, We’ll pay the Rent!'
+    CTA_title: If We Don’t Lease Your Home in 30 Days, We’ll pay the Rent!
     CTA_text: >-
       If both you and HiPacificPM agree to enter into a Guaranteed Lease
       agreement, we will also guarantee that the tenant will pay the agreed upon
       rent for a minimum of 6 months.
     CTA_link_text: Rent Out Your Home
-    CTA_url: 'https://www.hipacificpm.com/guaranteed-rent'
+    CTA_url: https://www.hipacificpm.com/guaranteed-rent
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Have a Question about the Guaranteed Rent Program?
     CTA_text2: Check out these FAQ's from our Clients
     CTA_link_text2: Frequently Asked Questions
-    CTA_url2: 'https://www.hipacificpm.com/guaranteed-rent-faq'
+    CTA_url2: https://www.hipacificpm.com/guaranteed-rent-faq
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
@@ -79,16 +79,16 @@ welcome_box:
     receive expert tips for managing property.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/HIPacific-Property-Management-1598929470384417'
-  linkedin_url: 'https://www.linkedin.com/in/hipacificpm'
-  gplus_url: 'https://plus.google.com/b/104259744657557878378/104259744657557878378'
-  youtube_url: 'https://www.youtube.com/channel/UCfTHiiR-HtktD1L0hwrBHhA'
-  twitter_url: 'https://twitter.com/HipacificPm'
+  facebook_url: https://www.facebook.com/HIPacific-Property-Management-1598929470384417
+  linkedin_url: https://www.linkedin.com/in/hipacificpm
+  gplus_url:
+  youtube_url: https://www.youtube.com/channel/UCfTHiiR-HtktD1L0hwrBHhA
+  twitter_url: https://twitter.com/HipacificPm
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url: 'http://www.yelp.com/biz/hawaii-pacific-property-management-aiea-2'
+  yelp_url: http://www.yelp.com/biz/hawaii-pacific-property-management-aiea-2
   podcast_url: >-
     https://itunes.apple.com/us/podcast/hawaii-property-management-podcast-with-duke-kimhan/id1218413212?mt=2
 podcast:
@@ -128,7 +128,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0)'
+  shadow_color: rgba(0, 0, 0, 0)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -137,5 +137,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
