@@ -5,7 +5,8 @@ date: 2021-10-22 00:00:00
 tags:
     - Market Update
 excerpt: Is the market experiencing a slowdown? Here’s our latest market update.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Are+Salt+Lake+Area+Sales+Slowing_.mp4
 pullquote: >-
     Since inventory is low and prices are continuing to rise, the best move for
     sellers is to jump into the market now.
