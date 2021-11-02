@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 44 Ways to Prepare Your Home to Sell
+title: 44 Ways To Prepare Your Home To Sell
 date: 2021-11-01 00:00:00
 tags:
     - Home Seller Tips
@@ -38,7 +38,7 @@ Potential buyers are much more likely to return to a home that impresses them at
 
 {% include pullquote.html %}
 
-There is no doubt about it, first impressions count with buyers. **That’s why I’ve prepared a 44-item fail-proof list of simple, quick, and inexpensive things you can do to prepare to sell your home for top dollar**.
+There is no doubt about it; first impressions count with buyers. **That’s why I’ve prepared a 44-item, fail-proof list of simple, quick, and inexpensive things you can do to prepare to sell your home for top dollar**.
 
 I’ve divided them into three categories:
 
@@ -46,4 +46,4 @@ I’ve divided them into three categories:
 2. Interior of Home
 3. How to show your home for maximum profit
 
-**To get a copy of my report, 44-Money-Making Tips for Preparing Your Home to Sell, at no cost and without any obligation, simply give me a call or send me a quick email today**. If you have any other questions about real estate in the meantime, I’d be happy to answer those as well.
+To get a copy of my report, 44-Money-Making Tips for Preparing Your Home to Sell, at no cost and without any obligation, simply give me a call or send me a quick email today. If you have any other questions about real estate in the meantime, I’d be happy to answer those as well.
