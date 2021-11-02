@@ -26,10 +26,10 @@ There are three types of buyers in Maricopa County. Traditional buyers include f
 
 {% include pullquote.html %}
 
-iBuyers like Zillow, Opendoor, and Offerpad focus on buying homes from sellers who don't want to go through the traditional method, but that is starting to change. Zillow stopped buying homes across the US last week because they were no longer seeing a good return on investment. I think this will have a big effect on the market and **iBuyers may not be dominant in the market much longer.**
+iBuyers like Zillow, Opendoor, and Offerpad focus on buying homes from sellers who don't want to go through the traditional method, but that is starting to change. Zillow stopped buying homes across the U.S. last week because they were no longer seeing a good return on investment. I think this will have a big effect on the market and **iBuyers may not be dominant in the market much longer.**
 
 The third type of buyer is the institutional buyer. These are companies that are buying thousands of homes and holding them for the long term as rentals.
 
 Collectively, iBuyers bought 2,775 homes. That has led to the increasing supply of homes. About 10% of the homes in the MLS are owned by iBuyers. 22% of those iBuyer homes were purchased by institutional buyers. We should start seeing mellowing prices and market correction. **In 2022, we’ll still have appreciation, but it won't be as high as this year.**
 
-I hope this information is helpful. If I can help you with anything, please reach out to me at 602-430-5226. I am always willing to help.
+I hope this information is helpful. If you have any questions, please reach out to me at 602-430-5226. I am always willing to help.
