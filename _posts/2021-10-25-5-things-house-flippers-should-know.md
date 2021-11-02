@@ -7,7 +7,8 @@ tags:
     - Market Update
     - Real Estate
 excerpt: Here are five things to consider before you buy and flip a house.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/John+Schuster/5+Things+House+Flippers+Should+Know.mp4
 pullquote: Be realistic with your expectations.
 enclosure_type: video/mp4
 enclosure_time:
