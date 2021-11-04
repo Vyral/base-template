@@ -22,4 +22,4 @@ It’s autumn now, and people are wondering whether this is a good time to sell 
 
 I have this saying, “You can't get a nibble from a fish if your worm's not in the water.” The best way to be on the market is to truly be on the market and not just talk about being on the market. **The people who buy in the fall and winter are serious buyers** who are usually trying to time a job change or a break from school. In the Portland area, Thanksgiving and Christmas weekends are always busy.
 
-If you’re thinking about whether you should sell now or wait, call me. Let's talk about it and come up with a strategy that works for you. Reach out to me at sarita@asksarita.com.
+If you’re thinking about whether you should sell now or wait, call me. Let's talk about it and come up with a strategy that works for you. Reach out to me at [sarita@asksarita.com](mailto:sarita@asksarita.com).
