@@ -32,8 +32,8 @@ You are going to see more demand for pools in this. Anytime you see more demand,
 
 If we combine the two things together, you have the killer infinity pool with a water slide in the San Fernando Valley, it's going to have a lot of value.
 
-You get closer to the coast, maybe a Santa Monica, and you have the basic 1960s pool with nothing, it's probably going to have little to no value, potentially even a negative value. Just keep that in mind. You're never going to add a pool to add value. You're always adding a pool for your own enjoyment for you, for your family, your grandkids, all that to enjoy. If you want to add the most value, just think the further inland you go, the higher quality pool, the closer you're going to get to your return on that investment of the pool that you put in.
+You get closer to the coast, maybe a Santa Monica, and you have the basic 1960s pool with nothing, it's probably going to have **little to no value,** potentially even a negative value. Just keep that in mind. You're never going to add a pool to add value. You're always adding a pool for your own enjoyment for you, for your family, your grandkids, all that to enjoy. If you want to add the most value, just think the further inland you go, the higher quality pool, the closer you're going to get to your return on that investment of the pool that you put in.
 
 {% include pullquote.html %}
 
-If you have a pool home in Los Angeles and want to know how the pool affects the value reach to me. I'm happy to give you a free opinion on value and what is happening in our real estate market.
+If you have a pool home in Los Angeles and want to know how the pool affects the value reach to me**. I'm happy to give you a free opinion** on value and what is happening in our real estate market.
