@@ -34,7 +34,7 @@ Along with covering the cost of upfront inspections, when you list with us, **we
 
 {% include pullquote.html %}
 
-Once the inspections are performed and the property is ready for professional pictures, we’ll send our photographer to document your space and show it in its best light. Then we’ll launch our strategic coming soon plan to ensure we build up lots of buyer and agent excitement while maximizing initial interest and showings. Our proven plan has helped hundreds of families move in the Tulsa area for over 20 years. We know that our professional team can help yours too\!
+Once the inspections are performed and the property is ready for professional pictures, we’ll send our photographer to document your space and show it in its best light. Then we’ll launch our strategic coming soon plan to ensure we build up lots of buyer and agent excitement while maximizing initial interest and showings. Our proven plan has helped hundreds of families move to the Tulsa area for over 20 years. We know that our professional team can help yours too\!
 
 **Listing your home with The Wolek Group checklist:**
 
@@ -44,10 +44,10 @@ Once the inspections are performed and the property is ready for professional pi
 * In-person or virtual staging consultation occurs
 * Staging recommendations are completed
 * Professional pictures and videography are taken
-* Coming soon campaign is launched
-* Sign in yard with coming soon rider is placed
+* Coming-soon campaign is launched
+* Sign in yard with coming-soon rider is placed
 * Social media posts on Instagram & Facebook
-* Just listed calls to neighbors
+* Just-listed calls to neighbors
 * Postcards sent to neighborhood
 
-Connect with us today via phone or email to learn more about how we can help get your home listed and sold\! Also, reach out if you have further questions about our pre-owned home program or any other real estate matter. We would love to help you.
+Connect with us today via phone or email to learn more about how we can help get your home listed and sold\! Also, reach out if you have further questions about our Certified Pre-Owned Home Program or any other real estate matter. We would love to help you.
