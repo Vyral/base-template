@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Play (and Win) the Real Estate “Squid Game”
+title: How To Play (and Win) the Real Estate “Squid Game”
 date: 2021-11-05 00:00:00
 tags:
     - Real Estate
@@ -21,7 +21,7 @@ A lot of people in Calgary are confused when it comes to the real estate market.
 
 What’s the truth? Are we playing a deadly game of “Red Light, Green Light” a la Squid Game? I'm going to go through all of the important info with you today.
 
-The thing to remember with all of these statistics is that they are averages. Averages can be dangerous, because your feet could be in the oven and your head could be in the freezer.
+The thing to remember with all of these statistics is that they are averages. Averages can be dangerous because your feet could be in the oven while your head is in the freezer.
 
 For example, sales are down in Chestermere by 15%. However, parts of Calgary are seeing an average of a 25% increase in sales. Calgary is up 10% in price, whereas Okotoks is only up about 5%. **It really depends on where you are in the Calgary region, what your situation is, and what your style of home is.&nbsp;**
 
@@ -33,6 +33,6 @@ If you look at the district sale numbers, the City Centre only increased 3.9%. W
 
 **Home prices were trending up for most of the year, but the mark has gone a little sideways.** However, supply has dropped with it. I expect the strong demand for homes to continue, and I anticipate prices will remain strong for the next few months. We’re not quite sure what to expect in spring for now.
 
-In Airdrie, they had a 14.5% increase in sales, with most of those happening in the $300,000 to $400,000 range. Arkran hasn’t seen as quite of a bump. They’re only up about 5%, but the $300,000 to $400,000 price range is strongest. In Chestermere, although sales are down, prices are still up about 10%. In Okotok, prices are up 5.4%.
+In Airdrie, they had a 14.5% increase in sales, with most of those happening in the $300,000 to $400,000 range. Arkran hasn’t seen as large of a bump. They’re only up about 5%, but the $300,000 to $400,000 price range is strongest. In Chestermere, although sales are down, prices are still up about 10%. In Okotok, prices are up 5.4%.
 
 Just like with any game, there are always going to be statistics and ways of winning and losing based on those statistics. If you have any questions or want to learn how you can win the real estate game this year, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
