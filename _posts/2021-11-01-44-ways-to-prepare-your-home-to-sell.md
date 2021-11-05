@@ -46,4 +46,4 @@ I’ve divided them into three categories:
 2. Interior of Home
 3. How to show your home for maximum profit
 
-To get a copy of my report, 44-Money-Making Tips for Preparing Your Home to Sell, at no cost and without any obligation, simply give me a call or send me a quick email today. If you have any other questions about real estate in the meantime, I’d be happy to answer those as well.
+To get an instant copy of the **"44-Money-Making Tips for Preparing Your Home to Sell"**, at no cost and without any obligation, call 1 (800) 558-7214, ext. 9025. In the meantime, if you have any other questions about real estate, call me directly at (775) 790-0574 or send me a quick email today. &nbsp;I’d be happy to answer those as well.
