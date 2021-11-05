@@ -20,7 +20,7 @@ youtube_code: GVEBqUW9tZk
 
 {% include excerpt.html %}
 
-Does adding a pool to your home in San Diego actually increase the value? Hey there, it's [Scott Himelstein](https://www.instagram.com/scotthimelstein/){: target="_blank" rel="noopener"} with the [Scott Himelstein Group](https://www.facebook.com/ScottWorks4u){: target="_blank" rel="noopener"} and Park Regency Realty here in Los Angeles. And in today's video, I want to talk a little bit more about the value of a pool.&nbsp;
+Does adding a pool to your home in Los Angeles actually increase the value? Hey there, it's [Scott Himelstein](https://www.instagram.com/scotthimelstein/){: target="_blank" rel="noopener"} with the [Scott Himelstein Group](https://www.facebook.com/ScottWorks4u){: target="_blank" rel="noopener"} and Park Regency Realty here in Los Angeles. And in today's video, I want to talk a little bit more about the value of a pool.&nbsp;
 
 Now let's just get this out of the way first. 99% of the time, **you are never going to get the value out of a pool as to what you put into it.** If you put a $200,000 pool in, you're probably not going to get $200,000 back out. I don't care where you are or how nice a pool is, it's probably not going to happen. I'm just going to like burst that bubble right out of the gate. Now let's figure out how much value it does add. **First and foremost, it's going to depend on the area that you live in Los Angeles.** Los Angeles is very diverse. And we've got areas that are right up against the ocean where you have coastal cool climates.&nbsp;
 
