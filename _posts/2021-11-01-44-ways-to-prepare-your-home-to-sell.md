@@ -7,7 +7,8 @@ tags:
 excerpt: >-
     I’m sharing the key factors that will help or prevent your home from
     selling.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/44+Ways+To+Prepare+Your+Home+To+Sell.mp4
 pullquote: >-
     Potential buyers are much more likely to return to a home that impresses
     them.
