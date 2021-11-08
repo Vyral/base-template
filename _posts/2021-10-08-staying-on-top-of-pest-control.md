@@ -17,7 +17,7 @@ youtube_code: OnIszj3VRhc
 ---
 {% include youtube.html %}
 
-*Here’s how we’re able to offer an eviction guarantee for our clients.*
+<p style="text-align:center;"><em>Today, I explain why you should care about proper pest control.</em></p>
 
 <center>&nbsp;</center>
 
