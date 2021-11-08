@@ -36,3 +36,5 @@ If you look at the district sale numbers, the City Centre only increased 3.9%. W
 In Airdrie, they had a 14.5% increase in sales, with most of those happening in the $300,000 to $400,000 range. Arkran hasn’t seen as large of a bump. They’re only up about 5%, but the $300,000 to $400,000 price range is strongest. In Chestermere, although sales are down, prices are still up about 10%. In Okotok, prices are up 5.4%.
 
 Just like with any game, there are always going to be statistics and ways of winning and losing based on those statistics. If you have any questions or want to learn how you can win the real estate game this year, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+
+[**Enter your address here to find out what your home is currently worth.**](https://t.e2ma.net/click/e8db3d/mekupom/q1ok4j){: target="_blank"}
