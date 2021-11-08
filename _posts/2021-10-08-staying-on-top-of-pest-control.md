@@ -17,16 +17,12 @@ youtube_code: OnIszj3VRhc
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today, I explain why you should care about proper pest control.</em></p>
+*Today, I explain why you should care about proper pest control.*
 
 <center>&nbsp;</center>
 
-Today I’m discussing our eviction guarantee. People ask us how we can guarantee not to have an eviction, so today I’m answering that question. As far as I know, no one else in Honolulu offers an eviction guarantee.&nbsp;
+People ask me whether pest control is really necessary and whether it’s a tenant cost. **Yes, it's necessary and no, it's not a tenant cost.**
 
-When owners are comparing us against other property management companies, I tell them to ask if they guarantee or warranty their tenants. Ask if they’ll pay for the legal costs if an eviction is necessary. With all other property management companies, **legal costs in the eviction process are at the owner’s expense,** so owners and property managers should research that.&nbsp;
+When we have a tenant that complains about pests like roaches or ants within the first two weeks after moving in, it’s an owner cost. We tell the owner that they have an infestation and we need to take care of it. Sometimes when a house is professionally cleaned, all the roaches from that house come into a house that doesn't have pest control. **I highly recommend owners get on a pest treatment service.** We offer pest control services, just reach out to us for more details.
 
-90% of the time, you won’t have an eviction, so you don't need to worry about the costs. However, if you go to eviction court, you won’t be the only one there. Every time I’ve been to eviction court, there have been 10 to 20 cases at the same time, and sometimes the property manager is there, and sometimes they’re not. In all those cases, the owner is paying for going to eviction court and civil court. Now, evictions will be even more difficult with the new 1371 law, which will change the eviction process in Honolulu to accommodate for mediation.&nbsp;
-
-I’m so sure of our vetting process to get a good tenant in your house that **if you’re our client and you need someone evicted from your home, I will pay the legal costs.** We usually won’t take you on as a client if you need help with the eviction of a tenant first. We let the owner or previous property manager take care of the legal processes first, and then we can take over afterward.
-
-If you have questions about our eviction guarantee or anything else, call or email us. We would love to help you.
+You have to be constantly aware of this. If you have pest control on the outside of your house, it'll stop things from coming in. Pest control is really important and it's a major part of the value that we give our tenants. If you have any questions give us a call or visit [www.HiPacificPM.com](http://www.hipacificpm.com). We look forward to hearing from you.
