@@ -17,12 +17,12 @@ youtube_code: OnIszj3VRhc
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today, I explain why you should care about proper pest control.</em></p>
+*Today I explain why you should care about proper pest control.*
 
 <center>&nbsp;</center>
 
-People ask me whether pest control is really necessary and whether it’s a tenant cost. **Yes, it's necessary and no, it's not a tenant cost.**
+People ask me whether pest control is really necessary and whether it’s a tenant cost. **Yes, it's necessary, and no, it's not a tenant cost.**
 
-When we have a tenant that complains about pests like roaches or ants within the first two weeks after moving in, it’s an owner cost. We tell the owner that they have an infestation and we need to take care of it. Sometimes when a house is professionally cleaned, all the roaches from that house come into a house that doesn't have pest control. **I highly recommend owners get on a pest treatment service.** We offer pest control services, just reach out to us for more details.
+When we have a tenant that complains about pests like roaches or ants within the first two weeks after moving in, it’s an owner cost. We tell the owner that they have an infestation, and we need to take care of it. Sometimes when a house is professionally cleaned, all the roaches from that house come into a house that doesn't have pest control. **I highly recommend owners get on a pest treatment service.** We offer pest control services, just reach out to us for more details.
 
-You have to be constantly aware of this. If you have pest control on the outside of your house, it'll stop things from coming in. Pest control is really important and it's a major part of the value that we give our tenants. If you have any questions give us a call or visit [www.HiPacificPM.com](http://www.hipacificpm.com). We look forward to hearing from you.
+You have to be constantly aware of this. If you have pest control on the outside of your house, it'll stop things from coming in. Pest control is really important, and it's a major part of the value that we give our tenants. If you have any questions give us a call or visit [www.HiPacificPM.com](http://www.hipacificpm.com). We look forward to hearing from you.
