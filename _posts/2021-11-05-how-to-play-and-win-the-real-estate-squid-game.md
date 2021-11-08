@@ -10,7 +10,7 @@ pullquote: We’re not quite sure what to expect in spring for now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mortimer-ss-1105-yt.jpg
+youtube_alternate_image: /uploads/thumbnail1-1-1.jpg
 youtube_code: hNLSvCTKHHs
 ---
 {% include youtube.html %}
