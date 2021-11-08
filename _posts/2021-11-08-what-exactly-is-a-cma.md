@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Exactly Is a CMA?
-date: 2021-11-01 20:26:20
+date: 2021-11-08 08:00:00
 tags:
     - Real Estate
 excerpt: Here’s the whole process behind a competitive market analysis.
