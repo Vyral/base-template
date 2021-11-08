@@ -20,7 +20,7 @@ youtube_code: 9rL5nZhSLxI
 
 {% include excerpt.html %}
 
-Sometimes we agents get a little carried away with our acronyms and assume everyone knows what they are. We want to peel back the curtain a little bit and talk about what a CMA is.
+Sometimes as agents we get a little carried away with our acronyms and assume everyone knows what they are. We want to peel back the curtain a little bit and talk about what a CMA is.
 
 **CMA stands for competitive market analysis.** The goal of a CMA is to establish a range of values for your home. We start by pulling all of the information we can find about your home and doing a walk-through to see what condition it is in.
 
