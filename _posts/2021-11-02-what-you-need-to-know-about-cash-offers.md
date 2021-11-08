@@ -21,7 +21,7 @@ youtube_code: jNhs-3xmi1M
 
 {% include excerpt.html %}&nbsp;
 
-What should you think about when dealing with a cash offer? According to Atom Data Solution, in 2020, 26% of purchases used cash. A cash offer means there is no financing in regards to the mortgage of a home. There are a couple of reasons why a buyer might put up a cash offers:
+What should you think about when dealing with a cash offer? According to Atom Data Solution, 26% of homebuyers used cash in 2020. A cash offer means there is no financing in regards to the mortgage of a home. There are a couple of reasons why a buyer might put up a cash offers:
 
 • They might be an investor with lots of cash to spend.
 
@@ -29,7 +29,7 @@ What should you think about when dealing with a cash offer? According to Atom Da
 
 • They may want to stand out by using cash.
 
-• The home may be a fix and flip, meaning They have to use cash to buy it due to the condition.
+• The home may be a fix and flip, meaning they have to use cash to buy it due to the condition.
 
 • They might have a tight deadline to close the home.
 
@@ -39,7 +39,7 @@ For sellers, there are a couple of advantages to a cash offer. **The timeline fo
 
 The downside is that **cash offers will want to pay less**, but if you’re on a tight timeline of if the cash offers are comparable to the financed offers, it might be advantageous.&nbsp;
 
-7 homes we listed this year have sold with cash offers. Again, it is good for the seller if the timeline is a big concern, but we’ve also seen these offers be a little more flexible with other terms. One of our clients negotiated a nine-month leaseback since the buyer was an investor who was planning to rent the property out anyway.
+Seven homes we listed this year have sold with cash offers. Again, it is good for the seller if the timeline is a big concern, but we’ve also seen these offers be a little more flexible with other terms. One of our clients negotiated a nine-month leaseback since the buyer was an investor who was planning to rent the property out anyway.
 
 As a buyer making a cash offer, there are some obvious benefits: **it’s faster, there are fewer contingencies, and it gives you a competitive advantage.** Even if you’re going to use a cash offer, you’ll still have to work out the title and sign loan documents, but overall, there are fewer moving parts.&nbsp;
 
