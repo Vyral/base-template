@@ -5,7 +5,8 @@ date: 2021-11-08 20:01:06
 tags:
     - Home Buyer Tips
 excerpt: An appraisal waiver is an alternative to needing cash for an appraisal gap.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2021/Win+in+a+Multiple-Offer+Situation.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
