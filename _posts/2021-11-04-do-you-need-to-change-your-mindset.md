@@ -15,7 +15,7 @@ youtube_code: u-qYxRCWFLQ
 
 {% include excerpt.html %}
 
-Do you have a growth mindset or a fixed mindset? So often, we meet people and talk with them with a fixed mindset. In this mindset, you don’t take risks or see failure as an opportunity for growth. We've found that **when you get into that mindset, your forward momentum stops.** On the other hand, when you’re open to possibilities, learning from mistakes, and seeing the glass as half full, you find yourself in a position where opportunities for further advancement appear, and you have a much higher chance of reaching your goals.
+Do you have a growth mindset or a fixed mindset? So often, we meet people who have a fixed mindset. In this mindset, you don’t take risks or see failure as an opportunity for growth. We've found that **when you get into that mindset, your forward momentum stops.** On the other hand, when you’re open to possibilities, learning from mistakes, and seeing the glass as half full, you find yourself in a position where opportunities for further advancement appear, and you have a much higher chance of reaching your goals.
 
 If you find yourself in that spot where you have a fixed mindset, we challenge you to simply talk to people. Who you choose to surround yourself with matters. We are the average of the five people we surround ourselves with. If you find yourself in a position where you’re not growing, it might be because of a fixed mindset, or you might need to change the five people around you.
 
