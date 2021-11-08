@@ -5,7 +5,9 @@ date: 2021-11-05 00:00:00
 tags:
     - Real Estate
 excerpt: Here are the numbers you need to put yourself in a position to win.
-enclosure:
+enclosure: >-
+    s3://vyralmarketing/Eric Mortimer/Videos/2021/How To Play (and Win) the Real
+    Estate “Squid Game”.mp4
 pullquote: We’re not quite sure what to expect in spring for now.
 enclosure_type: video/mp4
 enclosure_time:
