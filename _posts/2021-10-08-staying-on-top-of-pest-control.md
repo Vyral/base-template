@@ -18,7 +18,7 @@ youtube_code: OnIszj3VRhc
 ---
 {% include youtube.html %}
 
-*Today I explain why you should care about proper pest control.*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today I explain why you should care about proper pest control.*
 
 <center>&nbsp;</center>
 
