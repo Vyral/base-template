@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Way to Build Wealth Through Real Estate
+title: Another Way To Build Wealth Through Real Estate
 date: 2021-11-05 00:00:00
 tags:
     - Real Estate
@@ -22,7 +22,7 @@ youtube_code: z7O3ms81sjs
 
 You can do some very positive things for your college student through real estate. If you have a kid in college now or is going to college next year, purchasing an investment property for them to live in could bring you a ton of financial benefits.
 
-**Your travel would be tax-deductible**, for one. Additionally, you’ll be able to get the benefits of depreciation on your taxes, write off mortgage interest to offset your income, and more. There are a lot more hidden benefits to owning income properties than people realize.&nbsp;
+**Your travel would be tax-deductible**, for one. Additionally, you’ll get the benefits of depreciation on your taxes, write off mortgage interest to offset your income, and more. There are a lot more hidden benefits to owning income properties than people realize.&nbsp;
 
 Before you make the leap to buying an investment property for your college-aged child, consider a few things. If your child ends up deciding to transfer or drop out of school altogether, that could leave you in a tricky spot. Make sure your agent has a “love it or leave it” program if you have any concerns.
 
