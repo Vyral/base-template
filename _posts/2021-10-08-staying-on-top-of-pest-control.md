@@ -7,7 +7,8 @@ tags:
 excerpt: >-
     Today, I explain why you should care about proper pest control.ow we’re able
     to offer an eviction guarantee for our clients.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2021/Staying+On+Top+of+Pest+Control.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
