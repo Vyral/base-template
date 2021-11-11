@@ -29,4 +29,4 @@ What’s this whole thing about gamifying your database anyway? Well, I’m here
 
 **4\. Have fun\!** The most important thing about any game is having fun along the way.
 
-Let us know some ways that you gamify your database or have some fun with your team to help you achieve your big goals. There are lots of ways to do it. We love sharing the many things we do here in Tulsa with all the people who hang out with us through some virtual training and classes. We have lots of stuff coming up, so if you want to join us in the future, feel free to reach out via phone or email. We look forward to seeing you.
+Let us know some ways that you gamify your database or have some fun with your team to help you achieve your big goals. There are lots of ways to do it. We love sharing the many things we do here in Tulsa with all the people who hang out with us through virtual training and classes. We have lots of stuff coming up, so if you want to join us in the future, feel free to reach out via phone or email. We look forward to seeing you.
