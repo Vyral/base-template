@@ -4,7 +4,9 @@ title: The Tenant Protection Act Was Lifted
 date: 2021-11-05 00:00:00
 tags:
 excerpt: We are finally getting back to normal tenant and landlord practices.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Ron Cedillo/Videos/2021/The Tenant Protection Act Was
+  Lifted.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
