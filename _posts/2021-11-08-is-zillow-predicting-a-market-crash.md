@@ -6,13 +6,13 @@ tags:
     - Real Estate
 excerpt: Here’s how the big news from Zillow may affect your real estate plans.
 enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Is+Zillow+Predicting+a+Market+Crash_.mp4
+    https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Is+Zillow+Predicting+a+Market+Crash_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TDznlXaMtWA
+youtube_code: pl0H7UGSXlM
 ---
 {% include youtube.html %}
 
