@@ -4,13 +4,7 @@ title: Subscribe to Our Newsletter
 permalink: /subscribe/
 ---
 
-<div class="subscribe">
-<h1 class="signup">Free Real Estate Agent Training Newsletter
-Sell More Homes In Less Time</h1>
-<h5 class="subscribersignup">Get access to our own internal training we provide our agents</h5>
-</span>
-<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
-</div>
+<div class="subscribe"><h1 class="signup">Free Real Estate Agent Training Newsletter Sell More Homes In Less Time</h1><h5 class="subscribersignup">Get access to our own internal training we provide our agents</h5></div>
 
 Dear Real Estate Agent:
 
