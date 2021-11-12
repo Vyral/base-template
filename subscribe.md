@@ -15,8 +15,11 @@ I invite you to subscribe to our free real estate agent training newsletter.
 Every two weeks, we publish helpful tips for you; which includes:
 
 1. Real agent success stories&nbsp;
+
 2. Question and answer videos
+
 3. Highlights of our team training
+
 4. Our favorite technology tips
 
 Our goal is to give you a taste of the training we provide if you have any interest in working with us in the future.
@@ -26,10 +29,15 @@ Our goal is to give you a taste of the training we provide if you have any inter
 That being said, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
 
 1. Generate qualified seller leads&nbsp;
+
 2. Attract buyers who actually want to buy&nbsp;
+
 3. Convert more leads to appointments&nbsp;
+
 4. Win more listing presentations at full commission&nbsp;
+
 5. Systematize your administrative processes&nbsp;
+
 6. Earn more referrals and reviews for repeat business&nbsp;
 
 …I invite you to subscribe to our free newsletter below.
