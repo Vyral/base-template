@@ -1,53 +1,63 @@
 ---
-layout: default
-title: Subscribe to Our Newsletter
+layout: recruiting
+title: Subscribe
 permalink: /subscribe/
 ---
+<div class="whitespace"></div>
+<div class="recruiting-page">
+<div class="letterhead"><span id="letterhead">Free Real Estate Agent Training Newsletter</span>
+<p id="letterhead-subtitle"><em>Free Real Estate Agent Training Newsletter</em></p>
+<div id="letterhead-title">Sell More Homes In Less Time</div>
+<p>Get access to our own internal training we provide our agents.</p></div>
+<hr>
+<p>Dear Real Estate Agent:</p>
 
-<div class="subscribe"><h1 class="signup">Free Real Estate Agent Training Newsletter Sell More Homes In Less Time</h1><h5 class="subscribersignup">Get access to our own internal training we provide our agents</h5></div>
+<p>Are you looking for training that teaches you exactly what you need to do to sell more homes?</p>
 
-Dear Real Estate Agent:
+<p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
-Are you looking for training that teaches you exactly what you need to do to sell homes?
+<p>Every two weeks, we publish helpful tips for you. These include:
+<ol class="indent">
+<li>Real agent success stories</li>
+<li>Question and answer videos</li>
+<li>Highlights of our team training</li>
+<li>Our favorite technology tips</li>
+</ol></p>
 
-I invite you to subscribe to our free real estate agent training newsletter.
+<p>Our goal is to give you a taste of the training we provide if you have any interest in working with us in the future.</p>
 
-Every two weeks, we publish helpful tips for you; which includes:
+<p><strong>We have no intention of recruiting you</strong> - that’s a conversation with us when you are ready, if at all.</p>
 
-1. Real agent success stories&nbsp;
+<p>So, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
+<ol class="indent">
+<li>Generate qualified seller leads</li>
+<li>Attract buyers who actually want to buy</li>
+<li>Convert more leads to appointments</li>
+<li>Win more listing presentations at full commission</li>
+<li>Systematize your administrative processes</li>
+<li>Earn more referrals and reviews for repeat business</li>
+</oL></p>
 
-2. Question and answer videos
+<p>…I invite you to subscribe to our free newsletter below.</p>
 
-3. Highlights of our team training
+<!-- <hr>
+<div class="testimonial-inline">
+<p><strong>Here’s what a few agents say about our free training:</strong></p>
 
-4. Our favorite technology tips
+<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
 
-Our goal is to give you a taste of the training we provide if you have any interest in working with us in the future.
+<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
 
-**We have no intention of recruiting you** - that’s a conversation with us when you are ready, if at all.
+<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+</div>
+<hr> -->
 
-That being said, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
+<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:Jennie@TheWolekGroup.com">Jennie@TheWolekGroup.com/a></p>
 
-1. Generate qualified seller leads&nbsp;
+<p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
-2. Attract buyers who actually want to buy&nbsp;
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in Northern Nevada.</p>
 
-3. Convert more leads to appointments&nbsp;
-
-4. Win more listing presentations at full commission&nbsp;
-
-5. Systematize your administrative processes&nbsp;
-
-6. Earn more referrals and reviews for repeat business&nbsp;
-
-…I invite you to subscribe to our free newsletter below.
-
-Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at&nbsp;[Jennie@TheWolekGroup.com](mailto:Jennie@TheWolekGroup.com){: target="_blank"}
-
-I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.&nbsp;
-
-We look forward to staying in touch. Let’s raise the standard and training of all real estate agents, especially in the area.&nbsp;
-
-I invite you to subscribe now below:&nbsp;
+<p>I invite you to subscribe now below:</p>
 
 {% include subscribe.html %}
