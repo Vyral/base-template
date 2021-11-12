@@ -10,8 +10,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/josh-loice-screenshots-youtube-14.jpg
-youtube_code: EVkhO6q0yaQ
+youtube_alternate_image: /uploads/josh-loice-screenshots-youtube-15.jpg
+youtube_code: qMEVKt81FdA
 ---
 {% include youtube.html %}
 
