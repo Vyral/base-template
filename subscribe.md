@@ -56,7 +56,7 @@ permalink: /subscribe/
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
-<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in Northern Nevada.</p>
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents, especially in the area.</p>
 
 <p>I invite you to subscribe now below:</p>
 
