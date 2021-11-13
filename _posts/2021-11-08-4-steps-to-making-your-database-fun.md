@@ -5,7 +5,8 @@ date: 2021-11-08 00:00:00
 tags:
     - Transaction Management
 excerpt: Follow these steps to have some fun while organizing your database!
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/4+Steps+To+Making+Your+Database+Fun.mp4
 pullquote: The most important part of any game is having fun along the way.
 enclosure_type: video/mp4
 enclosure_time:
