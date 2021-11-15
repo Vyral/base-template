@@ -11,8 +11,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jesse-ss-yt-1.jpg
-youtube_code: szmB-Ey0m_U
+youtube_alternate_image: /uploads/jesse-ss-yt-3.jpg
+youtube_code: 3ojimaX_iEc
 ---
 {% include youtube.html %}
 
