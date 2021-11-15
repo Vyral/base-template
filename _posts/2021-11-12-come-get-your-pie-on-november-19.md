@@ -17,7 +17,7 @@ youtube_code: zGcig5_0ZkA
 
 {% include excerpt.html %}
 
-Thanksgiving is almost here, which means our second-annual pie giveaway is too. Join us on Friday, November 19 from 10 a.m. to 6 p.m to get your complimentary pie.&nbsp;
+Thanksgiving is almost here, which means our second annual pie giveaway is too. Join us on Friday, November 19, from 10 a.m. to 6 p.m to get your complimentary pie.&nbsp;
 
 **Just head on over to our office (2700 South Fort Hood St., Suite F) to get your pick of an apple, pumpkin, or pecan pie.** We look forward to seeing you all there.
 
