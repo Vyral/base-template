@@ -18,7 +18,7 @@ youtube_code: DtsYufaqIRs
 
 {% include excerpt.html %}
 
-Today we’re going to be talking about an unexpected consequence of COVID: Probates are up. But first, what’s probate, and why are they increasing? Probate is when a will has to be proved as a true document in court. Due to the circumstances, people’s family members are passing away in unexpected circumstances, which is leaving a lot of properties in probate. If you’re in this situation it’s easy to feel stuck.
+Today we’re going to be talking about an unexpected consequence of COVID: Probates are up. But first, what’s probate, and why are they increasing? Probate is when a will has to be proved as a true document in court. Due to the pandemic, people’s family members are passing away in unexpected circumstances, which is leaving a lot of properties in probate. If you’re in this situation it’s easy to feel stuck.
 
 {% include pullquote.html %}
 
