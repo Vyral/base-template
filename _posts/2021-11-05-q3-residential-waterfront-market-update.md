@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Q3 Residential Waterfront Market Update
-date: 2021-11-05 14:35:54
+date: 2021-11-05 14:35:00
 tags:
     - Market Update
 excerpt: Here are all the latest numbers from our residential waterfront market.
@@ -26,28 +26,28 @@ Today I’m sharing our third-quarter real estate market report for 2021. All ou
 
 0:50 — Flathead Valley overview of actives, solds, and pendings
 
-2:30 — Flathead Lake homes overview of actives, solds, and pendings
+2:30 — Flathead Lake homes overview
 
-3:25 — Flathead Lake vacant land overview of actives, solds, and pendings
+3:25 — Flathead Lake vacant land overview
 
-4:45 — Flathead Lake condos overview of actives, solds, and pendings
+4:45 — Flathead Lake condos overview
 
-5:45 — Echo Lake and Lake Blaine homes overview of actives, solds, and pendings
+5:45 — Echo Lake and Lake Blaine homes overview
 
-6:20 — Echo Lake and Lake Blaine vacant land overview of actives, solds, and pendings
+6:20 — Echo Lake and Lake Blaine vacant land overview
 
-7:05 — Swan Lake overview of actives, solds, and pendings
+7:05 — Swan Lake overview
 
-7:45 — Swan River overview of actives, solds, and pendings
+7:45 — Swan River overview
 
-8:35 — West Lakes homes overview of actives, solds, and pendings
+8:35 — West Lakes homes overview
 
-9:00 — West Lakes vacant land overview of actives, solds, and pendings
+9:00 — West Lakes vacant land overview
 
-10:05 — Whitefish Lake overview of actives, solds, and pendings
+10:05 — Whitefish Lake overview
 
-11:05 — Lake Mary Ronan overview of actives, solds, and pendings
+11:05 — Lake Mary Ronan overview
 
-11:50 — Wrapping up today’s topic
+11:50 — Wrapping up
 
 If you have any questions or a topic you’d like us to cover in a future video, please let us know via phone or email. We’ll do some research and answer your questions or make a video about what you’d like to see. Just let us know how we can help you.
