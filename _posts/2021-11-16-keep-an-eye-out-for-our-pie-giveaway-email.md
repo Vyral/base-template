@@ -18,6 +18,6 @@ youtube_code: zDaqfTYmEak
 
 {% include excerpt.html %}
 
-If you’re a past client of ours, it’s almost time to reserve your pie for our annual pumpkin pie giveaway. **Keep an eye out for an email that is coming soon with all the details.** All you’ll need to do is respond to the email, and we’ll reserve a pie for you. We order based on the responses we get, so let us know you want one when we send that separate email.&nbsp;
+It’s almost time to reserve your pie for our annual pumpkin pie giveaway. **Keep an eye out for an email that is coming soon with all the details.** All you’ll need to do is respond to the email, and we’ll reserve a pie for you. We order based on the responses we get, so let us know you want one when we send that separate email.&nbsp;
 
 Thanks for your business and support of the Dar Walden Team. If you have any questions, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
