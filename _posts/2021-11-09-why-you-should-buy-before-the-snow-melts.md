@@ -7,7 +7,8 @@ tags:
     - Market Update
     - Home Buyer Tips
 excerpt: Here’s why the best time to buy a home is over these next few months.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/John+Schuster/Why+You+Should+Buy+Before+the+Snow+Melts+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,4 +24,4 @@ We bet you’ve been hearing about how crazy the market has been, but **the best
 
 On top of that, some sellers are trying to price their homes at the elevated prices we saw last spring, and the market is saying no to these properties. We’re seeing a lot of price reductions, so **now is a good time to negotiate on a home and avoid competition with other buyers.**
 
-There are fewer homes to choose from, but if you wait, you’ll have to deal with more competition. Be smart and know your market. If you’d like to see all of the homes on the MLS or know the current price of your home, contact us today on [our website](https://www.johnschustergroup.com/) or at 952-222-9000. Have a great day\!<br>&nbsp;
+There are fewer homes to choose from, but if you wait, you’ll have to deal with more competition. Be smart and know your market. If you’d like to see all of the homes on the MLS or know the current price of your home, contact us today on [our website](https://www.johnschustergroup.com/) or at 952-222-9000. Have a great day\!<br>
