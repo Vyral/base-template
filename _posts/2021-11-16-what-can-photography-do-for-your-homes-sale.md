@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can Photography Do for Your Home’s Sale?
-date: 2019-05-23 00:00:00
+date: 2021-11-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -17,7 +17,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/5-23-photography-np.jpg
 youtube_code: VGgYrv5m70o
 ---
-
 {% include youtube.html %}
 
 <center><em>Having great photos of your home is a great way to start the home sale process. Here&rsquo;s why.</em></center>
