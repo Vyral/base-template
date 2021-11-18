@@ -5,9 +5,7 @@ date: 2021-11-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: >-
-  Having great photos of your home is a great way to start the home sale
-  process. Here’s why.
+excerpt: Here’s why professional photographs make all the difference in home sales.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%26+Associates+-+What+Can+Photography+Do+for+Your+Homes+Sale_.mp4
 pullquote: 80% of our results come from 20% of our efforts.
@@ -23,11 +21,11 @@ youtube_code: VGgYrv5m70o
 
 &nbsp;
 
-In today’s competitive market, you need to do everything right in order to sell. One of those things is capturing the right photographs of your home. We look at bad real estate pictures every week, and that’s not where you want to be. We’re joined by a real estate photo expert today to answer some common questions about what he does.
+In today’s competitive market, you need to do everything right to sell. One of those things is capturing the best photographs of your home. We look at bad real estate pictures every week, and that’s not where you want to be. We’re joined by a real estate photo expert today to answer some common questions about what he does.
 
 I’m a big believer in the 80/20 rule that says 80% of our results come from 20% of our efforts. **In real estate, photography comes within that 20% of work**. Danny Boutet of Visual Marketing knows a lot about this topic. He’s been in business for 11 years and has shot over 7,000 homes in and around the Calgary area.
 
-**According to Danny, the biggest mistake he sees homeowners make when it comes to photos is not having their spaces decluttered**. If you’re not using something, get it out of the way. Misplaced shoes, clothes, jackets, and trinkets should be out while photos are being taken. He also recommends double checking your lights, windows, and mirrors to ensure they are clean. HDR photos can pick up things that we didn’t have to worry about in the past, but it can also show your home off in a way that’s never been possible before.
+**According to Danny, the biggest mistake he sees homeowners make when it comes to photos is not having their spaces decluttered**. If you’re not using something, get it out of the way. Misplaced shoes, clothes, jackets, and trinkets should be out while photos are being taken. He also recommends double-checking your lights, windows, and mirrors to ensure they are clean. HDR photos can pick up things that we didn’t have to worry about in the past, but they can also show your home off in a way that’s never been possible before.
 
 {% include pullquote.html %}
 
