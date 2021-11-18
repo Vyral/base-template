@@ -11,7 +11,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cedillo--thumbnail-3.jpg
+youtube_alternate_image: /uploads/cedillo--thumbnail-4.jpg
 youtube_code: DtsYufaqIRs
 ---
 {% include youtube.html %}
