@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ONE of the things you MUST do  if you want to sell before interest rates go up
+title: ONE of the things you MUST do if you want to sell before interest rates go up
 date: 2021-11-16 00:00:00
 tags:
   - Real Estate
