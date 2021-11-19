@@ -5,7 +5,7 @@ date: 2021-11-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: Here’s why professional photographs make all the difference in home sales.
+excerpt: What Home Sellers need to avoid if they want to sell their house
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%26+Associates+-+What+Can+Photography+Do+for+Your+Homes+Sale_.mp4
 pullquote: 80% of our results come from 20% of our efforts.
