@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Expert Advice
 excerpt: Here’s the latest news that proves just how inaccurate Zestimates are.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/How+Zillow+Lost+Money+Using+Their+Own+Estimates.mp4
 pullquote: We always knew Zesitmates were unreliable, but now history proves it.
 enclosure_type: video/mp4
 enclosure_time:
