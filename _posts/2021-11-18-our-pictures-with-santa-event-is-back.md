@@ -19,6 +19,6 @@ youtube_code: ne9iIAl4KjY
 
 You’re invited to our year-end Pictures With Santa event, and we wanted to make sure you have all the details. This will be a great opportunity to see all of you and get your kids some face time with the big man. No waiting in lines at the mall.
 
-Come to our event, enjoy some treats, and get your pictures with Santa. It’s going to be on Thursday, December 2, from 5 p.m. to 8 p.m. at the indoor Lone Peak Pavilion (10140 S 700 E, Sandy, UT).[**Make sure you RSVP here so we can plan ahead a bit**](https://colemererealtyvideoblog.com/our-pictures-with-santa-event-is-back.html)**.** We weren't able to hold this event last year, but we’re excited to make up for lost time on December 2.
+Come to our event, enjoy some treats, and get your pictures with Santa. It’s going to be on Thursday, December 2, from 5 p.m. to 8 p.m. at the indoor Lone Peak Pavilion (10140 S 700 E, Sandy, UT).[**Make sure you RSVP here so we can plan ahead a bit**](https://www.eventbrite.com/e/pictures-with-santa-tickets-212054409447)**.** We weren't able to hold this event last year, but we’re excited to make up for lost time on December 2.
 
 If you have any questions about the event, don’t hesitate to reach out via phone or email. We look forward to seeing you there.
