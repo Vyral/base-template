@@ -21,6 +21,4 @@ youtube_code: L6r6CbTPAME
 
 **[CLICK HERE](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eisnyzhs9e5cbfc3&amp;oseq=&amp;c=&amp;ch=){: target="_blank"}****to register for your pie OR simply reply to this email and we’re happy to get you registered\! Pie flavors are on a first come, first served basis and we will have plenty of each flavor: Apple, Pumpkin, and Pecan.**
 
-\*\*Please register by Wednesday, November 17th.
-
 The health and safety of our clients is a top priority. Pie Pickup will be drive-thru only, where a team member will hand you a pie flavor of your choosing in the RE/MAX Properties East parking lot (10525 Timberwood Cir.)**We are very thankful for you\!** We look forward to seeing you.
