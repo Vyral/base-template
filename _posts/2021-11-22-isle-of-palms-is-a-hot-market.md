@@ -18,8 +18,8 @@ youtube_code: ee0jrK6KeEQ
 
 {% include excerpt.html %}
 
-Isle of Palms is one of the hottest markets in the Charleston area right now, and homes are selling very quickly. To give you an idea, we've sold 256 homes this year on Isle of Palms.
+Isle of Palms is one of the hottest markets in the Charleston area right now, and homes are selling very quickly. To give you an idea, **we've sold 256 homes this year on Isle of Palms.**
 
-Today I’m at the Wild Dunes resort, which is a gorgeous area. Behind me is the grand pavilion and a beautiful row of homes. We saw unheard-of days on market here last year. The average days on market last year was over 100 days. The average days on market is now 29 days. The average price of a detached home on Isle of Palms is now $1.96 million.
+Today I’m at the Wild Dunes resort, which is a gorgeous area. Behind me is the grand pavilion and a beautiful row of homes. We saw unheard-of days on market here last year. The average days on market last year was over 100 days. The average days on market is now 29 days. The average price of a detached home on Isle of Palms has risen to $1.96 million.
 
-If you're looking to buy a home here, we recommend you try to find off-market properties and personally reach out to homeowners to find something quickly. As always, if you have any interest in Isle of Palms, you can reach out to me and my team. We'd love to answer your questions.
+If you're looking to buy a home here, we recommend you try to find off-market properties and personally reach out to homeowners. As always, if you have any interest in Isle of Palms, you can reach out to me and my team. We'd love to answer your questions.
