@@ -5,14 +5,13 @@ date: 2021-11-22 15:37:41
 tags:
   - Home Buyer Tips
 excerpt: Today I’m bringing you an overview of the market on Isle of Palms.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Isle+of+Palms+Is+a+Hot+Market.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ee0jrK6KeEQ
+youtube_code: i9a_B-CXpzw
 ---
 {% include youtube.html %}
 
