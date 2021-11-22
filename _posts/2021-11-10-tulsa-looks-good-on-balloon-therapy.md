@@ -7,7 +7,8 @@ tags:
 excerpt: >-
     I’m sharing what Balloon Therapy is and how it can make your gathering
     great!
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/Tulsa+Looks+Good+on+Balloon+Therapy+_+The+Wolek+Group+%E2%80%94+Tulsa+Realtor.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
