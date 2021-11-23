@@ -1,18 +1,17 @@
 ---
 layout: post
 title: Q3 Residential Waterfront Market Update
-date: 2021-11-05 14:35:00
+date: 2021-11-23 11:50:00
 tags:
     - Market Update
 excerpt: Here are all the latest numbers from our residential waterfront market.
-enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Scott+Hollinger+Market+Update.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pXNOGNodjiQ
+youtube_code: AW94c6tJYPk
 ---
 {% include youtube.html %}
 
