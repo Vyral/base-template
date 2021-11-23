@@ -4,7 +4,9 @@ title: You Should Be Aware of Rising Probates
 date: 2021-11-16 00:00:00
 tags:
 excerpt: Probates are up, so here’s how you can deal with and prevent them.
-enclosure:
+enclosure: >-
+    s3://vyralmarketing/Ron Cedillo/Videos/2021/You Should Be Aware of Rising
+    Probates.mp4
 pullquote: >-
     Probate is a complex topic, so you need to have the right people on your
     team.
