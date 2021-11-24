@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How to Winterize Your Home in 12 Easy Steps
-date: 2021-11-23 21:44:05
+date: 2021-11-24 14:30:00
 tags:
   - Expert Advice
 excerpt: Here are 12 easy ways to gear your home up for the winter ahead.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/How+to+Winterize+Your+Home+in+12+Easy+Steps.mp4
-pullquote:
+pullquote: We all need to prepare our homes for the long winter before it's too late.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -32,16 +32,18 @@ Unfortunately, winter is upon us here in Alaska. We’re already seeing snow on 
 
 **6\. Remove your hoses from the side of your house.** Cover any hose knobs.
 
+{% include pullquote.html %}
+
 **7\. Check your sump pump.** If you have one in your crawlspace, make sure it’s working properly or you’ll end up with water everywhere in a few months.
 
 **8\. Caulk your windows and doors.**
 
 **9\. Insulate your external plug-ins.** You can get some foam insulation to put in there.
 
-**10\. Cover exposed pipes.** If it gets really cold, these pipes on exterior walls tend to freeze
+**10\. Cover exposed pipes.** If it gets really cold, these pipes on exterior walls tend to freeze.
 
 **11\. Consider a programmable thermostat.**
 
 **12\. Dig out your snow shovels.** You’ll need them soon.
 
-If you have any questions about our checklist or anything else related to real estate, don't hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions about our checklist or anything else related to real estate, don't hesitate to reach out via phone or email. We look forward to hearing from you soon.
