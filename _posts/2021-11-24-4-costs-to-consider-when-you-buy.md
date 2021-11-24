@@ -29,6 +29,6 @@ Most of the time, lenders will require you to buy homeowners insurance and pay t
 
 {% include pullquote.html %}
 
-**3\. Moving expenses.** If you’re a first-time homebuyer, you might have a group of friends ready to help you move, and you plan to pay them in pizza and beer. If you’re like me, that’s no longer an option; you’ll have to pay for the move. This can be fairly expensive, especially if you hire a good company to make sure your items are taken care of. Moving across town can cost several thousand dollars, and even more if you’re moving across the country.&nbsp;
+**3\. Moving expenses.** If you’re a first-time homebuyer, you might have a group of friends ready to help you move, and you plan to pay them in pizza and beer. If you’re like me, that’s no longer an option; you’ll have to pay for the move. This can be fairly expensive, especially if you hire a good company to make sure your items are taken care of. Moving across town can cost several thousand dollars, and it can cost even more if you’re moving across the country.&nbsp;
 
 **4\. Immediate purchases.** When you move into a new home, you may need stuff: curtains, blinds, or stuff for your kitchen. You’ll have to buy some things immediately. Think about cleaning supplies, bathroom supplies, groceries, cable, phone, and TV. Ask yourself what you might need right out of the gate, and budget for those items.
