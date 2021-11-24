@@ -15,7 +15,7 @@ youtube_code: 9AIpZeJ5fXA
 ---
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today I explain why you should care about proper pest control.*
+<p style="text-align:center;"><em>Issues with your water heater are inevitable, but we can help.</em></p>
 
 <center>&nbsp;</center>
 
