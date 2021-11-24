@@ -29,7 +29,7 @@ In terms of seasonality, the closer we get to major holidays, the colder the mar
 
 **4\. COVID is still a major concern, especially in winter.** Even if you’ve been vaccinated, it still makes sense to limit your exposure as much as possible in the winter months. Transmission rates spike as more people are confined to their homes and indoor spaces. Even if you’re not affected by the virus, if you’ve been exposed, there go your holiday plans.
 
-**5\. Transactions can become harder to facilitate.** Lenders, attorneys, and inspectors generally have vacation time scheduled, and their rate of response tend to lag, which can be frustrating and ultimately leads to more difficulty in keeping an ideal timeline.
+**5\. Transactions can become harder to facilitate.** Lenders, attorneys, and inspectors generally have vacation time scheduled, and their rate of response tend to lag, which can be frustrating and ultimately lead to more difficulty in keeping an ideal timeline.
 
 On the flip side, if you’re a buyer who has some flexibility with a closing timeline, the winter months are a great time to look for a home. Although you may have less inventory to choose from, you’ll have significantly less competition overall.
 
