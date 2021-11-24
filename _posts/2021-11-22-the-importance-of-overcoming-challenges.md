@@ -27,6 +27,6 @@ We have to look to the future and see what it looks like on the other side. Go t
 
 **Choose to feel the symptoms of stress or uncertainty, but go for it anyway.** You’re getting better every single day.
 
-If you'd like to learn to better manage incoming stress or set up your business for success, check out one of the classes available on [<u>Eventbrite here</u>](https://www.eventbrite.com/o/jennie-wolek-with-the-wolek-group-17487334418){: target="_blank" rel="noopener"}\!
+If you’d like to learn how to set up your mindset and business for success, check out one of the upcoming classes on&nbsp;[Eventbrite here](https://www.eventbrite.com/o/jennie-wolek-with-the-wolek-group-17487334418){: target="_blank" rel="noopener"}\!
 
 If you ever have any questions for me, please call or send me an email. I would love to speak with you.
