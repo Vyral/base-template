@@ -19,8 +19,6 @@ youtube_code: 9AIpZeJ5fXA
 
 <center>&nbsp;</center>
 
-People ask me whether pest control is really necessary and whether it’s a tenant cost. **Yes, it's necessary, and no, it's not a tenant cost.**
+When I was growing up, I never worried about our water heater. Now that I’m a property owner, however, it’s become something that I have to worry about. In the old days, water heaters lasted 10 years; since the average life of a home is 60 or 70 years, that means **you could go through five or six water heaters in the life of your home** unless you switch to a tankless or solar water heater. Those tend to have a little longer shelf life and are more expensive, but they would cause your electric bill to go down.
 
-When we have a tenant that complains about pests like roaches or ants within the first two weeks after moving in, it’s an owner cost. We tell the owner that they have an infestation, and we need to take care of it. Sometimes when a house is professionally cleaned, all the roaches from that house come into a house that doesn't have pest control. **I highly recommend owners get on a pest treatment service.** We offer pest control services, just reach out to us for more details.
-
-You have to be constantly aware of this. If you have pest control on the outside of your house, it'll stop things from coming in. Pest control is really important, and it's a major part of the value that we give our tenants. If you have any questions give us a call or visit [www.HiPacificPM.com](http://www.hipacificpm.com). We look forward to hearing from you.
+As the owner of hundreds of rentals, problems with water heaters are inevitable. If you have any questions about your water heater and what the costs are to fix or maintain it, reach out and give us a call. We work with many plumbers who can provide you with quotes for the services you need, and we’d love to help you.
