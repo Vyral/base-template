@@ -5,7 +5,8 @@ date: 2021-11-22 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are five reasons why you should wait until 2022 to sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2021/Comparing+Bitcoin+to+Real+Estate+as+an+Investment.mp4
 pullquote: >-
   Sellers: Unless you need to sell your home now, you’re better off enjoying
   your holidays.
