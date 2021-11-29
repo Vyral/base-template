@@ -5,7 +5,8 @@ date: 2021-11-24 00:20:00
 tags:
   - Real Estate
 excerpt: 'Here are four home-buying costs that might catch you by surprise. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/4+Costs+To+Consider+When+You+Buy.mp4
 pullquote: ' Do your due diligence and factor these costs into your budget before you buy.'
 enclosure_type: video/mp4
 enclosure_time:
