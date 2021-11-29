@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do We Need To Keep Building Homes in St. George?
-date: 2021-11-29 22:00:25
+date: 2021-11-29 16:00:00
 tags:
   - Real Estate
 excerpt: Do we truly need to be building so many more homes in St. George?
