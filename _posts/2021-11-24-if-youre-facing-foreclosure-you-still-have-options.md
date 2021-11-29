@@ -21,16 +21,16 @@ Today on the “Central Iowa Real Estate Scoreboard,” Heather Burnside and I t
 
 **You can listen to our full conversation in the video above or skip to each topic using the timestamps provided below for your convenience:**
 
-0:22 - What happens in the foreclosure process?
+0:22 — What happens in the foreclosure process?
 
-1:02 - Don’t abandon your home; you have options
+1:02 — Don’t abandon your home; you have options
 
-2:25 - How do you stop a foreclosure once the process starts?
+2:25 — How do you stop a foreclosure once the process starts?
 
-3:11 - What is a short sale, and how can you use it to prevent foreclosure?
+3:11 — What is a short sale, and how can you use it to prevent foreclosure?
 
-4:58 - Short sales affect your credit but not as much as a foreclosure
+4:58 — Short sales affect your credit but not as much as a foreclosure
 
-6:12 - Short sale specialists make everything go smoothly&nbsp;
+6:12 &nbsp;Short sale specialists make everything go smoothly&nbsp;
 
 If you have any questions about today’s topic, or if you want a referral for a great short sale specialist, please contact us via phone or email. We are always willing to help.
