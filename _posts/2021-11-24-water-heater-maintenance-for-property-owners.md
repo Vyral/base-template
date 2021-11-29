@@ -15,7 +15,7 @@ youtube_code: 9AIpZeJ5fXA
 ---
 {% include youtube.html %}
 
-*Issues with your water heater are inevitable, but we can help.*
+<p style="text-align:center;"><em>Issues with your water heater are inevitable, but we can help.</em></p>
 
 When I was growing up, I never worried about our water heater. Now that I’m a property owner, however, it’s become something that I have to worry about. In the old days, water heaters lasted 10 years; since the average life of a home is 60 or 70 years, that means **you could go through five or six water heaters in the life of your home** unless you switch to a tankless or solar water heater. Those tend to have a little longer shelf life and save you money on your electric bill, but they are more expensive.
 
