@@ -3,10 +3,11 @@ layout: post
 title: Why Has Zillow Canceled Their iBuyer Program?
 date: 2021-11-22 00:00:00
 tags:
-  - Market Update
-  - Real Estate
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Zillow has dropped its iBuyer program, but what does that mean?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/Why+Has+Zillow+Canceled+Their+iBuyer+Program_.mp4
 pullquote: >-
   Zillow has now dropped their iBuyer program and is laying off many staff
   members. 
