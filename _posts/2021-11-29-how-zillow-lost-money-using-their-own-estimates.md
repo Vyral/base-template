@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Zillow Lost Money Using Their Own Estimates
-date: 2021-11-19 20:06:57
+date: 2021-11-29 20:06:00
 tags:
   - Real Estate
   - Expert Advice
