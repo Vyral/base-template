@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Q3 Residential Waterfront Market Update
-date: 2021-11-23 11:50:00
+date: 2021-11-29 11:50:00
 tags:
     - Market Update
 excerpt: Here are all the latest numbers from our residential waterfront market.
