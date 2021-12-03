@@ -36,4 +36,4 @@ Today, we’re excited to share our conversation with a fantastic local business
 
 7:45 — Wrapping up
 
-stions about today’s topic, please reach out to us via phone or email. You can also reach Teresa at (918) 496-1800 or [tbrockwell@farmersagents.com](mailto:tbrockwell@farmersagents.com). We look forward to hearing from you\!
+stions about today’s topic, please reach out to us via phone or email. You can also reach Teresa at (918) 496-1800 or <u><a href="mailto:tbrockwell@farmersagents.com">tbrockwell@farmersagents.com</a></u>. We look forward to hearing from you\!
