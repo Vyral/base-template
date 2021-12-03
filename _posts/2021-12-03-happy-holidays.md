@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Holidays! '
-date: 2021-12-03 12:30:00
+date: 2021-12-03 11:30:00
 tags:
   - Real Estate
 excerpt: From our team to your family, we want to wish you a happy holiday season.
