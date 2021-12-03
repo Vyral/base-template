@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/abel-yt.jpg
-youtube_code: kNLLRcaxC8w
+youtube_code: WZ-lvvPrXkY
 ---
 {% include youtube.html %}
 
