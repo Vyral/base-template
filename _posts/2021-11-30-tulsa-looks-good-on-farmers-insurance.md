@@ -18,9 +18,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-Today, we’re excited to share our conversation with a fantastic local business leader: Teresa Brockwell from Farmers Insurance\! She offers so much value to her clients, but her biggest strength is maintaining strong relationships. She’ll share what she does, how she helps her clients, and much more, so we think you’ll really love this conversation if you’re interested in how insurance works.
+Today we’re excited to share our conversation with a fantastic local business leader: Teresa Brockwell from Farmers Insurance\! She offers so much value to her clients, but her biggest strength is maintaining strong relationships. She’ll share what she does, how she helps her clients, and much more, so we think you’ll really love this conversation if you’re interested in how insurance works.
 
-**You can listen to our full conversation in the video above, or you can skip to each topic using the timestamps provided below:**
+**You can listen to our full conversation in the video above, or skip to each topic using the timestamps provided below:**
 
 0:00 — Introducing Teresa
 
@@ -36,4 +36,4 @@ Today, we’re excited to share our conversation with a fantastic local business
 
 7:45 — Wrapping up
 
-stions about today’s topic, please reach out to us via phone or email. You can also reach Teresa at (918) 496-1800 or <u><a href="mailto:tbrockwell@farmersagents.com">tbrockwell@farmersagents.com</a></u>. We look forward to hearing from you\!
+If you have any questions about today’s topic, please reach out to us via phone or email. You can also reach Teresa at (918) 496-1800 or <u><a href="mailto:tbrockwell@farmersagents.com">tbrockwell@farmersagents.com</a></u>. We look forward to hearing from you\!
