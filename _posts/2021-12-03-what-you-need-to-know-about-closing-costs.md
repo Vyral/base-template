@@ -5,7 +5,8 @@ date: 2021-12-03 20:52:34
 tags:
   - Real Estate
 excerpt: Here’s a quick rundown of the kinds of closing costs you should expect.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2021/What+You+Need+To+Know+About+Closing+Costs.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
