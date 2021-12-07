@@ -5,7 +5,8 @@ date: 2021-12-03 11:30:00
 tags:
   - Real Estate
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/Happy+Holidays!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
