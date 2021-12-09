@@ -18,7 +18,11 @@ hidden: false
 
 {% include excerpt.html %}
 
-Today we’re excited to share our conversation with a fantastic local business leader: Teresa Brockwell from Farmers Insurance\! She offers so much value to her clients, but her biggest strength is maintaining strong relationships. She’ll share what she does, how she helps her clients, and much more, so we think you’ll really love this conversation if you’re interested in how insurance works.
+Today, we’re excited to share our conversation with a fantastic local business leader: Teresa Brockwell from Farmers Insurance\! She offers so much value to her clients, but her biggest strength is maintaining strong relationships. She’ll share what she does, how she helps her clients, and much more. So we think you’ll really love this conversation if you’re interested in how insurance works.&nbsp;
+
+Teresa has been an insurance agent for over 23 years and she is a valued partner of the Wolek Group. According to her, one of the biggest trends in the industry right now is the amount of options people have with their policies. Back when she started, you only had one or two options, and if you didn’t like something, that was it. Now, there are upwards of 10 policies to choose from. This is great for consumers, but it can also lead to issues. If you don’t talk to a professional like Teresa, you could rush into a policy with some unforeseen gaps.&nbsp;
+
+If you rushed into a policy, or if you haven’t reviewed your coverage in a while, Teresa’s team will do an audit of your insurance policies free of charge. Of course, if you want a quote, she’ll give you one, and her rates are pretty great right now. There’s a good chance she can save you money, so we encourage you to reach out and see what she can do for you.
 
 **You can listen to our full conversation in the video above, or skip to each topic using the timestamps provided below:**
 
