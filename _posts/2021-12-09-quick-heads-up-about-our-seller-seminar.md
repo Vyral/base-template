@@ -5,7 +5,8 @@ date: 2021-12-09 17:47:22
 tags:
   - Home Seller Tips
 excerpt: Here’s some preliminary information about our upcoming seller seminar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Quick+Heads+Up+About+Our+Seller+Seminar.mp4
 pullquote: We look forward to helping even more of you through this event.
 enclosure_type: video/mp4
 enclosure_time:
