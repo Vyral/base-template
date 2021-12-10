@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You a Frustrated Buyer?
-date: 2021-12-09 18:13:56
+date: 2021-12-10 15:00:00
 tags:
   - Home Buyer Tips
 excerpt: Our off-market properties list can help both buyers and sellers.
@@ -20,7 +20,7 @@ youtube_code: EN5kJbqS3Ds
 
 It’s the holiday season, and everyone is making lists. Healthy Realty has a wonderful off-market properties list that can help you as a buyer or a seller.&nbsp;
 
-If you’re a buyer frustrated with the current market, you’ve been looking and just can’t find the right house, we can help. Let us know what you’re looking for; **we may have an off-market property that would be perfect for you.** I had someone reach out to me the other day in that very situation, and we’ll help her find the right property. We’ll check our list and make calls to try to find properties that may not be for sale right now. We’ll find her a property that meets her needs, and we can do it for you too.
+If you’re a buyer frustrated with the current market, we can help. Let us know what you’re looking for; **we may have an off-market property that would be perfect for you.** I had someone reach out to me the other day in that very situation, and we’ll help her find the right property. We’ll check our list and make calls to try to find properties that may not be for sale right now. We’ll find her a property that meets her needs, and we can do it for you too.
 
 {% include pullquote.html %}
 
