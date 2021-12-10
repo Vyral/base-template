@@ -20,13 +20,13 @@ youtube_code: zvTH1Rvx7XM
 
 It’s hard to believe, but we’re nearing the end of 2021. This has been a pretty crazy year in real estate, so today we want to take a look back and wrap up 2021’s market for you.&nbsp;
 
-It’s hard to remember at this point, but **even before COVID in 2020, we had low inventory.** Once the pandemic started, inventory became even lower, leading to one of the craziest seller’s markets we’ve ever seen. This trend continued in 2021, and we saw a very busy spring and summer season.&nbsp;
+It’s hard to remember at this point, but **even before COVID in 2020, we had low inventory.** Once the pandemic started, inventory dropped even lower, leading to one of the craziest seller’s markets we’ve ever seen. This trend continued in 2021, and we saw a very busy spring and summer season.&nbsp;
 
 If you’ve watched our videos before, you know that **2021 was what we call seasonally normal.** This means the market tends to be more active in the spring and summer, and it cools off as we head into the fall and winter. Besides our low inventory, you could say this market is fairly average.&nbsp;
 
 {% include pullquote.html %}
 
-However, the low inventory changes everything.Even during the holiday season, buyer demand is unsatisfied. Because more people are working from home, we’ve seen many people moving out. This could mean they’re moving out of the city or out of the state, but it seems like a lot of people are taking the work-from-home opportunity to make a move.&nbsp;
+However, the low inventory changes everything. Even during the holiday season, buyer demand is unsatisfied. Because more people are working from home, we’ve seen many people moving. This could mean they’re moving out of the city or out of the state, but it seems like a lot of people are taking the work-from-home opportunity to make a move.&nbsp;
 
 We’ve also seen folks take advantage of our low interest rates and try to upgrade their living situation. A lot of people moved from their starter home into a nicer one this year. Meanwhile, single-floor townhouses didn’t see much activity. There was demand, just not at the price point sellers were asking.&nbsp;
 
