@@ -31,7 +31,7 @@ client:
   phone2:
   phone2_type:
   email: Josh@Livian.com
-  url: 'https://mass.livianhomes.com/'
+  url: 'https://mass.livianhomes.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://mass.livianhomes.com/home-valuation/'
