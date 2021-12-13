@@ -5,14 +5,13 @@ date: 2021-12-10 15:00:00
 tags:
   - Home Buyer Tips
 excerpt: Our off-market properties list can help both buyers and sellers.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Are+You+a+Frustrated+Buyer_.mp4
+enclosure:
 pullquote: Healthy Realty has a wonderful off-market properties list.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: EN5kJbqS3Ds
+youtube_code: KzKNbq3aKo4
 ---
 {% include youtube.html %}
 
