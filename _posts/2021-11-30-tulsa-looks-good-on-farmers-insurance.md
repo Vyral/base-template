@@ -5,7 +5,8 @@ date: 2021-11-30 00:00:00
 tags:
   - Real Estate
 excerpt: Teresa Brockwell of Farmers Insurance talks insurance and helping her clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Tulsa+Looks+Good+on+Farmers+Insurance+The+Wolek+Group+Tulsa+Realtor+-+oDownloader.com.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
