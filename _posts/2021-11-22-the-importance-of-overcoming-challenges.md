@@ -5,7 +5,8 @@ date: 2021-11-22 19:33:22
 tags:
   - Transaction Management
 excerpt: Here’s how I work to overcome my challenges, and you can too.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/The+Importance+of+Overcoming+Challenges+-+oDownloader.com.mp4
 pullquote: Once you experience and work through it, you grow, learn, and adjust.
 enclosure_type: video/mp4
 enclosure_time:
