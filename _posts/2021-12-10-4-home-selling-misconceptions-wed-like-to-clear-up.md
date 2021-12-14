@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are four misconceptions that you shouldn’t believe about our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/4+Home-Selling+Misconceptions+We%E2%80%99d+Like+to+Clear+Up.mp4
 pullquote: A great online presence is going to attract more buyers.
 enclosure_type: video/mp4
 enclosure_time:
