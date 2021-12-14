@@ -5,7 +5,8 @@ date: 2021-12-09 00:00:00
 tags:
   - Real Estate
 excerpt: With inflation being so high, investing in real estate is a great idea.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/What%E2%80%99s+Going+on+With+Inflation_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
