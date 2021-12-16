@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'What trends emerged from 2021 that will predict the market next year? '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/How+Was+Last+Year%E2%80%99s+Real+Estate+Market_.mp4
 pullquote: ' The story of 2021 was low inventory. '
 enclosure_type: video/mp4
 enclosure_time:
