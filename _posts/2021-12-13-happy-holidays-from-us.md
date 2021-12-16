@@ -5,7 +5,8 @@ date: 2021-12-13 05:00:00
 tags:
   - happy holidays
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2021/Happy+Holidays+From+Us+(4).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
