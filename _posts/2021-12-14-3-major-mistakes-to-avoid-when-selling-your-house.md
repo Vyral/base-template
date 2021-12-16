@@ -20,7 +20,7 @@ youtube_code: tAxr4rFkxW8
 
 If you are trying to sell your property, it’s important to avoid these three cardinal real estate sins.
 
-**1\. Winging it without a proper pricing strategy**. It’s very important to have the correct pricing strategy right from the start. The price is not just about location, location, location and the strengths and weaknesses of your property. We have to look at the technical analysis and economic data, which includes things like the absorption rate, days on market, and trends in your neighborhood.
+**1\. Winging it without a proper pricing strategy**. It’s very important to have the correct pricing strategy right from the start. The price is not just about the location, strengths, and weaknesses of your property. We have to look at the technical analysis and economic data, which includes things like the absorption rate, days on market, and trends in your neighborhood:
 
 To determine the right price for your home, we’ll look at a few different factors. First of all, we’ll look at expired, withdrawn, or terminated listings. Those homes were rejected by the market. Then, we’ll look at recently sold properties, which will give us an idea of what your home could sell for. Finally, we’ll look at active listings that are currently on the market. These listings are your competition, so we need to see how your home compares to those properties.
 
@@ -30,7 +30,7 @@ Determining the price of your home means walking the very fine line between sell
 
 That means we will promote your home on social media and online classifieds with professional photos and virtual tours. Offline, we’ll use door hangers, open houses, and signage. People still look at traditional, offline strategies. Since we never know where a buyer will come from, it’s important to cover all of our bases.
 
-**3\.****Not making your property presentable**. You don’t get a second chance to make a great first impression. Make sure your property looks its best from the very start. It should look fantastic in the pictures and for every showing. Make sure that the house looks clean and consider adding a fresh layer of paint.
+**3\.&nbsp;****Not making your property presentable**. You don’t get a second chance to make a great first impression. Make sure your property looks its best from the very start. It should look fantastic in the pictures and for every showing. Make sure that the house looks clean and consider adding a fresh layer of paint.
 
 {% include pullquote.html %}
 
@@ -38,4 +38,4 @@ It’s very important to pick everything up in your home. Even a little bit of c
 
 If you avoid these three major mistakes when selling your home, you will succeed.
 
-If you have any other questions about selling your home or pour current real estate market, just give me a call or send me an email. I would be happy to help you\!
+If you have any other questions about selling your home or our current real estate market, just give me a call or send me an email. I would be happy to help you\!
