@@ -23,7 +23,7 @@ What do I say? Sometimes it’s not about what you say but how you listen. Speak
 
 {% include pullquote.html %}
 
-**2\. Map out the process.** Once you’re in alignment with your clients, map out the process for your client as you help them imagine their future and manage expectations. For example, if their expectation is that they don’t want to move over the holidays, then share the reality of the timelines and current market so they can see they have control over those things, which can help set them up for success.&nbsp;
+**2\. Map out the process.** Once you’re in alignment with your clients, map out the process as you help them imagine their future and manage expectations. For example, if their expectation is that they don’t want to move over the holidays, then share the reality of the timelines and current market so they can see they have control over those things, which can help set them up for success.&nbsp;
 
 **3\. Make a plan.** Set a plan in motion; whether they’re ready to start ASAP or not, today’s technology allows for face-to-face meetings. There’s no reason not to get together in some way to connect and share the whole process with them. They’re thinking about making a move, so if you wait to meet, that allows for other influences or agents to get involved, and we don’t want that. Once you’re together, give them some homework and clarity on what they need to focus on while sharing all the things you’ll be doing for them.&nbsp;
 
