@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Getting To Know Our Team: Connor Line'
-date: 2021-12-17 15:14:02
+date: 2021-12-20 13:00:00
 tags:
   - The Dave Hooke Team
 excerpt: 'Here’s our conversation with a fantastic member of our team: Connor Line.'
@@ -18,7 +18,7 @@ youtube_code: lZwFXd5vuS4
 
 {% include excerpt.html %}
 
-Today we want to introduce you to Connor Line, the Home Advisor at the Dave Hooke team. We’ll talk about how he got into real estate, what he does for us, and what makes this team different.&nbsp;
+Today we want to introduce you to Connor Line, the home advisor at the Dave Hooke team. We’ll talk about how he got into real estate, what he does for us, and what makes this team different.&nbsp;
 
 **Dave: Connor, why did you get into real estate, and what made you decide to join this team?**
 
@@ -32,7 +32,7 @@ Connor: At this point, I work solely with buyers. I like to focus on one thing, 
 
 **Dave: What’s your favorite part about your job and the team?**
 
-Connor: For my job, I love how dynamic every day is. On Monday I could be in a high-end residential area, and by Thursday I could be knee-deep in corn looking at a country property. As for the team, the people I work with are easily the best part.&nbsp;
+Connor: For my job, I love how dynamic every day is. On Monday, I could be in a high-end residential area, and by Thursday, I could be knee-deep in corn looking at a country property. As for the team, the people I work with are easily the best part.&nbsp;
 
 **Dave: What’s your biggest challenge in the industry?&nbsp;**
 
