@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Checking Out a Cabin in the Pines
+title: Checking Out a Cabin in the Pines of Donnelly, Idaho!
 date: 2021-12-13 20:28:28
 tags:
 excerpt: ' I can help if you’re looking for a vacation or rental property.'
