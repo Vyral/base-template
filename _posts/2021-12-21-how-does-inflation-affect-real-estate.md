@@ -24,7 +24,3 @@ First things first—what is inflation anyway? **Inflation is when the cost of g
 When you own a home you live in, and the value of your home increases, you build equity. **The same thing occurs if you own rental property.** During an inflationary period, you build equity at a faster rate since the price of homes increases. While none of us want inflation to happen, owning real estate is considered a strong hedge against it.&nbsp;
 
 If you are looking to diversify your portfolio with real estate, give me a call or shoot me an email. I would love to talk about your options with you.
-
-<center><em>EXCERPT.</em></center>
-
-<br>ARTICLE
