@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ashley-carter-ss-yt-1.jpg
-youtube_code: HvDZy9Px1us
+youtube_code: LaE8Q_M_vMw
 ---
 {% include youtube.html %}
 
