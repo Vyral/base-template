@@ -5,8 +5,7 @@ date: 2021-12-21 15:21:00
 tags:
   - Real Estate
 excerpt: Does your insurance policy detail unoccupied/vacant exclusions?
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Insurance+Exclusions+for+Vacant+Properties.mp4
+enclosure:
 pullquote: >-
   Be sure to check your insurance policy to see if it details any
   unoccupied/vacant exclusions.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8xIBTeWQZBQ
+youtube_code: 2uUxCUeA1Aw
 ---
 {% include youtube.html %}
 
