@@ -5,7 +5,8 @@ date: 2021-12-20 00:00:00
 tags:
   - Market Update
 excerpt: Here’s what I believe we’ll see in our Phoenix real estate market in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/What+I+Expect+From+Our+2022+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
