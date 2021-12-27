@@ -3,7 +3,7 @@ layout: post
 title: Why Work With the Dar Walden Team?
 date: 2021-12-27 17:30:31
 tags:
-  - AK Real Estate
+  - Real Estate
 excerpt: Here are a few good reasons to hire us to help with your real estate goals.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2021/Why+Work+With+the+Dar+Walden+Team_.mp4
