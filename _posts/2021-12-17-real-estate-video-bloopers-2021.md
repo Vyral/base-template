@@ -18,7 +18,7 @@ youtube_code: PzTuB8Riw_Y
 
 {% include excerpt.html %}
 
-For the whole year, [Scott Himelstein](https://www.instagram.com/scotthimelstein/){: target="_blank" rel="noopener"} has been giving relevant, useful and **SERIOUS** real estate market update for his clients in Los Angeles. These tips have helped our clients navigate the intricate world of **buying**, **selling**, and **investing** in real estate. When it really comes to real estate, we want to make sure our clients have all of the information so they can make the **best decision possible**.
+For the whole year, [Scott Himelstein](https://www.instagram.com/scotthimelstein/){: target="_blank" rel="noopener"} has been giving relevant, useful and **SERIOUS** real estate market updates for his clients in Los Angeles. These tips have helped our clients navigate the intricate world of **buying**, **selling**, and **investing** in real estate. When it really comes to real estate, we want to make sure our clients have all of the information so they can make the **best decision possible**.
 
 {% include pullquote.html %}
 
