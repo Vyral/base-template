@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Karen Agar Loves About the Dave Hooke Team
+title: What Karen Agar Loves About The Dave Hooke Team
 date: 2021-12-27 17:51:08
 tags:
   - The Dave Hooke Team
@@ -18,7 +18,7 @@ youtube_code: 4wAQvvCekoo
 
 {% include excerpt.html %}
 
-We have another exciting agent interview today with Karen Agar. We’re super excited to learn about her story and why she chose the Dave Hooke Team.
+We're back once again to have a conversation with listing manager Karen Agar, who is here to share her story and talk about why she chose to join The Dave Hooke Team.
 
 **Why this career, and why this team?**
 
