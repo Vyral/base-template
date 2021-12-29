@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Karen Agar Loves About the Dave Hooke Team
-date: 2021-12-27 17:51:08
+date: 2021-12-29 08:00:00
 tags:
   - The Dave Hooke Team
 excerpt: We have another agent interview with Karen Agar, our transaction coordinator
