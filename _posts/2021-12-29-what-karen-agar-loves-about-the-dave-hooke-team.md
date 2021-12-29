@@ -4,7 +4,7 @@ title: What Karen Agar Loves About the Dave Hooke Team
 date: 2021-12-29 08:00:00
 tags:
   - The Dave Hooke Team
-excerpt: We have another agent interview with Karen Agar, our transaction coordinator
+excerpt: We have another agent interview with Karen Agar, our Transaction Coordinator
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2021/What+Karen+Agar+Loves+About+the+Dave+Hooke+Team.mp4
 pullquote: Nobody on this team is too big to take a minute and help someone out.
@@ -18,7 +18,7 @@ youtube_code: 4wAQvvCekoo
 
 {% include excerpt.html %}
 
-We're back once again to have a conversation with transaction coordinator Karen Agar, who is here to share her story and talk about why she chose to join the Dave Hooke Team.
+We're back once again to have a conversation with Transaction Coordinator Karen Agar, who is here to share her story and talk about why she chose to join the Dave Hooke Team.
 
 **Why this career, and why this team?**
 
