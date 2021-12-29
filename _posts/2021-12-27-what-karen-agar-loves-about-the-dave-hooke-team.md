@@ -44,4 +44,4 @@ You’ve always impressed me with your incredible work ethic and attention to de
 
 *“I’m excited that I'm on the path to have a career. My past positions have all been jobs; there was not enough traction to move up. I have that here, and it’s exciting to be a part of.”*
 
-If you or someone you know wants to learn more about Karen’s story or what we do here on the team, we are an open book, so we’d love to have a conversation with you. Contact us at (717) 216-0864 or [Dave@DaveHookeTeam.com](mailto:Dave@DaveHookeTeam.com).
+If you or someone you know wants to learn more about Karen’s story or what we do here on the team, we are an open book, so we’d love to have a conversation with you. Contact us at (717) 216-0860 or [Dave@DaveHookeTeam.com](mailto:Dave@DaveHookeTeam.com).
