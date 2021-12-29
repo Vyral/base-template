@@ -19,7 +19,7 @@ youtube_code: pFb2FuJ050g
 
 Traditionally, we’d expect the market to slow down over the holidays, but it’s still very active. Today we'll talk about why that is and what it means for you.
 
-The main reason why the market continues to be strong is that **the conforming loan limits for Alameda, Contra Costa, San Joaquin, and Stanislaus County have increased.** This helps limit enormous loans and creates more opportunities at better interest rates. Instead of paying jumbo loans at a higher rate, you can get a conventional rate and qualify for more home with less money.&nbsp;
+The main reason why the market continues to be strong is that **the conforming loan limits for Alameda, Contra Costa, San Joaquin, and Stanislaus counties have increased.** This helps limit enormous loans and creates more opportunities at better interest rates. Instead of paying jumbo loans at a higher rate, you can get a conventional rate and qualify for more home with less money.&nbsp;
 
 On top of that, homeownership is a great hedge against inflation. Money is cheap right now, so this is a great opportunity to get your foot in the door if you're a first-time homebuyer or if you're looking to build on your real estate portfolio.
 
