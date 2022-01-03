@@ -6,7 +6,7 @@ tags:
   - Home Seller Seminar
 excerpt: Our seller’s seminar will be on February 5, 2021, from 11 a.m. to 2 p.m.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2022/Sign+Up+for+Our+Seller%E2%80%99s+Seminar+Today.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2022/Sign+Up+for+Our+Seller%E2%80%99s+Seminar+Today+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
