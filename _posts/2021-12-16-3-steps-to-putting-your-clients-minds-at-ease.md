@@ -28,3 +28,5 @@ What do I say? Sometimes it’s not about what you say but how you listen. Speak
 **3\. Make a plan.** Set a plan in motion; whether they’re ready to start ASAP or not, today’s technology allows for face-to-face meetings. There’s no reason not to get together in some way to connect and share the whole process with them. They’re thinking about making a move, so if you wait to meet, that allows for other influences or agents to get involved, and we don’t want that. Once you’re together, give them some homework and clarity on what they need to focus on while sharing all the things you’ll be doing for them.&nbsp;
 
 If you have questions about these steps or any other real estate matter, call or email me. I would love to help you.
+
+[Sign up](https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-209465736657?aff=ebdsoporgprofile) for my next “Implement My Business” class\!
