@@ -22,7 +22,7 @@ youtube_code: x-Tf3F3yLIs
 
 When you’re in the market to buy a home, you can choose between new construction and resale homes, which are homes that have been previously lived in. But which is the better option? Today I’ll list the pros and cons of both new construction and resale homes to help you make an informed decision.
 
-**New Construction**
+**New Construction:**
 
 Pros:
 
