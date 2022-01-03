@@ -29,4 +29,4 @@ What do I say? Sometimes it’s not about what you say but how you listen. Speak
 
 If you have questions about these steps or any other real estate matter, call or email me. I would love to help you.
 
-[Sign up](https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-209465736657?aff=ebdsoporgprofile) for my next “Implement My Business” class\!
+Lastly, if you're looking for a deep dive into the systems and tools I've taught through Mirror My Business, sign up for my next Implement My Business Class [here\!](https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-209465736657?aff=ebdsoporgprofile)
