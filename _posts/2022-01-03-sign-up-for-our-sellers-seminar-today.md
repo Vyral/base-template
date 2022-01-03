@@ -4,7 +4,7 @@ title: Sign Up for Our Seller’s Seminar Today
 date: 2022-01-03 17:27:00
 tags:
   - Home Seller Seminar
-excerpt: Our seller’s seminar will be on February 5, 2021, from 11 a.m. to 2 p.m.
+excerpt: Our seller’s seminar will be on February 5, 2022, from 11 a.m. to 2 p.m.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2022/Sign+Up+for+Our+Seller%E2%80%99s+Seminar+Today+(1).mp4
 pullquote:
