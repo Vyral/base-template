@@ -20,4 +20,4 @@ youtube_code: JmywwoqsHCI
 
 A couple of weeks ago, we mentioned our upcoming seller’s seminar. **We have picked a date for the event: February 5, 2022, from 11 a.m. to 2 p.m.** You’ll get a ton of great information about selling your home. There’ll be home inspectors and appraisers there as guest speakers, and we’ll even feed you lunch.&nbsp;
 
-This is a really great seminar; we’ve run out of space in the past. It’s completely free, so if you’re interested, please click this link, email me at [Dar@DarWalden.com](mailto:Dar@DarWalden.com), or call me at 907.240.2804. We look forward to seeing you there\!
+This is a really great seminar; we’ve run out of space in the past. It’s completely free, so if you’re interested, please click [this link](https://www.alaskatopagent.com/Pages/Seminar.aspx){: target="_blank" rel="noopener"}, email me at [Dar@DarWalden.com](mailto:Dar@DarWalden.com), or call me at 907.240.2804. We look forward to seeing you there\!
