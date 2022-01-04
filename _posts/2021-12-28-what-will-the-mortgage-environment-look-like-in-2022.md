@@ -4,7 +4,8 @@ title: What Will the Mortgage Environment Look Like in 2022?
 date: 2021-12-28 00:00:00
 tags:
 excerpt: Here’s what Rick Scherer expects for mortgage rates in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/What+Will+the+Mortgage+Environment+Look+Like+in+2022_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
