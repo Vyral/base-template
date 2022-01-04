@@ -16,9 +16,9 @@ youtube_code: UNrJJ51LXoc
 
 {% include excerpt.html %}
 
-Today we’re speaking with Paul Douglas, known Meteorologist, Entrepreneur, Author and great friend. We recently helped some of his kids move closer to him, and he couldn’t be happier. In this video, we discuss the future of the Twin Cities real estate market, our upcoming home-seller forum, and much more.
+Today we’re speaking with Paul Douglas, known meteorologist, entrepreneur, author, and great friend. We recently helped some of his kids move closer to him, and he couldn’t be happier. In this video, we discuss the future of the Twin Cities real estate market, our upcoming home-seller forum, and much more.
 
-**You can watch the full video above, or skip to each topic using the timestamps provided: **
+**You can watch the full video above, or skip to each topic using the timestamps provided:&nbsp;**
 
 0:00 — Introduction
 
@@ -34,4 +34,4 @@ Today we’re speaking with Paul Douglas, known Meteorologist, Entrepreneur, Aut
 
 6:55 — Wrapping up
 
-If you want to secure your seat at our forum, just follow [this link.](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"} As always, if you have any questions about buying or selling a home, just give us a call. We look forward to hearing from you\! <br>
+If you want to secure your seat at our forum, just follow [this link.](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"} As always, if you have any questions about buying or selling a home, just give us a call. We look forward to hearing from you\!
