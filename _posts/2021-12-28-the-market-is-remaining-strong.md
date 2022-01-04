@@ -5,7 +5,8 @@ date: 2021-12-28 20:31:15
 tags:
   - Market Update
 excerpt: The main reason why the real estate market is staying strong.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2022/The+Market+Is+Remaining+Strong.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
