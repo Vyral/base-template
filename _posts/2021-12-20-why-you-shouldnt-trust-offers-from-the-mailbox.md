@@ -5,7 +5,8 @@ date: 2021-12-20 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Here’s how you can identify and avoid predatory mail offers. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Colemere+Realty/Videos/Why+You+Shouldn%E2%80%99t+Trust+Offers+from+the+Mailbox.mp4
 pullquote: Our goal is to protect your equity, not set up a shady deal.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ Today we want to talk about an issue we’ve been running into with clients more
 
 If you’re looking to sell your home, you may have received letters or postcards in the mail offering to buy your house. We probably receive five texts, three postcards, and two phone calls every week like this. We’ve been in the business a long time, so we’re used to it; however, a lot of our clients are understandably confused. Are these legitimate offers?
 
-Keep in mind that these offers are not made by licensed professionals. This means they don’t have to follow any of the rules, regulations, or codes of ethics that real estate agents do. Their offers usually seem too good to be true: they’ll pay in cash, close quickly, and buy your home as is. It sounds nice, but it comes at a price. **These buyers typically offer to buy your property for 30 to 40% below market value. **
+Keep in mind that these offers are not made by licensed professionals. This means they don’t have to follow any of the rules, regulations, or codes of ethics that real estate agents do. Their offers usually seem too good to be true: they’ll pay in cash, close quickly, and buy your home as is. It sounds nice, but it comes at a price. \*\*These buyers typically offer to buy your property for 30 to 40% below market value. \*\*
 
 {% include pullquote.html %}
 
