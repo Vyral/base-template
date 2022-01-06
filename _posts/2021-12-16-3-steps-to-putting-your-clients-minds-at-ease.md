@@ -5,7 +5,8 @@ date: 2021-12-16 00:00:00
 tags:
   - Transaction Management
 excerpt: Here are three steps to help you put your clients’ minds at ease.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/3+Steps+for+Putting+Your+Clients+Minds+at+Ease.mp4
 pullquote: Sometimes it’s not about what you say, but how you listen.
 enclosure_type: video/mp4
 enclosure_time:
