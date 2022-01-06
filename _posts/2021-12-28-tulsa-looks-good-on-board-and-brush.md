@@ -28,6 +28,6 @@ Not only is it a fantastic place for holiday and team events, they also offer pu
 
 At Board & Brush, **you can customize exactly what you want to make on your board.** You’ll choose a design ahead of time, then start with raw wood. Then their instructors will walk you through how to sand, stain, stencil, paint, and finish the project. There are different stains, techniques, and over 80 colors to choose from; the possibilities are endless.&nbsp;
 
-Even if you aren’t the most artistic person, there’s something for everyone here at Board & Brush. If your creation doesn’t turn out how you like, they will help you fix it or fix it for you to your liking. To learn more about Board & Brush, **you can head on over to their [Facebook page](https://www.facebook.com/boardandbrushokc), give them a call at (918) 615-0722, or visit their [website](https://boardandbrush.com/tulsa/){: target="_blank" rel="noopener"}.**
+Even if you aren’t the most artistic person, there’s something for everyone here at Board & Brush. If your creation doesn’t turn out how you like, they will help you fix it or fix it for you to your liking. To learn more about Board & Brush, **you can head on over to their [Facebook page](www.facebook.com/boardandbrushtulsaok/), give them a call at (918) 615-0722, or visit their [website](https://boardandbrush.com/tulsa/){: target="_blank" rel="noopener"}.**
 
 If you have any other questions for me or suggestions for a future video, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
