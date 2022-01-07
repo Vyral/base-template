@@ -10,8 +10,8 @@ pullquote: ' The possibilities are endless.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-21-wolek-youtube.jpg
-youtube_code: yO-ksDdTu4U
+youtube_alternate_image: /uploads/hqdefault.jpg
+youtube_code: R2cy01BSqWg
 hidden: false
 ---
 {% include youtube.html %}
