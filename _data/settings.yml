@@ -36,7 +36,7 @@ client:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://daveknightrealestateteam.brivityvaluations.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458'
+  second_CTA_URL: https://daveknightrealestate.com/home-search/listings
   phone_CTA: false
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808383';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
