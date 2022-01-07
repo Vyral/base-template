@@ -2,7 +2,7 @@
 layout: post
 title: Are you a Driver?
 tags:
-excerpt:
+excerpt: 'In my years in the industry, the number one attribute to succeeding is Drive '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
