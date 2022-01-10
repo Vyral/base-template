@@ -25,8 +25,8 @@ Dayna Simmons from Beaumont, Texas, says inventory in her area is still tight bu
 
 {% include pullquote.html %}
 
-One of the issues many of us have found is that plenty of sellers are waiting to put their homes on the market because they can’t find (or are worried they won’t find) their next house. IF you’re in this position, **our team came up with a plan earlier this year that can help you**\: We’ll sell your home but negotiate with the buyer to let you stay in the house for up to two months after closing to give you time to find your next property.&nbsp;
+One of the issues many of us have found is that plenty of sellers are waiting to put their homes on the market because they can’t find (or are worried they won’t find) their next house. If you’re in this position, **our team came up with a plan earlier this year that can help you**\: We’ll sell your home but negotiate with the buyer to let you stay in the house for up to two months after closing to give you time to find your next property.&nbsp;
 
-The main advantages of this are that you’ve already closed on your house, so you don’t have to have a contingent offer and you have the money in hand to entice sellers that much more. Buyers are willing to accept this deal because there are so few homes out there that they’re willing to give you extra time so they can secure your current house for themselves. Agent Rowena Patton from Asheville, North Carolina did it with her own home sale; she negotiated to get five months to look for her next property\!&nbsp;
+The main advantages of this are that you’ve already closed on your house, so you don't have to make a contingent offer, and you have the money in hand to entice sellers that much more. Buyers are willing to give you extra time because there are so few homes out there. Agent Rowena Patton from Asheville, North Carolina did it with her own home sale; she negotiated to get five months to look for her next property\!&nbsp;
 
 We’re available to receive your calls and emails if you’re ready to get your home on the market or want to find a new house. We’d love to help you.
