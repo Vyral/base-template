@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/hqdefault.jpg
-youtube_code: R2cy01BSqWg
+youtube_code: O-ksDdTu4U
 hidden: false
 ---
 {% include youtube.html %}
