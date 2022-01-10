@@ -5,7 +5,9 @@ date: 2021-12-28 20:59:05
 tags:
   - Real Estate
 excerpt: At Board & Brush, you can create the wooden masterpiece of your dreams.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Jennie Wolek/Videos/2022/Tulsa Looks Good On Board and
+  Brush.mp4
 pullquote: ' The possibilities are endless.'
 enclosure_type: video/mp4
 enclosure_time:
