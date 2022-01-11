@@ -20,10 +20,10 @@ youtube_code: O9cweNZu8ts
 
 Today we'll talk about what questions you should ask contractors before hiring them.
 
-**First, ask them if they are licensed and whether they are insured.** Make sure they answer yes to that question before asking them anything else.&nbsp;
+**First, ask them if they are licensed and insured.** Make sure they answer yes to that question before asking them anything else.&nbsp;
 
-Next, you want to ask whether they provide written estimates and understand how they get paid. **Depending on the job, some contractors want 50% up front and then 50% on completion**, while others want to fully get paid up front.&nbsp;
+Next, you want to ask whether they provide written estimates and understand how they get paid. **Depending on the job, some contractors want 50% upfront and then 50% on completion**, while others want to fully get paid upfront.&nbsp;
 
-Finally, make sure they have references and ask to see photos of their previous work and talk to their past clients.&nbsp;
+Finally, make sure they have references, ask to see photos of their previous work, and talk to their past clients.
 
-If you ask contractors these questions, you’ll be able to find the right one for you. If you have any questions, don’t hesitate to reach out to us. We look forward to hearing from you.
+If you ask contractors these questions, you’ll be able to find the right one for you. If you have any questions, don’t hesitate to reach out to us via phone or email. We look forward to hearing from you.
