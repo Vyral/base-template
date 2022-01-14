@@ -5,7 +5,8 @@ date: 2022-01-13 20:06:37
 tags:
   - Market Update
 excerpt: Today we’ll give a recap of how our real estate market fared in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/2021+Waterfront+Housing+and+Land+Market+Recap+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
