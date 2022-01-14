@@ -17,6 +17,6 @@ youtube_code: zdmcLyuy--w
 
 {% include excerpt.html %}
 
-Today we're going to talk about PCS season. PCS is a military term that stands for permanent change of station. The military has five bases in Honolulu and from April to August, we experience 15,000 families moving in and out of the area. It’s an extremely busy time for movers, property managers, and Realtors.
+Today we're going to talk about PCS season. **PCS is a military term that stands for permanent change of station.** The military has five bases in Honolulu, and from April to August, we experience 15,000 families moving in and out of the area. It’s an extremely busy time for movers, property managers, and Realtors.
 
 If you want more details on PCS season, give us a call. We can tell you what the best time to schedule your move is. We look forward to hearing from you.
