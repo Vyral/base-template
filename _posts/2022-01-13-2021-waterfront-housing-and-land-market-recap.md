@@ -38,4 +38,4 @@ Hopefully your 2022 is already off to a great start\! Today we want to recap how
 
 11:24 — Wrapping up
 
-If you have any questions, don’t hesitate to reach out to us. We look forward to hearing from you.
+If you have any questions, don’t hesitate to reach out to us via phone or email. We look forward to hearing from you.
