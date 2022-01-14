@@ -20,13 +20,13 @@ youtube_code: oETan3LaeWw
 
 {% include excerpt.html %}
 
-Today I’m super excited to interview Adam Doyle, one of our inside sales agents. He’s a really great guy, and I can’t wait to learn more about his story.
+Today I’m super excited to interview Adam Doyle, one of our inside sales agents. He’s a great guy, and I can’t wait to learn more about his story.
 
 **Why did you go into real estate, and why this team?**
 
-*“I joined the team in October 2020. I went to college for marketing and got a full business job right out of school, but that position was canceled with COVID. I had a lot of time, so I decided to get my real estate license and join the team. I had had a lot of conversations with Dave and Drew, and I figured this would be the best time.”*A lot of people don’t know about your position, but it’s the backbone of our team. **Tell us a bit about what you do.**
+*“I joined the team in October 2020. I went to college for marketing and got a full business job right out of school, but that position was canceled with COVID. I had a lot of time, so I decided to get my real estate license and join the team. I had a lot of conversations with Dave and Drew, and I figured this would be the best time.”*A lot of people don’t know about your position, but it’s the backbone of our team. **Tell us a bit about what you do.**
 
-*“I am an inside sales agent. I’m the first contact with all of the inbound leads we receive. I try to figure out their motivation and timeframe, and when I feel it’s time, I pass them on to one of our other agents, set them up with an appointment, and get them out looking at homes.”&nbsp;*
+*“I am an inside sales agent. I’m the first contact with all of the inbound leads we receive. I try to figure out their motivation and time frame, and when I feel it’s time, I pass them on to one of our other agents, set them up with an appointment, and get them out looking at homes.”&nbsp;*
 
 {% include pullquote.html %}
 
@@ -44,4 +44,6 @@ Today I’m super excited to interview Adam Doyle, one of our inside sales agent
 
 *“The growth. There’s so much potential in this team as we grow. I’m only six months into this position, so there are so many different paths I can take.”*
 
-If you or someone you know wants to learn more about Adam’s journey, the ISA department, or the Dave Hooke Team in general, feel free to call us at (717) 216-0860 or email us at [Dave@DaveHokeTeam.com](mailto:Dave@DaveHokeTeam.com). Maybe you want to join a team like ours or learn more about what we do. We’re an open book, so we’d love to connect with you.
+If you or someone you know wants to learn more about Adam’s journey, the ISA department, or the Dave Hooke Team in general, feel free to call us at (717) 216-0860 or email us at [Dave@DaveHookeTeam.com](mailto:Dave@DaveHookeTeam.com).
+
+Maybe you want to join a team like ours or learn more about what we do. We’re an open book, so we’d love to connect with you.
