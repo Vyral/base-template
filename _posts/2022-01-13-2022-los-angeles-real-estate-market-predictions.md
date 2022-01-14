@@ -32,6 +32,12 @@ So what does that mean for both buyers and sellers? For buyers, there are severa
 
 Even though rates are still historically low, inventory is extremely scarce and overwhelming buyer demand are indicators that the **prices will NOT drop**. What can be expected according top most experts is that there will be 5 to 10% growth in 2022. The increase in interest rates will most likely prevent and slow down the rapid growth we saw in 2021.&nbsp;
 
+**Thinking About Selling Your House Right Now?**
+
+Also, if you're thinking about selling, I just told you, there's nothing for sale. You're the only show in town. It's a fantastic thing. It's a seller's market right now. This is an insane time to get your home on the market, into cash out and sell out a very, very high price. So, whether you're looking to move up into a new, bigger home, or you're lookin' to relocate, get out of state where you can get a little more for your money, you are going to get a premium for your home.
+
+So, hopefully this is beneficial for you. If you are thinkin' about buying or selling your home here in Los Angeles, give us a call **818-396-3311**. Thanks for watching.&nbsp;
+
 &nbsp;
 
 &nbsp;
