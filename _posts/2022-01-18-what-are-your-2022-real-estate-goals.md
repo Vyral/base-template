@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Whatever they might be, let us help with your 2022 real estate goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2022/What+Are+Your+2022+Real+Estate+Goals_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
