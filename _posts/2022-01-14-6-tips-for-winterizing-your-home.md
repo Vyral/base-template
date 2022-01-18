@@ -21,7 +21,7 @@ youtube_code: DZQWyDsYcks
 It’s getting colder out there, so it’s important to make sure your home is winterized. If you fail to do so, you could be losing a lot of heat and money in the process. **Here’s your home-winterization checklist:**
 
 * Have your plumbing checked for leaks. You can get sensors for your pipes that will alert you to issues.
-* Weatherstrip your home. If you get weatherstripping around your doors and thresholds, it can prevent warm air from escaping or cold air from leaking inside.&nbsp;&nbsp;
+* Weather strip your home. If you get weather stripping around your doors and thresholds, it can prevent warm air from escaping or cold air from leaking inside.&nbsp;&nbsp;
 * Check your windows&nbsp;
 * Make sure your attic is properly insulated.
 * Have your furnace serviced and checked.&nbsp;
