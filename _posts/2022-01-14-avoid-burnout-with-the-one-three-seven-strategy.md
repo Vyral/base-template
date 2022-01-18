@@ -17,7 +17,7 @@ youtube_code: 0ALYiYMzdvw
 
 {% include excerpt.html %}
 
-Are you ready for some reality? This business can eat you up. I’m Jennie Wolek from The Wolek Group in Tulsa, Oklahoma, with Keller Williams Realty, and it’s true; I’m speaking from experience. If you allow it, real estate can be a 24-hours-a-day, seven-days-a-week, 365-days-a-year job. I know because I did it.&nbsp;
+Are you ready for some reality? This business can eat you up. It’s true; I’m speaking from experience. If you allow it, real estate can be a 24-hours-a-day, seven-days-a-week, 365-days-a-year job. I know because I did it.&nbsp;
 
 Instead, take control of your time and calendar and make sure you block out important you-time and family-time. A great trick I use is the one-three-seven. This means **you should take purposeful time off at least one day a week, have a three-day weekend once a month, and take a seven-day vacation once a quarter.** This also includes a wellness Wednesday. This means each week, you’ll have a midweek reset. It can be anything: a massage, exercise, getting your hair done. Whatever you need to finish your week strong.
 
