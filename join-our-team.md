@@ -1,8 +1,9 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Tulsa Careers
 permalink: /join-our-team/
 ---
+
 <br>
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
@@ -15,6 +16,7 @@ permalink: /join-our-team/
 </div>
 
 <br>
+<div>
 <p>Dear Fellow Real Estate Agent,</p>
 
 <p>We understand that you may be frustrated right now with your income and consistency in your real estate business. Perhaps you feel as if you are working hard and you’re just not seeing the results you desire. You might lack the training, coaching, and mentoring that will help you get to where you want to be.</p>
@@ -49,6 +51,8 @@ permalink: /join-our-team/
 <a href="tel:1-918-706-9845">918-706-9845</a><br>
 <a href="mailto:jennie@thewolekgroup.com">jennie@thewolekgroup.com</a><br>
 <a href="http://www.yourjourneywithjennie.com" target="_blank">www.yourjourneywithjennie.com</a></p>
+
+</div>
 
 
 
