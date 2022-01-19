@@ -7,11 +7,11 @@ tags:
   - Real Estate
 excerpt: Will our market crash? Let’s look at the factors that drive real estate.
 enclosure:
-pullquote: Fundamentally, we do not have a looming crash.
+pullquote: Fundamentally, we do not have a crash looming.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/ashley-carter-ss-yt-2.jpg
+youtube_alternate_image: /uploads/ashley-carter-ss-yt-3.jpg
 youtube_code: WdXukHr5CY4
 ---
 {% include youtube.html %}
@@ -24,10 +24,10 @@ Is this market going to crash? It seems like a logical question; we’ve had a h
 
 {% include pullquote.html %}
 
-Compounding that, **the number of new construction homes has lagged below our traditional pace for the last 11 years.** We’ve lost what would’ve been a lot of new construction homes in the market.&nbsp;
+Compounding that, **the number of new construction homes has lagged below our traditional pace for the last 11 years.** We would usually have a lot more new construction homes in the market.
 
-Buyers have to say that they aren’t willing to pay the high prices for the market to correct itself. When that happens, we will see a shift, but we haven’t seen any signs of that happening. The amount of inventory is still low, and homes are still selling at a rapid pace.&nbsp;
+Buyers have to start saying that they aren’t willing to pay the high prices for the market to correct itself. When that happens, we will see a shift, but we haven’t seen any signs of that happening. The amount of inventory is still low, and homes are still selling at a rapid pace.&nbsp;
 
-Fundamentally, we do not have a looming crash. Will we see the market cool off? Yes, we might, and that would be a positive. The market can’t go up forever; eventually, the buyers will back off.&nbsp;
+Fundamentally, we do not have a crash looming. Will we see the market cool off? Yes, we might, and that would be a positive. The market can’t go up forever; eventually, the buyers will back off.&nbsp;
 
 For 2022, we expect to see between 4% to 7% appreciation, and the market will be similar to what we had in 2021. If we can help you wade through the market and understand how this applies to your situation, we’re happy to help. Just give us a call or send us an email. We’d be happy to talk to you.
