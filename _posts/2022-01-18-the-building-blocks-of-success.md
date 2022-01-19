@@ -18,8 +18,8 @@ youtube_code: cRolLXzcMfM
 
 James Clear wrote the best-selling book “Atomic Habits,” where he outlines the importance of how habits shape our success. **He suggests that even the smallest habits can snowball into bigger ones that will ultimately lead to your goals being achieved.** The concept of snowballing habits is similar to how compounding interest works.&nbsp;
 
-For example, if somebody wants to lose weight, they can begin by simply getting to the gym and doing five minutes of weights. Over time, five minutes expands to an hour of working out, which leads to better eating habits, additional physical activity, and ultimately a different lifestyle and achieving their weight-loss goal.
+For example, if somebody wants to lose weight, they can begin by simply getting to the gym and doing five minutes of weights. Over time, five minutes expands to an hour of working out, which leads to better eating habits, additional physical activity, a different lifestyle, and ultimately achieving that weight-loss goal.
 
-Start small and build up. This idea of stacking habits translates into all areas of life. When you think about your businesses, what are some big goals you have that feel unachievable? **Think small and start with the smallest habit first.** Then, add on additional habits once the first one sticks. Do this over time and even the biggest goals will be met.
+Start small and build up. This idea of stacking habits translates into all areas of life. When you think about your businesses, what are some big goals you have that feel unachievable? **Think small and start with the smallest habit first.** Then, add on additional habits once the first one sticks. Do this over time, and even the biggest goals will be met.
 
 If you have any questions or would like to set up a 30-minute business consultation, please call, email, or text me. I look forward to hearing from you.
