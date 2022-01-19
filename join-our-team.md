@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Tulsa Careers
+title: Join Our Team
 permalink: /join-our-team/
 ---
 <br>
