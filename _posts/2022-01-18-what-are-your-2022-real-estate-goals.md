@@ -19,9 +19,9 @@ youtube_code: kZ_ky57ZtO8
 
 {% include excerpt.html %}
 
-Hopefully you’ve had a happy 2022 so far\! Today we’re going to talk about 2022 real estate goals and why you should call us to assist you with yours.
+Hopefully you’ve had a happy 2022 so far\! Today we’re going to talk about 2022 real estate goals and why you should call us to assist with yours.
 
-First of all, it would be a pleasure to hear from you and discuss what you’re looking to do with your real estate portfolio. If you’re thinking of buying your first home, we would love to guide you through that process. You should know that conforming loan limits have increased and interest rates are still very low.
+First of all, it would be a pleasure to hear from you and discuss what you’re looking to do with your real estate portfolio. If you’re thinking of buying your first home, we would love to guide you through that process. You should know that conforming loan limits have increased, and interest rates are still very low.
 
 Given that, **we would be blessed to help you take the next step.** Whether your goal is to buy your first home, move out of state, downsize, or buy a rental property, we can utilize our expertise to help you achieve it.
 
