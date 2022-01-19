@@ -9,7 +9,7 @@ pullquote: 'In some price points, there are almost no homes for sale. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/huebners-ss-youtube-12.jpg
+youtube_alternate_image: /uploads/huebners-ss-youtube-13.jpg
 youtube_code: ACR-QRtVWC8
 ---
 {% include youtube.html %}
