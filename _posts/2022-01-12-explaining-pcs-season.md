@@ -5,7 +5,8 @@ date: 2022-01-12 10:46:00
 tags:
   - Property Management
 excerpt: April to August is so busy in Honolulu because of the military’s PCS moves.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/Explaining+PCS+Season.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
