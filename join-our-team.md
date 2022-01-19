@@ -51,8 +51,6 @@ permalink: /join-our-team/
 <a href="mailto:jennie@thewolekgroup.com">jennie@thewolekgroup.com</a><br>
 <a href="http://www.yourjourneywithjennie.com" target="_blank">www.yourjourneywithjennie.com</a></p>
 
-</div></div>
-
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
