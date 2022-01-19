@@ -3,7 +3,7 @@ layout: recruiting
 title: Tulsa Careers
 permalink: /join-our-team/
 ---
-
+<br>
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
@@ -14,7 +14,7 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-
+<br>
 <p>Dear Fellow Real Estate Agent,</p>
 
 <p>We understand that you may be frustrated right now with your income and consistency in your real estate business. Perhaps you feel as if you are working hard and you’re just not seeing the results you desire. You might lack the training, coaching, and mentoring that will help you get to where you want to be.</p>
