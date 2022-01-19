@@ -18,7 +18,7 @@ youtube_code: ACR-QRtVWC8
 
 When we meet with sellers this time of year, **we usually advise that they have their homes ready for the spring market around the time of the Super Bowl.** It still feels like winter, but about that time is the opening of our Minnesota real estate market. This year we’re seeing more historically low inventory levels than ever before; in some price points, there are almost no homes for sale.&nbsp;
 
-On New Year’s Eve, Sara showed a $400,000 home in the South Metro, and it was crawling with people. There was nowhere to park, people were all over the back and side yards, and though they were respectful of others’ space in the home, it was chock full of people. That proves how active a price point it is and that there aren’t enough homes to see.&nbsp;
+On New Year’s Eve, Sara showed a $400,000 home in the South Metro, and it was crawling with people. There was nowhere to park, people were all over the back and side yards, and though they were respectful of others’ space in the home, it was chock full of people. That proves how active this price point is and that there aren’t enough homes to see.&nbsp;
 
 {% include pullquote.html %}
 
