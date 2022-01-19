@@ -13,7 +13,7 @@ permalink: /join-our-team/
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
-</div></div></div>
+</div></div>
 
 <br>
 <p>Dear Fellow Real Estate Agent,</p>
