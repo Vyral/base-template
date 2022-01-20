@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avoid Burnout With the One-Three-Seven Strategy '
+title: 'Avoid Burnout With the 1-3-7 Strategy '
 date: 2022-01-14 16:41:06
 tags:
   - Transaction Management
