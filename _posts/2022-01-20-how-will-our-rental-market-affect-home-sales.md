@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will Our Rental Market Affect Home Sales?
-date: 2022-01-20 00:00:00
+date: 2022-01-20 11:00:00
 tags:
   - Market Update
 excerpt: 'Here’s a brief update on the current state of the rental market. '
