@@ -5,7 +5,7 @@ date: 2022-01-19 00:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: Here’s how you can buy a house while putting zero money down.
+excerpt: This is how you can put zero money down when buying a house.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -20,6 +20,8 @@ youtube_code: j7pxGgljZww
 
 Many hopeful homebuyers have asked if they can buy a house with no money down. The answer is yes, and today I want to tell you how.
 
-**The first step is to use a zero-down program.** There are many options: USDA loans, VA loans, and even FHA loans. FHA will have a small down payment, but you might be able to cover that with gift money. For VA loans, you have a military service history. For USDA loans, you need to be buying in a rural area.**Once you have the loan, you need to figure out how to cover your closing costs.** Closing costs are between 1% to 5% of the purchase price and include things like origination fees, title costs, property taxes, and insurance. I’ll go over how you can cover these costs in my next video.
+**The first step is to use a zero-down program.** There are many options: USDA loans, VA loans, and even FHA loans. FHA will have a small down payment, but you might be able to cover that with gift money. For VA loans, you have a military service history. For USDA loans, you need to be buying in a rural area.
+
+**Once you have the loan, you need to figure out how to cover your closing costs.** Closing costs are between 1% to 5% of the purchase price and include things like origination fees, title costs, property taxes, and insurance. I’ll go over how you can cover these costs in my next video.
 
 If you have any questions, feel free to call or email me. I look forward to hearing from you.
