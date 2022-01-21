@@ -5,7 +5,8 @@ date: 2022-01-14 16:41:06
 tags:
   - Transaction Management
 excerpt: 'Here’s how the 1-3-7 method can help you avoid burnout. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Avoid+Burnout+With+the+1-3-7+Strategy.mp4
 pullquote: 'You should have a reset day every week. '
 enclosure_type: video/mp4
 enclosure_time:
