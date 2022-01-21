@@ -32,7 +32,7 @@ Since we’re a hot studio, we provide a detox experience for our clients that t
 
 {% include pullquote.html %}
 
-**In our experience, all are welcome at SALT as well. It’s not intimidating or scary at all.&nbsp;**
+**In our experience, all are welcome at SALT as well. It’s not intimidating or scary at all\!&nbsp;**
 
 Exactly; one of our biggest priorities at SALT is to cultivate a welcoming environment. I remember the first time I walked into a yoga studio I thought, “What is this mysterious place? Who are these people?” We know it can be intimidating, but we don’t want that here.&nbsp;
 
