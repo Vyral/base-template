@@ -5,7 +5,8 @@ date: 2022-01-20 11:00:00
 tags:
   - Market Update
 excerpt: 'Here’s a brief update on the current state of the rental market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2022/How+Will+Our+Rental+Market+Affect+Home+Sales_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
