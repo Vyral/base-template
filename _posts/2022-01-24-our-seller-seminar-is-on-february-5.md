@@ -23,3 +23,5 @@ We’ve finally picked a date for our upcoming seller seminar. Join us on Februa
 We’ll have guest speakers, inspectors, appraisers, and we’ll feed you lunch. **It’s a free event, but seating is limited to about 60.&nbsp;**
 
 If you’re interested in attending, RSVP by giving me a call, sending me an email, or [registering here.](https://www.alaskatopagent.com/Pages/Seminar.aspx)&nbsp;
+
+### [REGISTER HERE FOR THE SELLER SEMINAR](https://www.alaskatopagent.com/Pages/Seminar.aspx){: target="_blank" rel="noopener"}
