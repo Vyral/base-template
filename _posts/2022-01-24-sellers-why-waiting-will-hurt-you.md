@@ -15,7 +15,9 @@ youtube_code: plmnDwsw4Ic
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}<br><br>Should you wait and sell your home in the spring? Absolutely not because doing so could cost you money. Today I want to share a couple of reasons why that is:
+{% include excerpt.html %}
+
+<br>Should you wait and sell your home in the spring? Absolutely not because doing so could cost you money. Today I want to share a couple of reasons why that is:
 
 **1\. The selling season starts now.** As soon as the holidays are behind us, people refocus on buying or selling their homes. The early parts of January and February are when the market starts to wind up. You don’t have to wait until June to maximize buyer activity.&nbsp;<br>​​<br>**​​2.**&nbsp;​​​​**There is less competition.** Not everyone is thinking about selling their home at the start of the year, but once you get into that May or June time frame, everyone is listing their houses. Competition rises, and prices flatten. Right now, there’s low inventory and high demand, so the earlier you list, the less competition and the higher the price.
 
