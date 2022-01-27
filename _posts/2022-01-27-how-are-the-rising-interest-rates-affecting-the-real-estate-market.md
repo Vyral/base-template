@@ -4,7 +4,7 @@ title: How are the Rising Interest Rates Affecting the Real Estate Market?
 date: 2022-01-27 18:45:46
 tags:
 excerpt: >-
-  Interest rates are on a rise coming from an all-time low last 2021. How does
+  Interest rates are on the rise coming from an all-time low last 2021. How does
   this affect the real estate market?
 enclosure:
 pullquote: ' Despite the increasing interest rates, the lack of supply will result in home prices going up this year.'
