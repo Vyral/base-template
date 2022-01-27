@@ -20,7 +20,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/february-2022---mvp---blog-post-image.jpg
 youtube_code:
 ---
-There’s a lot to consider when selling your home, from the market and appraisals to where you’ll go next. Don’t forget, however, that design is also a key factor. It’s often one of the first things buyers notice when they walk into a home, and it’s also a detail that you, as a seller, can easily control.
+![](/uploads/february-2022---mvp---blog-post-image-1.jpg){: width="1200" height="628"}<br><br><br>There’s a lot to consider when selling your home, from the market and appraisals to where you’ll go next. Don’t forget, however, that design is also a key factor. It’s often one of the first things buyers notice when they walk into a home, and it’s also a detail that you, as a seller, can easily control.
 
 According to Realtor.com’s 2022 housing market forecast, home for-sale inventory will increase from last year, as will the projected number of overall sales.1 This means, if you’re looking to sell in the near future, now is the time to consider how you can stand out.
 
