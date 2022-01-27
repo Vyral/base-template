@@ -5,7 +5,8 @@ date: 2022-01-24 00:00:00
 tags:
   - Real Estate
 excerpt: Here are four reasons why you shouldn’t wait to sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/Sellers_+Why+Waiting+Will+Hurt+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
