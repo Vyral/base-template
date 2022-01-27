@@ -5,9 +5,7 @@ date: 2019-02-21 22:58:04
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: >-
-  Buyers: Don’t attempt your next home purchase alone. Let us help make your
-  transaction as smooth and successful as possible.
+excerpt: Here's how we can help you purchase your next home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
