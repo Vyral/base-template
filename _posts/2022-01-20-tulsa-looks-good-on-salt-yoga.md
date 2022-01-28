@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Tulsa Looks Good on SALT Yoga
+title: >-
+  It's Time to Get Active in 2022 with SALT Yoga!It's Time to Get Active in 2022
+  with SALT Yoga!
 date: 2022-01-20 00:00:00
 tags:
   - Real Estate
@@ -22,7 +24,7 @@ Today we’re chatting with Keri from SALT Yoga about her awesome business. We�
 
 **What would you say to someone who hasn’t started their yoga journey yet? What are some of the benefits?**
 
-To start, there are a lot of questions and mysteries around what yoga is, but my main piece of advice is don’t be intimidated. The benefits are truly endless, so there’s no reason too big or too small to walk through the doors of SALT Yoga.&nbsp;
+To just start\! There are a lot of questions and mysteries around what yoga is, but my main piece of advice is don’t be intimidated. The benefits are truly endless, so there’s no reason too big or too small to walk through the doors of SALT Yoga.&nbsp;
 
 If I had to break down the main goal of yoga, it’s to reconnect with yourself. We get so caught up in our busy lives, so we want people to leave their stress behind when they come into our studio so that they can get quiet and get in touch with their bodies no matter what shape they’re in.&nbsp;
 
