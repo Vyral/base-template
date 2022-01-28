@@ -18,9 +18,9 @@ youtube_code: 6C44rV5ku8U
 
 {% include excerpt.html %}
 
-As we head further into 2022, I wanted to share my top three predictions for the real estate market in Charleston this year.
+As we head further into 2022, I wanted to share my top three predictions for the real estate market in Charleston this year:
 
-**1\. The market “bubble” won’t burst in 2022.** This is a topic I’m asked about constantly. We are driven by inventory and demand. There are still very few homes for sale and many buyers who want to live in this location and are actively looking for properties. This creates a seller’s market and no likelihood for a bubble burst this year.
+**1\. The market “bubble” won’t burst in 2022.** This is a topic I’m asked about constantly. We are driven by inventory and demand. There are still very few homes for sale and plenty of buyers actively looking for properties in this location. This creates a seller’s market and no likelihood for a bubble burst this year.
 
 {% include pullquote.html %}
 
