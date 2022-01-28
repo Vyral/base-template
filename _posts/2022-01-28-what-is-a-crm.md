@@ -5,7 +5,8 @@ date: 2022-01-28 20:33:22
 tags:
   - Business Model
 excerpt: Here’s what to know about CRMs and which is the best to use.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2022/What+Is+a+CRM_.mp4
 pullquote: Utilize a CRM every single day.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ What’s a CRM? What’s the best CRM you should use in your real estate busines
 
 **There’s a lot of confusion around “shiny objects” in our industry**; we’re one of the most sold-to groups of consumers I’ve ever met\! We’re always responding to the next “easy pill,” quick fix to get our business to the next level. However, often those things aren’t very helpful at all. CRMs are one of the most-sold things to real estate agents.
 
-CRM stands for “customer relationship management”; it’s a piece of technology that helps us manage all of our customers in one database so we can hopefully provide them with value and secure and nurture those relationships, turning them into clients that we can serve in a real estate transaction. **It organizes all that information and communication in one place. **
+CRM stands for “customer relationship management”; it’s a piece of technology that helps us manage all of our customers in one database so we can hopefully provide them with value and secure and nurture those relationships, turning them into clients that we can serve in a real estate transaction. \*\*It organizes all that information and communication in one place. \*\*
 
 {% include pullquote.html %}
 
