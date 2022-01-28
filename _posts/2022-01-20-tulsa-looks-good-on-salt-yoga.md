@@ -4,7 +4,7 @@ title: Tulsa Looks Good on SALT Yoga
 date: 2022-01-20 00:00:00
 tags:
   - Real Estate
-excerpt: 'Here’s what Carrie from SALT Yoga had to say about her fantastic business. '
+excerpt: 'Here’s what Keri from SALT Yoga had to say about her fantastic business. '
 enclosure:
 pullquote: 'The main goal of yoga is to reconnect with yourself. '
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Today we’re chatting with Carrie from SALT Yoga about her awesome business. We’re huge fans of SALT, so we hope you enjoy this interview as much as we did\!
+Today we’re chatting with Keri from SALT Yoga about her awesome business. We’re huge fans of SALT, so we hope you enjoy this interview as much as we did\!
 
 **What would you say to someone who hasn’t started their yoga journey yet? What are some of the benefits?**
 
@@ -36,7 +36,7 @@ Since we’re a hot studio, we provide a detox experience for our clients that t
 
 Exactly; one of our biggest priorities at SALT is to cultivate a welcoming environment. I remember the first time I walked into a yoga studio I thought, “What is this mysterious place? Who are these people?” We know it can be intimidating, but we don’t want that here.&nbsp;
 
-**I’d like to thank you once again for talking with us, Carrie. Does SALT have anything going on that people should know about?**
+**I’d like to thank you once again for talking with us, Keri. Does SALT have anything going on that people should know about?**
 
 Yes\! We always have our 10 for 10 deal for new clients. If you live in Oklahoma and you’ve never done yoga before, you can do 10 consecutive days of unlimited classes. You can get a feel for the instructors, check out meditation, and get a feel for if yoga is right for you.&nbsp;
 
