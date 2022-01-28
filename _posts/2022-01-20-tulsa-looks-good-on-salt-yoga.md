@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  It's Time to Get Active in 2022 with SALT Yoga!It's Time to Get Active in 2022
-  with SALT Yoga!
+title: It's Time to Get Active in 2022 with SALT Yoga!
 date: 2022-01-20 00:00:00
 tags:
   - Real Estate
