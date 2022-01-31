@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jon-yt.jpg
+youtube_alternate_image: /uploads/jon-yt-1.jpg
 youtube_code: qxZJgCiCZ-8
 ---
 {% include youtube.html %}
