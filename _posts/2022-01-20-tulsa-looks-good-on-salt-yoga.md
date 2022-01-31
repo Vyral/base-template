@@ -5,7 +5,8 @@ date: 2022-01-20 00:00:00
 tags:
   - Real Estate
 excerpt: 'Here’s what Keri from SALT Yoga had to say about her fantastic business. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/It's+Time+to+Get+Active+in+2022+with+SALT+Yoga!.mp4
 pullquote: 'The main goal of yoga is to reconnect with yourself. '
 enclosure_type: video/mp4
 enclosure_time:
