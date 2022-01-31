@@ -15,7 +15,7 @@ youtube_code: DMIcCeMhGcg
 ---
 {% include youtube.html %}
 
-*Here are my four tips to help you achieve your home-buying goals. Here are my four tips to help you achieve your home-buying goals.&nbsp;*
+<center><em>Here are my four tips to help you achieve your home-buying goals. Here are my four tips to help you achieve your home-buying goals.</em></center>&nbsp;
 
 Do you have home-buying goals? Today I want to share my advice on how you can reach these goals this year:
 
