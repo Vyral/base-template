@@ -18,4 +18,4 @@ youtube_code: qxZJgCiCZ-8
 
 {% include excerpt.html %}
 
-When you think of a real estate agent, you probably think of someone who’s working on behalf of a seller. However, having representation as a buyer is equally important. When it comes time to buy a home, having an agent by your side will be essential to your success. You need someone to stand in your corner—someone to answer your questions, guide your decisions, and negotiate on your behalf. We would love to offer these services to you. Our team would like to set you on the path to home buying success, so please reach out.
+When you think of a real estate agent, you probably think of someone who’s working on behalf of a seller. However, having representation as a buyer is equally important. When it comes time to buy a home, having an agent by your side will be essential to your success. You need someone to stand in your corner—someone to answer your questions, guide your decisions, and negotiate on your behalf. We would love to offer these services to you. Our team would like to set you on the path to home buying success, so please call or email us.&nbsp;
