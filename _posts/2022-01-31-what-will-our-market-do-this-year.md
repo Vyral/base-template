@@ -4,10 +4,10 @@ title: What Will Our Market Do This Year?
 date: 2022-01-31 15:34:41
 tags:
   - Market Update
-excerpt: Let’s go over our bold predictions for the 2022 real estate market.
+excerpt: Discussing our bold predictions for the 2022 real estate market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2022/What+Will+Our+Market+Do+This+Year_.mp4
-pullquote: Interest rates will eventually go up this year
+pullquote: Interest rates will eventually go up this year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,9 +22,9 @@ What is going to happen in our market this year? That’s the question on everyo
 
 If you’ve followed my video blog, you’ll know that we’ve been calling for rates to increase little by little as the economy recovered. Over the last two years, they’ve actually dropped, and that’s raised prices through the roof. Sellers got to enjoy high prices, and buyers could lock in a low rate.
 
-**In 2022, our team boldly predicts that interest rates will eventually go up.** Hopefully, that will relieve the pressure on pricing so that we can avoid a bubble. We aren’t in one right now, but if we continue at this pace of 15% appreciation for a few years, we would be headed to a doomsday.&nbsp;
+**In 2022, our team boldly predicts that interest rates will eventually go up.** Hopefully, that will relieve the pressure on pricing and we can avoid a bubble. We aren’t in one right now, but if we continue at this pace of 15% appreciation for a few years, we would be headed to a doomsday.&nbsp;
 
-However, The Federal Reserve won’t let us get to that point. Keep an eye on interest rates. By the end of the year, we’ll probably be at 3.75% or even 4%, depending on some other factors.
+The Federal Reserve won’t let us get to that point. Keep an eye on interest rates. By the end of the year, we’ll probably be at 3.75% or even 4%, depending on some other factors.
 
 {% include pullquote.html %}
 
