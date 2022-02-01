@@ -22,7 +22,7 @@ What is going to happen in our market this year? That’s the question on everyo
 
 If you’ve followed my video blog, you’ll know that we’ve been calling for rates to increase little by little as the economy recovered. Over the last two years, they’ve actually dropped, and that’s raised prices through the roof. Sellers got to enjoy high prices, and buyers could lock in a low rate.
 
-**In 2022, our team boldly predicts that interest rates will eventually go up.** Hopefully, that will relieve the pressure on pricing and we can avoid a bubble. We aren’t in one right now, but if we continue at this pace of 15% appreciation for a few years, we would be headed to a doomsday.&nbsp;
+**In 2022, our team boldly predicts that interest rates will eventually go up.** Hopefully, that will relieve the pressure on pricing and we can avoid a bubble. We aren’t in one right now, but if we continue at this pace of 15% appreciation for a few years, we would be headed to doomsday.&nbsp;
 
 The Federal Reserve won’t let us get to that point. Keep an eye on interest rates. By the end of the year, we’ll probably be at 3.75% or even 4%, depending on some other factors.
 
@@ -30,7 +30,7 @@ The Federal Reserve won’t let us get to that point. Keep an eye on interest ra
 
 **If you’re thinking about selling your house, there will still be plenty of buyers.** A lot of people still have equity in their homes, but if we don’t increase interest rates, something is going to have to give. If you’re a buyer, this will be a great year for you. You need to take advantage of the interest rates before they get to 3.75%. Your monthly payment will go up as rates rise, and it’ll take a while for prices to adjust to the new interest rates.&nbsp;
 
-Expect prices to increase this year as well. They won’t go up 16% like they did the last few years; look for a moderate increase.&nbsp;
+Expect prices to increase this year as well. However, they won't go up 16% like they did the last few years; look for a moderate increase.&nbsp;
 
 The bottom line is that **if you’re not planning to stay in the property long term, be cautious of where and with whom you buy.** If you’re not planning to live in the home for four to five years or use it as a long-term rental property, then it might not be a great time to buy. You need the low interest rate to work hard for you over the years to make sure you get a good deal.
 
