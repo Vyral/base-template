@@ -19,7 +19,7 @@ youtube_code: 9OGNx4N5LLU
 
 Valentine’s Day is coming up very quickly, and we at the Misty SOLD Team are here to help you with your gift-giving. **100 winners will get a box of chocolate and a bottle of champagne through our “Share the Love” giveaway.** Three people will also win a Valentine’s Day dinner for two at a local restaurant.&nbsp;
 
-**To enter, all you need to do is text LOVE to 35620.** There will be two pickup days, Feb 11 and Feb 14, at our West Des Moines (9325 Bishop Drive, Suite 110) and Indianola (117 E Salem Avenue) locations from 2:00 p.m. to 4:00 p.m.&nbsp;
+**To enter, all you need to do is text LOVE to 35620.** There will be two pickup days, February 11 and February 14, at our West Des Moines (9325 Bishop Drive, Suite 110) and Indianola (117 E Salem Avenue) locations from 2 p.m. to 4 p.m.&nbsp;
 
 We also need to thank our amazing sponsors for helping us put together this event to spread the love. **Thanks to Home Warranty of America, Des Moines Area Roofing, The Simmons-Hemer Team at Motto Mortgage, and Erick Bokker and Pat Conway of Bank Central.** This wouldn’t have been possible without all of them.
 
