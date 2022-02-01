@@ -5,7 +5,8 @@ date: 2022-02-01 21:52:05
 tags:
   - Real Estate
 excerpt: We have 20 copies of Dave Ramsey’s latest book to give away!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2022/We+Have+a+Book+for+You.mp4
 pullquote: We’d love to give you one of Dave Ramsey’s latest books.
 enclosure_type: video/mp4
 enclosure_time:
