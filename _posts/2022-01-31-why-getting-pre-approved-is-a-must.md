@@ -5,7 +5,8 @@ date: 2022-01-31 19:17:26
 tags:
   - Home Buyer Tips
 excerpt: If you want to buy a home, you must get pre-approved before anything else.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2022/Why+Getting+Pre-Approved+Is+a+Must+(1).mp4
 pullquote: 'You need to back up your offer with a lender who has verified everything. '
 enclosure_type: video/mp4
 enclosure_time:
