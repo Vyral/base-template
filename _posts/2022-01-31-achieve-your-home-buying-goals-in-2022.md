@@ -27,6 +27,6 @@ Do you have home-buying goals? Today I want to share my advice on how you can re
 
 **3\. Get pre-approved.** Being pre-approved means you’ve talked to a mortgage lender, and they’ve thoroughly checked your financial situation. Not only does this put sellers’ minds at ease, but it will tell you exactly how much you qualify for. There’s no point in looking at a $400,000 home if you can’t afford it, and you won’t know if you can or not until you get pre-approved. As a heads up, your lender will ask for things like pay stubs, tax returns, and other important documents. Make sure you have everything you need so that pre-approval goes smoothly.&nbsp;
 
-**4\. Talk to a real estate professional.** When you buy a home, you need to work with someone who gives you all the information you need to make the best decision for you. Yes, you can work with your friends or family, but when you’re buying something as large as a home, wouldn’t you rather work with someone experienced?
+**4\. Talk to a real estate professional.** When you buy a home, you need to work with someone who gives you all the information you need to make the best decision.. Yes, you can work with your friends or family, but when you’re buying something as large as a home, wouldn’t you rather work with someone experienced?
 
 If you have any questions about today’s topic or anything else, please call me at 931-919-9467 or email me at [mark@theairassaultteam.com](mailto:mark@theairassaultteam.com). I look forward to hearing from you\!&nbsp;&nbsp;
