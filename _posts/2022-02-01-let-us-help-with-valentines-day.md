@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/misty-ss-yt-1.jpg
-youtube_code: 9OGNx4N5LLU
+youtube_code: gG__TFUowDQ
 ---
 {% include youtube.html %}
 
