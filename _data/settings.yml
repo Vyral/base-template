@@ -12,7 +12,7 @@ custom_links:
       https://www.eventbrite.com/o/misty-soldwisch-for-be-better-dsm-real-estate-coaching-17105672355
   - title: Meet and Greet with Misty
     url: >-
-      https://www.eventbrite.com/e/meet-greet-with-misty-soldwisch-better-homes-gardens-real-estate-tickets-44692218629
+      https://www.eventbrite.com/e/meet-and-greet-with-misty-soldwisch-tickets-247400811487
 client:
   name: Misty SOLDwisch
   license_number:
@@ -26,13 +26,13 @@ client:
   market: Central Iowa
   brand: Be Better DSM - Real Estate Coaching
   brokerage: Better Homes and Gardens Real Estate Innovations
-  address: '117 East Salem Avenue<br>Indianola, IA 50125'
+  address: 117 East Salem Avenue<br>Indianola, IA 50125
   phone: 515-346-6803
   phone_type:
   phone2:
   phone2_type:
   email: MistyS@BHGInnovations.com
-  url: 'http://BHGInnovations.com'
+  url: http://BHGInnovations.com
 client2:
   name: Aaron Moulton
   license_number:
@@ -48,7 +48,7 @@ client2:
   address: '9325 Bishop Drive #110<br>West Des Moines, IA 50365'
   phone: 515-218-7740
   email: AaronM@BHGInnovations.com
-  url: 'http://BHGInnovations.com'
+  url: http://BHGInnovations.com
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809043';</script><script
@@ -63,14 +63,14 @@ sidebar_CTA:
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
@@ -80,16 +80,16 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/BeBetterDSM/'
-  linkedin_url: 'http://www.linkedin.com/in/mistysold/'
+  facebook_url: https://www.facebook.com/BeBetterDSM/
+  linkedin_url: http://www.linkedin.com/in/mistysold/
   gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UC6QI2aC5ZGGsZZurGK0Fodw'
-  twitter_url: 'https://twitter.com/MistySOLDTeam'
+  youtube_url: https://www.youtube.com/channel/UC6QI2aC5ZGGsZZurGK0Fodw
+  twitter_url: https://twitter.com/MistySOLDTeam
   instagram_url:
   pinterest_url:
   podcast_url:
-  instagram2_url: 'https://www.instagram.com/bhginnovations/'
-  facebook2_url: 'https://www.facebook.com/bhginnovations/'
+  instagram2_url: https://www.instagram.com/bhginnovations/
+  facebook2_url: https://www.facebook.com/bhginnovations/
 podcast:
   title: Central Iowa Real Estate Careers and Training Podcast with Misty Soldwisch
   categories:
@@ -133,5 +133,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
