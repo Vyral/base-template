@@ -28,4 +28,4 @@ We’ve helped people get out of debt, buy their first home, and eventually buy 
 
 We have 20 books to give away that will help you take control of your finances. We highly suggest you listen to what Dave Ramsey says. He’s helped both us and plenty of our clients.&nbsp;
 
-**Simply email**[**ron@homebuyersrealty.com**](mailto:ron@homebuyersrealty.com)**, and we’d love to either hand deliver or send you Dave Ramsey’s latest book.** Also, call or email us if you have any real estate questions or needs. We’d be glad to help you.&nbsp;
+**Simply email&nbsp;**[**ron@homebuyersrealty.com**](mailto:ron@homebuyersrealty.com)**, and we’d love to either hand deliver or send you Dave Ramsey’s latest book.** Also, call or email us if you have any real estate questions or needs. We’d be glad to help you.&nbsp;
