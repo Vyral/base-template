@@ -32,7 +32,7 @@ Tim tried another new dish at **The Hanger** called the Island Hopper. It’s ha
 
 Next up was the **Scotch Eggs** down by the animal buildings. He got a hardboiled egg with sriracha and horseradish. It might not sound amazing, but the sauces went together well.
 
-**Giggle’s** on Machinery Hill is one of our absolute favorite places to go at the fair. This year, Tim tried the walleye cake, which is essentially like crab cakes. He doesn’t feel that the hype is deserved for this dish.
+**Giggle’s** on Machinery Hill is one of our absolute favorite places to go at the fair. This year, Tim tried the walleye cake, which is essentially like crab cakes. He doesn’t feel that the hype for this dish is deserved .
 
 Finally, Tim stopped by the famous **Sweet Martha’s Cookies.** If you haven’t tried it before, you can grab some of the cookies and head down to the all-you-can-drink milk next to the poultry building and Miracle of Birth Center. What a great way to end the day.
 
