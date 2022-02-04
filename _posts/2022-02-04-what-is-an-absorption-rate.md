@@ -26,7 +26,7 @@ Now let’s apply this concept to real estate. If we look at last month’s mark
 
 **Let’s see how the absorption rate in our market differs depending on the properties’ price ranges.** For comparison’s sake, I’ll include the numbers from 2017 as well:
 
-$0 to $400,000
+<u$0 to $400,000/>
 
 2017: Two to five months
 
