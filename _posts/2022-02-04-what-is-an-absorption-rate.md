@@ -27,33 +27,23 @@ Now let’s apply this concept to real estate. If we look at last month’s mark
 **Let’s see how the absorption rate in our market differs depending on the properties’ price ranges.** For comparison’s sake, I’ll include the numbers from 2017 as well:
 
 <u>$0 to $400,000</u>
-
 2017: Two to five months
-
 2021: Less than one month&nbsp;
 
-$400,000 to $750,000
-
+<u>$400,000 to $750,000</u>
 2017: Six to 12 months
-
 2021: Two to three months
 
-$750,000 to $1,000,000
-
+<u>$750,000 to $1,000,000</u>
 2017: Over a year
-
 2021: Three to five months
 
-$1,000,000 to $3,000,000
-
+<u>$1,000,000 to $3,000,000</u>
 2017: Two to four years
-
 2021: Four to seven months
 
-&gt; $3,000,000
-
+<u>&gt; $3,000,000</u>
 2017: 11 years
-
 2021: Around one year
 
 As you can see, the pandemic and its effects have lowered our absorption rate way below average. This means **it’s a great time to sell your home** since there are tons of buyers and not enough supply to meet their demand.&nbsp;
