@@ -5,7 +5,8 @@ date: 2022-01-31 23:30:12
 tags:
   - Home Buyer Tips
 excerpt: 'Here are my four tips to help you achieve your home-buying goals. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/How+To+Reach+Your+Home-Buying+Goals.mp4
 pullquote: ' Work with an experienced professional with your best interest in mind. '
 enclosure_type: video/mp4
 enclosure_time:
