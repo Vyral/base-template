@@ -5,7 +5,8 @@ date: 2022-02-01 00:00:00
 tags:
   - Lead Generation
 excerpt: How you can engage clients with a hot properties email list.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Get+Your+Clients+To+Reach+Out+To+You.mp4
 pullquote: >-
   We want our clients to reach out to us rather than us always bugging them,
   right?
