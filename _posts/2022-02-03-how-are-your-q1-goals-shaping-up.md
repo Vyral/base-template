@@ -2,13 +2,16 @@
 layout: post
 title: How Are Your Q1 Goals Shaping Up?
 tags:
+  - Transaction Management
+  - Lead Generation
+  - Lead Conversion
+  - Buyer Prospects
 excerpt: We’re halfway through the first quarter? How are you doing on your goals?
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/The+Stern+Team_+Are+You+On+Course_.mp4
+enclosure: s3://vyralmarketing/Josh Stern/2022 REC/SternQ1.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/1-7-22yt-3.jpg
 youtube_code: 9ffAbcpfnOQ
 ---
