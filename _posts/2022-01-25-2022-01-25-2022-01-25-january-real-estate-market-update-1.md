@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January Real Estate Market Update
+title: January Real Estate Market Update [DELETE]
 date: 2022-01-25 00:00:00
 tags:
   - Market Update
