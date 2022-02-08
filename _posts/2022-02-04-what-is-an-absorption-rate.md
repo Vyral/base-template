@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What Is an Absorption Rate? '
+title: Explaining Housing Absorption Rate
 date: 2022-02-04 13:43:53
 tags:
   - Home Seller Tips
@@ -18,11 +18,11 @@ youtube_code: kh4woyAHrfQ
 
 {% include excerpt.html %}
 
-If you’ve been following me for a while, then you may be familiar with our market’s absorption rate. However, I haven’t talked about this topic in a while, and things have changed, so today I want to discuss our absorption rate and what it means for the Big Fork area.&nbsp;
+If you’ve been following me for a while, then you may be familiar with our market’s absorption rate. However, I haven’t talked about this topic in a while, and things have changed, so today I want to discuss our absorption rate and what it means for the Big Fork area.
 
-First, let’s talk about what an absorption rate is. A good example to use is our grocery stores. Before the pandemic, the shelves were almost always stocked, and you never had an issue buying what you wanted. Now with supply chain disruptions and pandemic regulations, the grocery supply isn’t restocked as often, and many things are more difficult to buy. Once the stores finally do restock, it may only take a week for everything to be gone. **The time it takes for the supply to deplete (in this case, one week) is the absorption rate.&nbsp;**
+First, let’s talk about what an absorption rate is. A good example to use is our grocery stores. Before the pandemic, the shelves were almost always stocked, and you never had an issue buying what you wanted. Now with supply chain disruptions and pandemic regulations, the grocery supply isn’t restocked as often, and many things are more difficult to buy. Once the stores finally do restock, it may only take a week for everything to be gone. **The time it takes for the supply to deplete (in this case, one week) is the absorption rate. **
 
-Now, let’s apply this concept to real estate. If we look at last month’s market, we can take the number of homes listed for sale and compare it to the number of homes that sold. If the number of homes listed for sale is three times higher than the number of homes that sold, then we would have an absorption rate of three months. However, in a market with low supply and high demand like ours, the absorption rate is usually much lower.&nbsp;
+Now, let’s apply this concept to real estate. If we look at last month’s market, we can take the number of homes listed for sale and compare it to the number of homes that sold. If the number of homes listed for sale is three times higher than the number of homes that sold, then we would have an absorption rate of three months. However, in a market with low supply and high demand like ours, the absorption rate is usually much lower.
 
 **Let’s see how the absorption rate in our market differs depending on the properties’ price ranges.** For comparison’s sake, I’ll include the numbers from 2017 as well:
 
@@ -30,7 +30,7 @@ Now, let’s apply this concept to real estate. If we look at last month’s mar
 
 2017: Two to five months
 
-2021: Less than one month&nbsp;
+2021: Less than one month
 
 <u>$400,000 to $750,000</u>
 
