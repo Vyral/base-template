@@ -19,7 +19,7 @@ youtube_code: MEtLT4XvWYY
 
 Often, we receive questions from clients stuck at a crossroad—they don’t know if they should renovate or just move. It's a tough decision, and there are many factors to consider. That’s why we want to share four things to think about when deciding whether to renovate or move:
 
-**1\. What needs does each option fulfill?** Each option can fix different problems, so consider what’s important to you. For example, if you need more space, adding an addition to your home will be time-consuming and costly. However, finishing your basement might be a more realistic option.
+**1\. What need does each option fulfill?** Each option can fix different problems, so consider what’s important to you. For example, if you need more space, adding an addition to your home will be time-consuming and costly. However, finishing your basement might be a more realistic option.
 
 **2\. What type of updates do you want?** Look at what it would cost to update your kitchen or bathroom and compare it to the cost of buying a newly remodeled home. Usually, it’s cheaper to make the renovation, but it’s always a good idea to check.
 
