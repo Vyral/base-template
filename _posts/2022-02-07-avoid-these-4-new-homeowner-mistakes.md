@@ -25,7 +25,7 @@ Have you purchased your first home recently? Homeownership is exciting, but it�
 
 {% include pullquote.html %}
 
-**Mistake No. 3: Choosing the lowest bid for a repair or upgrade.** When you decide to make a change to your home, don’t just pick the contractor with the lowest cost. Shop around and ask your Realtor for referrals. They’ve probably had clients make the same upgrade you want to make, so they can refer you to someone you know will get the job done well.&nbsp;
+**Mistake No. 3: Choosing the lowest bid for a repair or upgrade.** When you decide to change your home, don’t just pick the contractor with the lowest cost. Shop around and ask your Realtor for referrals. They’ve probably had clients make the same upgrade you want to make, so they can refer you to someone you know will get the job done well.&nbsp;
 
 **Mistake No. 4: Submitting insurance claims too often.** As issues come up, don’t get too excited about submitting claims. If you make too many small claims, there’s a good chance you could get dropped from your insurance. Save insurance claims for big problems that you can’t fix yourself.&nbsp;
 
