@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Check out our list of great and not-so-great foods at the state fair.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/What+Food+Should+You+Try+at+the+State+Fair_.mp4
 pullquote: Our hands-down favorite item was the cheese curds from The Mouth Trap.
 enclosure_type: video/mp4
 enclosure_time:
