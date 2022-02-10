@@ -5,7 +5,7 @@ date: 2022-02-07 00:00:00
 tags:
   - Real Estate
   - Homeowner Tips
-excerpt: Some tips to help protect your home from the cold weather from an expert.
+excerpt: Some tips from an expert to help protect your home from the cold weather.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: ogp74-XHcLk
 
 {% include excerpt.html %}
 
-It is the perfect weather to bring you some winter safety tips for your home. The cold may damage your home if you don’t prepare for it, and that’s why we talked to the head honcho over at HomeTeam Inspection Services, Brad Lawler, about how to protect your property from our winter weather. As a note, the cold may affect our travel plans, but it is not stopping our market—it is red hot\! We only have 1,185 listings available currently, which is well below our average of around 2,500 homes. Let’s get into Brad’s tips.
+It is the perfect weather to bring you some winter safety tips for your home. The cold may damage your home if you don’t prepare for it, and that’s why we talked to the head honcho over at HomeTeam Inspection Services, Brad Lawler, about how to protect your property from our winter weather. As a note, the cold may affect our travel plans, but it is not stopping our market—it is red-hot\! We only have 1,185 listings available currently, which is well below our average of around 2,500 homes. Let’s get into Brad’s tips.
 
 **You can watch the full message above, or you can skip to each section using the timestamps provided below:&nbsp;**
 
