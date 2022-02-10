@@ -22,7 +22,7 @@ youtube_code: FiHqUDUHur0
 
 {% include excerpt.html %}
 
-As we've said on our previous videos, there is **lack of inventory** in the real estate market as of the moment. Because of that, the **demands are high** and a lot of buyers are competing over one property. Here are some tips to help you beat the competition when it comes to getting your offer accepted.
+As we've said on our previous videos, there is **lack of inventory** in the real estate market as of the moment. Because of that, the **demand is high** and a lot of buyers are competing over one property. Here are some tips to help you beat the competition when it comes to getting your offer accepted.
 
 **Number one**, always talk to the listing agent before the showing. This is an opportunity for you to find out about the agent you may be working with, and what the sellers are looking for.
 
