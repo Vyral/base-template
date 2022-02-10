@@ -5,7 +5,8 @@ date: 2022-02-07 00:00:00
 tags:
   - Homeownership
 excerpt: 'Here are four things to consider when deciding to renovate or move. '
-enclosure:
+enclosure: >-
+  https://s3.console.aws.amazon.com/s3/upload/vyralmarketing?region=us-east-1&prefix=Colemere+Realty/
 pullquote: You can’t renovate your way out of your location.
 enclosure_type: video/mp4
 enclosure_time:
