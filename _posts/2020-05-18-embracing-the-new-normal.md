@@ -4,7 +4,7 @@ title: Embracing the New Normal
 date: 2020-05-18 14:25:33
 tags:
   - Real Estate
-excerpt: 'When you’re ready to return to the market, we’ll be here for you.'
+excerpt: When you’re ready to return to the market, we’ll be here for you.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Embracing+the+New+Normal.mp4
 pullquote:
