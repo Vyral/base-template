@@ -5,7 +5,8 @@ date: 2022-02-07 00:00:00
 tags:
   - Real Estate
 excerpt: If you need a dinner reservation for Valentine’s Day, try these spots first
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2022/My+Top+3+Valentine%E2%80%99s+Day+Dinner+Recommendations.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ If you’re looking for a restaurant recommendation for Valentine’s Day, you�
 
 [**1\. Pomo Pizzeria.**](https://pomopizzeria.com/) It’s an authentic Neapolitan pizza shop. It reminds me of the places I’ve visited in Naples.
 
-[**2\. The Mission.**](https://www.themissionaz.com/)&nbsp;It’s a gourmet Mexican restaurant. Get your reservation in now before it’s too late.
+[**2\. The Mission.**](https://www.themissionaz.com/) It’s a gourmet Mexican restaurant. Get your reservation in now before it’s too late.
 
 [**3\. A Different Pointe of View.**](https://tapatiocliffshilton.com/dining/different-pointe-of-view/) It’s on top of a mountain at the Pointe Hilton Tapatio Cliffs Resort, and the food is just as good as the views. It’s an A+ experience.
 
