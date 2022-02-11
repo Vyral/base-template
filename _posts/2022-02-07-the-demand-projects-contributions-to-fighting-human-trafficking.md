@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/01-31-wolek-youtube.jpg
-youtube_code: 6UUtUFI0sV4
+youtube_code: ZF4K7YnW6dg
 hidden: false
 ---
 {% include youtube.html %}
@@ -22,7 +22,7 @@ hidden: false
 
 What the Demand Project does for the Tulsa area community is just so amazing. We recently sat down with Kristin so that she could share what the organization is all about and why her work is so invaluable.
 
-The Demand Project was founded due to a story Kristin heard in 2004 of a horrible incident that was recorded and shared online for others to watch. It was so awful that Kristin felt that she had to do something about it.&nbsp;
+The Demand Project was founded due to a story Kristin heard in 2004 of a horrible incident that was recorded and shared online for others to watch. It was so awful that Kristin felt that she had to do something about it.
 
 The organization was formed to cover the gaps in the system, help prevent sexual exploitation from happening, protect those who need it, and help victims recover when awful things do happen.
 
