@@ -33,6 +33,8 @@ I’m one of the older members on the team; I think I joined in August of 2017. 
 
 I’ve had a few different titles in my four years on the team. I went from a buyer’s agent to a showing agent. Now I’ve found my niche as the lead inside sales agent. What does that mean exactly? I like to say I’m a bit like the nurse in the doctor’s office. I’m the first person people chat with whether they want to buy, sell, or just ask some questions. My job is to make sure they’re being served at a deep level, and I do a brief intake to see how we can make that happen. After that, I put them in touch with one of our senior buyers or listing agents.&nbsp;
 
+&nbsp;
+
 {% include pullquote.html %}
 
 You are someone I respect a lot because you come in every day, put your head down, and put in the work. **What would you say is the biggest challenge in your job?**
