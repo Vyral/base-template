@@ -41,4 +41,4 @@ If you have a real estate agent you really love, they might do some things that 
 
 As you can see, a good agent and your mom aren’t so different after all. **We’re both doing everything in our power to protect you and ensure a bright future for you and your family.&nbsp;**
 
-If you have any questions for us about how we can help you or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for us about how we can help you or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
