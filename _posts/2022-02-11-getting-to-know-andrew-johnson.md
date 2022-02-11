@@ -37,6 +37,8 @@ I’ve had a few different titles in my four years on the team. I went from a bu
 
 {% include pullquote.html %}
 
+&nbsp;
+
 You are someone I respect a lot because you come in every day, put your head down, and put in the work. **What would you say is the biggest challenge in your job?**
 
 The hardest part is creating relationships with clients and making sure they feel served. We’re on the front end of the conversation, but we kind of take a back seat after that initial 30 minutes. Having longer relationships with clients can be hard, and it’s something I miss. Keeping that relationship is all about checking in every so often and making sure they’re taken care of, but I would say that’s the biggest challenge.
