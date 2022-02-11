@@ -26,7 +26,7 @@ If you look over the data, you’ll see that over 50% of homeowners in this coun
 
 {% include pullquote.html %}
 
-Regarding some of the articles that circulated last year, some claimed that short sale and foreclosure inventory had doubled over the previous two months, which fed into the concern that a wave was coming. The thing to remember is that around 10 years ago, foreclosures and short sales were between 40% and 50% of transactions. What the media was describing last year was a tiny spike in foreclosures and short sales, going from 1% to 2% between Q3 and Q4.
+Some articles circulated last year that claimed short sale and foreclosure inventory had doubled over the previous two months, which fed into the concern that a wave was coming. The thing to remember is that around 10 years ago, foreclosures and short sales were between 40% and 50% of transactions. What the media was describing last year was a tiny spike in foreclosures and short sales, going from 1% to 2% between Q3 and Q4.
 
 Ultimately, our housing market is safe for a while. If something drastic happens, we may revisit this conversation, but in the meantime, please don’t buy into the hype.
 
