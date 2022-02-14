@@ -5,7 +5,8 @@ date: 2022-02-07 00:00:00
 tags:
   - Real Estate
 excerpt: 'The Demand Project’s vitally important work of fighting human trafficking. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/The+Demand+Project's+Contributions+to+Fighting+Human+Trafficking.mp4
 pullquote: >-
   Having the resources and knowledge to say something can make all the
   difference.
