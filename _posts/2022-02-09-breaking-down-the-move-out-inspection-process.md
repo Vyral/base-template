@@ -21,8 +21,6 @@ Today we’re giving you a closer look at how our move-out inspection process wo
 
 I go into the property, take lots of pictures, take notes, and document everything. Then I compare my notes to the property condition disclosure form that was filled out when they moved in.&nbsp;
 
-There are more items to worry about when tenants move out than when tenants move in. If there are new damages, that's considered negligence. It’s the tenants’ responsibility to pay for the damages out of their security deposit.
+There are more items to worry about when tenants move out than when tenants move in. If there are new damages, that's considered negligence. It’s the tenants’ responsibility to pay for the damages out of their security deposit.&nbsp;**After I take my pictures (roughly 150 for a one-bedroom unit), any items that need to be addressed are repaired before the 14-day time frame expires.**
 
-**After I take my pictures (roughly 150 for a one-bedroom unit), any items that need to be addressed are addressed and repaired before the 14-day timeframe expires.**
-
-If you have any questions about this procedure or anything else, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about this procedure or anything else, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
