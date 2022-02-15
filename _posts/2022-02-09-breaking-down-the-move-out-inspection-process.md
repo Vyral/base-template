@@ -5,7 +5,8 @@ date: 2022-02-09 10:46:00
 tags:
   - Property Management
 excerpt: This is how we handle move-out inspections with our tenants.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/Breaking+Down+the+Move-Out+Inspection+Process.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
