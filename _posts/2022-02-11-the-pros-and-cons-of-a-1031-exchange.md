@@ -22,7 +22,7 @@ youtube_code: QUL5ievQqg0
 
 Today I’m sharing the pros and cons of a 1031 exchange for those of you who own a rental property or are considering buying one.
 
-Let’s say you buy a rental property for $200,000, and in a few years, it’s worth $300,000. You’re ready to sell it and want to keep that extra $100,000, but you’ll have to pay income taxes on the money it earned over time. However, **with a 1031 exchange, you’ll buy a similar property to the one you’re selling with the money you earned from the first one.** (Though the property can be a little smaller or larger than the first one.) When you move those funds with a 1031 exchange, you avoid paying taxes on them.
+Let’s say you buy a rental property for $200,000, and in a few years, it’s worth $300,000. You’re ready to sell it and want to keep that extra $100,000, but you’ll have to pay income taxes on the money it earned over time. However, **with a 1031 exchange, you’ll buy a similar property to the one you’re selling with the money you earned from the sale.** (Though, the property can be a little smaller or larger than the first one.) When you move those funds with a 1031 exchange, you avoid paying taxes on them.
 
 I’m currently doing a 1031 exchange where I’m selling one property and putting the proceeds into two different properties. That allows me to get a very low interest rate on the two new properties because I’ve split the proceeds from the first property and have $125,000 to use as each new one’s down payment. I’ll have a 3.5% interest rate over 10 to 20 years, which means my money is working hard for me twice. Of course, **I’ll also avoid taxes because I rolled those dollars into like-properties.**
 
