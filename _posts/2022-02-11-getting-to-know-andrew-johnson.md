@@ -47,4 +47,4 @@ The team has certainly grown since I started; we maybe had five or six people ba
 
 I look forward to leading my department. Leading other people and helping them reach their goals is a passion of mine from my sports background. I look forward to pouring into the people under me and watching them grow and reach their potential.&nbsp;
 
-If you or someone you know is interested in learning more about Andrew, our team, or how we can help grow your business, we’re an open book, and we would love to serve you. Just give us a call at (717) 216-0864 or email us at [Dave@DaveHookeTeam.com](mailto:Dave@DaveHookeTeam.com). We look forward to talking with you.&nbsp;
+If you or someone you know is interested in learning more about Andrew, our team, or how we can help grow your business, we’re an open book, and we would love to serve you. Just give us a call at (717) 216-0860 or email us at [Dave@DaveHookeTeam.com](mailto:Dave@DaveHookeTeam.com). We look forward to talking with you.&nbsp;
