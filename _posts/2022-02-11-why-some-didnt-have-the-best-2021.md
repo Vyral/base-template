@@ -24,6 +24,6 @@ The first group recognized that the market was hot, but they had trouble connect
 
 {% include pullquote.html %}
 
-The other group may have had the most financially successful year that they’d had in a while, but they had no work/life balance. Many couldn’t imagine maintaining that same pace heading into 2022 and were concerned about burnout.
+The other group may have had the most financially successful year that they’d had in a while, but they had no work-life balance. Many couldn’t imagine maintaining that same pace heading into 2022 and were concerned about burnout.
 
 **I’d love to hear what your year has been like so far and what you hope to achieve in 2022.** Give me a call or send an email, and I’d be happy to set up a no-obligation strategy session where I can provide you with three strong action steps to take to help you build your business.
