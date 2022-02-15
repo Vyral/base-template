@@ -3,10 +3,7 @@ layout: post
 title: Getting To Know Andrew Johnson
 date: 2022-02-11 05:07:00
 tags:
-  - Real Estate
-  - our team
-  - get to know our team
-  - team members
+  - The Dave Hooke Team
 excerpt: We sit down with Andrew Johnson, our lead inside sales agent.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2022/Getting+To+Know+Andrew+Johnson.mp4
