@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Shane Talks Inflation, Rates, and Financing
+title: Shane Hoffman Talks Inflation, Rates, and Financing
 date: 2022-02-14 00:00:00
 tags:
   - Real Estate
 excerpt: 'We talk to Shane Hoffman about interest rates, financing, and inflation. '
 enclosure:
-pullquote: 'I wouldn’t be shocked to see rates at 4.5% by the end of the year. '
+pullquote: '''I wouldn’t be shocked to see rates at 4.5% by the end of the year.'''
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -31,4 +31,4 @@ Unfortunately, this isn’t something we can control, but it is the reality of t
 
 At Edina Realty Mortgage, we have a program called the buyer advantage. We double-check your finances, and you receive a full commitment letter instead of a typical pre-approval letter. This is a stronger seal of approval, and sellers will take notice. Importantly, if you do this program, you can lock in your rate for 90 days, so you won’t have to worry about them increasing while you shop.&nbsp;
 
-If you have any questions for Shane, don’t hesitate to reach out to him. Also, please call or email us with any questions. We are always happy to help\!&nbsp;
+If you have any questions for Shane, don’t hesitate to reach out to him via phone or email. Also, please call or email us with any real estate questions. We are always happy to help\!&nbsp;
