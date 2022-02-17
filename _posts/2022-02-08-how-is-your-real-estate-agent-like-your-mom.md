@@ -5,7 +5,8 @@ date: 2022-02-08 00:00:00
 tags:
   - Real Estate
 excerpt: This is why having a great agent is a lot like having a great mom.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Is+Your+Real+Estate+Agent+Like+Your+Mom_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -39,6 +40,6 @@ If you have a real estate agent you really love, they might do some things that 
 
 10\. She’s both happy and sad when you move on, but ultimately she’s proud to see you pursue your dreams and have been part of the journey.
 
-As you can see, a good agent and your mom aren’t so different after all. **We’re both doing everything in our power to protect you and ensure a bright future for you and your family.&nbsp;**
+As you can see, a good agent and your mom aren’t so different after all. **We’re both doing everything in our power to protect you and ensure a bright future for you and your family. **
 
 If you have any questions for us about how we can help you or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
