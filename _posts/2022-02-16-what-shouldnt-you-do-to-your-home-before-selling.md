@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Shouldn’t You Do to Your Home Before Selling?
-date: 2020-10-14 16:59:23
+date: 2022-02-16 16:59:00
 tags:
   - Home Seller Tips
 excerpt: Here are two home improvements that will cost you more than you think.
@@ -12,14 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-editing-2-improvements-that-will-not-add-value-yt.jpg
-youtube_code: 'https://youtu.be/GJmg4DlJFC8'
+youtube_code: https://youtu.be/GJmg4DlJFC8
 ---
-
 {% include youtube.html %}
 
 Today I want to tell you about two home improvements that will not bring value to your home prior to selling it:
 
-**1\. Swimming pool.** Spending the money to add a pool to your property will cost a minimum of $30,000, but will probably improve the home’s value by no more than $15,000.&nbsp;
+**1\. Swimming pool.** Spending the money to add a pool to your property will cost a minimum of $30,000, but will probably improve the home’s value by no more than $15,000.
 
 **2\. Solar panels.** If you plan on staying in the home for at least seven to 10 years, they’re a good long-term investment and will save you money on your energy bills each month. However, if you’re adding them right before selling in the hopes that they will improve your home’s resale value, that’s not going to happen. Leased panels will not bring any value at all. The only time it might have some effect is if the panels are completely paid off. Even then, it will add no more than ⅓ of the original cost of the panels to the home’s value.
 
