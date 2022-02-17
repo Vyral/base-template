@@ -6,12 +6,12 @@ tags:
   - Real Estate
 excerpt: 'We talk to Shane Hoffman about interest rates, financing, and inflation. '
 enclosure:
-pullquote: '''I wouldn’t be shocked to see rates at 4.5% by the end of the year.'''
+pullquote: I wouldn’t be shocked to see rates at 4.5% by the end of the year.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/huebners-ss-youtube-17.jpg
-youtube_code: dwS6kY7oICw
+youtube_code: Ab1ueeY5Crw
 ---
 {% include youtube.html %}
 
