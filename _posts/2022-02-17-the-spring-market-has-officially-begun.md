@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---feb-2022---1---youtube.jpg
-youtube_code:
+youtube_code: '-NNo57wS9Nc'
 ---
 {% include youtube.html %}
 
