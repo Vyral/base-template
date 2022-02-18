@@ -10,15 +10,14 @@ custom_links:
     url: /raving-fans
   - title: Guaranteed Sale
     url: /guaranteed-sale/
-
 client:
   name: Bob Sokoler
   license_number:
   about_markdown: >
-    Bob Sokoler is the owner of The Sokoler Team at RE/MAX Properties
-    East in Louisville, Kentucky, which has ranked No. 1 in the city for sales
-    volume Six years in a row! His team sold more than 404 homes in 2016 and
-    more than 340 properties in 2015.
+    Bob Sokoler is the owner of The Sokoler Team at RE/MAX Properties East in
+    Louisville, Kentucky, which has ranked No. 1 in the city for sales volume
+    Six years in a row! His team sold more than 404 homes in 2016 and more than
+    340 properties in 2015.
 
 
     Before becoming a realtor in 2004, Bob was a two-time Emmy Award-winning
@@ -32,24 +31,24 @@ client:
   market: Louisville
   brand: The Sokoler Team
   brokerage: RE/MAX Properties East
-  address: '10 525 Timber Wood Cir. Louisville, KY 40223'
+  address: 10 525 Timber Wood Cir. Louisville, KY 40223
   phone: 502-376-5483
   phone_type:
   phone2:
   phone2_type:
   email: Bob@WeSellLouisville.com
-  url: 'http://www.weselllouisville.com'
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808368';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  url: http://www.weselllouisville.com
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808368';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 forms:
   sitekey: 6LcZLUAaAAAAAOa_nuyjUIIaNjbUqyrkJEcfJEHn
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://search.louisvillehomesnow.com/seller'
+  first_CTA_URL: https://search.louisvillehomesnow.com/seller
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.weselllouisville.com/property-search/search-form/'
+  second_CTA_URL: http://www.weselllouisville.com/property-search/search-form/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -57,25 +56,26 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: 'https://search.louisvillehomesnow.com/seller'
+    CTA_url: https://hmbt.co/8LiphV
 second_sidebar_CTA:
   - CTA_image_path2: /img/truck.jpg
     CTA_title2: Moving?
     CTA_text2: >-
-      Buy or sell with The Sokoler Team and use our moving truck for free. Give us a call for more details.
+      Buy or sell with The Sokoler Team and use our moving truck for free. Give
+      us a call for more details.
     CTA_link_text2: 502-376-5483
-    CTA_url2: 'tel:502-376-5483'
+    CTA_url2: tel:502-376-5483
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -88,16 +88,15 @@ socials:
   review_sm_icons: false
   facebook_url: >-
     https://www.facebook.com/pages/Louisville-Real-Estate-with-the-Sokoler-Medley-Team/244168452281132
-  linkedin_url: 'https://www.linkedin.com/pub/bob-sokoler/9/6a5/507'
-
-  youtube_url: 'https://www.youtube.com/channel/UC2O5BoAYEtc5RzhWHUv8bEQ'
-  twitter_url: 'https://twitter.com/BobSokoler'
+  linkedin_url: https://www.linkedin.com/pub/bob-sokoler/9/6a5/507
+  youtube_url: https://www.youtube.com/channel/UC2O5BoAYEtc5RzhWHUv8bEQ
+  twitter_url: https://twitter.com/BobSokoler
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/bobsokoler/'
-  trulia_url: 'http://www.trulia.com/profile/bobsokoler/'
-  yelp_url: 'http://www.yelp.com/biz/the-medley-sokoler-team-louisville?nb=1'
-  podcast_url: 'https://itunes.apple.com/us/podcast/bob-sokoler/id1263653061'
+  zillow_url: http://www.zillow.com/profile/bobsokoler/
+  trulia_url: http://www.trulia.com/profile/bobsokoler/
+  yelp_url: http://www.yelp.com/biz/the-medley-sokoler-team-louisville?nb=1
+  podcast_url: https://itunes.apple.com/us/podcast/bob-sokoler/id1263653061
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
@@ -136,7 +135,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(238, 238, 238, 0.7)'
+  shadow_color: rgba(238, 238, 238, 0.7)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -145,5 +144,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
