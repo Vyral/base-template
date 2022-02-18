@@ -24,7 +24,7 @@ The first thing you need to watch out for are problems with the foundation. Rece
 
 The next problem area is the roof. Your roof shields your home from the elements, so a damaged roof has to be repaired immediately. If you need to replace an entire roof, it can run you anywhere from $10,000 to $15,000. Make sure you know how much life a roof has left before you buy a home.&nbsp;
 
-You should also be wary of any electrical issues. Older homes are often missing circuit breakers that are up to code, and some properties have aluminum wiring that needs to be replaced. Fixing the wiring is called pigtailing, and it can cost anywhere from $4,000 to $5,000. **If you want to totally replace the wiring, it will be much more—as much as $15,000.**
+You should also be wary of any electrical issues. The circuit breakers in older homes might not be up to code, and some properties have aluminum wiring that needs to be replaced. Fixing the wiring is called pigtailing, and it can cost anywhere from $4,000 to $5,000. **If you want to totally replace the wiring, it will be much more—as much as $15,000.**
 
 {% include pullquote.html %}
 
