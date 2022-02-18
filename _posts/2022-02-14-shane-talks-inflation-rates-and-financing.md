@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shane Hoffman Talks Inflation, Rates, and Financing
+title: Shane Hofmann Talks Inflation, Rates, and Financing
 date: 2022-02-14 00:00:00
 tags:
   - Real Estate
@@ -17,7 +17,7 @@ youtube_code: Ab1ueeY5Crw
 
 {% include excerpt.html %}
 
-Today we are talking with Shane Hoffman from Edina Realty Mortgage, and we’re sitting in a model home on McKenna Road in Prior Lake. Why are we in this model? As you may know, inventory is incredibly low in our current market, and many buyers are looking toward new construction as an alternative. If you’re looking to buy, you might need financing, and that’s why we want to talk to Shane about some common financing questions.&nbsp;
+Today we are talking with Shane Hofmann from Edina Realty Mortgage, and we’re sitting in a model home on McKenna Road in Prior Lake. Why are we in this model? As you may know, inventory is incredibly low in our current market, and many buyers are looking toward new construction as an alternative. If you’re looking to buy, you might need financing, and that’s why we want to talk to Shane about some common financing questions.&nbsp;
 
 {% include pullquote.html %}
 
