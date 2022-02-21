@@ -24,6 +24,6 @@ Our spring market runs from now through early June. We have so many buyers waiti
 
 {% include pullquote.html %}
 
-When all the pieces come together, that’s how we’re able to sell so many of our listings. **Many times, we earn our sellers tens of thousands over their list prices**. Last year, our listings sold for an average of 103% of their list prices. Your home could be worth tens of thousands more than you think based on its condition and location. Reach out today for a free, no-obligation market analysis of your home to learn more.
+When all the pieces come together, we’re able to sell so many of our listings. **Many times, we earn our sellers tens of thousands over their list prices**. Last year, our listings sold for an average of 103% of their list prices. Your home could be worth tens of thousands more than you think based on its condition and location. Reach out today for a free, no-obligation market analysis of your home to learn more.
 
 If you have any other questions or real estate needs we can assist with, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
