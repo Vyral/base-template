@@ -11,7 +11,7 @@ pullquote: Many can’t imagine maintaining the same pace as they did in 2021.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/misty-ss-yt.jpg
+youtube_alternate_image: /uploads/misty-yt.jpg
 youtube_code: 2G_AxKWdmLM
 ---
 {% include youtube.html %}
