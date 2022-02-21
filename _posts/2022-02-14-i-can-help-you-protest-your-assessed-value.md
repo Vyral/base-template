@@ -18,6 +18,6 @@ youtube_code: mL_m8izTGNc
 
 {% include excerpt.html %}
 
-It’s almost that time of year when property tax bills are due, but you may think your property tax bill is too high. COVID could have had an impact on your home’s value, and you can protest it. **You have until the end of March to file your complaint.** You will need to go on the Franklin County Auditor’s [website](https://www.franklincountyauditor.com/){: target="_blank" rel="noopener"}to fill out an application form and provide all necessary documentation. If you need assistance with the process, I’ve personally filed a complaint and got my taxes reduced, and I’d love to help you do the same.&nbsp;
+It’s almost that time of year when property tax bills are due, but you may think your property tax bill is too high. COVID could have had an impact on your home’s value, and you can protest it. **You have until the end of March to file your complaint.** You will need to go on the Franklin County Auditor’s <u>[website](https://www.franklincountyauditor.com/){: target="_blank" rel="noopener"}</u> to fill out an application form and provide all necessary documentation. If you need assistance with the process, I’ve personally filed a complaint and got my taxes reduced, and I’d love to help you do the same.&nbsp;
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
