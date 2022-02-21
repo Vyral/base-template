@@ -3,37 +3,257 @@
   <channel>
     <title>Charleston Real Estate Video Blog with Mikki Ramey</title>
     <description>Our mission at The Mikki Ramey Team is to be your best resource for Charleston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Mikki Ramey Team, your professional Charleston Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2017 15:32:48 -0500</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2017 15:32:48 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Feb 2022 13:39:44 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Feb 2022 13:39:44 -0600</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Investing in Real Estate</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JjWkdDOd4zU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Real estate is likely the best investment you can make right now.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;I’ll let you in on a little secret: Real estate is the absolute best investment that you can make for the next three to six months.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Despite the two-year pandemic, the real estate market in the US has been stronger than ever. In the Charleston area, we have around 1,100 homes for sale right now. In a steady market, we’d have 5,000 homes for sale. &lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Real estate is a great investment because with the reduced inventory, it’s almost impossible for prices to fall within the next three to six months.&lt;/strong&gt; Inventory would have to quadruple for us to go back to a steady market. Global concerns like the pandemic didn’t create a large shift in the real estate market, so the next three to six months are the perfect time to buy or sell real estate and take advantage of this unique market.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any questions, reach out to me by phone or email. I look forward to hearing from you.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
+        <pubDate>Thu, 10 Feb 2022 09:48:48 -0600</pubDate>
+        <link>http://localhost:4000/investing-in-real-estate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/investing-in-real-estate.html</guid>
+        
+        <category>Investing</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Top 3 Predictions for Charleston Real Estate in 2022</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6C44rV5ku8U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here are three things I’m anticipating for our real estate market this year.&lt;/p&gt;
+
+&lt;p&gt;As we head further into 2022, I wanted to share my top three predictions for the real estate market in Charleston this year:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. The market “bubble” won’t burst in 2022.&lt;/strong&gt; This is a topic I’m asked about constantly. We are driven by inventory and demand. There are still very few homes for sale and plenty of buyers actively looking for properties in this location. This creates a seller’s market and no likelihood for a bubble burst this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Home prices may go up another 10% this year alone.%20http://localhost:4000/top-3-predictions-for-charleston-real-estate-in-2022.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Home prices may go up another 10% this year alone.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Housing prices are going to increase.&lt;/strong&gt; This is another function of a strong seller’s market. Until the inventory situation corrects, prices are only going to go up. They may go up another 10% this year alone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Increased interest in second homes and investment properties.&lt;/strong&gt; As people are traveling overseas less, we’re seeing beach homes really take off here in Charleston. That short-term rental market will continue to increase, and investors are out buying properties in droves because of the expected appreciation.&lt;/p&gt;
+
+&lt;p&gt;Those are my three predictions for the Charleston real estate market in 2022. If you have any questions about them or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jan 2022 10:16:34 -0600</pubDate>
+        <link>http://localhost:4000/top-3-predictions-for-charleston-real-estate-in-2022.html</link>
+        <guid isPermaLink="true">http://localhost:4000/top-3-predictions-for-charleston-real-estate-in-2022.html</guid>
         
         <category>Market Update</category>
         
+        
+      </item>
+    
+      <item>
+        <title>Counting Down Our Top Appreciating Areas</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xPTq6uuFhuw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here are the top 20 areas of Charleston that are appreciating the most.&lt;/p&gt;
+
+&lt;p&gt;Today I’m counting down the top 20 appreciating areas in Charleston. These numbers are based on 2020 compared to 2021:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;20. Downtown Charleston.&lt;/strong&gt; The current average home sale price is $1.4 million, and the appreciation rate is 5.4%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;19. Seabrook Island.&lt;/strong&gt; The current average home sale price is right under $1 million, and the appreciation rate is 8.3%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;18. Upper Charleston Peninsula.&lt;/strong&gt; The current average home sale price is $624,000, and the appreciation rate is 10%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;17. John’s Island.&lt;/strong&gt; The current average home sale price is around $500,000, and the appreciation rate is 14%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;16. North Charleston.&lt;/strong&gt; The current average home sale price is $265,000, and the appreciation rate is 14.5%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;15. Goose Creek.&lt;/strong&gt; The current average home sale price is $336,000, and the appreciation rate is 15.4%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;14. James Island.&lt;/strong&gt; The current average home sale price is $560,000, and the appreciation rate is 15.5%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;13. Flowertown Summerville.&lt;/strong&gt; The current average home sale price is $340,000, and the appreciation rate is 16.5%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;12. Wando / Cane Bay.&lt;/strong&gt; The current average home sale price is around $600,000, and the appreciation rate is 16.4%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;11. Hanahan.&lt;/strong&gt; The current average home sale price is $355,000, and the appreciation rate is 17.9%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10. North Mount Pleasant.&lt;/strong&gt; The current average home sale price is $725,000, and the appreciation rate is 19.6%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9. West Ashley.&lt;/strong&gt; The current average home sale price is $444,000, and the appreciation rate is 19.8%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. Hollywood.&lt;/strong&gt; The current average home sale price is $565,000, and the appreciation rate is 21.1%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. South Mount Pleasant.&lt;/strong&gt; The current average home sale price is $925,000, and the appreciation rate is 22.5%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Daniel Island.&lt;/strong&gt; Here in my hometown, the current average home sale price is $1.5 million, and the appreciation rate is 27.8%. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Edisto Beach.&lt;/strong&gt; The current average home sale price is $818,000, and the appreciation rate is 31.9%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Sullivan’s Island.&lt;/strong&gt; Here in the most expensive area in Charleston, the current average home sale price is $3.4 million, and the appreciation rate is 34.3%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Folly Beach.&lt;/strong&gt; The current average home sale price is $1.150 million and the appreciation rate is 39.3%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Isle of Palms.&lt;/strong&gt; The current average home sale price is $1.97 million, and the appreciation rate is 43.9%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Kiawah Island.&lt;/strong&gt; The current average home sale price is $2.2 million, and the appreciation rate is a whopping 46.2%!&lt;/p&gt;
+
+&lt;p&gt;Proving life truly is better at the beach, our top five are all Charleston beach areas! I can’t wait to see what 2022 has in store for our real estate market. &lt;/p&gt;
+
+&lt;p&gt;If you have questions about this or any other real estate matter, please call or email me. I would love to be your real estate resource.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jan 2022 09:31:03 -0600</pubDate>
+        <link>http://localhost:4000/counting-down-our-top-appreciating-areas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/counting-down-our-top-appreciating-areas.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Are You a Frustrated Buyer?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KzKNbq3aKo4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Our off-market properties list can help both buyers and sellers.&lt;/p&gt;
+
+&lt;p&gt;It’s the holiday season, and everyone is making lists. Healthy Realty has a wonderful off-market properties list that can help you as a buyer or a seller. &lt;/p&gt;
+
+&lt;p&gt;If you’re a buyer frustrated with the current market, we can help. Let us know what you’re looking for; &lt;strong&gt;we may have an off-market property that would be perfect for you.&lt;/strong&gt; I had someone reach out to me the other day in that very situation, and we’ll help her find the right property. We’ll check our list and make calls to try to find properties that may not be for sale right now. We’ll find her a property that meets her needs, and we can do it for you too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Healthy Realty has a wonderful off-market properties list.%20http://localhost:4000/are-you-a-frustrated-buyer.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Healthy Realty has a wonderful off-market properties list.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’ve thought about selling your home within the next few months, now is an excellent time to get on our off-market properties list. We know that selling your home can be challenging with people walking in and out of your house. Being on our list helps cut down on that, and &lt;strong&gt;we’ll likely have buyers interested in your home.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in being on our off-market properties list or want us to look into off-market properties for you, please reach out to us via phone or email. We would love to help you. Have a happy holiday season!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Dec 2021 09:00:00 -0600</pubDate>
+        <link>http://localhost:4000/are-you-a-frustrated-buyer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/are-you-a-frustrated-buyer.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Isle of Palms Is a Hot Market</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ze4Id6KdHds?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Today I’m bringing you an overview of the market on Isle of Palms.&lt;/p&gt;
+
+&lt;p&gt;Isle of Palms is one of the hottest markets in the Charleston area right now, and homes are selling very quickly. To give you an idea, &lt;strong&gt;we’ve sold 256 homes this year on Isle of Palms.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Today I’m at the Wild Dunes resort, which is a gorgeous area. Behind me is the grand pavilion and a beautiful row of homes. We saw unheard-of days on market here last year. The average days on market last year was over 100 days. The average days on market is now 29 days. The average price of a detached home on Isle of Palms has risen to $1.96 million.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to buy a home here, we recommend you try to find off-market properties and personally reach out to homeowners. As always, if you have any interest in Isle of Palms, you can reach out to me and my team. We’d love to answer your questions.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Nov 2021 09:37:41 -0600</pubDate>
+        <link>http://localhost:4000/isle-of-palms-is-a-hot-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/isle-of-palms-is-a-hot-market.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is Zillow Predicting a Market Crash?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pl0H7UGSXlM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here’s how the big news from Zillow may affect your real estate plans.&lt;/p&gt;
+
+&lt;p&gt;Are Zillow’s recent moves predicting a real estate market crash? On October 18, Zillow announced that it would not be continuing its iBuyer program, Zillow Offers, for the remainder of the year. In other recent news, &lt;strong&gt;about 7,000 homes were sold by Zillow to an investor for $2.8 billion.&lt;/strong&gt; This is a huge move and has led many to wonder if something is happening in the real estate market that Zillow is trying to get ahead of.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, there is certainly a transition going on in the market when it comes to iBuyers. These are investors that come in and buy homes, often for less than fair market value. The real estate economy is strong right now, and sellers can receive top dollar by listing traditionally with a Realtor instead of selling to an iBuyer. That creates an issue for these platforms. In addition, &lt;strong&gt;many local real estate companies like ourselves offer both a traditional listing program and iBuyer options.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about what’s going on in the market or how we can help you accomplish your real estate goals, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Nov 2021 15:48:31 -0600</pubDate>
+        <link>http://localhost:4000/is-zillow-predicting-a-market-crash.html</link>
+        <guid isPermaLink="true">http://localhost:4000/is-zillow-predicting-a-market-crash.html</guid>
+        
         <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>3 Costs Homebuyers Should Know</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0vP_5S92im0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here are three costs every buyer should know before purchasing a home.&lt;/p&gt;
+
+&lt;p&gt;Are you looking to purchase a home? There are three funds you need to have ready:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Closing cost fund.&lt;/strong&gt; Closing costs are what’s required to sustain a mortgage. You should plan on saving 2.5% or 3% of the purchase price to cover closing costs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Down payment costs.&lt;/strong&gt; Depending on your mortgage, this amount will be different. Make sure you understand your mortgage and know how much you need to save.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Cash reserves.&lt;/strong&gt; Loan officers will look into your bank account to ensure you have the cash. Plus, it’s always nice to have extra laying around.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about today’s video, please call or email me. I am always willing to talk.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Oct 2021 04:30:00 -0500</pubDate>
+        <link>http://localhost:4000/3-costs-homebuyers-should-know.html</link>
+        <guid isPermaLink="true">http://localhost:4000/3-costs-homebuyers-should-know.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do You Need an Inspection for a New Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZkXa7W5xU8Q?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Is it necessary to get an inspection done on a new construction home?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I often get asked whether you should get an inspection done on a new construction home.&lt;/strong&gt; I think that you definitely should whether the home is existing or brand-new. Our inspector just finished looking at a new construction home in Hampton Mill on John’s Island. They found one leak and a few minor things that the builder will address. Take a look at this beautiful home at 0:55 in the video that shows even great homebuilders can make mistakes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or want a recommendation for a great inspector, don’t hesitate to reach out to me and my team. We’d love to hear from you and help in any way we can.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Sep 2021 05:05:00 -0500</pubDate>
+        <link>http://localhost:4000/do-you-need-an-inspection-for-a-new-home.html</link>
+        <guid isPermaLink="true">http://localhost:4000/do-you-need-an-inspection-for-a-new-home.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Where Are You Going To Move Next?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/194wSff9VxY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here’s one way to take advantage of the market and start building wealth.&lt;/p&gt;
+
+&lt;p&gt;So you’ve decided to sell your house. This is the best market we’ve ever seen for sellers who want to get top dollar, but where are you going to move to next?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I think now is an excellent time to buy investment property and use that to leverage the future purchase of your dream home.&lt;/strong&gt; With low interest rates, you can get into a property that’s smaller for a short period of time and use that home as a future investment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an area that I’m very passionate about.%20http://localhost:4000/where-are-you-going-to-move-next.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an area that I’m very passionate about.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spend wisely, find something with low or no monthly fees, and get into a property that will be a great potential future investment while you plant yourself there for maybe six months to a year. Prices will likely level off, you’ll be able to watch the market, and you can make an offer on your dream home without a contingency. &lt;strong&gt;Then you can buy your dream home, rent the other property out, and start building wealth through real estate.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to become a real estate investor or enhance your investment portfolio, let us know. This is an area I’m very passionate about, and this is a fantastic strategy to start building wealth while also finding your dream home.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Sep 2021 04:50:00 -0500</pubDate>
+        <link>http://localhost:4000/where-are-you-going-to-move-next.html</link>
+        <guid isPermaLink="true">http://localhost:4000/where-are-you-going-to-move-next.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -41,48 +261,30 @@
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>A Tour of Daniel Island’s Parks</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bXDfCfc20kg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Today I’ll show you around some of my favorite parks on Daniel Island.&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Today I’m going to show you some of my favorite parks around my home, Daniel Island. We have a lot of great parks here, and I have a few that I want to share with you.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edgefield Park&lt;/strong&gt; is on the south side of the island. It has great picnic areas, a couple of swings, and a huge green space which is perfect for kids to play ball in. &lt;strong&gt;Center Park&lt;/strong&gt; is surrounded by beautiful brick townhomes. It’s home to a fun train-shaped playset that has plenty of places for kids to climb and play.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Etiwan Park&lt;/strong&gt; its another great place to play, and it’s right next to Bishop England High School. The next one is &lt;strong&gt;Codner’s Ferry Park.&lt;/strong&gt; It was the first subsection created on Daniel Island, and there are still so many things to do in this little area.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We have a lot of great parks here.%20http://localhost:4000/a-tour-of-daniel-islands-parks.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We have a lot of great parks here.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Daniel Island Park&lt;/strong&gt; is a great place to play some tennis with its expansive courts. It’s a great park to live next to. &lt;strong&gt;Fallen Oak Park&lt;/strong&gt; is a great playground with a lot of green space. There’s a lot of beautiful trees to enjoy, and they give plenty of shade when it gets hot outside.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The last one is Ralston Grove Park, but we call it “&lt;strong&gt;Bamboo Park&lt;/strong&gt;” after the climbing toy that sits at the center. It’s one of the newest parks on the island, and it’s a fun place for people of all ages to come and climb. There’s also plenty of green space.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;That’s it for our Daniel Island parks. If you have any questions about Daniel Island or anything real estate related in the Charleston area, reach out to me and my team. We’d be happy to help!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Mon, 30 Aug 2021 04:35:00 -0500</pubDate>
+        <link>http://localhost:4000/a-tour-of-daniel-islands-parks.html</link>
+        <guid isPermaLink="true">http://localhost:4000/a-tour-of-daniel-islands-parks.html</guid>
         
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <category>Community</category>
         
         
       </item>
