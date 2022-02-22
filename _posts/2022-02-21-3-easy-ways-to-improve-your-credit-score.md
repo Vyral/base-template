@@ -21,8 +21,8 @@ Having a good credit score can be the difference between getting a loan for your
 
 **1\. Pay down balances on credit cards.** If you have a balance that's over 50% of your max, that’s going to negatively impact your score. You may not be able to pay it off in one payment, but start making progress and get the balance under 50%. Ideally, you should get it under 30%. You can also call your credit card company and ask for a credit limit increase.
 
-**2\. Get a credit card if you don't have one.** Be very responsible with your use of it and don't go over 30% of your max credit limit.
+**2\. Get a credit card if you don't have one.** Be very responsible with your use of it, and don't go over 30% of your max credit limit.
 
 **3\. Set up automatic payments.** This way, you’ll never miss a payment by over 30 days and get a late report on your credit.
 
-If you have any questions about buying or selling a home, visit my website, and give me a call or send an email. I'd be happy to get you scheduled for a free consultation.
+If you have any questions about buying or selling a home, give me a call or send an email. I'd be happy to get you scheduled for a free consultation.
