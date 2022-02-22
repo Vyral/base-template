@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are three common mistakes to avoid when selling your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/3+Common+Home-Selling+Mistakes.mp4
 pullquote: >-
   The cleaner, less cluttered, and better decorated your home is, the more
   appealing it will be and the more buyers will be prepared to pay for it.
