@@ -18,10 +18,6 @@ youtube_code: '-NNo57wS9Nc'
 
 {% include excerpt.html %}
 
-Instantly Find Out How Much Your Home Is Worth:
-
-[https://johnschustergroup.com/homevalue](https://johnschustergroup.com/homevalue){: target="_blank"}
-
 We have a real estate market alert\! Now that the Super Bowl is in the books, **the spring market has officially started,** and it’s truly one of the best times of year to sell your Twin Cities home. All the market fundamentals have started to come together. Buyer demand has stayed strong despite rising interest rates, and more and more sellers are bringing their homes to the market as they continue to sit in the driver’s seat.
 
 Our spring market runs from now through early June. We have so many buyers waiting for a home right now that we can get you premium offers without having to make updates and repairs that you would have had to do in past markets.&nbsp;
