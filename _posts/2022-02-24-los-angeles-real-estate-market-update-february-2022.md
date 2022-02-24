@@ -24,7 +24,7 @@ youtube_code: 5VWDwQwUBDU
 
 {% include excerpt.html %}
 
-**What's happening in the LA real estate market in February 2022? We are going to answer that question today. W**e're going to talk a little bit about what's going on in the real estate market, which is changing a lot. It's crazy, crazy, crazy right now.
+What's happening in the LA real estate market in February 2022? We are going to answer that question today. We're going to talk a little bit about what's going on in the real estate market, which is changing a lot. It's crazy, crazy, crazy right now.
 
 If we look at and compare the number of houses that sold back in January of 2021 and compare it to January of 2022, there is a decrease of 34% in homes sold. There were 1,280 homes sold last January of 2021 and just over 800 homes closed escrow in January of 2022. This difference has caused increase in prices of homes on an average of just over 20% in the San Fernando Valley due to the complete lack of supply of homes for buyers.
 
