@@ -17,7 +17,7 @@ youtube_code: 6L-XesZ36vk
 
 {% include excerpt.html %}
 
-Today we’re discussing use and occupancy agreements, also sometimes known as rent-backs or leasebacks. Those agreements mean that the buyer is giving the seller more time to live in the home after closing. Buyers can use them to make their offer stand out to sellers who need more time to move or find their next house. Attorney extraordinaire Arielle Cecala from Crowley and Cummings Law Firm is joining me today to talk about use and occupancy agreements because they’re a hot topic right now.
+Today we’re discussing use and occupancy agreements, also sometimes known as rent-backs or leasebacks. Those agreements mean that the buyer is giving the seller more time to live in the home after closing. Buyers can use them to make their offer stand out to sellers who need more time to move or find their next house. Attorney extraordinaire Arielle Cecala from Crowley and Cummings, LLC is joining me today to talk about use and occupancy agreements because they’re a hot topic right now.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
