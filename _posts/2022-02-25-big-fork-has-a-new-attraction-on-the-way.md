@@ -7,7 +7,7 @@ tags:
 excerpt: The Big Fork area is getting a new semi-professional baseball team!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Big+Fork+Has+a+New+Attraction+on+the+Way.mp4
-pullquote: This team could be an anchor for our community.
+pullquote: '"This team could be an anchor for our community."'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
