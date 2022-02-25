@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: For some agents, 2021 was a great year. For others, not so much.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Christal+Johnson/Why+Some+Didn%E2%80%99t+Have+the+Best+2021.mp4
 pullquote: Many can’t imagine maintaining the same pace as they did in 2021.
 enclosure_type: video/mp4
 enclosure_time:
