@@ -20,7 +20,7 @@ youtube_code: KUrgREfYi_U
 
 {% include excerpt.html %}
 
-On just one listing in Whittier, Oklahoma, I helped a client generate 121 different offers. Even in our red-hot market, that’s a crazy amount of interest in just one home. So how did I manage it? Today I’ll share my tips for getting more offers for your listings, but we also need to differentiate between the factors we can—and cannot—control.
+On just one listing in Whittier, California, I helped a client generate 121 different offers. Even in our red-hot market, that’s a crazy amount of interest in just one home. So how did I manage it? Today I’ll share my tips for getting more offers for your listings, but we also need to differentiate between the factors we can—and cannot—control.
 
 The real estate market is one of the things that we can't control. The reality of the market in Whittier is that **the supply of homes is extremely low, while the demand is really high.** There are hundreds, if not thousands, of people waiting to buy homes in the area. During the property’s open house, the line of interested buyers went out the door and all the way down the sidewalk; it looked like people were waiting to get into Disneyland.
 
