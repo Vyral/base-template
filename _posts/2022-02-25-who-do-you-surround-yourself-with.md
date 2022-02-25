@@ -3,7 +3,8 @@ layout: post
 title: Who Do You Surround Yourself With?
 tags:
 excerpt: Who you surround yourself with has a huge impact on your success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/The+Stern+Team_+Who+Are+You+Surrounding+Yourself+With_.mp4
 pullquote: Readers are leaders.
 enclosure_type: video/mp4
 enclosure_time:
