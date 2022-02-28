@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: How did we manage to get over 100 offers on a single property?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/How+We+Got+121+Offers+On+Just+One+Listing.mp4
 pullquote: >-
   We received so many offers because of high demand, low supply, and the home’s
   move-in-ready condition.
