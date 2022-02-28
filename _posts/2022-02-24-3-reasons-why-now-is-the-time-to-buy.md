@@ -26,5 +26,3 @@ If you don’t act soon, your dreams of buying could be gone. Here are three rea
 **3\. Property values appreciate 10% to 20% every month.** This quick rate of appreciation emphasizes the previous point. With values appreciating so quickly, you could be losing even more buying power.
 
 If you have any questions, visit our website and don’t hesitate to reach out to us by phone or email. We look forward to hearing from you.
-
-{% include pullquote.html %}
