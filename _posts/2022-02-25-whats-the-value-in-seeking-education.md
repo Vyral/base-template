@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s the Value in Seeking Education?
+title: The Importance of Keeping Up With the Market
 date: 2022-02-25 20:48:28
 tags:
   - Expert Advice
