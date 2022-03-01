@@ -10,7 +10,7 @@ pullquote: There is a huge need for active properties!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/02-08-wolek-youtube.jpg
+youtube_alternate_image: /uploads/02-23-wolek-youtube.jpg
 youtube_code: 8eMJsq4Z0Ok
 hidden: false
 ---
