@@ -38,4 +38,4 @@ I’m very excited to introduce senior lead buyer’s agent Josh Perchinski. Tod
 
 5:40 — Wrapping up today’s topic
 
-If you're considering joining a team like ours, thinking about building your own team, or just want to compare notes, reach out to us via phone at (717) 216-0860 or email at&nbsp;[dave@davehooke.team.com](mailto:dave@davehooke.team.com){: target="_blank"}. We’d love to have a conversation with you.
+If you're considering joining a team like ours, thinking about building your own team, or just want to compare notes, reach out to us via phone at (717) 216-0860 or email at&nbsp;[Dave@davehooketeam.com](mailto:Dave@davehooketeam.com){: target="_blank"}. We’d love to have a conversation with you.
