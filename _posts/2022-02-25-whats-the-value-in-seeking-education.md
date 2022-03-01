@@ -4,7 +4,7 @@ title: The Importance of Keeping Up With the Market
 date: 2022-02-25 20:48:28
 tags:
   - Expert Advice
-excerpt: Here’s some information about an upcoming change to Fannie Mae appraisals.
+excerpt: Why it’s crucial to continue getting educated as a real estate agent.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/What%E2%80%99s+the+Value+in+Seeking+Education_.mp4
 pullquote: This is the kind of information you need to know as an agent or investor.
@@ -18,9 +18,9 @@ youtube_code: vttEBdRt-AE
 
 {% include excerpt.html %}
 
-If you’re an agent, seeking education is critical. Things are changing all the time, so it’s important to stay on top of what’s happening in the industry and the marketplace. If you don't stay up with technology and the latest changes, you’ll fall behind.
+If you’re an agent, seeking education is critical. Things are changing all the time, so it’s important to stay on top of what’s happening in the industry and the marketplace. If you don't stay up to date with technology and the latest changes, you’ll fall behind.
 
-**Here’s an example:** As of April 1, Fannie Mae appraisal changes about above grade and below grade square footage are coming. If you have a split-level or bi-level, they’re not going to be counting that square footage that’s below grade anymore. Let your buyers know that it’s coming and that they want you to get your appraisal done before April 1.
+**Here’s an example:** As of April 1, Fannie Mae will make changes regarding above-grade and below-grade square footage. If you have a split-level or bi-level, they will no longer count the square footage that’s below grade, so be sure to let your buyers know about this change and have them get their appraisals done before April 1.
 
 That’s the kind of information you need to know as an agent or investor. The appraiser can give you an adjustment for having a finished basement, but they will no longer be counting it as square footage, even if you have an egress window.
 
