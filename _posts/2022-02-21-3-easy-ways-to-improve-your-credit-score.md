@@ -5,7 +5,8 @@ date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: These are my three tips to help you improve your credit score.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2022/3+Easy+Ways+To+Improve+Your+Credit+Score.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
