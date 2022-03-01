@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Big Fork Has a New Attraction on the Way
+title: The Flathead Valley Has a New Attraction on the Way
 date: 2022-02-25 15:48:47
 tags:
   - Attraction
-excerpt: The Big Fork area is getting a new semi-professional baseball team!
+excerpt: The Flathead Valley area is getting a new semi-professional baseball team!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Big+Fork+Has+a+New+Attraction+on+the+Way.mp4
 pullquote: '"This team could be an anchor for our community."'
@@ -18,7 +18,7 @@ youtube_code: im6JQcH9rQU
 
 {% include excerpt.html %}
 
-One of the most common questions I receive from people moving to the Big Fork area is, “What is there to do?” There’s plenty\! Today I want to discuss what sorts of activities we like to do for fun around Big Fork, including a special new attraction.&nbsp;&nbsp;
+One of the most common questions I receive from people moving to The Flathead Valley area is, “What is there to do?” There’s plenty\! Today I want to discuss what sorts of activities we like to do for fun around The Flathead Valley, including a special new attraction.&nbsp;&nbsp;
 
 There are excellent skiing mountains in the winter and wonderful fishing spots in the summer. We also are close to Glacier Park if you are interested in hiking and wildlife. Great rodeos come to town, and there are concerts all year round. The range of activities here is great, but there’s a new thing coming to town that may pique your interest.&nbsp;
 
