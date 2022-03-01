@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Use the D.I.S.C to Your Advantage
+title: How to Use the D.I.S.C. to Your Advantage
 date: 2022-02-21 00:00:00
 tags:
   - Transaction Management
