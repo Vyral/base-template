@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: In case you don’t already know, the spring real estate market is here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/The+Spring+Market+Has+Officially+Begun.mp4
 pullquote: Buyer demand has stayed strong despite rising interest rates.
 enclosure_type: video/mp4
 enclosure_time:
