@@ -13,7 +13,7 @@ enclosure:
 pullquote: Sleeping on a home may mean that you won’t be sleeping in it.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-yt-3.jpg
 youtube_code: PQWSic15ISs
 ---
@@ -21,7 +21,7 @@ youtube_code: PQWSic15ISs
 
 {% include excerpt.html %}
 
-As of right now, we have 329 active listings available in Montgomery County, with a little over 100 of those homes being new contraction, and we have close to 590 sold units. The biggest differences between last year and today are the average list price and sales price, which both increased by $40,000 year over year. Home prices continue to rise, making now a good time to purchase a home.&nbsp;
+As of right now, we have 329 active listings available in Montgomery County, with a little over 100 of those homes being new contraction, and we have close to 590 sold units. The biggest differences between last year and today are the average list price and sales price, which both increased by $40,000 year over year. Home prices continue to rise, making now a good time to purchase a home.
 
 If you’re in the market to purchase, here are a few things you can do to ensure that you’re on the right path:
 
