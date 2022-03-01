@@ -20,6 +20,6 @@ youtube_code: 07ieCK3PuEc
 
 2022 has started off with a bang. If you’re a homeowner who’s on the fence about selling, understand that now is the time to get top dollar. We have buyers lining up for homes, and they’re willing to pay your price.&nbsp;
 
-We put a property on the market last weekend and marketed it for one week as a coming-soon listing. **We had 101 showing requests, and we haven’t even hit our spring market yet.**
+Last weekend, we listed a property that we had been marketing for a week as a coming-soon home. **We had 101 showing requests, and we haven’t even hit our spring market yet.**
 
 If you have any questions about selling your home, call me at (203) 980-6886 or reach out to our incredible team at [carbuttirealestate.com](http://carbuttirealestate.com), where you’ll get accurate information so you can make informed decisions in this marketplace. We look forward to helping you sell your home and get top dollar.
