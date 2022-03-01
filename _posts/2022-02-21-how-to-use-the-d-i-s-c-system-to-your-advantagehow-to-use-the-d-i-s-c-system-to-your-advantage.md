@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Use the D.I.S.C System to Your Advantage
+title: Understand the D.I.S.C. to Build Rapport and Sell More Houses
 date: 2022-02-21 00:00:00
 tags:
   - Transaction Management
@@ -10,7 +10,7 @@ pullquote: The real estate industry is dominated by people in the 'high D' range
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/02-14-wolek-youtube.jpg
+youtube_alternate_image: /uploads/02-24-wolek-youtube.jpg
 youtube_code: o4e4YaxWg24
 ---
 {% include youtube.html %}
