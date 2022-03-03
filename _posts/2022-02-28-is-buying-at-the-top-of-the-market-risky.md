@@ -5,14 +5,13 @@ date: 2022-02-28 21:29:32
 tags:
   - Home Buyer Tips
 excerpt: Here’s why you shouldn’t be worried about buying a home at the market’s peak.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2022/Is+Buying+at+the+Top+of+the+Market+Risky_.mp4
+enclosure:
 pullquote: Real estate is a great long-term investment in any market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WHBoDqu_fcw
+youtube_code: a-BIlXAQkag
 ---
 {% include youtube.html %}
 
