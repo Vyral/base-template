@@ -19,6 +19,6 @@ youtube_code: 1p5jzdaF_0k
 
 It’s almost time for the 69th-annual Colemere Realty Founder’s Day Celebration. We wouldn’t be in business without you, and we’re giving away delicious pies this year as a way to say thanks.
 
-**Join us on March 23 from 12 p.m. to 6 p.m.**[Here’s the link](https://www.eventbrite.com/e/founders-day-celebration-annual-pie-event-tickets-275065908537){: target="_blank" rel="noopener"} to register, where you can also reserve your pie and let us know when you’d like to pick it up. Be sure to register, or we won’t have a pie for you.
+**Join us on March 23 from 12 p.m. to 6 p.m.&nbsp;**[Here’s the link](https://www.eventbrite.com/e/founders-day-celebration-annual-pie-event-tickets-275065908537){: target="_blank" rel="noopener"} to register, where you can also reserve your pie and let us know when you’d like to pick it up. You can reserve the type of pie you want and let us know when you'll pick it up.
 
 If you have any questions about the event or about real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
