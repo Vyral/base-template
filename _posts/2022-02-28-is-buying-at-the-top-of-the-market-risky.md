@@ -18,15 +18,15 @@ youtube_code: WHBoDqu_fcw
 
 {% include excerpt.html %}
 
-If you buy a home this year, are you buying at the top of the market? I’m going to take a closer look at the answer to that question today.
+If you purchase a home this year, are you buying at the top of the market? I’m sharing the answer to that question today.
 
-**Many of our buyers are concerned about making a purchase one day only to watch prices finally drop the next.** I do have a little good news to share in that respect: I don’t think we’re quite at the peak of the market yet, but we will be before long.
+**Many of our buyers are concerned about making a purchase one day only to watch prices finally drop the next.** I have a little good news to share in that respect: I don’t think we’re quite at the peak of the market yet, but we will be before long.
 
-If you do find yourself buying at the top of the market, I have a story to share that shows why that might not be as big of a deal as you think it is. Back after the market crashed, I was working with a homebuyer who bought in 2007 and needed to sell in 2009. At that point, he could only sell that home for a $30,000 loss.
+If you do find yourself buying at the top of the market, I have a story to share that shows why that might not be as big of a deal as you think it is. After the market crashed, I was working with a homebuyer who bought in 2007 and needed to sell in 2009. At that point, he could only sell that home for a $30,000 loss.
 
 {% include pullquote.html %}
 
-**He didn’t want to take out the loss, so he decided to rent the property out instead.** He rented it out for just enough to cover his monthly mortgage payment, and he created more cash flow over the years. It took him 11 years, but he finally called me and was ready to sell while the market was up. He bought at the peak, but ended up selling for a new peak. He broke even at first, then started to bring in positive cash flow. Finally, he sold the property for a profit just last year.
+**He didn’t want to take the loss, so he decided to rent the property out instead.** He rented it out for just enough to cover his monthly mortgage payment, and he created more cash flow over the years. It took him 11 years, but he finally called me and was ready to sell while the market was up. He bought at the peak but ended up selling for a new peak. He broke even at first, then started to bring in positive cash flow. Finally, he sold the property for a profit just last year.
 
 It may seem like a long time to wait to realize profits, but real estate is a long-term investment at heart. There are strategies to keep you from taking a loss even if you're at the top of the market.
 
