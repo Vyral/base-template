@@ -5,7 +5,8 @@ date: 2022-02-27 10:46:00
 tags:
   - Property Management
 excerpt: Make sure that you have adequate coverage for your property.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/Getting+Adequate+Insurance.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
