@@ -5,7 +5,8 @@ date: 2022-02-21 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s how understanding different personality types helps you grow.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/2022/How+to+Use+the++D.I.S.C.+to+Your+Advantage.mp4https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/2022/How+to+Use+the++D.I.S.C.+to+Your+Advantage.mp4
 pullquote: Learn your behavior style to better connect and build rapport.
 enclosure_type: video/mp4
 enclosure_time:
