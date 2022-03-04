@@ -5,7 +5,8 @@ date: 2022-02-24 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Three reasons why you should buy soon in our changing market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2022/3+Reasons+Why+Now+Is+the+Time+To+Buy.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
