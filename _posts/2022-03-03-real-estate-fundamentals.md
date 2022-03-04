@@ -15,7 +15,7 @@ youtube_code: oCuv-xx4nx4
 
 {% include excerpt.html %}
 
-I was recently at a training conference with other Realtors. At one point during the presentation, the energy took a nosedive because of the content the presenter was giving. **They were talking about all the required fundamentals that Realtors must deploy daily in order to have a sexy, luxurious life.**
+I was recently at a training conference with other Realtors. At one point during the presentation, the energy took a nosedive because of the content.&nbsp;**The presenter was** **talking about all the required fundamentals that Realtors must deploy daily in order to have a sexy, luxurious life.**
 
 {% include pullquote.html %}
 
