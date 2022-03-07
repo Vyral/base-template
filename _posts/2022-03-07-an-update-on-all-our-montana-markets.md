@@ -5,7 +5,8 @@ date: 2022-03-07 16:13:45
 tags:
   - Market Update
 excerpt: Let’s take a look at the stats for different markets all across Montana.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/An+Update+on+All+Our+Montana+Markets.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
