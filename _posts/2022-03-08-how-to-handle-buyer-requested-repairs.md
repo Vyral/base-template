@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Buyer-Requested Repairs
-date: 2021-01-29 19:02:44
+date: 2022-03-08 00:02:00
 tags:
   - Home Seller Tips
 excerpt: These tips will help you when a buyer starts making repair requests.
@@ -16,10 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-tips-for-buyer-requested-repairs-yt.jpg
 youtube_code: IThUa9aBOEA
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These tips will help you when a buyer starts making repair requests.</em></p>
+*These tips will help you when a buyer starts making repair requests.*
 
 In nearly every home sale, buyers make repair requests to sellers. As a seller, here are three tips that will come in handy when a buyer you have under contract starts making repair requests:
 
