@@ -18,7 +18,9 @@ youtube_code: F0jY7DmBkcU
 
 {% include excerpt.html %}
 
-We’re coming to you from high on the hill to talk about the possibility of a market crash. We get asked all the time if this is another housing bubble. The market feels bubbly, right? But, we have two theories that cover what might happen. Let’s go over them:**Theory No. 1 is that this thing crashes.** It’s very simple. This market feels like 2005 to a lot of people. We’ve seen stratospheric increases in home values; prices are rising too much, too quickly. 4% to 5% appreciation per year is normal. Guys, we saw 30% appreciation in Washington County in the last 12 months. Iron County and Cedar City saw the same thing, and we had 15% and 12% appreciation in the years before that.
+We’re coming to you from high on the hill to talk about the possibility of a market crash. We get asked all the time if this is another housing bubble. The market feels bubbly, right? But, we have two theories that cover what might happen. Let’s go over them:
+
+**Theory No. 1 is that this thing crashes.** It’s very simple. This market feels like 2005 to a lot of people. We’ve seen stratospheric increases in home values; prices are rising too much, too quickly. 4% to 5% appreciation per year is normal. Guys, we saw 30% appreciation in Washington County in the last 12 months. Iron County and Cedar City saw the same thing, and we had 15% and 12% appreciation in the years before that.
 
 Home values in Washington County are up 100% since 2016. Your $250,000 home in 2016 is now a $500,000 home five years later. We’re so used to it that we don’t even notice it. Theory No. 1 is that there’s a massive crash; it’s 2007 and 2008 all over again.
 
