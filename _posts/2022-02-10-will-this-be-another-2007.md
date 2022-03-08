@@ -26,8 +26,8 @@ Home values in Washington County are up 100% since 2016. Your $250,000 home in 2
 
 {% include pullquote.html %}
 
-**Theory No. 2, which I’m leaning toward, is that the market is taking a break.** The difference between now and 2005 is that all the buyers are either paying with cash or thoroughly qualified for their home loans. There were still some people buying sight-unseen, but they weren’t just buying everything that they could like investors were doing 15 years ago.
+**Theory No. 2, which I’m leaning toward, is that the “bubble” that has been blown gets a pin hole in it and the market stabilizes.&nbsp;**The difference between now and 2005 is that buyers are either paying with cash or thoroughly qualified for their home loans. There are still some folks buying sight-unseen…actually MANY are doing so because they can’t physically get here quick enough to win the bid. But they aren’t just buying flippantly like we saw in 2007.&nbsp;
 
-Lastly, let’s talk about California. They have some lovely things like the beach and Disneyland. My videographer is here from California, but he’s planning to move to Texas because California also has forest fires, burning cities, oil spills, and a failed gubernatorial recall. People will continue to leave; they’re going to go right up the interstate to our town, which supports theory no. 2.
+Lastly, let’s talk about California. They have some lovely things like the beach and Disneyland. My videographer is here from California, but he’s planning to move to Texas because California also has forest fires, burning cities, oil spills, and a failed gubernatorial recall\! There are reasons people are leaning. People will continue to leave, and they’re going to go right up the interstate to our town, which supports theory no. 2.
 
-I believe that this is just an exhale, the calm before the next storm. What’s your theory? If you have any questions about our theories or real estate in general, don’t hesitate to call or email us. We’d love to hear from you.
+Meaning we DO NOT foresee a market crash.&nbsp; If you’re a Buyer waiting for prices to drop significantly, I’m not sure it’s coming. What’s your theory? Crash or no? Bursting bubble or just “blowing” a bubble? If you have any questions about our theories or real estate in general, don’t hesitate to call or email us. We’d love to hear from you\!
