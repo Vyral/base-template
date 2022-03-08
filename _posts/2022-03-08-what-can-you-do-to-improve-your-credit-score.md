@@ -34,7 +34,3 @@ We use a credit simulator to tell us what will happen to a client’s score depe
 Conventional loans are extremely credit-driven, so whether you’re refinancing or purchasing, you can get a killer deal if you have a 700 credit score. **If you’re not quite there, we can advise you on how to improve your score.** If there’s a problem that’s above our paygrade, we have a few different collection companies we can refer you to.&nbsp;
 
 We’re not like traditional banks; we don’t just say yes or no. If you don’t qualify with us, we will set up a roadmap to help you qualify in the future. If you have any questions or need help with your credit, give us a call at (619) 948-2996 or send us an email. We'd love to talk with you.
-
-<center><em>EXCERPT.</em></center>
-
-<br>ARTICLE
