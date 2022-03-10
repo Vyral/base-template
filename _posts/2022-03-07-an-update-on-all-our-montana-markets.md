@@ -26,15 +26,15 @@ Today I want to answer some of your questions about real estate throughout the s
 
 0:43 — The least and most expensive cities in Montana
 
-1:50 — The stats for Billings, Montana
+1:50 — The stats for Billings
 
-2:33 — The stats for Bozeman, Montana
+2:33 — The stats for Bozeman
 
-3:11 — The stats for Butte, Montana
+3:11 — The stats for Butte
 
-4:48 — The stats for Great Falls, Montana
+4:48 — The stats for Great Falls
 
-5:51 — The stats for Helena, Montana
+5:51 — The stats for Helena
 
 6:53 — The stats for Missoula County
 
