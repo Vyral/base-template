@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Update on All Our Montana Markets
+title: An Update on Our Montana Markets
 date: 2022-03-07 16:13:45
 tags:
   - Market Update
