@@ -4,7 +4,7 @@ title: An Update on Our Montana Markets
 date: 2022-03-07 16:13:45
 tags:
   - Market Update
-excerpt: Let’s take a look at the stats for different markets all across Montana.
+excerpt: The most valuable stats for all our different markets across Montana.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/An+Update+on+All+Our+Montana+Markets.mp4
 pullquote:
@@ -18,7 +18,7 @@ youtube_code: 9ZdY04Zqxi4
 
 {% include excerpt.html %}
 
-Today I want to answer some of your questions about real estate throughout the state of Montana. We usually do this once a year, and to help me, I have a state-wide market report from the Montana Association of Realtors. I can’t wait to pass on some of this data. As a little bit of a spoiler: The least expensive cities in Montana are Butte and Great Falls. Both have a median price that’s under $300,000.
+Today I want to answer some of your questions about real estate throughout the state of Montana. We usually do this once a year, and to help me, I have the state-wide market report from the Montana Association of Realtors. I can’t wait to pass on some of this data. As a little bit of a spoiler: The least expensive cities in Montana are Butte and Great Falls. Both have a median price that’s under $300,000.
 
 **You can watch the full report above or skip to each section using the timestamps provided:**
 
