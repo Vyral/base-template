@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1907 Celebrates Oklahoma
-date: 2022-03-08 00:00:00
+date: 2022-03-19 00:00:00
 tags:
   - Real Estate
 excerpt: 1907 is a fun shop in Fort Worth that has a little bit of everything.
