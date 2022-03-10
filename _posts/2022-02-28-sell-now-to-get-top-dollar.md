@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: If you list your house now you could replicate the results we’ve seen.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Sell+Now+To+Get+Top+Dollar.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
