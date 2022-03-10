@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Home inspections are a valuable tool that every buyer should use.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Explaining+Home+Inspections.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
