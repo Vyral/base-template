@@ -4,8 +4,7 @@ title: Helpful Tax Tip for Homeowners
 date: 2022-03-11 17:02:41
 tags:
   - Expert Advice
-excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/Helpful+Tax+Tip+for+Homeowners.mp4
+excerpt: Here’s a tax break that all home sellers should be taking advantage of.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/Helpful+Tax+Tip+for+Homeowners.mp4
 pullquote:
