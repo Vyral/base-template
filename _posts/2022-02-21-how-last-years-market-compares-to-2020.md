@@ -5,7 +5,8 @@ date: 2022-02-21 00:00:00
 tags:
   - Market Update
 excerpt: Here is the latest Tulsa market report and what it means for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/How+Last+Year%E2%80%99s+Market+Compares+to+2020.mp4
 pullquote: There is a huge need for active properties!
 enclosure_type: video/mp4
 enclosure_time:
