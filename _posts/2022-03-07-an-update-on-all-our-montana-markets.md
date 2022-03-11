@@ -5,14 +5,13 @@ date: 2022-03-07 16:13:45
 tags:
   - Market Update
 excerpt: The most valuable stats for all our different markets across Montana.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/An+Update+on+All+Our+Montana+Markets.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9ZdY04Zqxi4
+youtube_code: hA30NdmMkaE
 ---
 {% include youtube.html %}
 
