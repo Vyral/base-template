@@ -17,10 +17,8 @@ youtube_code: efXmmpDkFAM
 
 {% include excerpt.html %}
 
-Today I'll talk about having proper insurance coverage as a property manager. The coverages for condos and single-family homes are very different. **Please talk to your insurance provider about what is adequate coverage for your unit.**
+I don't consider myself a tax expert, but I have been dealing with general excise taxes, or G.E. taxes, for most of my career. All Realtors are required to pay a 4.5 general excise tax in Hawaii if they’re making income from rentals.
 
-Take the Marco Polo fire, for example. All the units below the 26th floor were completely flooded, and we couldn't get into them. Mold grew in all the units, and the insurance coverage had to be checked.
+**It’s a complicated process, so I recommend reaching out to a tax professional to discuss Hawaii’s G.E. taxes.** We can provide that service through a CPA for a small fee.&nbsp;
 
-We recommend that you **consider adding loss-of-rent coverage to your HO6 or single-family home policy.** Many owners don't have that when they're owner-occupant. Then, when they turn it over to us to use as a rental property, the mortgage will continue if they don't have rents coming.
-
-If you have any questions, give me a call at (808) 445-9223. I look forward to hearing from you.
+If you have any questions about G.E. taxes or anything else related to property management, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
