@@ -21,7 +21,7 @@ youtube_code: AALWRAfOuRc
 
 {% include excerpt.html %}
 
-Last year was one of our busiest years ever, and we knew it was time to grow. We want to make sure every one of our clients is working with the best of the best, so we only hire experienced real estate agents who have successfully completed multiple transactions and have strong ethics. So we’re excited to announce our newest team member: Steve Varhol\! Here’s our question and answer session so you can get to know him better:
+Last year was one of our busiest years ever, and we knew it was time to grow. We want to make sure every one of our clients is working with the best of the best, so we only hire experienced real estate agents who have a great track record and strong ethics. So we’re excited to announce our newest team member: Steve Varhol\! Here’s our question and answer session so you can get to know him better:
 
 **Tell us about yourself.**
 
@@ -29,7 +29,7 @@ I am a \#GirlDad; I have two daughters, a 15-year-old and a 19-year-old. My olde
 
 **What got you into real estate?**
 
-I’d been in sales for a long time. Customer service is crucial to me, and when I bought my house, I did not have a great experience. The agent wasn’t attentive, didn’t listen well, was pushy, and didn’t answer my questions. I felt like I could do a much better job as a Realtor than they were doing—not in a cocky way, just that I could serve clients better than that. That experience is what made me start to explore the option of entering real estate.&nbsp;
+I’d been in sales for a long time. Customer service is crucial to me, and when I bought my house, I did not have a great experience. The agent wasn’t attentive, didn’t listen well, was pushy, and didn’t answer my questions. I felt like I could do a much better job as a Realtor—not in a cocky way, just that I could serve clients better than that. That experience is what made me start to explore the option of entering real estate.&nbsp;
 
 **What is your favorite part of working in real estate?**
 
@@ -53,4 +53,4 @@ I’m related to the painter Andy Warhol. However, I don’t have any paintings 
 
 Passionate, caring, and tenacious.&nbsp;
 
-If you’d like to speak with Steve or have any questions about the real estate process, please go to our website and click “connect” in the top right corner, or give us a call. We would love to help you.
+If you’d like to speak with Steve or have any questions about the real estate process, please go to our website and click “connect” in the top left corner, or give us a call. We would love to help you.
