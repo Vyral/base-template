@@ -37,7 +37,7 @@ Meeting new people and building relationships. You get to meet so many different
 
 {% include pullquote.html %}
 
-**Why did you join the John Schuster Group?**
+**Why did you join The John Schuster Group?**
 
 The level of experience and professionalism here is second to none when compared to my experience of working with other real estate teams. Also, the camaraderie and teamwork components of this team were a huge draw.
 
@@ -53,4 +53,4 @@ I’m related to the painter Andy Warhol. However, I don’t have any paintings 
 
 Passionate, caring, and tenacious.&nbsp;
 
-If you’d like to speak with Steve or have any questions about the real estate process, please go to our website and click “connect” in the top left corner, or give us a call. We would love to help you.
+If you’d like to speak with Steve or have any questions about the real estate process, please go to our website and click “connect” in the top left corner or give us a call. We would love to help you.
