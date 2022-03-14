@@ -5,7 +5,8 @@ date: 2022-03-10 00:00:00
 tags:
   - Market Update
 excerpt: Interest rates will affect our market but not as soon as you might think.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2022/What+Will+Rising+Rates+Do+To+Our+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
