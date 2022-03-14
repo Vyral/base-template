@@ -17,9 +17,9 @@ youtube_code: c7C7UataGeY
 
 {% include excerpt.html %}
 
-If you’re looking to build your wealth through real estate, today we have a few tips and tricks to help you get creative with your equity and financing, and make those dreams a reality. If you're a homeowner, you likely have a ton of appreciation. **You can put that money to work for you in several different ways.&nbsp;**
+If you’re looking to build your wealth through real estate, today we have a few tips and tricks to help you get creative with your equity, and make those dreams a reality. If you're a homeowner, you likely have a ton of appreciation. **You can put that money to work for you in several different ways.&nbsp;**
 
-First, consider taking the money out in a home equity line of credit. If you have equity in your house now, you can pull that out and put it into other investments. Another option is a portfolio loan, which is specifically designed for investors. You could also take that HELOC money and buy an investment property or build an addition onto your current property and rent it out to tenants. Additionally, you can take the HELOC money to use as a down payment to build or buy a new home while you turn your current home into an investment property to bring in passive cash flow.
+First, consider taking the money out in a home equity line of credit. If you have equity in your house now, you can pull that out and put it into other investments. Another option is a portfolio loan, which is specifically designed for investors. You could also use that HELOC money and buy an investment property or build an addition onto your current property and rent it out to tenants. Additionally, you can take the HELOC money as a down payment to build or buy a new home while you turn your current home into an investment property to bring in passive cash flow.
 
 **Vacant land is another way to get involved with investing.** Like my grandfather said, “They’re not going to make any more of it.” With this land, you can sell it to developers or rent it out to people who want to set up shop. You do need to follow proper HOA and land regulations, so having an expert on your side to help with that is important.
 
