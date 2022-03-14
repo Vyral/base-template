@@ -17,7 +17,7 @@ youtube_code: efXmmpDkFAM
 
 {% include excerpt.html %}
 
-I don't consider myself a tax expert, but I have been dealing with general excise taxes, or G.E. taxes, for most of my career. All Realtors are required to pay a 4.5 general excise tax in Hawaii if they’re making income from rentals.
+I don't consider myself a tax expert, but I have been dealing with general excise taxes, or G.E. taxes, for most of my career. All Realtors are required to pay a 4.5% general excise tax in Hawaii if they’re making income from rentals.
 
 **It’s a complicated process, so I recommend reaching out to a tax professional to discuss Hawaii’s G.E. taxes.** We can provide that service through a CPA for a small fee.&nbsp;
 
