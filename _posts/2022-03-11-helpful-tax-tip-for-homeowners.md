@@ -22,4 +22,4 @@ If you’re thinking of selling your home, I have a tax tip to share today that 
 
 If you’re a single filer, you can exempt up to $250,000 of capital gains on your sale. If you're a couple who’s filing jointly, that number jumps to $500,000. **The only catch is that you have to have lived in the property as your primary residence.**
 
-If you have any questions for me about this tax advantage or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions for me about this tax advantage or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
