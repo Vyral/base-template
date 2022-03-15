@@ -5,14 +5,13 @@ date: 2022-03-11 17:02:41
 tags:
   - Expert Advice
 excerpt: Here’s a tax break that all home sellers should be taking advantage of.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/Helpful+Tax+Tip+for+Homeowners.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KYWnZFBSC-U
+youtube_code: GTxsQzT5e9o
 ---
 {% include youtube.html %}
 
