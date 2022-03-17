@@ -20,13 +20,13 @@ youtube_code: g6kggmUjCQA
 
 Today I want to share a clip with you from my Sunday morning real estate show, which is on 840 WHAS-AM at 8:30 a.m. In this clip, we’re answering a common question we received from a listener about smoke detectors. How can you keep your family safe? Is there a best place to put them?&nbsp;
 
-**You can listen to our full conversation in the video above, or you can skip to each topic using the timestamps provided:**
+**You can listen to our full conversation in the video above, or skip to each topic using the timestamps provided:**
 
 0:00 — Introduction and Mario’s question
 
 1:11 — Brad Lawler’s thoughts
 
-1:52 — Jefferson county’s codes
+1:52 — Jefferson County’s codes
 
 2:40 — When do you need to replace hardwired smoke detectors before you sell?
 
