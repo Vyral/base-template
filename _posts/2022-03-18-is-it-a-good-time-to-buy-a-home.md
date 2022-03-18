@@ -5,7 +5,8 @@ date: 2022-03-18 16:05:56
 tags:
   - Home Buyer Tips
 excerpt: Despite some concerns about a bubble, it’s still a good time to buy a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2022/Is+It+a+Good+Time+To+Buy+a+Home_.mp4
 pullquote: >-
   We believe that we’ll see a slight shift in the market within the next 12 to
   24 months.
