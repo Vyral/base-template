@@ -6,7 +6,8 @@ tags:
   - Homeowner Tips
   - Real Estate
 excerpt: Here’s how you and your family can stay on top of your smoke detectors.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/When+Do+You+Need+To+Change+Your+Smoke+Detectors_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: g6kggmUjCQA
 
 {% include excerpt.html %}
 
-Today I want to share a clip with you from my Sunday morning real estate show, which is on 840 WHAS-AM at 8:30 a.m. In this clip, we’re answering a common question we received from a listener about smoke detectors. How can you keep your family safe? Is there a best place to put them?&nbsp;
+Today I want to share a clip with you from my Sunday morning real estate show, which is on 840 WHAS-AM at 8:30 a.m. In this clip, we’re answering a common question we received from a listener about smoke detectors. How can you keep your family safe? Is there a best place to put them?
 
 **You can listen to our full conversation in the video above, or skip to each topic using the timestamps provided:**
 
@@ -32,7 +33,7 @@ Today I want to share a clip with you from my Sunday morning real estate show, w
 
 3:50 — You may need to upgrade all your smoke detectors when you make a major renovation
 
-5:06 — How much will new smoke detectors cost you?&nbsp;
+5:06 — How much will new smoke detectors cost you?
 
 6:15 — The issue with our smoke detector regulations
 
