@@ -5,14 +5,13 @@ date: 2022-03-14 18:26:53
 tags:
   - Home Buyer Tips
 excerpt: Here’s why I think you should get off the fence and lock in a low rate.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2022/Take+Advantage+of+Our+Low+Rates.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mCg8D9zyA-U
+youtube_code: xryprM3-pKM
 ---
 {% include youtube.html %}
 
