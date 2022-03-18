@@ -9,7 +9,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Meet our newest team member, Steve Varhol, an excellent real estate agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/Introducing+Our+Newest+Team+Member.mp4
 pullquote: I have several friendships just due to working in real estate.
 enclosure_type: video/mp4
 enclosure_time:
