@@ -23,4 +23,4 @@ Which renovations should you make to your home if you want the biggest return on
 
 **2\. The master bathroom.** Buyers are starting to look for bathrooms that create a spa experience. That can include different shower amenities, the type of tub, and the sink fixtures. Investing in these areas will no doubt draw their eyes.
 
-Before you spend a lot of money to take on big projects, give us a call or send us an email. We’d love to advise you on how to spend your home improvement dollars so that you come away from your home sale with the most money possible. Hope to hear from you soon\!
+Before you spend a lot of money to take on big projects, give us a call or send us an email. We’d love to advise you on how to spend your home improvement dollars so that you come away from your sale with the most money possible. Hope to hear from you soon\!
