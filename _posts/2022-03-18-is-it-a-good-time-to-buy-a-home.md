@@ -22,10 +22,10 @@ youtube_code: sR1nwjkiSfU
 
 77% of consumers and 44% of real estate agents believe that we’re in a housing bubble, so there’s skepticism that it’s not a great time to buy a home, but there’s still potential in our market. We believe that we’ll see a slight shift in the market within the next 12 to 24 months. We don’t expect any wild changes because **people still have plenty of equity in their houses** that they can use toward a down payment for another.&nbsp;
 
-Even though we’re in a wacky real estate market right now, it’s still a good time to buy a house. Here’s a little math for you: Let’s say you pay $2,000 per month in rent for the next four years. That’s $96,000 that could have been paying down a mortgage, where you’d also get a tax deduction for your interest payments. Instead, if you bought a house for $400,000, after four years, you’d have paid almost the same amount.
+Even though we’re in a wacky real estate market right now, it’s still a good time to buy a house. Here’s a little math for you: Let’s say you pay $2,000 per month in rent for the next four years. That’s $96,000 that could have been paying down a mortgage, where you’d also get a tax deduction for your interest payments. If you bought a house instead, you would have made that much money unless home prices dropped by $100,000, which I just don't see happening.
 
 {% include pullquote.html %}
 
-Remember that there’s a chance that our market may stay stable; many more people have excellent credit scores now than they did during the last bubble. Yes, we may see a bit of a bubble within the next year or two, but **it still makes sense to purchase a house in this market and hedge against inflation** versus riding the wave and throwing money away on rent. So if you find a house that you love, by all means, go after it.
+Remember that there’s a chance our market remains stable; many more people have excellent credit scores now than they did during the last bubble. Yes, we may see a bit of a bubble within the next year or two, but **it still makes sense to purchase a house in this market and hedge against inflation.**&nbsp;Buying now and riding the wave still beats throwing money away on rent, so if you find a house you love, by all means, go after it.
 
 If you have any questions about buying a home or real estate in general, call or email us. We would love to help you.
