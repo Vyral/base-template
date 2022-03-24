@@ -10,7 +10,7 @@ enclosure:
 pullquote: As interest rates grow, buyers’ purchasing power will decline.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/3-24-22yt.jpg
 youtube_code: 7U18HYzbtVU
 ---
