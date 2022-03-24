@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: ' If you’re this type of buyer, please don’t pick up the phone.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2022/If+You%E2%80%99re+This+Kind+of+Buyer%2C+Don%E2%80%99t+Call+Me+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
