@@ -22,7 +22,7 @@ Our third annual Doggy Photo Day is coming up on April 2nd at Porter Ranch in Vi
 
 **From 9 a.m. to 11:30 a.m., we’ll have a professional photographer on hand to take photos of you and your family pet.&nbsp;**We’ll even provide costumes so every pet looks sharp.&nbsp;
 
-[*“The proceeds of every sale will be donated to an animal rescue organization.”*](https://twitter.com/home/?status=The%20proceeds%20of%20every%20sale%20will%20be%20donated%20to%20an%20animal%20rescue%20organization.%20http://ScottsRealEstatevlog.com/bring-your-pets-family-to-our-2nd-annual-doggy-photo-day.html%20via%40){: target="_blank"}
+*“The proceeds of every sale will be donated to an animal rescue organization.”*
 
 If you plan on attending, you can register online at&nbsp;[www.doggyphotoday.com.&nbsp;](http://www.doggyphotoday.com/){: target="_blank"}We’ll also be raffling off prizes, including a gift basket from&nbsp;[Nectar of the Dogs winery](http://www.nectarofthedogswine.com/){: target="_blank"}, a local winery that donates a portion of their proceeds to local pet charities, and a $50 gift card to Best Buy.&nbsp;
 
