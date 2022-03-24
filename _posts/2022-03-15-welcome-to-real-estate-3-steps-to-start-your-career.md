@@ -4,7 +4,8 @@ title: 'Welcome to Real Estate: 3 Steps To Start Your Career'
 date: 2022-03-15 00:00:00
 tags:
 excerpt: Congrats on your new career! Here are three tips to help you succeed.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Welcome+to+Real+Estate_+3+Steps+To+Start+Your+Career.mp4
 pullquote: >-
   Our own business has achieved “millionaire real estate” status, and it’s all
   because we followed the models and systems described in Gary Keller’s book.
