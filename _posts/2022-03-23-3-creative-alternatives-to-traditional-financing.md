@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Creative Alternatives to Traditional Financing
-date: 2021-02-12 16:53:56
+date: 2022-03-23 16:53:00
 tags:
   - Home Buyer Tips
 excerpt: Three creative ways to finance a purchase if you can’t go to a bank.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Creative+Alternatives+to+Traditional+Financing.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Creative+Alternatives+to+Traditional+Financing.mp4
 pullquote: >-
   You can first rent the property you want to buy, then work on your credit
   until it's healthy enough to secure the financing you need.
@@ -15,10 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-creative-ways-to-purchase-a-property-yt.jpg
 youtube_code: 3elXROCeRK8
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Three creative ways to finance a purchase if you can’t go to a bank.</em></p>
+{% include excerpt.html %}
 
 Oftentimes, homebuyers have enough cash saved up for a down payment but don’t have good credit, which means obtaining financing through a regular bank isn’t an option. In these cases, we use some pretty creative financing strategies. Here are three alternative routes you can take if you find yourself in a similar situation:&nbsp;
 
