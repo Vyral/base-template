@@ -5,7 +5,8 @@ date: 2022-03-25 18:04:12
 tags:
   - Home Seller Tips
 excerpt: Sellers should avoid these red flags often found on home inspections.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/How+To+Avoid+Home+Inspection+Red+Flags.mp4
 pullquote: Any of these problems may prevent the transaction from moving forward.
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: xsI8giL727M
 
 {% include excerpt.html %}
 
-When a buyer has a home inspection done, sometimes red flags pop up in their minds when an issue is found. Before you put your home on the market, **take a look around and make any repairs or improvements to things the buyer may see as red flags.&nbsp;**
+When a buyer has a home inspection done, sometimes red flags pop up in their minds when an issue is found. Before you put your home on the market, **take a look around and make any repairs or improvements to things the buyer may see as red flags. **
 
 I highly encourage you to check your windows. Are the seals solid, are the panes cloudy? Those are two things you should fix before your home goes on the market; buyers will see those as red flags. Another problem may be the furnace. If you have an older furnace, you should have it serviced by a local HVAC professional, and have them put a sticker on your furnace that says it’s in good working order and they didn’t find any issues.
 
