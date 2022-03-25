@@ -18,11 +18,11 @@ youtube_code: 7U18HYzbtVU
 
 {% include excerpt.html %}
 
-Lately, we feel like we’re in that Billy Joel song “We Didn’t Start the Fire.” **The Russia/Ukraine war, inflation, a crazy housing market, increasing interest rates, and more; a lot is going on right now.** However, we’ll keep you informed.
+Lately, we feel like we’re in that Billy Joel song “We Didn’t Start the Fire.” **The Russia/Ukraine war, inflation, a crazy housing market, increasing interest rates, and more; a lot is going on right now.**&nbsp;
 
 Buyers are feeling very tense because there’s such a lack of inventory. Thankfully, we’re starting to see more inventory, but there still isn’t enough to satisfy all the buyer demand. More importantly, all the buyers out there are trying to get into the housing market before interest rates rise. We heard over and over that rates will escalate soon, and it’s starting to happen.&nbsp;
 
-We want to make it clear that **if you’re waiting to buy a house until we have a huge market crash, we just don’t foresee that happening.** If there’s a bit of an adjustment, which we do predict, keep in mind that your interest rate will be more important than a small market adjustment. Everything’s getting more expensive, and the challenge we’ll face is that as interest rates grow, buyers’ purchasing power will decline. Every time rates jump up, you’ll be able to buy less house but still have the same payments. The good old days when rates were 2% are gone, and we don’t see rates trending downward again.&nbsp;
+We want to make it clear that **if you’re waiting to buy a house until we have a huge market crash, we just don’t foresee that happening.** If there’s a bit of an adjustment, which we do predict, keep in mind that your interest rate will be more important than a small market shift. Everything’s getting more expensive, and the challenge we’ll face is that as interest rates grow, buyers’ purchasing power will decline. Every time rates jump up, you’ll be able to buy less house but still have the same payments. The good old days when rates were 2% are gone, and we don’t see rates trending downward again.&nbsp;
 
 {% include pullquote.html %}
 
