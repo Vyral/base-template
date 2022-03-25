@@ -5,7 +5,8 @@ date: 2022-03-25 18:55:10
 tags:
   - Lead Generation
 excerpt: Don’t get burnt out. Here are the four steps to help you hire someone new.
-enclosure: https://davehookecoaching.com/4-steps-to-help-you-hire-someone.html
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2022/4+Steps+To+Help+You+Hire+Someone.mp4
 pullquote: You need leverage to avoid burnout.
 enclosure_type: video/mp4
 enclosure_time:
