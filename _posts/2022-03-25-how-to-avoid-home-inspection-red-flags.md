@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Avoid Home Inspection Red Flags
+title: Watch Out for These Home Inspection Red Flags
 date: 2022-03-25 18:04:12
 tags:
   - Home Seller Tips
