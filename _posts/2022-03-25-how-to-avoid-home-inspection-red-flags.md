@@ -18,9 +18,9 @@ youtube_code: 9qcb5OIrzlM
 
 {% include excerpt.html %}
 
-When a buyer has a home inspection done, sometimes red flags pop up in their minds when an issue is found. Before you put your home on the market, **take a look around and make any repairs or improvements to things the buyer may see as red flags.&nbsp;**
+When a buyer gets a home inspection, some issues might come up that they see as red flags. Before you put your home on the market, **take a look around and repair anything the buyer may see as a red flag.&nbsp;**
 
-I highly encourage you to check your windows. Are the seals solid, are the panes cloudy? Those are two things you should fix before your home goes on the market; buyers will see those as red flags. Another problem may be the furnace. If you have an older furnace, you should have it serviced by a local HVAC professional, and have them put a sticker on your furnace that says it’s in good working order and they didn’t find any issues.
+I highly encourage you to check your windows. Are the seals solid, are the panes cloudy? Those are two things you should fix before your home goes on the market; buyers will see those as red flags. Another problem may be the furnace. If you have an older furnace, you should have it serviced by a local HVAC professional, and have them put a sticker on your furnace that says it’s in good working order.
 
 {% include pullquote.html %}
 
