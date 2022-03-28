@@ -5,7 +5,8 @@ date: 2022-03-25 18:04:12
 tags:
   - Home Seller Tips
 excerpt: Sellers should avoid these red flags often found on home inspections.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/How+To+Avoid+Home+Inspection+Red+Flags+(1).mp4
 pullquote: Any of these problems may prevent the transaction from moving forward.
 enclosure_type: video/mp4
 enclosure_time:
