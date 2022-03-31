@@ -26,7 +26,7 @@ Revitalize T-Town is a local nonprofit, and our goal is to make homes safe and h
 
 **We know you do so much good for our families here in Tulsa, so what is the greatest need you see? Where do people need the most help?&nbsp;**
 
-I would say roofs since they’re a major expense on a home. If you’ve never had to replace a roof, you don’t know how much of a financial burden it is. At that point, you’re hoping for a hail storm so that insurance covers the costs\! Without a solid roof, everything else in the home is jeopardized, and with our severe weather, it’s especially important.&nbsp;
+I would say roofs since they’re the biggest expense for a home. If you’ve never had to replace a roof, you don’t know how much of a financial burden it is. At that point, you’re hoping for a hail storm so that insurance covers the costs\! Without a solid roof, everything else in the home is jeopardized, and with our severe weather, it’s especially important.&nbsp;
 
 **As an organization, I know you guys work hard to garner donations and help, so is that the best way people can support you? How many families do you help, and how much does that cost?&nbsp;**
 
@@ -36,7 +36,7 @@ Last year, we served 120 families in Tulsa, which equaled about 226 people. For 
 
 **Our business is helping people with their homeownership, and your purpose is the same; you just go about it in a different way. What is your ultimate goal?&nbsp;**
 
-Our goal is simply to keep people in their homes. Just like with most families, these families’ biggest assets are their houses. Many of them inherited their places, so they might not know everything that goes into maintaining their property. If we can help them get started and educate them, we can keep them in their homes and improve their neighborhoods.&nbsp;
+Our goal is simply to keep people in their homes. Just like with most people, these families’ biggest assets are their houses. Many of them inherited their places, so they might not know everything that goes into maintaining their property. If we can help them get started and educate them, we can keep them in their homes and improve their neighborhoods.&nbsp;
 
 **So if people want to help you help our community, where can they find you and donate?&nbsp;**
 
