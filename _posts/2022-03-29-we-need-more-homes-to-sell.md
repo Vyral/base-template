@@ -20,6 +20,6 @@ youtube_code: ZhosJTkjBCA
 
 Let’s make it rain listings\! **Our real estate market needs more homes to sell**, so if you’re considering selling, give us a call. We have hundreds of buyers waiting to buy your house. Whether you’re thinking about moving out of the area, living in a different part of the area, downsizing, or upsizing, let us know.&nbsp;
 
-Last year we hit a 15-year record for the number of homes sold. In 2021, we sold over six million homes compared to the roughly five and a half million in the last two years. However, the number of listings we have is decreasing monthly.
+Last year, we hit a 15-year record for the number of homes sold. In 2021, we sold over six million homes compared to the roughly five and a half million in the last two years. However, the number of listings we have is decreasing monthly.
 
 If you’re interested in selling your house or have any questions, give us a shout via phone or email. We would love to help you.
