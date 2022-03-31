@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Is the Best Time to List Your Home for Sale?
+title: When Is the Best Time to List Your Home?
 date: 2022-03-28 17:04:32
 tags:
   - Home Seller Tips
@@ -22,8 +22,8 @@ If you’re a homeowner in Charleston looking to sell this year, when is the bes
 
 **This year is a little different;** our February and March markets have been very strong. Homes have been selling quickly and often over list price. The best time to list in 2022 is probably right now since you’ll see a high number of showings and offers.
 
-However, you can't just throw your house on the market and sell for top dollar without any preparation. **Preparing your home is still key to getting it sold for the highest price possible. **
+However, you can't just throw your house on the market and sell for top dollar without any preparation. **Preparing your home is still key to getting it sold for the highest price possible.&nbsp;**
 
 There’s an emotional component to home buying as well, and when the weather gets nice in the spring, it helps attract buyers from an emotional perspective.
 
-If you have any questions about listing your home this spring or what to list it for, don’t hesitate to reach out via phone or email. We would love to hear from you.
+If you have any questions about listing your home this spring, don’t hesitate to reach out via phone or email. We would love to hear from you.
