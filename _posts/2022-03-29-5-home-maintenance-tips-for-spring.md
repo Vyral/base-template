@@ -28,9 +28,9 @@ It’s officially spring\! As the Minnesota winter thaws out, you have a great o
 
 {% include pullquote.html %}
 
-**3\. Inspect your exterior siding and windows.** If your property acquired any siding or window damage over the winter, now is the time to address it. Check for wood rot, and cut back any trees that are getting too close to your home.&nbsp;
+**3\. Inspect your exterior siding and windows.** If your property sustained any siding or window damage over the winter, now is the time to address it. Check for wood rot, and cut back any trees that are getting too close to your home.&nbsp;
 
-**4\. Check the window screens and doors.** If you’ve taken your screens off for the winter, now is the time to put them back on. This is also a great time to fix any tears in them, which can easily be repaired with kits sold at your local hardware store or online.&nbsp;
+**4\. Check the window screens and doors.** If you’ve taken your screens off for the winter, now is the time to put them back on. This is also a great time to fix any tears in them, which can easily be repaired with kits sold online or at your local hardware store.
 
 **5\. Take steps to prepare your lawn for summer.** Clear away any remaining leaves from your lawn and use a weed-and-feed fertilizer before weeds take over your yard. Finally, you should have your lawn aerated every other year. By poking strategic holes in your yard, vital nutrients can reach your plants’ root systems, giving you the greenest yard possible.&nbsp;
 
