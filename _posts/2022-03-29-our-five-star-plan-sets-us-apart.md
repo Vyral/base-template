@@ -21,7 +21,7 @@ youtube_code: RdJdMpWZizw
 
 The key thing that sets us apart from other Realtors is that we’re design-forward. We sell with style**. We prepare our homes by professionally cleaning, staging, and marketing them with HD photography and a full 3D walk-through.** We also provide all of our buyers with a one-year home warranty.
 
-We do all of this because we don’t want our sellers to have to worry about a thing. We cover all the costs involved with our five-star plan, which allows our buyers to move into a home that’s ready for them. This process helps sellers improve their home’s aesthetic, and buyers will pay more money because they see the value in what we’ve done.
+We do all of this because we don’t want our sellers to have to worry about a thing. We cover all the costs involved with our five-star plan, which allows our buyers to move into a home that’s ready for them. This process helps sellers improve their homes' aesthetics, and buyers will pay more money because they see the value in what we’ve done.
 
 {% include pullquote.html %}
 
