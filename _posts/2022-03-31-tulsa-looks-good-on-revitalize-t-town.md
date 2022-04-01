@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Today we’re talking with Jennifer Barcus-Schafer, the CEO of Revitalize T-Town. This organization is truly something special, so let’s get right into our conversation.&nbsp;
+Today we’re talking with Jennifer Barcus-Schafer, the CEO of Revitalize T-Town. She’s done a ton to help this community, and they have an [upcoming event on April 28](https://revitalizettown.org/events/) that sounds like a ton of fun. This organization is truly something special, so let’s get right into our conversation.&nbsp;
 
 **Can you tell us a little bit about what you guys do here in Tulsa and how you give back to your community?&nbsp;**
 
