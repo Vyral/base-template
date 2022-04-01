@@ -5,7 +5,8 @@ date: 2022-04-01 19:12:09
 tags:
   - Real Estate
 excerpt: If your kid is off to college, you have a fantastic investment opportunity.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Is+Your+Kid+Going+Off+to+College_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
