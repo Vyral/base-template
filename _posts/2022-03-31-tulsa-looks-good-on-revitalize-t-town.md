@@ -42,4 +42,4 @@ Our goal is simply to keep people in their homes. Just like with most people, th
 
 We have a website with a donate button at [www.revitalizettown.org](http://www.revitalizettown.org), and you can also visit our [Facebook page](http://www.facebook.com/revitalizettown). We have an event coming up on April 28, and we have a very active board of directors if you want to reach out. Also, if you or someone you know needs help, our website is a great resource to get in contact with us.&nbsp;
 
-We’d like to thank Jennifer for speaking with us once again. As always, if you have questions about anything real estate related, please call or email us. We’re always willing to help\!&nbsp;
+We’d like to thank Jennifer for speaking with us once again. As always, if you have questions about anything real estate-related, please call or email us. We’re always willing to help\!&nbsp;
