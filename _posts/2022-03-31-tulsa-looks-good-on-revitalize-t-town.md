@@ -40,6 +40,6 @@ Our goal is simply to keep people in their homes. Just like with most people, th
 
 **So if people want to help you help our community, where can they find you and donate?&nbsp;**
 
-We have a website with a donate button at [www.revitalizettown.org](http://www.revitalizettown.org), and you can also visit our [Facebook page](http://www.facebook.com/revitalizettown). We have an event coming up on April 28, and we have a very active board of directors if you want to reach out. Also, if you or someone you know needs help, our website is a great resource to get in contact with us.&nbsp;
+We have a website with a donate button at [www.revitalizettown.org](http://www.revitalizettown.org), and you can also visit our [Facebook page](http://www.facebook.com/revitalizettown). We have an event called Raise the Roof coming up on April 28, at The Vista at 21. There will be music, food, drinks, and a beautiful view of downtown Tulsa. Also, if you or someone you know needs help, our website is a great resource to get in contact with us.&nbsp;
 
 We’d like to thank Jennifer for speaking with us once again. As always, if you have questions about anything real estate-related, please call or email us. We’re always willing to help\!&nbsp;
