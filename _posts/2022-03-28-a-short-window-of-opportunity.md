@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Finance Advice
 excerpt: Let’s find out if right now is a good time for you to refinance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/A+Short+Window+of+Opportunity.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: 9jycjS8L2jU
 
 Today I'll give you a quick update on what's going on in the real estate market.
 
-Thankfully, COVID now seems to be somewhat tamed for the near future. This has caused a resurgence of pre-COVID market conditions like pricing and interest rates. With that said, rates have gone up, but because of the Russian invasion of Ukraine, rates dropped again by 0.5%.&nbsp;
+Thankfully, COVID now seems to be somewhat tamed for the near future. This has caused a resurgence of pre-COVID market conditions like pricing and interest rates. With that said, rates have gone up, but because of the Russian invasion of Ukraine, rates dropped again by 0.5%.
 
 **This drop has created a short window of opportunity** to refinance for those with a mortgage in the 4% range. I don't think this rate drop will last long because it was artificially created by macroeconomic factors like the war and the sanctions imposed on Russia.
 
