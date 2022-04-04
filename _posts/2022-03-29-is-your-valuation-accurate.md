@@ -5,7 +5,8 @@ date: 2022-03-29 15:23:10
 tags:
   - Real Estate
 excerpt: Please take a close look at your valuation notice when you receive it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/Is+Your+Valuation+Accurate_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
