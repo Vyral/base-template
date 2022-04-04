@@ -18,9 +18,9 @@ youtube_code: I5pru5Df_5o
 
 {% include excerpt.html %}
 
-At this time of year when kids are about to graduate from high school, we often receive similar questions from parents about how they’re considering buying a house or condo near their child’s future college so their student can live there for the next four years.&nbsp;
+At this time of year, when kids are about to graduate from high school, we often receive similar questions from parents about how they’re considering buying a house or condo near their child’s future college so their student can live there for the next four years.&nbsp;
 
-The idea is that when they’re done with school, the parents are hoping the house will appreciate in value and they can use the extra money to offset some of the college expenses when they sell it.&nbsp;
+The idea is that, when they’re done with school, the parents are hoping the house will have appreciated in value so they can use the extra money to offset some of the college expenses when they sell it.&nbsp;
 
 If you’re thinking about doing this, we have many great agent colleagues around the U.S., and we can put you in contact with them. **We’d be glad to help you find the right real estate agent anywhere in the country**, whether it’s for your kid or yourself.&nbsp;
 
