@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re a pet-owner who plans to sell your house, here are a few tips to
   remember.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Tips+for+Pet-Owners+When+Selling+Your+Home.mp4
 pullquote: >-
   Don’t use candles or spray scents to cover up pet smells, as that will send a
   red flag to buyers.
