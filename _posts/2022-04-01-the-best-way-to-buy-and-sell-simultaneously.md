@@ -28,6 +28,6 @@ The next option is to **list your home for sale and move into temporary housing*
 
 {% include pullquote.html %}
 
-Alternatively, you could **sell your current house with the caveat that the buyer signs a rent-back agreement with you**. Essentially, that agreement would allow you to live in that house for a preset period after you sell it while you rent it from the buyers. In a hot seller’s market like this, some buyers may even be willing to let you stay there for little or no charge while you use that rent-back period to search for a home.
+Alternatively, you could **sell your current house with the caveat that the buyer signs a rent-back agreement with you**. Essentially, that agreement would allow you to live in that house for a preset period after you sell it. In a hot seller’s market like this, some buyers may even be willing to let you stay there for little or no charge while you use that rent-back period to search for a home.
 
 Hopefully this gave you a clearer understanding of how to buy and sell at the same time. If you have any further questions, don't hesitate to give us a call or send an email. We’d love to help you.
