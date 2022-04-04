@@ -5,7 +5,8 @@ date: 2022-03-24 00:00:00
 tags:
   - Real Estate
 excerpt: Rene Soldswitch talks about the real estate industry and our team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Why+Rene+Soldwisch+Loves+Our+Team.mp4
 pullquote: We have each other’s back, and we keep each other positive.
 enclosure_type: video/mp4
 enclosure_time:
