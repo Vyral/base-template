@@ -5,7 +5,8 @@ date: 2022-03-30 00:00:00
 tags:
   - Real Estate
 excerpt: Three ways that working from home has changed the Colorado Springs market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2022/Working+From+Home+Has+Changed+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
