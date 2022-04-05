@@ -10,7 +10,7 @@ enclosure:
 pullquote: Thinking about what the seller needs will help you in the long run.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/4-4-22yt.jpg
 youtube_code: 7QZWbIPoxpI
 ---
