@@ -5,7 +5,8 @@ date: 2022-03-25 00:00:00
 tags:
   - Real Estate
 excerpt: How does the Neighborhood Finance Corporation help revitalize neighborhoods?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business+Highlight_+Neighborhood+Finance+Corporation.mp4
 pullquote: If you live in the house for more than five years, $10,000 will be forgiven.
 enclosure_type: video/mp4
 enclosure_time:
