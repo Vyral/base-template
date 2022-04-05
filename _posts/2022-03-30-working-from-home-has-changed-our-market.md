@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-24-canady-youtube.jpg
-youtube_code: lvROLYrK9GQ
+youtube_code: BZpRb9NBSzA
 ---
 {% include youtube.html %}
 
