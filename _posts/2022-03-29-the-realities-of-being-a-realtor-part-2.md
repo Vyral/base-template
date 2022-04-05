@@ -4,7 +4,8 @@ title: 'The Realities of Being a Realtor: Part 2'
 tags:
   - Transaction Management
 excerpt: Four more uncomfortable realities of the real estate industry.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/2022/JoshStern+BeingARealtorPt2V2.mp4
 pullquote: Other agents will take your clients and think nothing of it.
 enclosure_type: video/mp4
 enclosure_time:
