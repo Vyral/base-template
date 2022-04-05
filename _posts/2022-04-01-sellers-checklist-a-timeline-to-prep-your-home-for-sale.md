@@ -16,7 +16,9 @@ youtube_code:
 
 Start by connecting with a real estate agent as soon as possible. Having the eyes and ears of an insightful real estate professional on your side can help you boost your home’s appeal to buyers. What’s more, beginning the preparation process early allows you to tackle repairs and upgrades that can increase your property’s value.&nbsp;
 
-Use the checklist below to figure out what other tasks you should complete in the months leading up to listing your home. While everyone’s situation is unique, these guidelines will help you make sure you’re ready to sell when the time is right. Of course, you can always call us if you’re not sure where to start or what to tackle first. We can help customize a plan that works for you.<br>&nbsp;
+Use the checklist below to figure out what other tasks you should complete in the months leading up to listing your home. While everyone’s situation is unique, these guidelines will help you make sure you’re ready to sell when the time is right. Of course, you can always call us if you’re not sure where to start or what to tackle first. We can help customize a plan that works for you.
+
+&nbsp;
 
 **AS SOON AS YOU THINK OF SELLING**
 
