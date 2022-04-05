@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: How our buyers and sellers get an advantage by working with us.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2022/Our+Five-Star+Plan+Sets+Us+Apart.mp4
 pullquote: We sell with style.
 enclosure_type: video/mp4
 enclosure_time:
