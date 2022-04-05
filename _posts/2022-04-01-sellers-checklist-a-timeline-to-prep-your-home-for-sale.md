@@ -18,9 +18,7 @@ Start by connecting with a real estate agent as soon as possible. Having the eye
 
 Use the checklist below to figure out what other tasks you should complete in the months leading up to listing your home. While everyone’s situation is unique, these guidelines will help you make sure you’re ready to sell when the time is right. Of course, you can always call us if you’re not sure where to start or what to tackle first. We can help customize a plan that works for you.
 
-&nbsp;
-
-**AS SOON AS YOU THINK OF SELLING**
+<br><br>**AS SOON AS YOU THINK OF SELLING**
 
 Some home sellers want to plan their future move far in advance, while others will be required to pack up on very short notice. Whatever your circumstances, these first steps will help assure you’ll be ahead of the listing game.
 
