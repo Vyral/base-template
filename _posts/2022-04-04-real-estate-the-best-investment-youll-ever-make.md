@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Estate: The Best Investment You’ll Ever Make'
-date: 2021-02-26 16:42:44
+date: 2022-04-04 16:42:00
 tags:
   - Real Estate
 excerpt: Here’s what investing in real estate can do for your portfolio.
@@ -15,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-the-benefits-of-investing-in-real-estate-yt.jpg
 youtube_code: Ef_F482KiHk
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what investing in real estate can do for your portfolio.</em></p>
+*Here’s what investing in real estate can do for your portfolio.*
 
 Let’s say you have $60,000 in cash and you’re wondering whether you should invest the money in real estate or keep it in a savings account for later. Let me outline what each scenario might look like for you.&nbsp;
 
