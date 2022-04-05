@@ -16,7 +16,7 @@ youtube_code:
 
 Start by connecting with a real estate agent as soon as possible. Having the eyes and ears of an insightful real estate professional on your side can help you boost your home’s appeal to buyers. What’s more, beginning the preparation process early allows you to tackle repairs and upgrades that can increase your property’s value.&nbsp;
 
-Use the checklist below to figure out what other tasks you should complete in the months leading up to listing your home. While everyone’s situation is unique, these guidelines will help you make sure you’re ready to sell when the time is right. Of course, you can always call us if you’re not sure where to start or what to tackle first. We can help customize a plan that works for you.
+Use the checklist below to figure out what other tasks you should complete in the months leading up to listing your home. While everyone’s situation is unique, these guidelines will help you make sure you’re ready to sell when the time is right. Of course, you can always call us if you’re not sure where to start or what to tackle first. We can help customize a plan that works for you.<br>&nbsp;
 
 **AS SOON AS YOU THINK OF SELLING**
 
@@ -38,7 +38,7 @@ In some instances, we may recommend a pre-listing inspection. Although it's less
 
 This is the time to address major structural, systems, or cosmetic issues that could hurt the sale of your home down the line. For example, problems with the frame, foundation, or roof are likely to be flagged on an inspection report. Issues with the HVAC system, electrical wiring, or plumbing may cause the home to be unsafe. And sometimes outdated or unpopular design features can limit a home’s sales potential.&nbsp;
 
-Remember, when you’re dealing with major repairs or renovations, it’s best to give yourself as much time as possible. Given rampant labor and material shortages, starting right away can help you avoid costly delays.2 Contact us so we can guide you on the updates that are worth your time and investment.&nbsp;
+Remember, when you’re dealing with major repairs or renovations, it’s best to give yourself as much time as possible. Given rampant labor and material shortages, starting right away can help you avoid costly delays.2 Contact us so we can guide you on the updates that are worth your time and investment.&nbsp;<br>&nbsp;
 
 **1 MONTH (OR MORE) BEFORE YOU LIST**
 
@@ -64,7 +64,7 @@ Even just repositioning your furniture can make a huge difference to buyers. A s
 
 Doing a little bit of decluttering every day is a lot easier than trying to take care of it all at once right before your home hits the market. A simple strategy is to do this one room at a time, working your way through each space whenever you have a bit of free time.&nbsp;
 
-Start by donating or discarding items that you no longer want or need. Then pack up any seasonal items, family photos, and personal collections you can live without for the next few weeks. Bonus: This will give you a head start on packing for your move\!
+Start by donating or discarding items that you no longer want or need. Then pack up any seasonal items, family photos, and personal collections you can live without for the next few weeks. Bonus: This will give you a head start on packing for your move\!<br>&nbsp;
 
 **1 WEEK BEFORE YOU GO TO MARKET**
 
@@ -84,7 +84,7 @@ In addition, now is the time to clean your home’s exterior if you haven’t al
 
 Your house should be deep cleaned before listing, including a thorough deodorizing of the home’s interior and steam cleaning for all carpets. Consider hiring a professional cleaning company to ensure the space smells and looks as fresh as possible.&nbsp;
 
-In addition to cleaning, take some time to tidy up. Buyers will look inside your closets, pantries, and cabinets, so make sure they are neat and organized. Small appliances and toiletries should be cleared off the countertops.
+In addition to cleaning, take some time to tidy up. Buyers will look inside your closets, pantries, and cabinets, so make sure they are neat and organized. Small appliances and toiletries should be cleared off the countertops.<br>&nbsp;
 
 **DAY OF SHOWING**
 
@@ -98,13 +98,13 @@ Then tidy up by vacuuming and sweeping floors, emptying (or hiding) trash cans, 
 
 Don’t forget to secure firearms, jewelry, sensitive documents, prescription medications, and any other items of value in a safe or store them off-site.
 
-Finally, it’s best to have pets out of the house during showings. If possible, you should also remove evidence of pets (litter box, dog beds, etc.), which can be a turn-off for some buyers.
+Finally, it’s best to have pets out of the house during showings. If possible, you should also remove evidence of pets (litter box, dog beds, etc.), which can be a turn-off for some buyers.<br>&nbsp;
 
 **DON’T WAIT TO PREP YOUR HOME FOR SELLING**
 
 If you want to get top dollar for your home, don’t put it on the market before it’s ready. The right preparation can make all the difference when it comes to maximizing the offers you get. The upgrades and changes you need to make will depend upon your home’s condition, so don’t wait to speak with an agent.
 
-Call our team if you’re thinking about selling your home, even if you’re not sure when. It’s never too early to seek the guidance of your real estate agent and start preparing your home to sell.
+Call our team if you’re thinking about selling your home, even if you’re not sure when. It’s never too early to seek the guidance of your real estate agent and start preparing your home to sell.<br><br>&nbsp;
 
 Sources:
 
