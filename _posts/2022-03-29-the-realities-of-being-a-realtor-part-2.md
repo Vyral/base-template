@@ -28,3 +28,7 @@ Today I’m back with part two of my three-part series on the realities of being
 * **Real estate is a hyper-competitive industry**. Other agents will take your clients and think nothing of it. It’s a dog-eat-dog world, and just because you have a great set of ethics doesn’t mean everyone else does.
 
 Call, text, or email me if you’d like to schedule a free, no-obligation consultation. We’ll review your goals and set up a one-page business plan.
+
+---
+
+<center><h3><a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-1.html"><b>Part 1</b></a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-3.html"><b>Part 3</b></a></h3></center>
