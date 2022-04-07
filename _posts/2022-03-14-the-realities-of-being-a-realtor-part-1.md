@@ -29,3 +29,7 @@ Third, **there is a significant lag between starting off and getting paid**. Som
 Last, **brokers want their money upfront**. Although you may not be making any money, you can bet that your broker is. They stay in business by charging desk fees, training fees, and more. Additionally, you need to have money set aside for things such as MLS dues and license fees. If you want additional training, it will probably be 100% on you to seek it out. In-house training has improved from the days when you were given a desk and a book of numbers and told to start calling, but it’s still sparse. While many brokerages tout their training programs, they’re mostly focused on having you sign their contract.
 
 If you learned something from this blog post, stay tuned for the next two episodes. As always, you can call or email me with any questions you might have. I look forward to hearing from you\!
+
+---
+
+<center><h3><a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-2.html"><b>Part 2</b></a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-3.html"><b>Part 3</b></a></h3></center>
