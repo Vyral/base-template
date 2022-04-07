@@ -35,4 +35,4 @@ Call, text, or email me if you’d like to set up a free, no-obligation consulta
 
 ---
 
-<center><h3><a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-1.html">Part 1</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-2.html">Part 2</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-3.html">Part 3</a></h3></center>
+<center><h3><a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-1.html">**Part 1**</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-2.html">**Part 2**</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-3.html">**Part 3**</a></h3></center>
