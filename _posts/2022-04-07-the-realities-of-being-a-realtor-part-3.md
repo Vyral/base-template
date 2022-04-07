@@ -32,3 +32,7 @@ Today I’m finishing my three-part series on the realities of being a Realtor. 
 I’ve been a Realtor for about eight years. I’ve seen ups, downs, and plenty of bizarre things. I’ve worked through the foreclosure crisis and the pandemic and, despite it all, I’ve beaten the odds. In retrospect, it’s probably a good thing my recruiter didn’t explain the highs and lows of the business because I may never have experienced what has become a truly fantastic career.&nbsp;
 
 Call, text, or email me if you’d like to set up a free, no-obligation consultation to review your goals and set up a one-page business plan. My team and I would love to hear from you.
+
+---
+
+<center><h3><a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-1.html">Part 1</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-2.html">Part 2</a> | <a target="_blank" rel="noopener" href="https://realestatecareersinutah.com/the-realities-of-being-a-realtor-part-3.html">Part 3</a></h3></center>
