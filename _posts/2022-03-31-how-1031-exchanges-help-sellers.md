@@ -5,7 +5,8 @@ date: 2022-03-31 00:00:00
 tags:
   - Real Estate
 excerpt: What are 1031 exchanges, and how can they benefit you as a seller?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/How+1031+Exchanges+Help+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
