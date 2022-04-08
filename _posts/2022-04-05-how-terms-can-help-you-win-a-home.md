@@ -18,12 +18,12 @@ youtube_code: 7QZWbIPoxpI
 
 {% include excerpt.html %}
 
-How can you write a better offer when shopping for homes? One of the benefits of selling lots of different homes is that we get to see many different offers. This lets us understand what sellers are looking for in today's market. You might be surprised how much it has changed in the past few years.
+How can you write a better offer when shopping for homes? One of the benefits of selling lots of different homes is that we get to see many different offers. This helps us understand what sellers are looking for in today's market. You might be surprised how much things have changed in the past few years.
 
-We still have loads of sellers leaving the state. They want to take advantage of the market now but don’t know where to go from there. **These sellers are looking for a rent-back agreement, which is where a seller can stay in their home past escrow.** Typically, they would pay the buyer PITI, or principal, interest, taxes, and insurance, during that time. However, sellers in today’s market want this agreement for free.
+We still have loads of sellers leaving the state. They want to take advantage of the market now but don’t know where to go from there. **These sellers are looking for a rent-back agreement, which is where a seller can stay in their home past escrow.** Typically, they would pay the buyer's mortgage during that time. That includes their principle, interest, taxes, and insurance, or PITI.
+
+{% include pullquote.html %}
 
 **When you’re writing an offer, you should ask the listing agent what the seller needs.** The seller doesn’t want to feel vulnerable at the end of closing. You can usually beat someone who’s offering a higher price by offering better terms. Thinking about what the seller needs and structuring your offer around those needs will help you in the long run.&nbsp;
 
 This is one of the benefits of working with us; we see so many offers that we always know what’s happening with today’s terms. If you have any questions about today’s topic or would like to buy or sell, call or email us. We’d love to hear from you.
-
-{% include pullquote.html %}
