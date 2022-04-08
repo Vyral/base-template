@@ -28,7 +28,7 @@ These two foundational books got me from zero transactions a year to learning em
 
 {% include pullquote.html %}
 
-**3\. “The Millionaire Real Estate Agent” by Gary Keller. **
+**3\. “The Millionaire Real Estate Agent” by Gary Keller.&nbsp;**
 
 **4\. “The One Thing” by Gary Keller**
 
@@ -36,8 +36,8 @@ These two foundational books got me from zero transactions a year to learning em
 
 **5\. “Traction” by Gino Wickman.**
 
-This book has really taken my business to the next level and given me clarity to develop a strong culture focused on people, mission, and the customer.
+This book has really taken my business to the next level and given me clarity to develop a strong culture focused on people, mission, and the customer.&nbsp;
 
-If you want another list of five books in addition to this list, just **private message me, and I’ll send you my full list of 10 powerful books. **
+If you want another list of five books in addition to this list, just **private message me, and I’ll send you my full list of 10 powerful books.&nbsp;**
 
 If you have any other questions about the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
