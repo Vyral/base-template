@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'Whether you’re a buyer or seller, you need a home inspection. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2022/Why+Inspections+Are+Key+for+Buyers+and+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
