@@ -5,7 +5,8 @@ date: 2022-03-31 16:00:00
 tags:
   - Real Estate
 excerpt: 'Here’s how Revitalize T-Town helps low-income Tulsa homeowners. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/Tulsa+Looks+Good+on+Revitalize+T-Town.mp4
 pullquote: 'Our goal is simply to keep people in their homes. '
 enclosure_type: video/mp4
 enclosure_time:
