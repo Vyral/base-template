@@ -40,4 +40,4 @@ This book has really taken my business to the next level and given me clarity to
 
 If you want another list of five books in addition to this list, just **private message me, and I’ll send you my full list of 10 powerful books.&nbsp;**
 
-If you have any other questions about the real estate business, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any other questions about the real estate business, don’t hesitate to reach out via phone at 717 -216-0860 or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). I look forward to hearing from you soon.
