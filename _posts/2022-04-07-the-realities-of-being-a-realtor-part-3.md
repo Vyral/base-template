@@ -4,7 +4,8 @@ title: 'The Realities of Being a Realtor: Part 3'
 tags:
   - Transaction Management
 excerpt: The final five uncomfortable realities of working as a Realtor.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/2022/The+Realities+of+Being+a+Realtor+Part+3.mp4
 pullquote: >-
   Even once a practice is up and running, a lot of work goes into keeping it
   working.
