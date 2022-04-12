@@ -26,7 +26,7 @@ Trust me; if you’ve struggled to help your buyers in this market, I feel your 
 
 Let’s pretend the home your client wants is $500,000, and your client says the highest they can go is $525,000. As a buyer’s agent, you need to ask if your clients are okay with losing to a $526,000 offer. If they aren’t, see if they’re willing to go up to $530,000. From there, ask if they’re willing to lose to a $531,000 offer, and so on. Often, buyers need to lose a few bids to understand what highest and best really means. This exercise might help them get there sooner.&nbsp;
 
-**&nbsp; &nbsp; &nbsp;** 4. **Write an offer without a mortgage contingency.** In this market, homes are appreciating so fast that the list price is often higher than the appraised value. Because of this, you can get a huge leg up by waiving your appraisal contingency. Recently, I helped a client win a home over another buyer with a higher offer because our bid wasn’t contingent on the appraisal.&nbsp;
+**&nbsp;**4\. **Write an offer without a mortgage contingency.** In this market, homes are appreciating so fast that the list price is often higher than the appraised value. Because of this, you can get a huge leg up by waiving your appraisal contingency. Recently, I helped a client win a home over another buyer with a higher offer because our bid wasn’t contingent on the appraisal.&nbsp;
 
 A question I often ask my buyers is, “How high are you willing to go to be done and over?” Sometimes, your clients just need a final push to realize how far they’re willing to go. If they need this question to understand what getting into a home before the school year is worth, you need to be there for them.&nbsp;
 
