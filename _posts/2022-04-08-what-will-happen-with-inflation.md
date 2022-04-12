@@ -5,7 +5,8 @@ date: 2022-04-08 20:53:26
 tags:
   - Market Update
 excerpt: Inflation in the marketplace could affect your plans in the Charlotte area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2022/What+Will+Happen+With+Inflation_+(1).mp4
 pullquote: Real estate is a good way to hedge against inflation.
 enclosure_type: video/mp4
 enclosure_time:
