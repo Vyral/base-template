@@ -5,7 +5,8 @@ date: 2022-04-12 16:48:04
 tags:
   - Market Update
 excerpt: Here’s part one of our discussion on my career and today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/An+Expert%E2%80%99s+View+on+the+State+of+the+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
