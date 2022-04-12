@@ -5,7 +5,8 @@ date: 2022-04-11 14:54:14
 tags:
   - Real Estate
 excerpt: 'The data we have doesn’t indicate an oncoming wave of foreclosures. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2022/Is+There+a+Massive+Wave+of+Foreclosures+Headed+Our+Way_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
