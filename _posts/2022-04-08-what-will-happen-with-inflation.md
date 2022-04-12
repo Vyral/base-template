@@ -5,20 +5,19 @@ date: 2022-04-08 20:53:26
 tags:
   - Market Update
 excerpt: Inflation in the marketplace could affect your plans in the Charlotte area.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2022/What+Will+Happen+With+Inflation_.mp4
+enclosure:
 pullquote: Real estate is a good way to hedge against inflation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: avT8VGNbA3s
+youtube_code: HTJue6vPiFA
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-How does inflation impact the housing market? Inflation is a simple equation of supply and demand in our real estate world. Supply has been incredibly low, and demand has been extremely high. Another way inflation has worked its magic into the real estate market is that money has been cheap with low interest rates. Until interest rates rise to where they were about a year and a half ago, we’ll see prices increase, which is good if you're thinking about selling your house. However, some people will be priced out of the market, and you still need a place to go.&nbsp;
+How does inflation impact the housing market? Inflation is a simple equation of supply and demand in our real estate world. Supply has been incredibly low, and demand has been extremely high. Another way inflation has worked its magic into the real estate market is that money has been cheap with low interest rates. Until interest rates rise to where they were about a year and a half ago, we’ll see prices increase, which is good if you're thinking about selling your house. However, some people will be priced out of the market, and a lot of them are continuing to rent.
 
 Three things could happen in the market moving forward:
 
@@ -26,7 +25,7 @@ Three things could happen in the market moving forward:
 
 {% include pullquote.html %}
 
-**2\. Prices could decrease dramatically.** If this were to happen, which isn’t likely, banks have learned from the pandemic and 2008, and they are willing to work with buyers and homeowners with late payments, losing jobs, etc.
+**2\. Prices could decrease dramatically.** If this were to happen, which isn’t likely, banks have learned from the pandemic and the 2008 recession, and they are willing to work with buyers and homeowners with late payments, lost jobs, etc.
 
 **3\. Continued drastic price increases.** We hope we don't see this. In North Carolina, we saw 21% gains in home values last year.
 
