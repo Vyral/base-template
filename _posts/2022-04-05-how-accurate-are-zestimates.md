@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Zillow’s Zestimate tool is not an accurate estimate of your home’s value.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/How+Accurate+Are+Zestimates_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
