@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/april-2022---mvp---blog-post-image-1.jpg
 youtube_code:
 ---
 ![](/uploads/april-2022---mvp---blog-post-image.jpg){: width="1200" height="628"}<br><br>We’re still in a seller’s market, but that doesn’t mean your home is guaranteed to easily sell.1 If you want to maximize your sale price, it’s still important to prepare your home before putting it on the market.
