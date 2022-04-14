@@ -22,9 +22,11 @@ Trust me; if you’ve struggled to help your buyers in this market, I feel your 
 
 1. **Have some enthusiasm.** Do you know your sellers? If not, it’s time to start building rapport. Listing agents want to trust that you understand what’s happening, and the more you communicate with them and express your desire to win the home, the more likely they are to choose to work with you.
 2. **Offer at least full price.** If a house has been on the market for less than a week, you can’t offer below the list price. In this market, you probably won’t receive a counteroffer, so encourage your buyer to make their strongest bid upfront.&nbsp;
-3. **Know your client’s highest and best number.** When I work as a buyer’s agent, I ask my clients what number they’d be willing to offer before they’re okay with losing the home. In other words, if you can offer one dollar more and be financially sound, you should put in that dollar.&nbsp;
+3. **Know your client’s highest and best number.** When I work as a buyer’s agent, I ask my clients what number they’d be willing to offer before they’re okay with losing the home. In other words, if you can offer one dollar more and be financially sound, you should put in that dollar.
 
 Let’s pretend the home your client wants is $500,000, and your client says the highest they can go is $525,000. As a buyer’s agent, you need to ask if your clients are okay with losing to a $526,000 offer. If they aren’t, see if they’re willing to go up to $530,000. From there, ask if they’re willing to lose to a $531,000 offer, and so on. Often, buyers need to lose a few bids to understand what highest and best really means. This exercise might help them get there sooner.&nbsp;
+
+{% include excerpt.html %}
 
 **&nbsp;**4\. **Write an offer without a mortgage contingency.** In this market, homes are appreciating so fast that the list price is often higher than the appraised value. Because of this, you can get a huge leg up by waiving your appraisal contingency. Recently, I helped a client win a home over another buyer with a higher offer because our bid wasn’t contingent on the appraisal.&nbsp;
 
