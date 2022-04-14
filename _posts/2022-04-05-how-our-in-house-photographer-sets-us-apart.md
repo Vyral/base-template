@@ -4,7 +4,8 @@ title: How Our In-House Photographer Sets Us Apart
 date: 2022-04-05 00:00:00
 tags:
 excerpt: Here’s why HI Pacific has a full-time photographer on staff.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/How+Our+In-House+Photographer+Sets+Us+Apart.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
