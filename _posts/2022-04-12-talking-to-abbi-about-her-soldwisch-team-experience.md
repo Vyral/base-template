@@ -4,7 +4,7 @@ title: Talking To Abbi About Her SOLDwisch Team Experience
 date: 2022-04-12 00:00:00
 tags:
   - Real Estate
-excerpt: Abbi Gilson discusses her experience with the Soldwisch team so far.
+excerpt: Abbi Gilson discusses her experience with the SOLDwisch team so far.
 enclosure:
 pullquote: Every agent on the SOLDwisch team supports each other.
 enclosure_type: video/mp4
