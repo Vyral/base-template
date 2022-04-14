@@ -24,7 +24,7 @@ Vision Realty has been in business for over 30 years at this point, and we’ve 
 
 0:00 — Introduction
 
-0:25 — Why we picked our current location in Columbus and why we’ve been here for so long
+0:25 — Why we picked our current location in Columbus, and why we’ve been here for so long
 
 1:15 — The great opportunity this market presents for real estate investors
 
@@ -40,6 +40,6 @@ Vision Realty has been in business for over 30 years at this point, and we’ve 
 
 10:20 — How communication methods have changed and why I prefer face-to-face conversations
 
-11:09 — Final thoughts about the market/wrapping things up
+11:09 — Final thoughts on the market
 
 If you have any questions about buying, selling, investing, or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
