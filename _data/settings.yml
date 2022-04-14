@@ -2,16 +2,18 @@
 audit_header: false
 title: Northern Nevada Real Estate Video Blog
 description: >-
-  Our mission at Haute Properties NV is to be your best resource for -- MARKET
-  -- real estate advice. Whether you are a buyer, seller, or investor, our team
-  of professionals can answer any questions you might have about real estate. If
+  Our mission at RE/MAX Gold is to be your best resource for -- MARKET -- real
+  estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
   you are looking to buy or sell a home, you can get all the information and the
-  latest updates, tips, and tricks from The Haute Properties NV, your
-  professional -- MARKET -- Real Estate Agents.
+  latest updates, tips, and tricks from RE/MAX Gold, your professional -- MARKET
+  -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Schedule a Consultation Call with Rick
     url: https://calendly.com/rick-138
+  - title:
+    url:
 client:
   name: Richard (Rick) Canale
   license_number: REALTOR® | S.50680
