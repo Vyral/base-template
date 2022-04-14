@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It’s Impossible to Time the Market
-date: 2022-04-14 16:21:13
+date: 2022-04-14 14:21:00
 tags:
   - Real Estate
 excerpt: No one can accurately predict the future of our real estate market.
