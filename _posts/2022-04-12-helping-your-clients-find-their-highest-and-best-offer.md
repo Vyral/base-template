@@ -3,7 +3,7 @@ layout: post
 title: Helping Your Clients Find Their Highest and Best Offers
 date: 2022-04-12 00:00:00
 tags:
-excerpt: 'Here are four tips you can use to help your clients win in a tough market. '
+excerpt:
 enclosure:
 pullquote: >-
   If a house has been on the market for less than a week, you can’t offer below
@@ -15,8 +15,6 @@ youtube_alternate_image: /uploads/help-buyers-win-yt.jpg
 youtube_code: QUcrqxGh6mk
 ---
 {% include youtube.html %}
-
-{% include excerpt.html %}
 
 Trust me; if you’ve struggled to help your buyers in this market, I feel your pain. Recently, one of my clients made an offer on a home that was $255,000 over asking price with no inspection contingency, and we still lost the bid. How can you help your clients win their dream homes? I want to share some tips to do just that:
 
