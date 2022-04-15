@@ -21,7 +21,7 @@ youtube_code: Ou_89_uhzJM
 
 Today I’m coming to you from the center of Florence, Italy. This is a gorgeous city filled with culture, beauty, and history. One thing to note is that homes and apartments are so expensive here that most residents are forced to stay in their current places. Instead of moving, everyone just renovates their living area to fit their needs.&nbsp;
 
-However, if you live in the Louisville or Southern Indiana region, your position is very different; you have options. While it’s certainly more possible to buy a home in Louisville than Florence, it isn’t easy. **Prices are climbing, and as a result, many people are deciding to renovate instead of move.** If you choose this option, which renovations are the best for return on investment? Fortunately, there’s a report dedicated to just this topic.&nbsp;
+However, if you live in the Louisville or Southern Indiana region, your position is very different; you have options. While it’s certainly easier to buy a home in Louisville than Florence, it isn’t a walk in the park. **Prices are climbing, and as a result, many people are deciding to renovate instead of move.** If you choose this option, which renovations are the best for return on investment? Fortunately, there’s a report dedicated to just this topic.&nbsp;
 
 {% include pullquote.html %}
 
