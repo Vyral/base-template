@@ -63,7 +63,7 @@ lender:
   headshot_path: http://fillmurray.com/200/200
   logo_path: /uploads/remax-gold-with-ballon.png
   logo_path_2:
-  name: Bill Murray
+  name:
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
