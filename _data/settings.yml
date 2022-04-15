@@ -73,7 +73,7 @@ lender:
   url: http://eyegoop.com
 welcome_box:
   welcome_headline: How to Sell More Homes
-  welcome_text_markdown: >
+  welcome_text_markdown: >-
     Whether you are just starting out, or you are licensed Broker, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -112,7 +112,7 @@ images:
   logo_width_number: 30
   hero_text: Central Iowa Real Estate Careers and Training Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/bebetterdsm-cover-1.webp
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#439639'
