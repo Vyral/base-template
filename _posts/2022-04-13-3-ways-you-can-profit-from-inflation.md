@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Three ways inflation can benefit homeowners and real estate investors.
 enclosure:
-pullquote:
+pullquote: Inflation benefits both investors and homeowners.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,6 +20,8 @@ youtube_code: g87ZGXI3nTg
 How does inflation affect real estate? As an agent and investor, I study how inflation impacts both me and our market. I follow Keith Weinhold and his podcast, [“Get Rich Education.”](https://www.getricheducation.com/) He talks about three ways inflation benefits both investors and homeowners: price appreciation, debt debasement, and cash flow enhancement. Let’s talk about what he means:
 
 **1\. Home prices will appreciate.** The price of your home will go up in an inflationary environment because there’s more capital available to bid up the value.
+
+{% include pullquote.html %}
 
 **2\. Your loan will be easier to pay off.** The dollars you’re bringing in will be less valuable than the dollars you spent to get the loan on your home. Likely, inflation will outpace your mortgage’s interest rate, so it will be easier to pay off your mortgage with those less valuable dollars.
 
