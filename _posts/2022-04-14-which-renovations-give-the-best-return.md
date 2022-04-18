@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: If you’re renovating your home, which projects net the best ROI?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Which+Renovations+Give+the+Best+Return_.mp4
 pullquote: Replacing your garage door yielded an average ROI of 94% last year.
 enclosure_type: video/mp4
 enclosure_time:
