@@ -15,8 +15,8 @@
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,200' rel='stylesheet' type='text/css'>
   <!-- style-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://bebetterdsm.com/subscribe/">
-  <link rel="alternate" type="application/rss+xml" title="Tools & Training for Central Iowa Real Estate Professionals" href="http://bebetterdsm.com/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/subscribe/">
+  <link rel="alternate" type="application/rss+xml" title="Tools & Training for Central Iowa Real Estate Professionals" href="http://localhost:4000/feed.xml">
   <!-- All that meta crap -->
   <meta name="description" content="A Video Blog about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 	">
@@ -29,7 +29,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Subscribe">
   <meta itemprop="name" content="Subscribe">
-  <meta property="og:url" content="http://bebetterdsm.com/subscribe/">
+  <meta property="og:url" content="http://localhost:4000/subscribe/">
   <meta property="og:description" content="A Video Blog about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!">
   <meta property="og:site_name" content="Tools & Training for Central Iowa Real Estate Professionals">
   <meta property="og:locale" content="en_US">
@@ -40,13 +40,13 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="A Video Blog about Central Iowa Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2018">
+  <meta name="copyright" content="Copyright © 2022">
   <meta name="author" content="Misty SOLDwisch">
   <meta name="designer" content="Bryce Stradling">
   <meta name="email" content="MistyS@BHGInnovations.com">
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow">
-  <link type="text/plain" rel="author" href="http://bebetterdsm.com/humans.txt">
+  <link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
   <link rel="author" href=""/>
 
   <!-- ICONS HOLY CRAP -->
@@ -56,9 +56,39 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#333333">
+
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<script>
+		function onSubmit(token) {
+	  document.getElementById("contact-form").submit();
+	}
+
+	function onSubmit(token) {
+document.getElementById("join-our-team-form").submit();
+}
+
+
+function onSubmit(token) {
+document.getElementById("strategy-call-form").submit();
+}
+
+	</script>
+
+
+
+
 </head>
 
 	<body>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 		
 		<nav role="navigation" class="navbar navbar-fixed-top navbar-andross">
 	<div class="navbar-header">
@@ -77,13 +107,13 @@
 			<li><a href="/">Home</a></li>
 			
 			
-		<li><a href="contact" id="contact">Contact</a></li>
+		<li><a href="/career-opportunities" id="contact">Contact</a></li>
 		
 		<li><div class="dropdown">
 			<button class="dropbtn">Events <i class="fa fa-angle-down"></i></button>
 			<div class="dropdown-content">
 				<a href="https://www.eventbrite.com/o/misty-soldwisch-for-be-better-dsm-real-estate-coaching-17105672355" target="_blank">Business Planning Workshop</a>
-				<a href="https://www.eventbrite.com/e/meet-greet-with-misty-soldwisch-better-homes-gardens-real-estate-tickets-44692218629" target="_blank">Meet and Greet with Misty</a>
+				<a href="https://www.eventbrite.com/e/meet-and-greet-with-misty-soldwisch-tickets-247400811487" target="_blank">Meet and Greet with Misty</a>
 			</div>
 		</div></li>
 
@@ -264,12 +294,6 @@
 </li>
 
 
-<li>
-	<a href="https://plus.google.com/u/0/101245833147854335879" class="social-links" target="_blank">
-		<svg id="Google_plus" data-name="Google plus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.86 50"><title>Google Plus</title><path d="M419.86,89.5c-14.32,0-25.93,11.19-25.93,25s11.61,25,25.93,25,25.93-11.19,25.93-25S434.18,89.5,419.86,89.5ZM412.45,127a12.68,12.68,0,0,1-12.87-14c0.81-6.69,7.24-11.58,14.19-10.94a12.5,12.5,0,0,1,6.72,2.67,0.74,0.74,0,0,1,0,1.12l-2.38,2.2a0.81,0.81,0,0,1-1,0,7.53,7.53,0,0,0-4.65-1.49,7.9,7.9,0,1,0,0,15.79c4.28,0,6.33-2.49,7.07-4.37a0.77,0.77,0,0,0-.75-1h-5.53c-0.44,0-.24-0.33-0.24-0.76v-2.77c0-.42-0.2-0.47.24-0.47H424a0.68,0.68,0,0,1,.79.52,8.81,8.81,0,0,1,.1,1.35C424.9,122,419.93,127,412.45,127Zm27-11h-2.11c-0.44,0-.33.63-0.33,1.05v2a1.45,1.45,0,0,1-1.26.91h-2.13c-0.44,0-1.61-.49-1.61-0.91v-2c0-.42.47-1.05,0-1.05h-2.11c-0.44,0-.92-0.05-0.92-0.47v-2.05c0-.42.48-0.47,0.92-0.47H432c0.44,0,0-.63,0-1.05v-2c0-.42,1.18-0.91,1.61-0.91h2.13a1.45,1.45,0,0,1,1.26.91v2c0,0.42-.11,1.05.33,1.05h2.11c0.44,0,1.56.05,1.56,0.47v2.05C441,115.95,439.88,116,439.44,116Z" transform="translate(-393.93 -89.5)"/></svg>
-	</a>
-</li>
-
 
 <li>
 	<a href="https://www.youtube.com/channel/UC6QI2aC5ZGGsZZurGK0Fodw" class="social-links" target="_blank">
@@ -289,7 +313,7 @@
 
 
 <!-- <li>
-	<a class="social-links feedlink" data-clipboard-text="http://http://bebetterdsm.com/feed.xml">
+	<a class="social-links feedlink" data-clipboard-text="http://http://localhost:4000/feed.xml">
 		<svg id="Rss" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>rss</title><path d="M559.51,147a25,25,0,1,0,25,25A25,25,0,0,0,559.51,147Zm-9.09,37.5a3.41,3.41,0,1,1,3.41-3.41A3.41,3.41,0,0,1,550.42,184.49Zm12.2-.62a1,1,0,0,1-.83.13h-2.4a0.94,0.94,0,0,1-1.12-.79A11.25,11.25,0,0,0,548,173.11a1,1,0,0,1-1-1v-2.4a0.71,0.71,0,0,1,.38-0.62,1,1,0,0,1,.77-0.09h0.09a14.32,14.32,0,0,1,10,4.44,15.38,15.38,0,0,1,4.65,9.8A0.7,0.7,0,0,1,562.61,183.87Zm9.07,0a1,1,0,0,1-.82.11h-2.54a1,1,0,0,1-1.14-.82,20.22,20.22,0,0,0-19.13-19,1,1,0,0,1-1.07-1v-2.54a1.7,1.7,0,0,1,.36-1.06,1.49,1.49,0,0,1,.79-0.56h0.05c6.22,1,12.06,3.17,16.46,7.59A25,25,0,0,1,572,183.05,1.08,1.08,0,0,1,571.69,183.89Z" transform="translate(-534.51 -146.99)"/></svg>
 	</a>
 	<div class="feedbox">
@@ -303,11 +327,12 @@
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2018 Be Better DSM - Real Estate Coaching</p>
+				<p>&copy;2022 Be Better DSM - Real Estate Coaching</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">
 				Vyral Marketing</a><br>
+				<a href="https://www.getvyral.com/business-disclosures" target="_blank" style="text-decoration:underline;">Business Disclosure</a><br>
 				<a href="http://getvyral.com" target="_blank">
 	    <svg id="Layer_1" class="vyral-logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.06 82.39"><path d="M225,427.63a39.49,39.49,0,0,0-34.46,58.8l-1.47,2.86L178.43,510l21.11-9.85,2.27-1.06A39.49,39.49,0,1,0,225,427.63Zm5.68,62.7H218.79l-14.42-45h11.15l5.47,19c1.54,5.34,2.94,10.48,4,16.09h0.2c1.13-5.41,2.54-10.75,4.07-15.89L235,445.34h10.81Z" transform="translate(-178.43 -427.63)"/></svg></a>
 	    </a>
