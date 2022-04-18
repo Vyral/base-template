@@ -26,7 +26,7 @@ However, if you live in the Louisville or Southern Indiana region, your position
 
 {% include pullquote.html %}
 
-**[The annual Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/2021/){: target="_blank" rel="noopener"}** shows which projects net you the best bang for your buck. A few years ago, the best thing you could add to your home was a deck. At the height of the pandemic, a place to enjoy the outdoors from your property was very valuable.&nbsp;
+<u><strong><a target="_blank" rel="noopener" href="https://www.remodeling.hw.net/cost-vs-value/2021/">The annual Cost vs. Value Report</a></strong></u> shows which projects net you the best bang for your buck. A few years ago, the best thing you could add to your home was a deck. At the height of the pandemic, a place to enjoy the outdoors from your property was very valuable.&nbsp;
 
 From the 2021 report, **the best thing you can do is change your garage door.** Replacing your door netted an average of 94% of your investment. Overall, you lose money, but it’s still the highest ROI in the entire report.&nbsp;
 
