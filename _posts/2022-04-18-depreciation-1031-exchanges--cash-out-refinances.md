@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Depreciation, 1031 Exchanges, & Cash-Out Refinances'
-date: 2021-03-15 15:14:59
+title: Depreciation, 1031 Exchanges, & Cash-Out Refinances
+date: 2022-04-18 15:14:00
 tags:
   - Real Estate
 excerpt: Here are some critical investment property tax hacks.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Depreciation%2C+1031+Exchanges%2C+%26+Cash-Out+Refinances.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Depreciation%2C+1031+Exchanges%2C+%26+Cash-Out+Refinances.mp4
 pullquote: >-
   A 1031 exchange is when you use the profit of your sale to purchase another
   rental property, in which case you wouldn’t have to pay capital gains tax.
@@ -17,7 +18,7 @@ youtube_code: QnIeD1wR118
 ---
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are some critical investment property tax hacks.</em></p>
+{% include excerpt.html %}
 
 If you use the tax system properly, you could end up never paying income tax on your rent or a capital gains tax on the profit you can make from the sale of a property. If that sounds like a bold statement, allow me to elaborate:&nbsp;
 
