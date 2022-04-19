@@ -5,7 +5,8 @@ date: 2022-04-19 16:41:11
 tags:
   - Real Estate
 excerpt: Rising interest rates might not be as bad as you think for a few reasons.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2022/3+Reasons+Why+We+Can+Handle+Climbing+Rates.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
