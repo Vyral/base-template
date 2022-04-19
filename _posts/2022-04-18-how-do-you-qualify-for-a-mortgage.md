@@ -25,7 +25,7 @@ From here, there’s a front end and a back end. The front end consists of all t
 
 {% include pullquote.html %}
 
-The front end is important, but the back end might be even more so. These include all your expenses that are scheduled and paid. For example, car loans, credit card debt, personal loans, and student loans are all on the back end. Typically, this needs to be below 45% of your gross income for employees and net income for those who are self-employed.
+The front end is important, but the back end might be even more so. Back-end expenses include all your scheduled and paid expenses such as car loans, credit card debt, personal loans, and student loans. Typically, this needs to be below 45% of your gross income for employees and net income for those who are self-employed.
 
 **We’re in an inflationary period right now, so it’s more important than ever to understand your budget**. You may qualify for a loan, but your lender won’t look at your grocery bills or how much you spend on gas. Be careful, and make sure you purchase a property you can afford.
 
