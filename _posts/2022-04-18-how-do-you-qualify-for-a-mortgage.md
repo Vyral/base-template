@@ -5,7 +5,8 @@ date: 2022-04-18 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how you can find your debt-to-income ratio and qualify.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2022/How+Do+You+Qualify+for+a+Mortgage_.mp4
 pullquote: Your lender won’t look at your grocery bills or how much you spend on gas.
 enclosure_type: video/mp4
 enclosure_time:
