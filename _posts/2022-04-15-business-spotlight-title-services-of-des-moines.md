@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Business Spotlight: Title Services of Des Moines'
+title: Learn About Title Services of Des Moines
 date: 2022-04-15 00:00:00
 tags:
   - Real Estate
