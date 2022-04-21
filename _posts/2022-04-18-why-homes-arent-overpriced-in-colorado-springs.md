@@ -17,7 +17,7 @@ youtube_code: lH7lrvOzEns
 
 {% include excerpt.html %}
 
-Today we’re answering everyone’s big question: Are homes in Colorado Springs overpriced? In short, no\! That might sound shocking, but three are three great reasons why.
+Today we’re answering everyone’s big question: Are homes in Colorado Springs overpriced? In short, no\! That might sound shocking, but there are three great reasons why.
 
 Everyone has to live somewhere, and renting a house is quite expensive. **When you compare the two, it’s easy to see why owning a home is so attractive.** When you own, you build wealth. When you rent, you build someone else’s wealth.
 
