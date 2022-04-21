@@ -6,7 +6,8 @@ tags:
 excerpt: You can buck the trend and become an exception to the 5% rule.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/2022/Make+a+Plan+for+Your+Retirement.mp4
-pullquote:
+pullquote: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/2022/Make+a+Plan+for+Your+Retirement.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
