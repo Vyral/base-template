@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Bridge loans are another option available to buyers who need to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Maic+and+Renee+Friedrich/Videos/2022/Bridge+Loans+in+a+Nutshell.mp4
 pullquote: >-
   With a bridge loan, you can buy a new home while you still own your current
   one.
