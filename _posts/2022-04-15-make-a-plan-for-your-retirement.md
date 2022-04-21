@@ -4,7 +4,8 @@ title: Make a Plan for Your Retirement
 tags:
   - Transaction Management
 excerpt: You can buck the trend and become an exception to the 5% rule.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Stern/Recruiting/2022/Make+a+Plan+for+Your+Retirement.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
