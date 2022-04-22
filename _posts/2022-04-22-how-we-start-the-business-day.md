@@ -5,7 +5,8 @@ date: 2022-04-22 18:36:04
 tags:
   - Real Estate Business Tips
 excerpt: Three things to empower your organization to go to the next level.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2022/How+We+Start+the+Business+Day.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
