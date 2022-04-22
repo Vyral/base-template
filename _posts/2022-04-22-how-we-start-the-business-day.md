@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Start the Business Day
-date: 2022-04-22 18:36:04
+date: 2022-04-22 14:00:00
 tags:
   - Real Estate Business Tips
 excerpt: Three things to empower your organization to go to the next level.
