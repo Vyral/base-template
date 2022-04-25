@@ -18,7 +18,7 @@ youtube_code: V9jntTA5CJQ
 
 {% include excerpt.html %}
 
-What are the three things you can do to maximize the morning of your entire organization? I want to answer this question because we have a fantastic routine we follow every day. Here is what we do:
+What are the three things you can do to maximize the morning of your entire organization? I want to answer this question because we have a fantastic routine we follow every day:
 
 **1\. Start with a positive focus.** Whether on a Zoom call or in the office, we begin with gratitude. I ask everybody to tell me some good news in their lives. A great side effect of this activity is that you get to know the people that you're in business with on a personal level.
 
