@@ -18,7 +18,7 @@ youtube_code: dGyjdN0AR1I
 
 {% include excerpt.html %}
 
-How can you make informed decisions as a seller in this crazy market? It’s a fantastic market to sell, but you can’t just throw your home on the market and get top dollar. **The real estate agent you pick, experience, and reference points matter more than ever.&nbsp;**
+How can you make informed decisions as a seller in this crazy market? It’s a fantastic market for sellers, but you can’t just throw your home on the market and get top dollar. **The real estate agent you pick, their experience, and their reference points matter more than ever.&nbsp;**
 
 If there’s anyone who can push the envelope on price, it’s our team. That said, there’s a fine line between getting the highest possible sales price and overpricing your property. Buyers are smarter today than ever before. **You need representation that will fight for you no matter what.&nbsp;**
 
