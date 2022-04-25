@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Why You Shouldn’t Sell to a Cash Offer Site
+title: Why You Shouldn’t Sell to a Cash-Offer Site
 date: 2022-04-22 15:30:00
 tags:
   - Home Seller Tips
-excerpt: You will likely not make as much money when selling to a cash offer site.
+excerpt: You will likely not make as much money when selling to a cash-offer site.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2022/Why+You+Shouldn%E2%80%99t+Sell+to+a+Cash+Offer+Site.mp4
 pullquote:
