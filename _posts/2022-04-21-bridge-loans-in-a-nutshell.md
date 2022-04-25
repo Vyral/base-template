@@ -21,12 +21,12 @@ youtube_code: fzEBQ4Hefbc
 
 {% include excerpt.html %}
 
-Most realtors only have the option to buy a home or sell a home. We're always looking for new and creative options because our clients are complicated and have unique situations with different needs. To accommodate this, we're adding options like bridge loans, which help fill an increasingly common need in today’s market.
+Most Realtors only have the option to buy a home or sell a home. We're always looking for new and creative options because our clients are complicated and have unique situations with different needs. To accommodate this, we're adding options like bridge loans, which help fill an increasingly common need in today’s market.
 
-This week, I had two calls from potential buyers that wanted to make an offer on a property but who hadn’t yet listed their current homes for sale. **Because inventory is so tight, they're probably not going to get accepted with a contingent offer.** However, if I list their house before they find another property, they're going to end up with nowhere to go unless a rent-back is negotiated.
+This week, we had two calls from potential buyers who wanted to make an offer on a property but hadn’t yet listed their current homes for sale. **Because inventory is so tight, they're probably not going to get accepted with a contingent offer.** However, if we list their house before they find another property, they're going to end up with nowhere to go unless a rent-back is negotiated.
 
-The best way to navigate this situation is with a bridge loan. With a bridge loan, you can buy a new home while you still own your current one. You're basically bridging the loans between the two. There is a cost to it, but the majority of the time, you’ll net more money at the end of the process because you can move forward without offering way more than most people do with a contingent offer.
+A bridge loan is the best way to navigate this situation. With a bridge loan, you can buy a new home while you still own your current one. You're basically bridging the loans between the two. There is a cost to it, but the majority of the time, you’ll net more money at the end of the process because you won't have to offer extra money to make up for your contingent offer.
 
 {% include pullquote.html %}
 
-We want to make sure that you have all options available to help you reach your goals, so **we partnered with a couple of different banks that offer these programs.** We've utilized these banks in the past and our clients have been very happy. If you have any questions, don’t hesitate to reach out to us by phone or email. We look forward to hearing from you.
+We want to make sure that you have all options available to help you reach your goals, so **we partnered with a couple of different banks that offer these programs.** We've utilized these banks in the past, and our clients have been very happy. If you have any questions, don’t hesitate to reach out to us by phone or email. We look forward to hearing from you.
