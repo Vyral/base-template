@@ -18,7 +18,7 @@ youtube_code: IdsXsmCHE8Y
 
 {% include excerpt.html %}
 
-If you're thinking about selling your home for a cash offer, stop\! We're seeing hundreds of people around the Charlotte area selling their house to a cash offer and thinking that they're getting the best terms, price, and conditions. If a cash offer works best for you, that’s fantastic. However, you’re likely leaving money on the table.
+If you're thinking about selling your home for a cash offer, stop\! We're seeing hundreds of people around the Charlotte area selling their house for cash and thinking that they're getting the best terms, price, and conditions. If a cash offer works best for you, that’s fantastic. However, you’re likely leaving money on the table.
 
 **We just sold a house for $70,000 more than what the major cash-offer sites would have given.** If you don’t want to show your house and you're willing to get $70,000 less, call me, and we'll make sure your house sells with no showings. Don't believe the hype these cash offers advertise. Let’s see what your house would can actually sell for in this market.
 
