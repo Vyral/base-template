@@ -5,7 +5,8 @@ date: 2022-04-25 15:17:00
 tags:
   - Home Seller Tips
 excerpt: Is now the best time to sell, or should you wait for prices to get higher?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2022/Why+Now+Is+a+Good+Time+To+Sell.mp4
 pullquote: >-
   If you wait to sell, you might wind up selling in a market that doesn’t have
   as many offers.
