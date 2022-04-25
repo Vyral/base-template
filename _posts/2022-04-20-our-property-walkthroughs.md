@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Our Property Walkthroughs
+title: Our Property Walk-Throughs
 date: 2022-04-20 00:00:00
 tags:
   - Property Management
-excerpt: We do walkthroughs of our properties every four to six months.
+excerpt: We do walk-throughs of our properties every four to six months.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,8 +17,8 @@ youtube_code: PQWU3EInXW4
 
 {% include excerpt.html %}
 
-We do walkthroughs for our properties every four months if residents have any pets or every six months if no pets are present. This gives our owners peace of mind they can trust.
+We do walk-throughs of our properties every four months if residents have any pets or every six months if no pets are present. This gives our owners peace of mind they can trust.
 
-On a walkthrough, **we go inside the property and take pictures of all of the rooms and walls** to show the owner the condition of the property. If there are any concerns that need immediate attention, we give a 10-day notice to our tenants.
+On a walk-through, **we go inside the property and take pictures of all of the rooms and walls** to show the owner the condition of the property. If there are any concerns that need immediate attention, we give a 10-day notice to our tenants.
 
-If you have any questions, please visit [HiPacificPM.com](http://hipacificpm.com) and give us a call at (808) 445-9223. We look forward to hearing from you.
+If you have any questions, please visit [HiPacificPM.com](http://hipacificpm.com) or give us a call at (808) 445-9223. We look forward to hearing from you.
