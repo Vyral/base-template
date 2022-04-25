@@ -5,7 +5,8 @@ date: 2022-04-18 00:00:00
 tags:
   - Market Update
 excerpt: Three great reasons why homes are not overpriced in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2022/Why+Homes+Aren%E2%80%99t+Overpriced+in+Colorado+Springs.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
