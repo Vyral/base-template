@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Good Time To Sell
-date: 2022-04-25 19:17:07
+date: 2022-04-25 15:17:00
 tags:
   - Home Seller Tips
 excerpt: Is now the best time to sell, or should you wait for prices to get higher?
