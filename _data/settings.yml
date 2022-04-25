@@ -42,7 +42,7 @@ sidebar_CTA:
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Join Our Team
-    CTA_url: /join-our-team/
+    CTA_url: https://ats.wizehire.com/career-site/the-spaniak-team
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -56,9 +56,9 @@ lender:
   url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
