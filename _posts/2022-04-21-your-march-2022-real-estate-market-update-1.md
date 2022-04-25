@@ -20,17 +20,15 @@ youtube_code: R7_oRJIjC0M
 
 {% include excerpt.html %}
 
-Let’s talk today about the early spring market. We’re going to start with March because it’s the first complete month that we have data for.
-
-Our state association of Realtors says that the number of closed sales fell by 50% compared to March 2021. If the market is so hot, how can we sell fewer homes? It’s just because we don’t have enough homes. **It’s hard to sell properties when there are none available.**
+Let’s talk today about the early spring market. Our state association of Realtors says that the number of closed sales fell by 50% compared to March 2021. If the market is so hot, how can we sell fewer homes? It’s just because we don’t have enough homes. **It’s hard to sell properties when there are none available.**
 
 The new listings in March of this year were down 45% compared to last year. Statewide, our inventory shrank by 25% down to one month of supply. **Our inventory crunch is just continuing to build.**
 
-What does this mean for sellers and buyers? One topic we’ve covered in our office for a few weeks now is buying power. That’s a buyer’s ability to purchase a home. Obviously, this impacts buyers, but it can also affect sellers.
+What does this mean for sellers and buyers? One topic we’ve covered in our office for a few weeks now is buying power, or a buyer’s ability to purchase a home. Obviously, this impacts buyers, but it can also affect sellers.
 
 {% include pullquote.html %}
 
-Right now, rates are around 5%. Two months ago, there were around 4%. If you were an entry-level buyer looking at a $450,000 home two months ago, **you could only afford a $400,000 house now.** That’s a big jump in the type of home you can afford.
+Right now, rates are around 5%. Two months ago, they were around 4%. If you were an entry-level buyer looking at a $450,000 home two months ago, **you could only afford a $400,000 house now.** That’s a big decrease in the type of home you can afford.
 
 For sellers, that means that your buyer pool has shifted. If you’re selling a $400,000 house, you’re now marketing to buyers who were looking at $450,000 properties not too long ago. That takes a different strategy. You have to understand what that means for you.
 
