@@ -5,7 +5,8 @@ date: 2022-04-19 20:49:54
 tags:
   - Market Update
 excerpt: Here’s the latest sales data for waterfront properties in our area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Waterfront+Properties+and+Price+Reductions+(1).mp4
 pullquote: The price-adjusted homes sold for less and took longer to sell.
 enclosure_type: video/mp4
 enclosure_time:
