@@ -13,7 +13,7 @@ pullquote: These rising interest rates affect both buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/huebners-ss-youtube-2.jpeg
+youtube_alternate_image: /uploads/huebners-ss-youtube-1.jpg
 youtube_code: R7_oRJIjC0M
 ---
 {% include youtube.html %}
