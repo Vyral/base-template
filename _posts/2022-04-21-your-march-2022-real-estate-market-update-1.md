@@ -8,7 +8,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s what’s happening in our market as we head into spring.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/Your+March+2022+Real+Estate+Market+Update.mp4
 pullquote: These rising interest rates affect both buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
