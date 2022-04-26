@@ -4,7 +4,9 @@ title: Waterfront Properties and Price Reductions
 date: 2022-04-19 20:49:54
 tags:
   - Market Update
-excerpt: Here’s the latest sales data for waterfront properties in our area.
+excerpt: >-
+  Here's an analysis of what happens when a Seller overshoots the market and
+  chooses to start high.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Waterfront+Properties+and+Price+Reductions+(2).mp4
 pullquote: The price-adjusted homes sold for less and took longer to sell.
