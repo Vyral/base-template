@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Boost the Appeal of Your Offer
-date: 2022-04-26 14:25:58
+date: 2022-04-26 10:25:00
 tags:
   - Home Buyer Tips
 excerpt: Here are three ways buyers can gain a competitive edge in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2022/Boost+the+Appeal+of+Your+Offer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
