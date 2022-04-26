@@ -26,4 +26,4 @@ What are the three things you can do to maximize the morning of your entire orga
 
 **3\. Lead generation.** We love to do this because we turn music on and get the chat going. It's high energy, so we actually look forward to it.
 
-For more information on exactly how we do these three things, call me at 717-216-0860 or email dave@davehooketeam.com, and I'll follow up about the details of our miracle morning. I look forward to hearing from you.
+For more information on exactly how we do these three things, call me at 717-216-0860 or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com), and I'll follow up about the details of our miracle morning. I look forward to hearing from you.
