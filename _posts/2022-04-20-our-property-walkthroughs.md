@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/walkthroughs-yt-duke-kimhan-ss.jpg
-youtube_code: PQWU3EInXW4
+youtube_code: E7hK8DQ3H88
 ---
 {% include youtube.html %}
 
