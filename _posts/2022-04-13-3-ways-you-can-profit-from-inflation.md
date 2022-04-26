@@ -5,7 +5,8 @@ date: 2022-04-13 00:00:00
 tags:
   - Real Estate
 excerpt: Three ways inflation can benefit homeowners and real estate investors.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2022/3+Ways+You+Can+Profit+From+Inflation.mp4
 pullquote: Inflation benefits both investors and homeowners.
 enclosure_type: video/mp4
 enclosure_time:
