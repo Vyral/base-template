@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Some things you should consider when thinking about buying a house.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Should+You+Make+the+Jump+Into+Homeownership_.mp4
 pullquote: Your net worth will go up once you make the change from renter to homeowner.
 enclosure_type: video/mp4
 enclosure_time:
