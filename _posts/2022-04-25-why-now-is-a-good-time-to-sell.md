@@ -20,15 +20,15 @@ youtube_code: '-IXFt-STNss'
 
 {% include excerpt.html %}
 
-There’s an old adage in real estate that says the best time to sell a house is never—home prices should, in theory, always go up. Though a lot of people think that because prices are on the rise, they should wait before selling. But the reality is that many people need to sell their homes to extract the equity and position themselves for the next chapter of their lives.&nbsp;
+There’s an old adage in real estate that says the best time to sell a house is never—home prices should, in theory, always go up. A lot of people think that because prices are on the rise, they should wait before selling. However, the reality is that many people need to sell their homes to extract the equity and position themselves for the next chapter of their lives.&nbsp;
 
-If you’ve had this thought yourself, understand that the real estate market operates in cycles. The typical sales cycle lasts around seven years before correcting itself and moving back towards a buyer’s market. However, we’ve been in our current sales for over 13 years.
+If you’ve had this thought yourself, understand that the real estate market operates in cycles. The typical sales cycle lasts around seven years before correcting itself and moving back toward a buyer’s market. However, we’ve been in our current sales cycle for over 13 years.
 
 **This cycle isn’t going to last forever**; what goes up must come down eventually. On average, the year-over-year appreciation rate for homes is 4%. In our market, we’ve seen some neighborhoods appreciate between 11% and 20%, sometimes more\! These prices are not sustainable, and we don’t know what the future will bring.
 
 {% include pullquote.html %}
 
-What we do know is that now is an excellent time to sell. **It’s springtime, the weather is becoming nicer, and life is returning to bloom**; that means your home will look amazing for listing photos and that more buyers will be out in the market looking for homes. Furthermore, if you write an offer on a home in April and you close in May, you may be able to stay in your current house through the end of the school year and move in the summer. The majority of the business we do occurs between May and September.
+What we do know is that now is an excellent time to sell. **It’s springtime, the weather is becoming nicer, and life is blooming.** That means your home will look amazing for listing photos, and more buyers will be out in the market looking for homes. Furthermore, if you write an offer on a home in April and close in May, you might be able to stay in your current house through the end of the school year and move in the summer. The majority of the business we do occurs between May and September.
 
 Ultimately, if you wait to sell, you might wind up selling in a market that doesn’t have as many offers, meaning that you may not get the maximal price for your property.
 
