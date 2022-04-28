@@ -20,7 +20,7 @@ youtube_code: kBscFwJycRs
 
 Today’s hot seller’s market is extremely competitive for homebuyers. If you’ve been thinking about purchasing a home, here are three tips to help you compete in this market:
 
-**1\. Utilize seller rent-backs.** A rent-back is when you buy the home but allow the seller to rent the home from you as they continue living there during their search for their next home. Giving them more time to transition between homes is a great way to attract a seller’s attention.
+**1\. Utilize seller rent-backs.** A rent-back is when you buy the home but allow the seller to rent it from you as they continue living there during their search for their next house. Giving them more time to transition between homes is a great way to attract a seller’s attention.
 
 **2\. Offer guaranteed money.** Since prices are always rising in the current market, it increases the chances that a home won’t appraise for its asking price. To combat this, some buyers are offering a certain guaranteed amount of money over the appraised value just to stand out from the crowd.
 
