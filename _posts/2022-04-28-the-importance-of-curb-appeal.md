@@ -18,7 +18,7 @@ youtube_code: hHETcRT4DOM
 
 {% include excerpt.html %}
 
-I’m coming to you from Monte Torre on the Spanish island of Monaca to prove a point about curb appeal. If you’re looking to sell a home, good curb appeal is the best way to get a buyer into your home.
+I’m coming to you from Monte Torre on the Spanish island of Monaca to prove a point about curb appeal. If you’re looking to sell a home, good curb appeal is the best way to get a buyer into your property.
 
 If you watch at 0:33 in the video, you can see just how gorgeous the view is over the railing. However, once I turn around to the statue of Jesus, it doesn’t look as stunning. There are nine different broadcast towers surrounding the statue, and as beautiful as this area is, those towers have a way of pulling you out of the experience.
 
