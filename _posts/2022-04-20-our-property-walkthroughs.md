@@ -5,7 +5,8 @@ date: 2022-04-20 00:00:00
 tags:
   - Property Management
 excerpt: We do walk-throughs of our properties every four to six months.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/Our+Property+Walk-Throughs.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
