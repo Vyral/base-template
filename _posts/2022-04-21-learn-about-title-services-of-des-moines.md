@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: My interview with Matthew White, the director of marketing at Title Services.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Learn+About+Title+Services+of+Des+Moines.mp4
 pullquote: >-
   As a home purchaser, you can protect yourself by going through the Iowa Title
   Guarantee program.
