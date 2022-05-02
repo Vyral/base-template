@@ -17,8 +17,8 @@ youtube_code: F5IMVr7KY3Q
 
 {% include excerpt.html %}
 
-Barbara Corcoran, Star of ABC’s&nbsp; Shark Tank, built the No. 1 brokerage firm in New York City by marketing luxury homes to the most qualified buyers.
+Barbara Corcoran, star of ABC’s&nbsp; Shark Tank, built the No. 1 brokerage firm in New York City by marketing luxury homes to the most qualified buyers.
 
-That same strategy is what will make the difference in your area. **Misty SOLDwisch is creating customized marketing for the right buyers in Des Moines and Central Iowa.** She’s the agent that Barbara trusts. Her personalized marketing plan sells more homes for more money, and if she can't find the right buyer on your deadline, she will buy the home.
+That same strategy is what will make the difference in our area. **We're creating customized marketing for the right buyers in Des Moines and Central Iowa.** We are the team that Barbara trusts. Our personalized marketing plan sells more homes for more money, and if we can't find the right buyer on your deadline, we will buy the home.
 
-To get the best marketing for your home, visit [SOLDinCentralIowa.com](http://www.soldincentraliowa.com/) and reach out to Misty by phone or email.
+To get the best marketing for your home, visit [SOLDinCentralIowa.com](http://www.soldincentraliowa.com/) and reach out to us by phone or email.
