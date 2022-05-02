@@ -50,8 +50,8 @@ Most real estate offers include contingencies, which are clauses that allow one 
 
 Common contingencies include:
 
-* **\*\*Financing: \*\***A financing contingency gives the buyer a window of time in which to secure a mortgage. If they are unable to do so, they can withdraw from the purchase and the seller can move on to other buyers.&nbsp;
-* **\*\*Inspection: \*\***An inspection contingency gives the buyer the opportunity to have the home professionally inspected for issues with the structure, wiring, plumbing, etc. Typically, the seller may choose whether or not to remediate those issues; if they do not, the buyer may withdraw from the contract.&nbsp;
+* **Financing:** A financing contingency gives the buyer a window of time in which to secure a mortgage. If they are unable to do so, they can withdraw from the purchase and the seller can move on to other buyers.&nbsp;
+* **Inspection:** An inspection contingency gives the buyer the opportunity to have the home professionally inspected for issues with the structure, wiring, plumbing, etc. Typically, the seller may choose whether or not to remediate those issues; if they do not, the buyer may withdraw from the contract.&nbsp;
 * **Appraisal:** Most lenders will not offer a mortgage on a home that costs more than it's worth. An appraisal contingency gives the buyer an opportunity to get the home professionally assessed to ensure that its value is at or above the sales price. If an appraisal comes in low, the seller may be asked to renegotiate the contract.&nbsp;
 * **Sale of a prior home:** Some buyers cannot afford to purchase a new home until they sell their previous one. If the buyer is unable to sell their current home within a specified window of time, this contingency enables them to withdraw from the contract without penalty.
 
