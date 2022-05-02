@@ -5,8 +5,10 @@ date: 2022-04-28 00:00:00
 tags:
   - Real Estate
   - Homeowner Tips
+  - Home Seller Tips
 excerpt: Why curb appeal is so important when it comes to selling homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/The+Importance+of+Curb+Appeal.mp4
 pullquote: Good curb appeal gets buyers excited about seeing your home.
 enclosure_type: video/mp4
 enclosure_time:
