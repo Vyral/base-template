@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/barbara-corcoran-soldwisch-yt.jpg
+youtube_alternate_image: /uploads/barbara-corcoran-soldwisch-yt-1.jpg
 youtube_code: F5IMVr7KY3Q
 ---
 {% include youtube.html %}
