@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   With Mortgage interest rates jumping nearly 3% in less than 2 months, people
   are asking questions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2022/Market+Crash+Imminent+The+Larkin+Real+Estate+Q1+2022+Real+Estate+Report.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
