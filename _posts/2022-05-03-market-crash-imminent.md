@@ -26,15 +26,15 @@ With Mortgage interest rates jumping nearly 3% in less than 2 months, people are
 
 Jump to the following time stamps for detailed data that might blow your mind\!
 
-* Southern Utah Title “Good News” Report: 5:01 (direct link here: [https://sutc.com/good\_news](https://sutc.com/good_news){: target="_blank" rel="noopener"} )
-* Are we *under* or *over*\-built in Southern Utah? 10:17
-* Where *specifically* are Buyers moving in Southern Utah? 15:30
-* Is a wave of foreclosures coming? 16:51
-* Could prices *continue* increasing with rising interest rates? 19:00 - 35:00 minutes
-* Home price forecasts: 39:00
-* MORE info on how underbuilt the US housing market is: 40:00
-* Owning a home is best “hedge” against inflation: 42:00
-* What does low housing inventory mean? 49:30
-* What’s next? And wrap up: 52:00
+* Southern Utah Title “Good News” Report: [5:01](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=301s) (direct link here: [https://sutc.com/good\_news](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbU5tYy1YTDEwNUxOMWh4UnJITVRyZGZWMmJNQXxBQ3Jtc0trY0NkN1dOVE5leWZ1SS0yUHNaMTFDeWJhUjdNYkRIUjNHTU9aVEhQWmZVRDlJSkpjR3k2QlU1VzV3ZEJtZEF6VXUtQUx4a1lTT3JfckRKVlVQRV85QTN6em9sN1FNUVpmX3FnaGctRy1UZjVOWklKcw&amp;q=https%3A%2F%2Fsutc.com%2Fgood_news&amp;v=TUUIb-cmGfs){: target="_blank" rel="nofollow"} )
+* Are we under or over-built in Southern Utah? [10:17](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=617s)
+* Where specifically are Buyers moving in Southern Utah? [15:30](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=930s)
+* Is a wave of foreclosures coming? [16:51](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=1011s)
+* Could prices continue increasing with rising interest rates? [19:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=1140s) - [35:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=2100s) minutes
+* Home price forecasts: [39:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=2340s)
+* MORE info on how underbuilt the US housing market is: [40:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=2400s)
+* Owning a home is best “hedge” against inflation: [42:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=2520s)
+* What does low housing inventory mean? [49:30](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=2970s)
+* What’s next? And wrap up: [52:00](https://www.youtube.com/watch?v=TUUIb-cmGfs&amp;t=3120s)
 
 Have other questions about living in, moving to, or visiting St. George and Southern Utah? Just ask\! [http://www.GoStGeorge.com](http://www.gostgeorge.com){: target="_blank" rel="noopener"}
