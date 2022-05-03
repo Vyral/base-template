@@ -28,4 +28,4 @@ Another factor we need to consider is our interest rates. In January of 2022, th
 
 As you can see, things are shifting towards a more balanced market. How can you navigate this? **Your ultimate goal should be to maintain or increase your market share.** For example, if you closed 30 homes last year, try to close 30 homes again this year. Since we’re in a shrinking market, you’ll have grown your market share by selling the same amount of properties. This way, when the market bounces back, you’ll have a greater share, and you’ll be able to sell many more houses.&nbsp;
 
-“Shift” has 12 methods to help you navigate a changing market. Today we covered No. 1, Get Your Mind Right, and we’ll cover more in the future. If you have questions in the meantime, please call or email us. We’d love to help
+“Shift” has 12 methods to help you navigate a changing market. Today we covered No. 1, Get Your Mind Right, and we’ll cover more in the future. If you have questions in the meantime, please call or email us. We’d love to help\!
