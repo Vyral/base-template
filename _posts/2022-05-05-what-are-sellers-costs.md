@@ -5,7 +5,8 @@ date: 2022-05-05 17:06:15
 tags:
   - Home Seller Tips
 excerpt: Here are a few costs to expect when you sell your home on the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2022/What+Are+Sellers+Costs_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
