@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Sellers Costs?
-date: 2022-05-05 17:06:15
+date: 2022-05-05 14:06:00
 tags:
   - Home Seller Tips
 excerpt: Here are a few costs to expect when you sell your home on the market.
