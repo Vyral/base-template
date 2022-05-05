@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Buy an Investment Property With Cash
-date: 2022-05-02 09:17:00
+date: 2022-05-05 09:17:00
 tags:
   - Real Estate
 excerpt: Here’s why I don’t think you should buy a real estate investment in cash.
