@@ -4,7 +4,7 @@ title: 1907 Celebrates Oklahoma
 date: 2022-03-19 00:00:00
 tags:
   - Real Estate
-excerpt: 1907 is a fun shop in Fort Worth that has a little bit of everything.
+excerpt: 1907 is a fun shop in Broken Arrow that has a little bit of everything.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
