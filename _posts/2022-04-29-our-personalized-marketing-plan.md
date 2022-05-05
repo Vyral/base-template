@@ -5,7 +5,8 @@ date: 2022-04-29 00:00:00
 tags:
   - Real Estate
 excerpt: The Misty SOLDwisch team’s personalized marketing plan sells more homes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Your+Personalized+Marketing+Plan+Nets+You+MORE+Money.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
