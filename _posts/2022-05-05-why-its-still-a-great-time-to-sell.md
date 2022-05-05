@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Why King County still has a seller’s market and what that means for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2022/Why+It%E2%80%99s+Still+a+Great+Time+To+Sell.mp4
 pullquote: >-
   It’s a great time to sell because we’re still experiencing plenty of bidding
   wars. 
