@@ -11,8 +11,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-17-wolek-youtube.jpg
-youtube_code:
-hidden: true
+youtube_code: e9X6JAbBKn0
+hidden: false
 ---
 {% include excerpt.html %}
 
@@ -26,9 +26,9 @@ I love that there’s something for everyone in all different sizes and shapes. 
 
 “It depends on if you’re an Okie or a transplant. We have Okie girl stuff, but you have to identify as one to want those items.”
 
-**People can also make custom items here. Besides that, what are some special features of 1907?&nbsp;**
+**People can also make custom items here. Besides that, what are some special features of 1907? **
 
-“We’ve been here since 2013, which feels like forever ago. We started out with a little store and just made jewelry and bought everything else. I’ve always loved doodling, and in art school, everything I drew looked like doodles, and that’s turned into a business.&nbsp;
+“We’ve been here since 2013, which feels like forever ago. We started out with a little store and just made jewelry and bought everything else. I’ve always loved doodling, and in art school, everything I drew looked like doodles, and that’s turned into a business.
 
 One time I drew the Osage shield with a dreamcatcher in the background, and taking that to get printed was the coolest feeling; I took an idea, turned it into something, then turned it into items people can buy. I’m not selling expensive paintings—it’s everyday art all people can appreciate. Then I just did another and another, and my favorite part of this business is making something people can take home. If you like a design, you can get it on a t-shirt, cuff, or coaster. I love seeing the way people light up when they see something they like.”
 
