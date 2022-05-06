@@ -7,7 +7,8 @@ tags:
   - Real Estate
   - Home Selling Tips
 excerpt: Here are three tips to resolve your property dispute before selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/3+Tips+To+Resolve+Your+Property+Dispute.mp4
 pullquote: Try to put yourself in their shoes.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,9 +22,9 @@ youtube_code: l6bJmyyOsOM
 
 I’m not sure what it is, but recently, I’ve talked with a ton of clients that are having boundary disputes with their neighbors. These can be emotionally charged issues, and they’re essential to solve before you sell your home. That’s why today I want to share a few tips to help you resolve your boundary issues:
 
-**1\. Explore their story.** Just the other day, I met with a client’s neighbor and did nothing but sit there and listen to what he had to say. After hearing his side, I realized it didn’t make much sense that he was so upset over such a small issue. However, when I asked him how long this had been going on, he told me it had been an issue for over a decade. Suddenly, the dispute made a lot more sense. It was a tiny problem, but this neighbor had a ton of time invested in it. Plus, he used a lot of keywords, such as fair and unfair. I realized that this dispute was no longer about the land for this neighbor; it was about getting his fair share.&nbsp;
+**1\. Explore their story.** Just the other day, I met with a client’s neighbor and did nothing but sit there and listen to what he had to say. After hearing his side, I realized it didn’t make much sense that he was so upset over such a small issue. However, when I asked him how long this had been going on, he told me it had been an issue for over a decade. Suddenly, the dispute made a lot more sense. It was a tiny problem, but this neighbor had a ton of time invested in it. Plus, he used a lot of keywords, such as fair and unfair. I realized that this dispute was no longer about the land for this neighbor; it was about getting his fair share.
 
-**2\. Understand and validate them.** Try to put yourself in their shoes. If you were in this person’s position, how would you feel? If you can begin to see things from their side, you can begin to validate their feelings. Often, this is the first step toward reaching an agreement.&nbsp;
+**2\. Understand and validate them.** Try to put yourself in their shoes. If you were in this person’s position, how would you feel? If you can begin to see things from their side, you can begin to validate their feelings. Often, this is the first step toward reaching an agreement.
 
 It’s still possible to buy a great home in this market.
 
