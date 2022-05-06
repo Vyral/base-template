@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Been Happening in Our Market?
-date: 2022-05-06 18:25:27
+date: 2022-05-06 14:25:00
 tags:
   - Market Update
 excerpt: What trends are we currently seeing in our real estate market?
