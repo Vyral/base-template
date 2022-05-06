@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: How interest rates and foreclosures are affecting our housing market.
 enclosure:
-pullquote: This wave of foreclosures isn’t materializing the way it did in 2008.
+pullquote: A wave of foreclosures isn’t materializing the way it did in 2008.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -28,6 +28,6 @@ A lot of people are asking us if it’s too late. No, it’s not too late at all
 
 We’ve been paying a lot of attention to what’s going on with foreclosures, but **it doesn’t look like they will affect our market.** Our bank doesn’t expect this wave of foreclosures to materialize the way it did during the mortgage meltdown of 2008.&nbsp;
 
-We are short 4 million homes across America, so the demand is still there. Also, if you are behind on your payments, we’ve heard that the banks are trying to work it out. They’re adding that missing sum to the back of people’s mortgages and extending their loans to 40 years. That will keep a lot of potential foreclosures off the market.
+We are short four million homes across America, so the demand is still there. Also, if you are behind on your payments, we’ve heard that the banks are trying to work it out. They’re adding that missing sum to the back of people’s mortgages and extending their loans to 40 years. That will keep a lot of potential foreclosures off the market.
 
 If you know someone who’s behind on their payments or looking to buy a foreclosure, we’d love to have a conversation with them. We’re really passionate and knowledgeable about foreclosures. If you have any other real estate questions or needs, feel free to call or email us as well. We’d love to help.
