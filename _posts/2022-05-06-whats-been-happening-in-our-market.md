@@ -5,7 +5,8 @@ date: 2022-05-06 14:25:00
 tags:
   - Market Update
 excerpt: What trends are we currently seeing in our real estate market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/What%E2%80%99s+Been+Happening+in+Our+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
