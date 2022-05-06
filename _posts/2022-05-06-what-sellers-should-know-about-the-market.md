@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Sellers Should Know About the Market
-date: 2022-05-06 18:47:57
+date: 2022-05-06 15:47:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what you need to know about Phoenix’s market before selling.
@@ -21,7 +21,7 @@ Are you looking to sell your home soon? If so, you’re in luck; our current mar
 
 First, why is now such a great time to sell? **Our current market is driven by extremely low inventory and high demand.** Nationally, we only have two months of inventory; if no new homes entered the market, we’d run out of houses for sale in only two months. That’s pretty crazy, but in Phoenix, that number is even lower at 15 days. For reference, a balanced market should have around six months of inventory.
 
-Since April 2021, the active listing inventory has increased by 16.3%, while the listings under contract have decreased by 6.3%. You may think this is bad for sellers, but over that same time, **prices have increased by 26.9%. **
+Since April 2021, the active listing inventory has increased by 16.3%, while the listings under contract have decreased by 6.3%. You may think this is bad for sellers, but over that same time, \*\*prices have increased by 26.9%. \*\*
 
 {% include pullquote.html %}
 
