@@ -18,7 +18,7 @@ youtube_code: Pr6ZRLk7cMM
 
 {% include excerpt.html %}
 
-Are you looking to sell your home soon? If so, you’re in luck; our current market is fantastic for sellers. Why is our market so good for sellers, and what do you need to know before jumping into it? Let’s talk about it.&nbsp;
+Are you looking to sell your home soon? If so, you’re in luck; our current market is fantastic for sellers. Why is our market so good for sellers, and what do you need to know before jumping into it?
 
 First, why is now such a great time to sell? **Our current market is driven by extremely low inventory and high demand.** Nationally, we only have two months of inventory; if no new homes entered the market, we’d run out of houses for sale in only two months. That’s pretty crazy, but in Phoenix, that number is even lower at 15 days. For reference, a balanced market should have around six months of inventory.
 
@@ -28,6 +28,6 @@ Since April 2021, the active listing inventory has increased by 16.3%, while the
 
 Our market is still hot, and there are a few things you need to know before selling your house. For example, you’ll likely receive multiple offers. While not as common as they used to be, multiple-offer situations are still likely. Even if you only receive two or three offers, there’s a good chance your home will sell at or above full price.
 
-Another thing to keep in mind is that buyers will accept minor flaws. A few years ago, buyers would probably ask you to do a few repairs and pay some of their closing costs before purchasing your home. Now, they’ll take what you can get them.&nbsp;
+Another thing to keep in mind is that buyers will accept minor flaws. A few years ago, buyers would probably ask you to do a few repairs and pay some of their closing costs before purchasing your home. Now, they’ll take what you can get them.
 
-If you have questions about today’s topic or anything else, please call or email me. I am always willing to help\!&nbsp;
+If you have questions about today’s topic or anything else, please call or email me. I am always willing to help\!
