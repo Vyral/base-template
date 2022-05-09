@@ -18,31 +18,33 @@ youtube_code: DOAcKZF1EX8
 
 {% include excerpt.html %}
 
-The first quarter of 2022 is now over and we want to tell you about all the changes we saw in the real estate market. Today we’ll update you on the current emerging trends we’re seeing in our local area.
+The first quarter of 2022 is now over, and we want to tell you about all the changes we saw in the real estate market. Today we’ll update you on the current emerging trends we’re seeing in our local area.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
+**Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
+
+0:00 — Introducing today's topic
 
 0:40 — Flathead & Lake Counties overall figures
 
-2:25 — Flathead Lake Home Sales
+2:25 — Flathead Lake home sales
 
-3:45 — Flathead Lake Condo Sales
+3:45 — Flathead Lake condo sales
 
-4:25 — Flathead Lake Land Sales
+4:25 — Flathead Lake land sales
 
-5:30 — Echo Lake & Lake Blaine Home Sales
+5:30 — Echo Lake & Lake Blaine home sales
 
-6:05 — Echo Lake & Lake Blaine Land Sales
+6:05 — Echo Lake & Lake Blaine land sales
 
-6:25 — Swan Lake Homes & Land Sales
+6:25 — Swan Lake home and land sales
 
-7:00 — Swan River Homes & Land Sales
+7:00 — Swan River home and land sales
 
-7:35 — West Lakes Home Sales
+7:35 — West Lakes home sales
 
-8:10 — West Lakes Land Sales
+8:10 — West Lakes land sales
 
-8:50 — Whitefish Lake Homes & Land Sales
+8:50 — Whitefish Lake home and land sales
 
 9:20 — Wrapping up
 
