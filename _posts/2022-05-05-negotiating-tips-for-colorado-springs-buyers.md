@@ -5,7 +5,9 @@ date: 2022-05-05 16:48:11
 tags:
   - Home Buyer Tips
 excerpt: Three negotiating tips to help Colorado Springs buyers win the home.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Brian Canady and Tim
+  Chase/Videos/2022/04-21_CANADY_YOUTUBE.jpg
 pullquote: You need to work with a professional agent to negotiate a strong contract.
 enclosure_type: video/mp4
 enclosure_time:
