@@ -5,7 +5,8 @@ date: 2022-05-09 05:00:00
 tags:
   - Market Update
 excerpt: Buyer affordability is quickly becoming out of reach in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2022/What%E2%80%99s+Happening+in+Our+Market_.mp4
 pullquote: March had the second lowest inventory we've ever seen.
 enclosure_type: video/mp4
 enclosure_time:
