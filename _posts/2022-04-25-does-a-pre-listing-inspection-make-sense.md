@@ -5,7 +5,8 @@ date: 2022-04-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: A few things sellers should consider about pre-listing home inspections.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Colemere+Realty/Does+a+Pre-Listing+Inspection+Make+Sense_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: _Nv8zUrH1vo
 
 {% include excerpt.html %}
 
-A question we get often is, “Should I get an inspection on my home before I sell?” Simply put, the answer depends. If you want to discover potential issues in your home and relieve that stress,&nbsp;**a pre-listing inspection could be very helpful in providing peace of mind.** Maybe you’ve lived in your home a long time and are concerned about what might come up in a buyer’s inspection. If so, this kind of inspection could save you money in the long run by identifying major issues upfront and allowing you to fix them instead of being at the mercy of the buyer’s agent once you accept their client’s offer.
+A question we get often is, “Should I get an inspection on my home before I sell?” Simply put, the answer depends. If you want to discover potential issues in your home and relieve that stress, **a pre-listing inspection could be very helpful in providing peace of mind.** Maybe you’ve lived in your home a long time and are concerned about what might come up in a buyer’s inspection. If so, this kind of inspection could save you money in the long run by identifying major issues upfront and allowing you to fix them instead of being at the mercy of the buyer’s agent once you accept their client’s offer.
 
 If you do a pre-listing inspection, the buyer who purchases your home will probably still want their own inspection.
 
