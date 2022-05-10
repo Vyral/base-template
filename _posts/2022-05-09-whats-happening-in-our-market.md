@@ -21,6 +21,8 @@ The Oregon MLS just released the stats for March 2022, so today I’ll be going 
 
 The supply of inventory is at 0.7 months. This is very low, but the lowest we've ever seen was December 2021 at 0.6 months. Due to seasonality, there are always fewer homes for sale in December, but 0.7 months of inventory in March is very noteworthy.&nbsp;
 
+{% include pullquote.html %}
+
 In March, the MLS did something new. They took out all the unfinished new construction listings that people couldn't buy and move into. When you adjust the inventory level by taking all those out, **the actual months of inventory is only 0.6 months.**
 
 The average price in Portland went from $525,000 in February to $550,000 in March. The median sale price went from $477,000 in February to $488,000 in March. This means that **affordability is at risk.** If you’re looking to get a starter home, contact me so we can make a plan to get a home while prices are still reasonable.
