@@ -18,7 +18,7 @@ youtube_code: Pr6ZRLk7cMM
 
 {% include excerpt.html %}
 
-Are you looking to sell your home soon? If so, you’re in luck; our current market is fantastic for sellers. Why is our market so good for sellers, and what do you need to know before jumping into it?
+Are you looking to sell your home soon? If so, you’re in luck. Our current market is fantastic for sellers. Why is our market so good for sellers, and what do you need to know before jumping into it?
 
 First, why is now such a great time to sell? **Our current market is driven by extremely low inventory and high demand.** Nationally, we only have two months of inventory; if no new homes entered the market, we’d run out of houses for sale in only two months. That’s pretty crazy, but in Phoenix, that number is even lower at 15 days. For reference, a balanced market should have around six months of inventory.
 
