@@ -16,7 +16,7 @@ youtube_code: rvaaW_iXwqU
 
 {% include excerpt.html %}
 
-Property owners ask us all the time whether getting a home warranty is a good idea. Generally, the answer is yes, but there’s one issue. \*\*The home warranty company usually only has one or two vendors on the island to service your house. \*\*
+Property owners ask us all the time whether getting a home warranty is a good idea. Generally, the answer is yes, but there’s one issue. **The home warranty company usually only has one or two vendors on the island to service your house.**
 
 {% include pullquote.html %}
 
