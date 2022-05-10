@@ -3,8 +3,10 @@ layout: post
 title: Why You Might Not Want To Move to Charleston
 date: 2022-05-09 00:00:00
 tags:
+  - Real Estate
 excerpt: Three things that I wish were absent from Charleston, South Carolina.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2022/Why+You+Might+Not+Want+To+Move+to+Charleston.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
