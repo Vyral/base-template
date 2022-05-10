@@ -8,7 +8,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s what you can do to combat the imbalance in our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/Latest+Update+for+Twin+Cities+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
