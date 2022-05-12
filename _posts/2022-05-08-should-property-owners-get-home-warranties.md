@@ -4,7 +4,8 @@ title: Should Property Owners Get Home Warranties?
 date: 2022-05-08 00:00:00
 tags:
 excerpt: If you own a property, you have to decide whether to get a home warranty.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/Should+Property+Owners+Get+Home+Warranties_.mp4
 pullquote: Right now, appliances are in short supply on the island.
 enclosure_type: video/mp4
 enclosure_time:
