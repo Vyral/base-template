@@ -18,13 +18,13 @@ hidden: false
 
 {% include excerpt.html %}
 
-Tulsa looks so good on 1907\! Located at 115 E. Fort Worth St. in Broken Arrow, I’m excited to be with Bree at 1907. Being an Oklahoma native, I just get energetic while I’m here. Bree was kind enough to answer a few questions about her business for me below:
+Tulsa looks so good on 1907\! Located at 115 E. Fort Worth St. Broken Arrow, we’re excited to be with Bree at 1907. Bree was kind enough to answer a few questions about her business for us below:
 
 **What is 1907, and what makes it unique?**
 
 “1907 is a celebration of Oklahoma, and our store is called that because 1907 is the year we became a state. Everything in the store is made locally, and we make a lot of it. We have a little bit of everything including super-soft shirts, tumblers, koozies, earrings, soaps, salsas, jams, and more.”
 
-I love that there’s something for everyone in all different sizes and shapes. **What are some of the most popular items?**
+It looks like there’s something for everyone in all different sizes and shapes. **What are some of the most popular items?**
 
 “It depends on if you’re an Okie or a transplant. We have Okie girl stuff, but you have to identify as one to want those items.”
 
@@ -36,6 +36,6 @@ One time I drew the Osage shield with a dreamcatcher in the background, and taki
 
 **How can people find you?**
 
-“Come by the store; we have way more here than you’ll see on our website because the in-person stuff is our specialty. However, [our website is great](https://www.1907ok.com/), and you can also find us on [our Instagram](https://www.instagram.com/1907ba/) and [Facebook page](https://www.facebook.com/1907OK/). We’re located at 115 E. Fort Worth St., Broken Arrow, OK 74012; we’re a big red barn, you can’t miss it. Bigfoot is outside, so you can take a selfie\!”
+“Come by the store; we have way more here than you’ll see on our website because the in-person stuff is our specialty. However, [our website is great](https://www.1907ok.com/), and you can also find us on [our Instagram](https://www.instagram.com/1907ba/) and [Facebook page](https://www.facebook.com/1907OK/). We’re located at 115 E. Fort Worth St. Broken Arrow, OK 74012; we’re a big red barn, you can’t miss it. Bigfoot is outside, so you can take a selfie\!”
 
-We appreciate Bree sharing all of her passion and her very cute store with us. If you ever have any real estate questions, call or visit [The Wolek Group website](http://tulsalooksgoodonyou.com). We would love to help you.
+We appreciate Bree sharing all of her passion and her very cute store with us. If you ever have any real estate questions, call or visit The Wolek Group website. We would love to help you.
