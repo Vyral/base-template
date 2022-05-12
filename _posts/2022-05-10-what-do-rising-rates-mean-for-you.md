@@ -24,6 +24,6 @@ For starters, **homes are going to cost more because of higher interest rates an
 
 {% include pullquote.html %}
 
-So should you buy now or wait? Your decisions should always be based on your needs. The real reason you are going to consider moving is because of a life event. Those things rarely come at a planned time or in a particular market. However, if you can match up your goals with the market, you can create a win-win situation.
+So should you buy now or wait? Your decisions should always be based on your needs. The real reason you should consider moving is because of a life event. Those things rarely come at a planned time or in a particular market. However, if you can align your goals with the market, you can create a win-win situation.
 
 If you or someone you know needs guidance as a buyer or seller in today’s market, we’ll help navigate you through it and try to create a win-win situation. If you have any other real estate-related questions, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
