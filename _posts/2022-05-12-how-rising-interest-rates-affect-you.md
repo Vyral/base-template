@@ -21,7 +21,7 @@ youtube_code: ODHsvCTIAjA
 
 Most of you have heard that the Federal Reserve has increased interest rates and will continue to do so throughout the year. But what does it mean when the Fed raises rates? Today I’ll discuss what impacts we’ve observed.
 
-When interest rates increase, it doesn’t necessarily mean that there will be a direct impact on mortgage rates, which is a concern that many have in today’s market. It just means that the rate at which banks lend money to each other has increased. In this particular case, though, the Fed has been raising rates to slow down the economy. That trickles down into the mortgage industry.
+When interest rates increase, it doesn’t necessarily mean that there will be a direct impact on mortgage rates, which is a concern that many have in today’s market. It just means that the rate at which banks lend money to each other has increased. In this particular case, the Fed has been raising rates to slow down the economy. That trickles down into the mortgage industry.
 
 {% include pullquote.html %}
 
