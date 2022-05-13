@@ -5,7 +5,8 @@ date: 2022-05-13 15:29:10
 tags:
   - Real Estate
 excerpt: A firsthand account of what our rates have looked like since 1979.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/Looking+at+Our+Interest+Rates+Since+1979.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
