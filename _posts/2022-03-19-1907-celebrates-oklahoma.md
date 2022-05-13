@@ -5,7 +5,8 @@ date: 2022-03-19 00:00:00
 tags:
   - Real Estate
 excerpt: 1907 is a fun shop in Broken Arrow that has a little bit of everything.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/1907+Celebrates+Oklahoma.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
