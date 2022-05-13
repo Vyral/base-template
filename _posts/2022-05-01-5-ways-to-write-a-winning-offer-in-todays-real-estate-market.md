@@ -93,10 +93,10 @@ If you’re a buyer, we can help you compete in today’s market without getting
 
 Sources:
 
-1. National Association of Realtors -[https://www.nar.realtor/newsroom/pending-home-sales-dwindle-4-1-in-february](https://www.nar.realtor/newsroom/pending-home-sales-dwindle-4-1-in-february)
+1. National Association of Realtors -<br>[https://www.nar.realtor/newsroom/pending-home-sales-dwindle-4-1-in-february](https://www.nar.realtor/newsroom/pending-home-sales-dwindle-4-1-in-february)
 2. National Association of Realtors -<br>[https://www.nar.realtor/newsroom/existing-home-sales-fade-7-2-in-february](https://www.nar.realtor/newsroom/existing-home-sales-fade-7-2-in-february)
 3. Forbes -<br>[https://www.forbes.com/advisor/mortgages/housing-crisis-tips/](https://www.forbes.com/advisor/mortgages/housing-crisis-tips/)
 4. Realtor.com -<br>[https://www.realtor.com/advice/finance/earnest-money-deposit-mistakes-buyers-make/&nbsp;](https://www.realtor.com/advice/finance/earnest-money-deposit-mistakes-buyers-make/)
 5. Bankrate -<br>[https://www.bankrate.com/real-estate/contingency-clause/](https://www.bankrate.com/real-estate/contingency-clause/)
-6. Home Buying Institute - [http://www.homebuyinginstitute.com/mortgage/risks-of-waiving-a-contingency/](http://www.homebuyinginstitute.com/mortgage/risks-of-waiving-a-contingency/)
+6. Home Buying Institute -<br>[http://www.homebuyinginstitute.com/mortgage/risks-of-waiving-a-contingency/](http://www.homebuyinginstitute.com/mortgage/risks-of-waiving-a-contingency/)
 7. Realtor.com -<br>[https://www.realtor.com/advice/sell/what-is-a-rent-back-agreement](https://www.realtor.com/advice/sell/what-is-a-rent-back-agreement)
