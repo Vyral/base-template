@@ -5,7 +5,8 @@ date: 2022-05-12 00:00:00
 tags:
   - Interest Rates
 excerpt: How will increasing interest rates impact the mortgage market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/How+Rising+Interest+Rates+Affect+You.mp4
 pullquote: >-
   Though rates aren’t in the twos and threes anymore, they’re still historically
   low.
