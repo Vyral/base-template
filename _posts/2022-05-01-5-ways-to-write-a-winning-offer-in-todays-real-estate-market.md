@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/may-2022---mvp---blog-post-image.jpg
 youtube_code:
 ---
-![](/uploads/1263-x-383-may.jpg){: width="1263" height="383"}<br><br>Our nation is in the midst of a serious housing crunch. Last year, a lack of inventory and soaring prices left many would-be homebuyers feeling pinched. But now, with interest rates climbing, many of them are also feeling desperate to lock in a mortgage—which has only added fuel to the fire.1
+![](/uploads/rick.jpg){: width="1001" height="383"}<br><br>Our nation is in the midst of a serious housing crunch. Last year, a lack of inventory and soaring prices left many would-be homebuyers feeling pinched. But now, with interest rates climbing, many of them are also feeling desperate to lock in a mortgage—which has only added fuel to the fire.1
 
 Fortunately, if you’re a buyer struggling to find a home, we have some good news. While it’s true that higher mortgage rates can decrease your purchasing budget, there are additional ways to compete in a hot market.
 
