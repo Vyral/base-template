@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the SOLDswich Team Gives Back
+title: How the Misty SOLDswich Team Gives Back
 date: 2022-05-13 00:00:00
 tags:
   - Real Estate
