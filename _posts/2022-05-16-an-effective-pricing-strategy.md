@@ -1,11 +1,12 @@
 ---
 layout: post
 title: An Effective Pricing Strategy
-date: 2022-05-16 13:05:25
+date: 2022-05-16 10:05:00
 tags:
   - Home Seller Tips
 excerpt: Pricing your home lower may be the key to getting top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2022/An+Effective+Pricing+Strategy.mp4
 pullquote: Let the market frenzy dictate the results.
 enclosure_type: video/mp4
 enclosure_time:
