@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s a look behind the scenes at my tomato-planting journey.
 enclosure:
-pullquote: If a tomato isn’t labeled “heirloom”, don’t trust it.
+pullquote: If a tomato isn’t labeled 'heirloom,' don’t trust it.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,9 +21,9 @@ Today is one of my favorite days of the year: the day I get to plant my tomatoes
 
 {% include pullquote.html %}
 
-**According to Ed Ott, owner of Starview Greenhouse in La Grange, the draw of heirloom tomatoes is that they have the best flavor of all tomatoes.** If you’ve never been there before, I highly recommend taking a trip. You’ll find tomatoes, potatoes, hanging plants, and everything in between. As for the heirloom tomatoes?? They have a wide variety of species you can plant. Ed recommends the Brandywine, German Johnson, and Delicious varieties.&nbsp;
+**According to Ed Ott, owner of Starview Greenhouse in La Grange, the draw of heirloom tomatoes is that they have the best flavor of all tomatoes.** If you’ve never been there before, I highly recommend taking a trip. You’ll find tomatoes, potatoes, hanging plants, and everything in between. As for the heirloom tomatoes? They have a wide variety of species you can plant. Ed recommends the Brandywine, German Johnson, and Delicious varieties.&nbsp;
 
-Ed says that if a tomato isn’t labeled heirloom, don’t trust that it is. Pink and yellow tomatoes have lower acid than red ones, and if you can grow a regular tomato, you can grow these tomatoes. Treat them the exact same way.
+Ed says that if a tomato isn’t labeled heirloom, don’t trust that it is. Pink and yellow tomatoes have lower acid levels than red ones, and if you can grow a regular tomato, you can grow pink and yellow ones. Treat them the same way.
 
 **At 3:12 in the video above, I finally made it back home with all of my heirloom and non-heirloom tomatoes.** I tilled the beds with an electric tiller, laid out a weed blocker, and spaced my tomato cages apart. Then I dug the plants in with a spade and a drill. A few hours later, they’re ready to be watered.
 
