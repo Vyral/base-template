@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: My analysis of our rising interest rates and how they’ll affect buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/What+Do+Rising+Rates+Mean+for+You_.mp4
 pullquote: We can try to create a win-win situation for you.
 enclosure_type: video/mp4
 enclosure_time:
