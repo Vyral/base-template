@@ -23,7 +23,7 @@ The other day, we played dodgeball to help out Children's Cancer Connection. We 
 
 **We really enjoy being involved in the community,** and one way we do that is by asking what’s important to our agents. This dodgeball tournament was Children’s Cancer Connection’s first one ever, but they have a volleyball tournament that we attend every year, at which we always have a ton of fun.
 
-We have an agent, Jason Hennis, whose family was affected by childhood cancer, and they took advantage of the amazing program that Children's Cancer Connection offers. It’s been a part of their life for a long time, and it’s wonderful that he has brought us into that fold. Plus, the events are super fun\!
+We have an agent, Jason Henness, whose family was affected by childhood cancer, and they took advantage of the amazing program that Children's Cancer Connection offers. It’s been a part of their life for a long time, and it’s wonderful that he has brought us into that fold. Plus, the events are super fun\!
 
 {% include pullquote.html %}
 
