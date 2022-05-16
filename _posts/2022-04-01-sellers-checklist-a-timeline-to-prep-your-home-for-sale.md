@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/april-2022---mvp---blog-post-image-1.jpg
 youtube_code:
 ---
-![](/uploads/april-2022---mvp---blog-post-image.jpg){: width="1200" height="628"}<br><br>We’re still in a seller’s market, but that doesn’t mean your home is guaranteed to easily sell.1 If you want to maximize your sale price, it’s still important to prepare your home before putting it on the market.
+![](/uploads/rick-1.jpg){: width="996" height="382"}<br><br>We’re still in a seller’s market, but that doesn’t mean your home is guaranteed to easily sell.1 If you want to maximize your sale price, it’s still important to prepare your home before putting it on the market.
 
 Start by connecting with a real estate agent as soon as possible. Having the eyes and ears of an insightful real estate professional on your side can help you boost your home’s appeal to buyers. What’s more, beginning the preparation process early allows you to tackle repairs and upgrades that can increase your property’s value.&nbsp;
 
