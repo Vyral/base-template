@@ -28,7 +28,7 @@ We’ve been in this business since 1979, so today we wanted to talk about the h
 
 1:37 — Coming out of the high rates
 
-2:16 — The roaring 2000’s and how loans got deregulated
+2:16 — The roaring 2000s and how loans got deregulated
 
 3:00 — What exactly are subprime loans?
 
