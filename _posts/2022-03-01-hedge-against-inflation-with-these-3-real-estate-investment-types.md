@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/march-2022---mvp---blog-post-image.jpg
 youtube_code:
 ---
-![](/uploads/march-2022---mvp---blog-post-image-1.jpg){: width="1200" height="628"}<br><br><br>The annual inflation rate in the United States is currently around 7.5%—the highest it has been since 1982.1 It doesn’t matter if you’re a cashier, lawyer, plumber, or retiree; if you spend U.S. dollars, inflation impacts you.&nbsp;
+![](/uploads/rick-2.jpg){: width="989" height="381"}<br><br><br>The annual inflation rate in the United States is currently around 7.5%—the highest it has been since 1982.1 It doesn’t matter if you’re a cashier, lawyer, plumber, or retiree; if you spend U.S. dollars, inflation impacts you.&nbsp;
 
 Economists expect the effects of inflation, like a higher cost of goods, to continue.2 Luckily, an investment in real estate can ease some of the financial strain.&nbsp;
 
