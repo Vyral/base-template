@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things to Know About Manufactured Homes
-date: 2021-04-09 13:11:00
+date: 2022-05-16 13:11:00
 tags:
   - Real Estate
 excerpt: Here’s what you should know about manufactured homes.
