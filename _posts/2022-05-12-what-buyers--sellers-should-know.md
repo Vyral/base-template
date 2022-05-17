@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-ss-yt.jpeg
-youtube_code: obM4FnuMCB0
+youtube_code: SwL7dWD0Le0
 ---
 {% include youtube.html %}
 
@@ -22,7 +22,7 @@ youtube_code: obM4FnuMCB0
 
 What impact will rising interest rates have? These increases don't just affect real estate; they impact every aspect of the economy. We brought in our residential real estate mortgage expert Ali Reda to break it down.
 
-We’ve seen a lot of movement with respect to interest rates in the first quarter of 2022. We anticipated rates to go up—just not this quickly. As a result, **buyers will lose quite a bit of their purchasing power.** Now buyers are paying more for houses that would have cost much less just a few months ago.&nbsp;
+We’ve seen a lot of movement with respect to interest rates in the first quarter of 2022. We anticipated rates to go up—just not this quickly. As a result, **buyers will lose quite a bit of their purchasing power.** Now buyers are paying more for houses that would have cost much less just a few months ago.
 
 Likely, buyers are going to slow down their activities and weigh their options. Some of them might even exit the market temporarily. In the long term, **this slowdown will create a more balanced market,** since the presence of fewer buyers will increase available inventory.
 
