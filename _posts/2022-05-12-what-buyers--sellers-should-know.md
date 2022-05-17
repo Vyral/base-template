@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-ss-yt.jpeg
-youtube_code: SwL7dWD0Le0
+youtube_code: BhG5CWDRxRQ
 ---
 {% include youtube.html %}
 
