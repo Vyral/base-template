@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Four things you can do to ensure you get top dollar from your home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2022/How+To+Get+Top+Dollar+These+Days.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
