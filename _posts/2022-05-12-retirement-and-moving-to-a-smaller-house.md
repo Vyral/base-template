@@ -21,7 +21,7 @@ youtube_code: Xh5M_8kdVOI
 
 Life events can have a major impact on what you need from your home. Retirement is one of the biggest changes many homeowners face. Is it time for you to downsize to a smaller home?
 
-According to the National Association of Realtors, the top three reasons people over the age of 55 choose to move are because they want a smaller house, they want to be closer to loved ones, or because they are retired.
+According to the National Association of Realtors, the top three reasons people over the age of 55 choose to move are because they want a smaller house, they want to be closer to loved ones, or they are retired.
 
 If you're in this group, changing priorities may be top of mind for you. **As your lifestyle changes, what you need in your home likely changes too.** Moving into a small home can open up your schedule. When you downsize, you can spend less time maintaining your home and more time with the people you love. It can lead to less stress and increased happiness.
 
