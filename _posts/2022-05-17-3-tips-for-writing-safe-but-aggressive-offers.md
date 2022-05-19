@@ -18,7 +18,7 @@ youtube_code: Y2mUjp1PBlI
 
 {% include excerpt.html %}
 
-If buyers remove all of their contingencies at the offer stage, what protections do they have throughout the rest of the process? This is an excellent question that is very relevant to the current market. Eliminating contingencies upfront can be risky, so today I’ll share a few strategies to help make your offer safer while remaining aggressive.
+If buyers remove all of their contingencies at the offer stage, what protections do they have throughout the rest of the process? This is an excellent question that is very relevant to the current market. Eliminating contingencies upfront can be risky, so today I’ll share a few strategies to help make your offer safer while remaining aggressive:
 
 **1\. Eliminate financial risk.** Many lenders are getting their buyers fully underwritten before they even look at properties. That way, when you do find the right home, you can write an offer without a loan contingency. Getting fully underwritten early on in the process also helps speed up the closing and lets you compete with cash offers.
 
