@@ -11,7 +11,7 @@ excerpt: >-
   Check out what happened during the Porter Ranch Garage Sale Extravaganza  held
   last April 30.
 enclosure:
-pullquote: It truly is a blast just to see the community spirit!
+pullquote: It truly is a blast just to see the community spirit through this event!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
