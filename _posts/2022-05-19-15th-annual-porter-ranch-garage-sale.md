@@ -8,10 +8,10 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: >-
-  Check out what happened during the Porter Ranch Garage Sale Extravaganza  help
+  Check out what happened during the Porter Ranch Garage Sale Extravaganza  held
   last April 30.
 enclosure:
-pullquote:
+pullquote: It truly is a blast just to see the community spirit!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
