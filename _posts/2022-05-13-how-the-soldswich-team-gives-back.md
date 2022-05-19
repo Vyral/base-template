@@ -5,7 +5,8 @@ date: 2022-05-13 00:00:00
 tags:
   - Real Estate
 excerpt: How the SOLDwisch team gets involved and gives back to the community.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+the+Misty+SOLDwisch+Team+Gives+Back.mp4
 pullquote: >-
   If you have a cause that’s important to you and in need, please reach out to
   us.
