@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Best Lead Source?
-date: 2022-05-19 18:25:57
+date: 2022-05-19 15:25:00
 tags:
   - Lead Generation
 excerpt: Your database is the No. 1 lead source for your real estate business.
