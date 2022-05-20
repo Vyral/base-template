@@ -6,7 +6,8 @@ tags:
   - Home Buying Tips
   - Real Estate
 excerpt: How can buyers write competitive offers without sacrificing their protections?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/3+Tips+for+Writing+Safe+but+Aggressive+Offers.mp4
 pullquote: There are always ways to write an aggressive but safe offer.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +25,7 @@ If buyers remove all of their contingencies at the offer stage, what protections
 
 {% include pullquote.html %}
 
-**2\. Investigate the property.** Before you write the offer on the home and remove your contingencies, review the home’s title report, disclosures, and other important documents. When we list a house, we give all the disclosures to the buyer upfront so that they have a good perspective on the home’s potential defects. Some buyers will have a contractor, handyman, or physical inspector go through the property with them while they’re writing the offer.&nbsp;
+**2\. Investigate the property.** Before you write the offer on the home and remove your contingencies, review the home’s title report, disclosures, and other important documents. When we list a house, we give all the disclosures to the buyer upfront so that they have a good perspective on the home’s potential defects. Some buyers will have a contractor, handyman, or physical inspector go through the property with them while they’re writing the offer.
 
 **3\. Look at the big-ticket items.** What is the condition of the important areas like the roof, foundation, plumbing, electrical, and so on? Be sure to look into these key areas because they can contain unpleasant surprises. Inspecting these items helps to eliminate risk. You can also do a five-day physical contingency and cram the inspections into that time frame; if you discover major problems and want to walk away from the deal, you can.
 
