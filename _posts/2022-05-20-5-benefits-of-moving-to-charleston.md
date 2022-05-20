@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 5 Benefits of Moving to Charleston
-date: 2022-05-20 13:09:00
+date: 2022-05-20 10:09:00
 tags:
   - Expert Advice
 excerpt: Five things that I really love about Charleston, South Carolina.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2022/5+Benefits+of+Moving+to+Charleston.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
