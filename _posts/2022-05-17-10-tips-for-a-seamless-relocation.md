@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: 'Here are 10 tips you should follow for a seamless relocation. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/2022/10+Tips+for+a+Seamless+Relocation.mp4
 pullquote: Packing for a move is the perfect time to get rid of all your junk.
 enclosure_type: video/mp4
 enclosure_time:
