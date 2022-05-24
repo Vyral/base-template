@@ -5,7 +5,7 @@ date: 2022-05-13 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s a look behind the scenes at my tomato-planting journey.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Planting+My+Tomatoes.mp4
 pullquote: If a tomato isn’t labeled 'heirloom,' don’t trust it.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ Today is one of my favorite days of the year: the day I get to plant my tomatoes
 
 {% include pullquote.html %}
 
-**According to Ed Ott, owner of Starview Greenhouse in La Grange, the draw of heirloom tomatoes is that they have the best flavor of all tomatoes.** If you’ve never been there before, I highly recommend taking a trip. You’ll find tomatoes, potatoes, hanging plants, and everything in between. As for the heirloom tomatoes? They have a wide variety of species you can plant. Ed recommends the Brandywine, German Johnson, and Delicious varieties.&nbsp;
+**According to Ed Ott, owner of Starview Greenhouse in La Grange, the draw of heirloom tomatoes is that they have the best flavor of all tomatoes.** If you’ve never been there before, I highly recommend taking a trip. You’ll find tomatoes, potatoes, hanging plants, and everything in between. As for the heirloom tomatoes? They have a wide variety of species you can plant. Ed recommends the Brandywine, German Johnson, and Delicious varieties.
 
 Ed says that if a tomato isn’t labeled heirloom, don’t trust that it is. Pink and yellow tomatoes have lower acid levels than red ones, and if you can grow a regular tomato, you can grow pink and yellow ones. Treat them the same way.
 
