@@ -8,7 +8,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Ali Reda from Envoy Mortgage explains what rising rates mean.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/What+To+Know+About+Interest+Rates.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
