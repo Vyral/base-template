@@ -19,6 +19,6 @@ youtube_code: MS-oRrO3KN0
 
 We wanted to invite you to our Summer Barbeque Kickoff\! It’s a great way to start the summer right. We’ve had a long winter, so now it’s time to have some fun.&nbsp;
 
-It’ll be just down the street at Lone Peak Park North Pavilion 10140 South 700 East Sandy, UT. It’s been a couple of years since we’ve had this event, and this time, we’re going to have delicious smoked pulled pork sandwiches. Along with an array of other great food.&nbsp;**Swing by on June 11 from 11 a.m. to 2 p.m.**&nbsp;for games, drawings, gift baskets, and more. We can’t think of a better way to kick off the summer.
+It’ll be just down the street at Lone Peak Park North Pavilion 10140 South 700 East Sandy, UT. It’s been a couple of years since we’ve had this event, and this time, we’re going to have delicious smoked pulled pork sandwiches along with an array of other great food. **Swing by on June 11 from 11 a.m. to 2 p.m.**&nbsp;for games, drawings, gift baskets, and more. We can’t think of a better way to kick off the summer.
 
 If you have questions about real estate in the meantime, please call or email us. We would love to help you.
