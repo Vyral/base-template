@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Do Sellers Begin?
-date: 2022-05-24 12:54:56
+date: 2022-05-24 09:54:00
 tags:
   - Home Seller Tips
 excerpt: The first step in selling a home is deciding if you want to hire an agent.
