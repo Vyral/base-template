@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Property Management
 excerpt: Here’s what Hawaii rental owners need to know about HARPTA and FIRPTA.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2022/You+Need+To+Know+About+These+Taxes.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
