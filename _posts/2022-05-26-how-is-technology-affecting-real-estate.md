@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Technology Affecting Real Estate?
-date: 2022-05-26 19:58:18
+date: 2022-05-26 16:58:00
 tags:
   - Real Estate
 excerpt: The Super Eye Box is a fantastic tool we use to keep your property safe.
