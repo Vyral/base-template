@@ -5,14 +5,13 @@ date: 2022-05-24 09:54:00
 tags:
   - Home Seller Tips
 excerpt: The first step in selling a home is deciding if you want to hire an agent.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2022/Where+Do+Sellers+Begin_.mp4
+enclosure:
 pullquote: If you decide to work with an agent, make sure you pick the right one.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2_rGPkALteo
+youtube_code: Iwj0aEP8TW8
 ---
 {% include youtube.html %}
 
@@ -26,7 +25,7 @@ First, let’s start with a quick story. A friend of ours decided they wanted to
 
 We know a lot of people look at the commission, see a big number, and think they can do it themselves. However, if everyone could, we wouldn’t be in business. The first step is choosing if you want an agent or not. If you do, you need to find the right one.
 
-**You want to work with someone who sells houses instead of just listing them.** You want an agent who stays current with the market and has enough tools and resources to guide you. You want to work with an agent who has a team around them because real estate never sleeps, and no one person can help two clients at once.&nbsp;
+**You want to work with someone who sells houses instead of just listing them.** You want an agent who stays current with the market and has enough tools and resources to guide you. You want to work with an agent who has a team around them because real estate never sleeps, and no one person can help two clients at once.
 
 Communication is also a huge issue right now. We are all surrounded by technology, and we’re all using it to balance our busy lives. Communication is incredibly important throughout the deal.
 
