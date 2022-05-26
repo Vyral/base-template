@@ -6,8 +6,7 @@ tags:
   - Real Estate
 excerpt: Take a look around our historic city with the amazing Tours of Tulsa.
 enclosure: >-
-  s3://vyralmarketing/Jennie
-  Wolek/Videos/2022/JENNIE_WOLEK_TOURS_OF_TULSA_V.3.mp4
+  s3://vyralmarketing/Jennie-Wolek/Videos/2022/JENNIE_WOLEK_TOURS_OF_TULSA_V.3.mp4
 pullquote: Our history is who we are in Tulsa.
 enclosure_type: video/mp4
 enclosure_time:
