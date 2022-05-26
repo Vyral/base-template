@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Three steps to ensure a successful simultaneous transaction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/How+To+Buy+%26+Sell+at+the+Same+Time.mp4
 pullquote: Starting the process early will save you a lot of stress.
 enclosure_type: video/mp4
 enclosure_time:
