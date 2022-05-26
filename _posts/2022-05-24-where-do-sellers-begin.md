@@ -5,7 +5,8 @@ date: 2022-05-24 09:54:00
 tags:
   - Home Seller Tips
 excerpt: The first step in selling a home is deciding if you want to hire an agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2022/Where+Do+Sellers+Begin_+(1).mp4
 pullquote: If you decide to work with an agent, make sure you pick the right one.
 enclosure_type: video/mp4
 enclosure_time:
