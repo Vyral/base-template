@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-![](/uploads/june-2022---mvp---blog-post-image.jpg){: width="1200" height="628"}<br><br>The last two years caught many of us off guard—and not just because of the pandemic. They also ushered in the hottest housing market on record, with home prices rising nationally by nearly 19% in 2021, driven primarily by low mortgage rates and a major supply shortage.1
+![](/uploads/rick-3.jpg){: width="1002" height="383"}<br><br>The last two years caught many of us off guard—and not just because of the pandemic. They also ushered in the hottest housing market on record, with home prices rising nationally by nearly 19% in 2021, driven primarily by low mortgage rates and a major supply shortage.1
 
 But while some had hoped 2022 would bring a return to normalcy, the U.S. real estate market continues to boom, despite rising interest rates and decreasing affordability.
 
