@@ -5,7 +5,8 @@ date: 2022-05-20 10:09:00
 tags:
   - Expert Advice
 excerpt: Five things that I really love about Charleston, South Carolina.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2022/5+Benefits+of+Moving+to+Charleston+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
