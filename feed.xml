@@ -24,7 +24,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <media:thumbnail url="{{post.youtube_alternate_image | prepend: site.url}}">
+        <media:thumbnail url="{{post.youtube_alternate_image | prepend: site.baseurl | prepend: site.url}}">
       </item>
     {% endfor %}
   </channel>
