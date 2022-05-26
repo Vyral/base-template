@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Benefits of Moving to Charleston
+title: 5 Reasons to Move to Charleston
 date: 2022-05-20 10:09:00
 tags:
   - Expert Advice
