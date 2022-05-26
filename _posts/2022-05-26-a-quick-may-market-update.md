@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick May Market Update
-date: 2022-05-26 19:09:33
+date: 2022-05-26 15:09:00
 tags:
   - Market Update
 excerpt: The latest statistics from our Anchorage real estate market.
