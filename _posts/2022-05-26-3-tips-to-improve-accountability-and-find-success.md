@@ -24,11 +24,7 @@ You must also show up and perform the way you would like your team to. This, in 
 
 **2\. Apply accountability to all equally.** No one gets special deals or a pass; everyone should know what’s expected of them. Also, make sure your standards are realistic based on the skills, education, and training of your team members. Everyone should know the standards and be monitored accordingly at least once a week.&nbsp;
 
-&nbsp;
-
 {% include pullquote.html %}
-
-&nbsp;
 
 **3\. Accountability has many forms.** For example, as a leader, you hold your team members accountable. However, successful people like to be held accountable, so you need someone to keep you accountable as a leader. For me, my best form of accountability is when I pay someone to hold me accountable because I view it as an investment in myself. When accountability worked for me, I really respected and even kind of feared my coach. This way, I know I need to show up for them because I know they care about me both personally and professionally. They are there to help me achieve my goals, not ones they picked out for me.&nbsp;
 
