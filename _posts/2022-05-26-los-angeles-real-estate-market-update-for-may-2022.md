@@ -26,7 +26,7 @@ What is going on in the Los Angeles Real Estate market in May of 2022? Los Angel
 
 Let us dive in to the numbers.
 
-First the number of new listings that have come in the market for sale is down 18% from last year in the San Fernando Valley. In Los Angeles County, it is 16.4%. Next, the number of homes going pending have gone down about 19%. One might think that the housing market is crashing but it is just a result of having fewer homes - less homes for sale means less homes that go pending. Second, days on market is down 10% from a year ago this time. Third, is supply. That number is down 20% from the same time a year ago. What is causing these numbers going down?
+First the number of new listings that have come in the market for sale is down 18% from last year in the San Fernando Valley. In Los Angeles County, it is 16.4%. Next, the number of homes going pending have gone down about 19%. One might think that the housing market is crashing but it is just a result of having fewer homes for sale - less homes for sale means less homes that go pending. Second, days on market is down 10% from a year ago this time. Third, is supply. That number is down 20% from the same time a year ago. What is causing these numbers to go down? Again, just the lack of homes from sale is keeping these numbers suppressed.&nbsp;
 
 It makes sense that those numbers all line up and if we examine the cause we see there are fewer people selling their homes. The biggest change is interest rates. At the beginning of the year it was in the low 3's. And earlier this month, we're looking at close to 6% although the rates have scaled back a little in the mid 5's. Indeed there is a shake up in the real estate market which can be scary; but can also offer buyers some opportunities.
 
