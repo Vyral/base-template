@@ -18,13 +18,13 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}&nbsp;&nbsp;
+{% include excerpt.html %}
 
 As a real estate agent, you’re expected to know exactly what is going on in the current market, which includes how to price your sellers’ homes to sell for the most money possible. So how should you price a home? The market is definitely shifting; interest rates are on the rise and inflation is going up. Today I’ll discuss a few factors to help you price your clients’ homes in a changing market.
 
 **1\. Location.** It's important to look at homes in a very tight radius around the property.
 
-{% include pullquote.html %}&nbsp;
+{% include pullquote.html %}
 
 **2\. The age of the home.** In our area, homes built after 1985 have high ceilings in the basements, and homes built before then tend to have low ceilings. Take a look at the layout of the home because that will make a huge difference in how you price it.
 
