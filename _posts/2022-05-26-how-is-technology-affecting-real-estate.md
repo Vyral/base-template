@@ -5,14 +5,13 @@ date: 2022-05-26 16:58:00
 tags:
   - Real Estate
 excerpt: The Super Eye Box is a fantastic tool we use to keep your property safe.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2022/How+Is+Technology+Affecting+Real+Estate_.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2fWyL7MVxdM
+youtube_code: C3zZEtbfeS8
 ---
 {% include youtube.html %}
 
