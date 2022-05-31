@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speaking With Josh of Josh’s Sno Shack
+title: "Speaking With Josh of Josh’s Sno Shack"
 date: 2022-05-31 15:54:05
 tags:
   - Real Estate
-excerpt: Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa.
+excerpt: "Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa."
 enclosure:
 pullquote: >-
   If you like summer and snow cones, then you have to visit one of our
