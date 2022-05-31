@@ -24,7 +24,7 @@ As a real estate agent, you’re expected to know exactly what is going on in th
 
 **1\. Location.** It's important to look at homes in a very tight radius around the property.
 
-{% include pullquote.html %}
+{% include pullquote.html %}&nbsp;
 
 **2\. The age of the home.** In our area, homes built after 1985 have high ceilings in the basements, and homes built before then tend to have low ceilings. Take a look at the layout of the home because that will make a huge difference in how you price the home.
 
