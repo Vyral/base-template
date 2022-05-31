@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nothing Good Happens After Midnight… Except
-date: 2022-05-31 19:49:14
+date: 2022-05-31 16:49:00
 tags:
   - Attraction
 excerpt: Here’s a guide to the best resources for stargazing in Montana.
