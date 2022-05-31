@@ -5,9 +5,9 @@ date: 2022-05-27 00:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: There's a lot of hidden inventory out there.
+excerpt: There are millions of vacant homes in the U.S. right now.
 enclosure:
-pullquote: The reason why there are millions of vacant homes in the US right now.
+pullquote: There's a lot of hidden inventory out there.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,7 +22,7 @@ Today we want to talk about the number of vacant homes in the US and what impact
 
 {% include pullquote.html %}
 
-There are a variety of reasons why homes are vacant. In the Des Moines market, a significant portion of the homes sold in 2021 were vacant. This is often a situation where people move to their next home and then put their home on the market. Sometimes the house is in foreclosure, is in a distressed state, or is a vacation home. A couple might have their own separate residences and then move in together.
+**There are a variety of reasons why homes are vacant.** In the Des Moines market, a significant portion of the homes sold in 2021 were vacant. Often, homes are left unoccupied because the owners purchased a new house before putting their old home on the market. It could also be that the house is in foreclosure, is in a distressed state, or is a vacation home. Perhaps a couple had separate residences and then moved in together, leaving one property vacant.
 
 There's a lot of hidden inventory out there. With the market as hot as it is, there's comfort in buying your next home first and then putting your old home on the market. That way, you don't have to worry about bridging two loans or doing a delicate balancing act.&nbsp;
 
