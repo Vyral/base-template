@@ -20,7 +20,7 @@ youtube_code:
 
 {% include excerpt.html %}
 
-As a real estate agent, you’re expected to know exactly what is going on in the current market, which includes how to price your sellers’ homes to sell for the most money possible. So how do you know how to price a home? The market is definitely shifting; interest rates are on the rise and inflation is going up. Today I’ll discuss a few factors to help you price your clients’ homes in a changing market.
+As a real estate agent, you’re expected to know exactly what is going on in the current market, which includes how to price your sellers’ homes to sell for the most money possible. So how should you price a home? The market is definitely shifting; interest rates are on the rise and inflation is going up. Today I’ll discuss a few factors to help you price your clients’ homes in a changing market.
 
 **1\. Location.** It's important to look at homes in a very tight radius around the property.
 
