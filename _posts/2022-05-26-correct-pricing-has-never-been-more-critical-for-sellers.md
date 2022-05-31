@@ -8,8 +8,8 @@ excerpt: >-
   dollar.
 enclosure:
 pullquote: >-
-  If your client has been on the fence about selling, call them and impress upon
-  them how important it is that they act sooner than later.
+  If your client has been on the fence about selling, tell them how important it
+  is that they act sooner than later.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,13 +18,13 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}&nbsp;&nbsp;
 
-As a real estate agent, you’re expected to know exactly what is going on in the current market, which includes how to price your sellers’ homes to sell for the most money possible. So how should you price a home? The market is definitely shifting; interest rates are on the rise and inflation is going up. Today I’ll discuss a few factors to help you price your clients’ homes in a changing market.
+As a real estate agent, you’re expected to know exactly what is going on in the current market, which includes how to price your sellers’ homes to sell for the most money possible. So how should you price a home? The market is definitely shifting; interest rates, are on the rise and inflation is going up. Today I’ll discuss a few factors to help you price your clients’ homes in a changing market.
 
 **1\. Location.** It's important to look at homes in a very tight radius around the property.
 
-{% include pullquote.html %}
+{% include pullquote.html %}&nbsp;
 
 **2\. The age of the home.** In our area, homes built after 1985 have high ceilings in the basements, and homes built before then tend to have low ceilings. Take a look at the layout of the home because that will make a huge difference in how you price it.
 
