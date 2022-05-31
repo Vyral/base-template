@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Do You Have To Offer Above Asking Price?
-date: 2022-05-31 15:31:19
+date: 2022-05-31 12:31:00
 tags:
   - Home Buyer Tips
 excerpt: 'Here’s how you can stay competitive in a crazy-hot real estate market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2022/Do+You+Have+To+Offer+Above+Asking+Price_.mp4
 pullquote: 'In this hot market, your representation matters. '
 enclosure_type: video/mp4
 enclosure_time:
