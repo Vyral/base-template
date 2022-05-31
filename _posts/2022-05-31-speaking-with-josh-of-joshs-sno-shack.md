@@ -7,8 +7,8 @@ tags:
 excerpt: Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa.
 enclosure:
 pullquote: >-
-  ‘If you like summer and snow cones, then you have to visit one of our
-  locations.’
+  If you like summer and snow cones, then you have to visit one of our
+  locations.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
