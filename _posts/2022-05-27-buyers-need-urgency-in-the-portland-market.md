@@ -20,11 +20,11 @@ youtube_code: h2ddpTGAk6M
 
 When I sit down with a buyer for a strategy session, the one question I always make sure to ask is, “How serious are you about buying a home?”
 
-**Being serious about buying doesn’t mean you need to make an insane offer on a home.** Being serious means being fully approved, having your assets and income verified, and being decisive when you see a home that matches your needs.&nbsp;
+**Being serious about buying doesn’t mean you need to make an insane offer on a home.** However, it does mean being fully approved, having your assets and income verified, and being decisive when you see a home that matches your needs.&nbsp;
 
 {% include pullquote.html %}
 
-In our market, you need to act right away in order to secure a home. If a listing is posted on Thursday and you don’t see it until Saturday, there are probably offers on the home already and you’ll be in a time crunch to make a decision. **Frankly, I’ve spent more time deciding what to order in a restaurant than some people have spent deciding on a house to buy.**
+In our market, you need to act right away to secure a home. If a listing is posted on Thursday and you don’t see it until Saturday, there are probably offers on the home already, and you’ll be in a time crunch to make a decision. **Frankly, I’ve spent more time deciding what to order in a restaurant than some people have spent deciding on a house to buy.**
 
 If you’re not ready to do what it takes to buy in this market, it’s okay to pass. This market may be too hot for you, and there's no shame in that. It may very well be better for you to wait if you’re not ready to deal with the level of urgency necessary to buy a home today.
 
