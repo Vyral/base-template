@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tulsa Looks Good on Revitalize T-Town
+title: 'Tulsa Looks Good on Revitalize T-Town'
 date: 2022-03-31 16:00:00
 tags:
   - Real Estate
