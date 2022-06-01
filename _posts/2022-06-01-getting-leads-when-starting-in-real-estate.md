@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Leads When Starting in Real Estate
-date: 2022-06-01 17:31:52
+date: 2022-06-01 14:31:00
 tags:
   - Lead Conversion
 excerpt: The three lead sources I used to build my real estate business.
@@ -19,7 +19,7 @@ youtube_code: pOAyXdrz7cc
 
 A lot of people have been asking me about how I built my business. I know lead sources can be confusing, so today I want to share a little bit about my journey by explaining a few of the pillars of my real estate business. Here are the three original lead sources that I used to build my real estate business:
 
-**1\. Going door to door.** I used this method when I started in the business at 23 years old. I never once convinced somebody to buy or sell their home by simply knocking on their door,&nbsp; but I did come from a place of contribution. I answered their questions, gave them value, and slowly the phone started to ring from those sources.
+**1\. Going door to door.** I used this method when I started in the business at 23 years old. I never once convinced somebody to buy or sell their home by simply knocking on their door, but I did come from a place of contribution. I answered their questions, gave them value, and slowly the phone started to ring from those sources.
 
 {% include pullquote.html %}
 
