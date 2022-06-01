@@ -18,7 +18,7 @@ youtube_code: hfSPqDxrdtI
 
 {% include excerpt.html %}
 
-It’s no secret that today’s housing market is competitive for buyers. Because of this, many clients have asked me, “Is it enough to just offer the asking price?” There’s more to purchasing a home than offering more money, and today I want to give you some tips to compete in this hot market.&nbsp;
+It’s no secret that today’s housing market is competitive for buyers. Because of this, many clients have asked me, “Is it enough to just offer the asking price?” There’s more to purchasing a home than offering more money, so today I want to give you some tips to compete in this hot market.&nbsp;
 
 First, how crazy is our market? Nationally, the average home receives five offers and only stays on the market for 17 days. **However, the Phoenix market is even hotter than the rest of the country.** Our average days on market is only seven, but since it takes a few days to negotiate in multiple-offer situations, it’s probably even lower than that. On top of that, supply is incredibly low; we only have 15 days’ worth of inventory right now.
 
@@ -28,7 +28,7 @@ Given all that, what can you do? First, you must get pre-approved, not just pre-
 
 Since our market is so fast, you need to move quickly. Work with a fantastic local lender and Realtor so that you can make a great offer as soon as possible. Smart agents are submitting offers even before open houses, **so make sure you have the best representation possible.&nbsp;**
 
-Another thing you can do to stay competitive is submit a higher than average earnest money deposit. In the past, you would normally only submit 1% of the purchase price in closing costs. Now, if you submitted enough to cover your entire down payment and closing costs, it would probably catch your seller’s eye.&nbsp;
+Another thing you can do to stay competitive is submit a higher-than-average earnest money deposit. In the past, you would normally only submit 1% of the purchase price. Now, if you submitted enough to cover your entire down payment and closing costs, it would probably catch your seller’s eye.&nbsp;
 
 Finally, consider offering to pay an appraisal gap. Homes are appreciating at a rapid pace, so low appraisals are becoming common. If you include appraisal gap coverage in your contract, you can pledge to pay the difference between the appraised value and sales price up to a certain amount.&nbsp;
 
