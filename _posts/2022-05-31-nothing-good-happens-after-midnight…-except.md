@@ -22,9 +22,9 @@ youtube_code: Ra-hvYBps7c
 
 **[Click Here to read our Bi-Monthly Newsletter](https://www.flatheadrealestate.com/flathead-lake/hollinger-team-bi-monthly-newsletters/){: target="_blank"}**
 
-[Click Here to Sign Up to Receive our Bi-Monthly Newsletter](https://forms.aweber.com/form/04/914078704.htm){: target="_blank"}
+**[Click Here to Sign Up to Receive our Bi-Monthly Newsletter](https://forms.aweber.com/form/04/914078704.htm){: target="_blank"}**
 
-[One Minute Video - What We Sold in 2021](https://vimeo.com/661310423){: target="_blank"}
+**[One Minute Video - What We Sold in 2021](https://vimeo.com/661310423){: target="_blank"}**
 
 Nothing good happens after midnight, right? Well, on dark nights here in Montana, that couldn’t be further from the truth. When the sun goes down and the stars come out, turn your gaze upward\! Today I’ll discuss some resources that will help you find the best stargazing spots in Montana.
 
