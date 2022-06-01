@@ -18,7 +18,7 @@ youtube_code: HKBM4brXnV8
 
 {% include excerpt.html %}
 
-It’s been a while since I made one of these blogs, so I wanted to give you a quick market update. Everyone wants to know where the market is headed.
+It’s been a while since I made one of these blogs, so I wanted to give you a quick market update. Everyone wants to know where the market is heading.
 
 **We have about 0.92 months of inventory in the Anchorage municipality across all price ranges,** which is extremely low. We have over 562 homes under contract right now. That means they are sold and in the closing process. We have a really high pending ratio, but that tells us that there are still homes out there. It’s not that we aren’t getting enough listings; instead, as soon as a listing comes on the market, it goes under contract.
 
