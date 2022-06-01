@@ -20,20 +20,14 @@ youtube_code: Ra-hvYBps7c
 
 {% include excerpt.html %}
 
-**[Click Here to read our Bi-Monthly Newsletter](https://www.flatheadrealestate.com/flathead-lake/hollinger-team-bi-monthly-newsletters/){: target="_blank"}**
+Nothing good happens after midnight, right? Well, on dark nights here in Montana, that couldn’t be further from the truth. When the sun goes down and the stars come out, turn your gaze upward\! Today I’ll discuss some resources that will help you find the best spots in Montana to be entertained by the night skies.
 
-**[Click Here to Sign Up to Receive our Bi-Monthly Newsletter](https://forms.aweber.com/form/04/914078704.htm){: target="_blank"}**
-
-**[One Minute Video - What We Sold in 2021](https://vimeo.com/661310423){: target="_blank"}**
-
-Nothing good happens after midnight, right? Well, on dark nights here in Montana, that couldn’t be further from the truth. When the sun goes down and the stars come out, turn your gaze upward\! Today I’ll discuss some resources that will help you find the best stargazing spots in Montana.
-
-**Montana’s&nbsp;**<u><a target="_blank" rel="noopener" href="https://trailtothestars.com/"><strong>Trail to the Stars website</strong></a></u> **has created an online map of over 40 great places to observe the night sky.** Enthusiasts travel from all over to see the stars and other celestial phenomena in our great state.
+Montana’s&nbsp;[**Trail to the Stars website**](https://trailtothestars.com/){: target="_blank" rel="noopener"}&nbsp;has created an online map of over 40 great places to observe the night sky. Enthusiasts travel from all over to see the stars and other celestial phenomena in our great state.
 
 {% include pullquote.html %}
 
-On dark, moonless nights during certain parts of the year, you can sometimes even spot a shining aurora, which is a shimmering curtain of lights formed when solar particles collide with the Earth’s atmosphere. The University of Alaska has an <u><a target="_blank" rel="noopener" href="https://www.gi.alaska.edu/monitors/aurora-forecast">aurora forecast</a></u> where you can find a calendar of predicted aurora activity all around the northern hemisphere.
+On dark, moonless nights during certain parts of the year, you can sometimes even spot a shining aurora, which is a shimmering curtain of lights formed when solar particles collide with the Earth’s atmosphere. The University of Alaska has an**&nbsp;[Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast){: target="_blank" rel="noopener"}&nbsp;**where you can find a calendar of predicted aurora activity all around the northern hemisphere.
 
-If you’re tired of always hearing about gorgeous meteor showers after the fact, <u><a target="_blank" rel="noopener" href="https://www.timeanddate.com/astronomy/meteor-shower/list.html">click here</a></u> to find a calendar of all the scheduled showers in your area. They’ll even tell you how many meteors you can expect to see per hour, on top of a bunch of fun astronomy facts.
+If you’re tired of always hearing about gorgeous&nbsp;[**Meteor Showers**](https://www.timeanddate.com/astronomy/meteor-shower/list.html){: target="_blank"}&nbsp;after the fact, the linked calendar will show you all of the scheduled showers in your area. They’ll even tell you how many meteors you can expect to see per hour, on top of a bunch of fun astronomy facts.
 
-Using these tools, you’ll never have to worry about missing another astronomical event, and **you’ll have some great ideas for taking in the wonders of the night sky here in Montana.** If you have any questions about real estate or ways to entertain yourself in Big Sky Country, don’t hesitate to give me a call or send me an email. I’d love to hear from you.
+Using these tools, you’ll never have to worry about missing another astronomical event again\!
