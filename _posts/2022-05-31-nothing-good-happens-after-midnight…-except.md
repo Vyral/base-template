@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How To Find Great Stargazing Spots
+title: Nothing good happens after midnight ..... Except ...
 date: 2022-05-31 16:49:00
 tags:
   - Attraction
-excerpt: Here’s a guide to the best resources for stargazing in Montana.
+excerpt: Things are looking up in the dark in Montana.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2022/Nothing+Good+Happens+After+Midnight%E2%80%A6+Except.mp4
 pullquote: >-
@@ -19,6 +19,12 @@ youtube_code: Ra-hvYBps7c
 {% include youtube.html %}
 
 {% include excerpt.html %}
+
+**[Click Here to read our Bi-Monthly Newsletter](https://www.flatheadrealestate.com/flathead-lake/hollinger-team-bi-monthly-newsletters/){: target="_blank"}**
+
+[Click Here to Sign Up to Receive our Bi-Monthly Newsletter](https://forms.aweber.com/form/04/914078704.htm){: target="_blank"}
+
+[One Minute Video - What We Sold in 2021](https://vimeo.com/661310423){: target="_blank"}
 
 Nothing good happens after midnight, right? Well, on dark nights here in Montana, that couldn’t be further from the truth. When the sun goes down and the stars come out, turn your gaze upward\! Today I’ll discuss some resources that will help you find the best stargazing spots in Montana.
 
