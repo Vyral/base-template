@@ -24,7 +24,7 @@ The main culprit behind our shifting market is rising interest rates. As of the 
 
 {% include pullquote.html %}
 
-Despite our rising rates, demand remains strong. At median and high price ranges, there are still plenty of buyers submitting strong offers. However, **entry-level buyers are feeling the hit in affordability.&nbsp;**
+Despite our rising rates, demand remains strong. At the median and high price ranges, there are still plenty of buyers submitting strong offers. However, **entry-level buyers are feeling the hit in affordability.&nbsp;**
 
 When we talk to our trusted lenders, they say that buyers fall into two camps right now. One group wants to buy a new home, and if rising rates mean they have to lower their budget, so be it. Another group saw their purchasing power decrease and decided to leave the market for now. Even a small increase in interest rates has a big impact on your monthly payment, so the sharp hike we’ve seen recently has definitely affected some buyers.&nbsp;
 
