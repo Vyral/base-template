@@ -21,12 +21,12 @@ youtube_code: 6hZFB2yb364
 
 Century 21 loves to support local businesses, so I couldn’t have been more excited to participate in our local Wine and Spirits Walk recently. **Today I want to highlight a few of the businesses that participated and how I got to know my community a little better.&nbsp;**
 
-First, I spoke with Leon Mclaughlin, the CEO of the Clean Water Foundation. They’re participating in the Wine Walk, and they can’t wait to enjoy local products and mingle with their community.&nbsp;
+First, I spoke with Leon Mclaughlin, the CEO of the Clean Water Foundation. They’re participating in the Wine Walk, and they couldn’t wait to enjoy local products and mingle with their community.&nbsp;
 
-Eventually, I made my way down to a hub of the night where specialty flavored popcorn was available, such as banana pecan. I also ran into Leon again, who was very thankful that the weather stayed beautiful for the event.&nbsp;
+Eventually, I made my way down to one of the evening's hubs where specialty flavored popcorn was available, such as banana pecan. I also ran into Leon again, who was very thankful that the weather stayed beautiful for the event.&nbsp;
 
 {% include pullquote.html %}
 
-Later, I made my way down to Kiwami, one of the best sushi places in Kirkland. They aren't officially part of the Wine Walk, but they were on the way to the Parklane Gallery, and I had to stop by. The Gallery itself has plenty of wonderful local art, and it was a fantastic place to sip wine and enjoy local works. **The Wine and Spirits walk was a great experience, and I loved getting to meet plenty of new people.** It was a ton of fun\!&nbsp;
+Later, I made my way down to Kiwami, one of the best sushi places in Kirkland. They aren't officially part of the Wine Walk, but they are on the way to the Parklane Gallery, and I had to stop by. The Gallery itself has plenty of wonderful local art, and it was a fantastic place to sip wine and enjoy local works. **The Wine and Spirits Walk was a great experience, and I loved getting to meet plenty of new people.** It was a ton of fun\!&nbsp;
 
-If you have questions about today’s topic or anything else related to real estate, please call or email me. I am always willing to help\!&nbsp;
+If you have questions about local events or anything related to real estate, please call or email me. I am always willing to help\!&nbsp;
