@@ -26,7 +26,7 @@ Nothing good happens after midnight, right? Well, on dark nights here in Montana
 
 {% include pullquote.html %}
 
-On dark, moonless nights during some parts of the year, you can sometimes even spot a shining aurora, which is a shimmering curtain of lights formed when solar particles collide with the Earth’s atmosphere. The University of Alaska has an <u><a target="_blank" rel="noopener" href="https://www.gi.alaska.edu/monitors/aurora-forecast">aurora forecast</a></u> where you can find a calendar of predicted aurora activity all around the northern hemisphere.
+On dark, moonless nights during certain parts of the year, you can sometimes even spot a shining aurora, which is a shimmering curtain of lights formed when solar particles collide with the Earth’s atmosphere. The University of Alaska has an <u><a target="_blank" rel="noopener" href="https://www.gi.alaska.edu/monitors/aurora-forecast">aurora forecast</a></u> where you can find a calendar of predicted aurora activity all around the northern hemisphere.
 
 If you’re tired of always hearing about gorgeous meteor showers after the fact, <u><a target="_blank" rel="noopener" href="https://www.timeanddate.com/astronomy/meteor-shower/list.html">click here</a></u> to find a calendar of all the scheduled showers in your area. They’ll even tell you how many meteors you can expect to see per hour, on top of a bunch of fun astronomy facts.
 
