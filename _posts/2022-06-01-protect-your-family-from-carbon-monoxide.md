@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protect Your Family from Carbon Monoxide
+title: Protect Your Family From Carbon Monoxide
 date: 2022-06-01 00:00:00
 tags:
   - Real Estate
@@ -21,11 +21,11 @@ youtube_code: zfcZD9Pox3M
 
 You may have heard about the recent deaths of three Americans at the Bahamas Sandals resort—the cause of death was carbon monoxide poisoning. All homeowners should have carbon monoxide detectors in their homes, but what about when you’re traveling? What can you do to stay safe? Brad Lawler from the Hometeam Inspection Service is here to share a few safety tips.
 
-Carbon monoxide is just a byproduct of any fuel that’s burned, be that wood, natural gas, or propane. Brad has traveled extensively over the last 10 years, and he often wondered about the hotel rooms he stayed in; most had smoke detectors, but not many had carbon monoxide detectors.&nbsp;
+Carbon monoxide is just a byproduct of any fuel that’s burned, be that wood, natural gas, or propane. Brad has traveled extensively over the last 10 years, and he often wondered about the hotel rooms he stayed in; most had smoke detectors, but not many had carbon monoxide detectors.
 
-Luckily, **portable carbon monoxide detectors are available,** starting at around $100 at big box stores and for as low as $20 on online stores like [Amazon](https://www.amazon.com/Kidde-Monoxide-Detector-AC-Plug-Replacement/dp/B00M48BH30/ref=sr_1_5? crid=HAER0KYG9CFU&amp;keywords=Kidde%2BCarbon%2BMonoxide%2BDetector&amp;qid=1653528560&amp;sprefix=kidde%2Bcarbon%2Bmonoxide%2Bdetector%2Caps%2C77&amp;sr=8-5&amp;th=1){: target="_blank" rel="noopener"}. Brad recommends the type powered by AA batteries—do NOT get the 10-year sealed versions because those use lithium-ion batteries, which aren’t allowed on planes.&nbsp;
+Luckily, **portable carbon monoxide detectors are available,** starting at around $100 at big box stores and for as low as $20 on online stores like [Amazon](https://www.amazon.com/Kidde-Monoxide-Detector-AC-Plug-Replacement/dp/B00M48BH30/ref=sr_1_5? crid=HAER0KYG9CFU&amp;keywords=Kidde%2BCarbon%2BMonoxide%2BDetector&amp;qid=1653528560&amp;sprefix=kidde%2Bcarbon%2Bmonoxide%2Bdetector%2Caps%2C77&amp;sr=8-5&amp;th=1){: target="_blank" rel="noopener"}. Brad recommends the type powered by AA batteries—do NOT get the 10-year sealed versions because those use lithium-ion batteries, which aren’t allowed on planes.
 
-These small, easily packed devices can be placed anywhere inside the hotel room except the bathroom since steam will activate them. Also, don’t place them directly in front of a fan, which will blow the gas away from the detector.&nbsp;
+These small, easily packed devices can be placed anywhere inside the hotel room except the bathroom since steam will activate them. Also, don’t place them directly in front of a fan, which will blow the gas away from the detector.
 
 {% include pullquote.html %}
 
