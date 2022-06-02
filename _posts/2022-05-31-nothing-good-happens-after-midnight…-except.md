@@ -29,5 +29,3 @@ Montana’s&nbsp;[**Trail to the Stars website**](https://trailtothestars.com/){
 On dark, moonless nights during certain parts of the year, you can sometimes even spot a shining aurora, which is a shimmering curtain of lights formed when solar particles collide with the Earth’s atmosphere. The University of Alaska has an**&nbsp;[Aurora Forecast](https://www.gi.alaska.edu/monitors/aurora-forecast){: target="_blank" rel="noopener"}&nbsp;**where you can find a calendar of predicted aurora activity all around the northern hemisphere.
 
 If you’re tired of always hearing about gorgeous&nbsp;[**Meteor Showers**](https://www.timeanddate.com/astronomy/meteor-shower/list.html){: target="_blank"}&nbsp;after the fact, the linked calendar will show you all of the scheduled showers in your area. They’ll even tell you how many meteors you can expect to see per hour, on top of a bunch of fun astronomy facts.
-
-Using these tools, you’ll never have to worry about missing another astronomical event again\!
