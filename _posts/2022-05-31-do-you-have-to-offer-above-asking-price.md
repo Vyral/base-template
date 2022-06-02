@@ -4,7 +4,7 @@ title: Do You Have To Offer Above Asking Price?
 date: 2022-05-31 12:31:00
 tags:
   - Home Buyer Tips
-excerpt: 'Here’s how you can stay competitive in a crazy-hot real estate market. '
+excerpt: 'Here’s how you can stay competitive in a complex-hot real estate market. '
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2022/Do+You+Have+To+Offer+Above+Asking+Price_.mp4
 pullquote: 'In this hot market, your representation matters. '
@@ -20,7 +20,7 @@ youtube_code: hfSPqDxrdtI
 
 It’s no secret that today’s housing market is competitive for buyers. Because of this, many clients have asked me, “Is it enough to just offer the asking price?” There’s more to purchasing a home than offering more money, so today I want to give you some tips to compete in this hot market.&nbsp;
 
-First, how crazy is our market? Nationally, the average home receives five offers and only stays on the market for 17 days. **However, the Phoenix market is even hotter than the rest of the country.** Our average days on market is only seven, but since it takes a few days to negotiate in multiple-offer situations, it’s probably even lower than that. On top of that, supply is incredibly low; we only have 15 days’ worth of inventory right now.
+First, how complex is our market? Nationally, the average home receives five offers and only stays on the market for 17 days. **However, the Phoenix market is even hotter than the rest of the country.** Our average days on market is only seven, but since it takes a few days to negotiate in multiple-offer situations, it’s probably even lower than that. On top of that, supply is incredibly low; we only have 15 days’ worth of inventory right now.
 
 Given all that, what can you do? First, you must get pre-approved, not just pre-qualified. There are a lot of cash offers out there, and you need to stay competitive. Also, consider finding a lender who can lock in an interest rate on your behalf. They’ve increased recently, and they might go up further. Locking in a rate now will allow you to have the most flexible budget possible.
 
