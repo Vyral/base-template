@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: There are millions of vacant homes in the U.S. right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Why+We+Have+Vacant+Homes+in+the+U.S..mp4
 pullquote: There's a lot of hidden inventory out there.
 enclosure_type: video/mp4
 enclosure_time:
