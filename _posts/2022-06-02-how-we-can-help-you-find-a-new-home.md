@@ -23,7 +23,7 @@ More and more, we’ve had clients reach out to us saying that they don’t want
 
 {% include pullquote.html %}
 
-**2\. A reverse contingency.** This is a wonderful program where you can list and sell your home, but that sale is contingent on finding your next house in a predetermined amount of time. It’s the best of both worlds; You know what you’ll net from your current home, and you don’t have to worry about the next one.
+**2\. A reverse contingency.** This is a wonderful program where you can list and sell your home, but that sale is contingent on finding your next house in a predetermined amount of time. It’s the best of both worlds; you know what you’ll net from your current home, and you don’t have to worry about the next one.
 
 **3\. Buy now and sell later.** Many of our clients who qualify are choosing to buy their next home now and sell their old one later. You can find your next home before the for-sale sign goes up in your old house’s yard.
 
