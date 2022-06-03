@@ -17,8 +17,6 @@ youtube_code: v=yrsQJ8q1_F8
 
 {% include excerpt.html %}
 
-&nbsp;
-
 I’m back once again for part three of my “Shift” series. We’re continuing our examination of the change we’re experiencing in the market right now along with the book “Shift” by Gary Keller.
 
 **Shift tactic No. 3 is effective people leverage.** Essentially, we’re talking about surrounding yourself with the right people who fit your culture, help you grow, and scale your business.&nbsp;
