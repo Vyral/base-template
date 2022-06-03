@@ -23,8 +23,8 @@ A lot of people have been asking me about how I built my business. I know lead s
 
 {% include pullquote.html %}
 
-**2\. Expireds and FSBOs.** Back in the day, I carried a 3x5 card around me to come from a place of contribution with people trying to sell their home on their own or who couldn't sell in the past. Again, I never convinced them to utilize my services from our initial conversations, but a certain percentage of them slowly found enough value in me to hire me to formally list their homes.
+**2\. Expireds and FSBOs.** Back in the day, I carried a three-by-five card with me to come from a place of contribution with people trying to sell their home on their own or who couldn't sell in the past. Again, I never convinced them to utilize my services from our initial conversations, but a portion of them slowly found enough value in me to hire me to formally list their homes.
 
 **3\. Sphere of influence.** I have always given a ton of value to those who already know, like, and trust me. Working with that group of people by building trust and solving their problems will slowly but surely bring in referrals. This source is still the very core of my business today.
 
-There are some loose ends in those three lead sources, so if you want to hear the dialogues that I led with when talking to our sphere of influence, I'm happy to share them with you. Reach out to me at [dave@davehooketeam.com](mailto:dave@davehooketeam.com) or (717) 216-0860. I look forward to hearing from you.
+There are some loose ends in those three lead sources, so if you want to hear the dialogues that I led with when talking to my sphere of influence, I'm happy to share them with you. Reach out to me at [dave@davehooketeam.com](mailto:dave@davehooketeam.com) or (717) 216-0860. I look forward to hearing from you.
