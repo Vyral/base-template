@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Speaking With Josh of Josh’s Sno Shack"
+title: Speaking With Josh of Josh’s Sno Shack
 date: 2022-05-31 15:54:05
 tags:
   - Real Estate
-excerpt: "Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa."
+excerpt: Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa.
 enclosure:
 pullquote: >-
   If you like summer and snow cones, then you have to visit one of our
@@ -30,7 +30,7 @@ I’ve seen your shacks all over town. **How many locations do you have now?**
 
 As of just the other day, we have seven locations open, another is opening in a few days, and two more should be open for the summer. We also have a couple of snow cone trucks that drive around to events, and we do about 100 events every month during the summer. We’re going all out right now.
 
-We love promoting our local business owners, and you’re giving back to the community by employing young kids who are still learning and growing. **What’s been the greatest joy as the boss and growing in your leadership with our youth?**
+We love promoting our local business owners, and you’re giving back to the community by employing young kids who are still learning and growing. **What’s been the greatest joy as a boss and a growing leader or our youth?**
 
 {% include pullquote.html %}
 
@@ -52,4 +52,4 @@ We’re so grateful that Josh’s Sno Shack is here and a Tulsa staple. **People
 
 If you Google us, we’re probably only a few miles from you.&nbsp;
 
-To learn more about Josh’s Sno Shack or book them for your next event, [visit their website.](https://www.joshssnoshack.com/) If you ever have any real estate questions or needs, [visit The Wolek Group’s website](https://www.thewolekgroup.com). They would love to help you\!
+To learn more about Josh’s Sno Shack or book them for your next event, [visit their website.](https://www.joshssnoshack.com/) If you ever have any real estate questions or needs, [visit The Wolek Group’s website](https://www.thewolekgroup.com). We would love to help you\!
