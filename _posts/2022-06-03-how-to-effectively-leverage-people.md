@@ -10,8 +10,8 @@ pullquote: By hiring the right talent, you’ll be able to scale your business f
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/6-3-22-josh-stern-yt.jpg
-youtube_code: v=yrsQJ8q1_F8
+youtube_alternate_image: /uploads/6-3-22yt.jpg
+youtube_code: yrsQJ8q1_F8
 ---
 {% include youtube.html %}
 
