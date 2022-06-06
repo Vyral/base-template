@@ -5,7 +5,8 @@ date: 2022-05-31 00:00:00
 tags:
   - Real Estate
 excerpt: Explaining what an ADU is and how a recent bill opens up housing options.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/Recent+Changes+to+Zoning+Laws.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
