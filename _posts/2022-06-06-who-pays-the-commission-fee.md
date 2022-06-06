@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Pays the Commission Fee?
-date: 2022-06-06 12:33:34
+date: 2022-06-06 09:33:00
 tags:
   - Real Estate
 excerpt: Buyers don’t have to worry about paying any commission fees.
