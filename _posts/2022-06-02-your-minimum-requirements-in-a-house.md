@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Minimum Requirements in a House
+title: What Do You Need in a Home?
 date: 2022-06-02 00:00:00
 tags:
   - Home Buyer Tips
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/housing-needs-myles-yt.jpg
-youtube_code: ON62sgjwB4A
+youtube_code: 9d62CSIgTBk
 ---
 {% include youtube.html %}
 
