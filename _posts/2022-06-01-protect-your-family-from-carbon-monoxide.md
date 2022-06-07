@@ -5,7 +5,8 @@ date: 2022-06-01 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s a useful tip to keep you and yours safe from carbon monoxide.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Protect+Your+Family+From+Carbon+Monoxide.mp4
 pullquote: >-
   Portable carbon monoxide detectors are available starting at around $100 at
   big box stores and for as low as $20 on online stores like Amazon.
