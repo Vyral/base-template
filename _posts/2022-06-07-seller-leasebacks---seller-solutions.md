@@ -18,8 +18,6 @@ youtube_code: nH4Xg7pQ-SU
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 &nbsp;
 
 Are you thinking about selling your house, but not sure where you will live once it sells? No worries\! Our agents will negotiate a seller leaseback on your behalf before your home goes under contract\! Unsure of what a leaseback is? Ryan Rice & David Etz will walk you through the process in this video\!
