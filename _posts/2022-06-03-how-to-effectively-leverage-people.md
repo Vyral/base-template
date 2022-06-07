@@ -25,7 +25,7 @@ In a shifting market, it’s super important that your talent fits the acronym S
 
 {% include pullquote.html %}
 
-**As you bring talent into your organization, follow the chart at 2:29 that says what talent is and what talent isn’t.** Specifically, focus on the talent you want in a role. You need someone who finds solutions, shares your goals, pushes you, and is continually raising the bar. You’ll find that your ability to scale your business will be that much quicker and better.
+**As you bring talent into your organization, follow the chart at 2:29 that says what talent is and what talent isn’t.** Specifically, focus on the talent you want in a role. You need someone who finds solutions, shares your goals, pushes you, and is continually raising the bar. If you find talented people, you'll find that you can scale your business that much quicker and better.
 
 As you’re looking to grow your team, I always find the people-leverage decision tree chart helpful. You can find it at 3:15 in the video above. It all starts with the initial question, “Do you have people to help you?” Depending on your answer, you go from there.&nbsp;
 
