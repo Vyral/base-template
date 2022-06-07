@@ -19,8 +19,8 @@ youtube_code: d8BHMLonfPw
 
 Do you know who pays the commission in a real estate transaction?
 
-We had a buyer a couple of months ago who was very hesitant to buy because of the low inventory situation in this seller’s market. They had the money for a down payment and closing costs but no money to pay the commission.&nbsp;
+We had a buyer a couple of months ago who was very hesitant to buy because of the low-inventory situation in this seller’s market. They had the money for a down payment and closing costs but no money to pay the commission.&nbsp;
 
-I told them that that’s ok because **the seller traditionally pays the commission fee.** The buyer pays for the property, and the commission for both the buyer’s and listing agent comes out of the seller’s profit.&nbsp;
+I told them that that’s okay because **the seller traditionally pays the commission fee.** The buyer pays for the property, and the commission for both the buyer’s and listing agent comes out of the seller’s profit.&nbsp;
 
 If you'd like some more information or have any questions, visit [ronsawyerteam.com](http://ronsawyerteam.com){: target="_blank" rel="noopener"} or feel free to reach out to us by phone or email. We look forward to hearing from you.
