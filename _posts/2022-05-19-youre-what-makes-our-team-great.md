@@ -4,7 +4,8 @@ title: You’re What Makes Our Team Great
 date: 2022-05-19 18:37:37
 tags:
 excerpt: 'Thank you so much for all of your trust, support, and referrals. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/You%E2%80%99re+What+Makes+Our+Team+Great.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
