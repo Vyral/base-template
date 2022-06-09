@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in Our Market?
-date: 2022-06-09 14:10:56
+date: 2022-06-09 11:10:00
 tags:
   - Market Update
 excerpt: The state of our local real estate market as we head into summer.
