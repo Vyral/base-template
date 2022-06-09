@@ -7,7 +7,10 @@ tags:
   - Home Seller Tips
   - Market Update
   - Real Estate
-excerpt:
+excerpt: >-
+  Should you Buy Now or Wait? Inflation is out of control, Interest rates are
+  rising along with a decline in buyer demand? Should you buy now or wait for a
+  housing crash?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
