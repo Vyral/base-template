@@ -29,6 +29,6 @@ From the investing side of things, people aren’t rehabbing as many properties 
 
 **It’s an interesting market, but it is still a great time to buy or sell a home.** We were at 5% interest rates back in 2019; the rates we have today are nothing new. People are worried about how our rates climbed from 2.5% to 4.5%, but we only had those low rates because of COVID in the first place.&nbsp;
 
-The higher the interest rate, the lower your purchasing power. That 2.5% jump might have put you in a position where you’ll have to pay extra every month, but **4\.5% is still not a bad rate.** We were spoiled with rates last year; the rates we have now are not that bad.
+The higher the interest rate, the lower your purchasing power. That 2.5% jump might have put you in a position where you’ll have to pay extra every month, but **4\.5% is still not a crazy-high rate.** We were spoiled with rates last year; the rates we have now are not that bad.
 
 If you have any questions about our market or real estate in general, feel free to call or email us. We would love to help you.
