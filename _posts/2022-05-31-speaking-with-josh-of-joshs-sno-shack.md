@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Speaking to Josh of Josh’s Sno Shack about his wonderful business in Tulsa.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2022/Josh's+Sno+Shack+and+Success+Story.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2022/Is+the+Montgomery+County+Real+Estate+Market+Cooling+Off_.mp4
 pullquote: >-
   If you like summer and snow cones, then you have to visit one of our
   locations.
