@@ -34,7 +34,7 @@ client:
   email: daveknight@kw.com
   url: www.daveknightrealestate.com
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://daveknightrealestateteam.brivityvaluations.com/'
+  first_CTA_URL: 'https://knight-home-value.paperform.co/'
   second_CTA_text: Home Search
   second_CTA_URL: https://daveknightrealestate.com/home-search/listings
   phone_CTA: false
