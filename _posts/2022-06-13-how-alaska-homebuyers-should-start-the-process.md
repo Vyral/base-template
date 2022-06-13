@@ -22,9 +22,9 @@ If you're a homebuyer right now, you’re probably a little frustrated. There ar
 
 Let’s say you’re approved for a $500,000 home. You should include homes that are priced slightly below that in your search. If your cap is $500,000, you need to look under that number because most homes are selling at or above their list prices. You need a little wiggle room, so you might want to amend your search to the $450,000 price point.
 
-You should also get pre-approved by a lender before you start the home-search process. Often,people skip this step, find the perfect house, and only realize later that they can’t qualify for it. **If you’re not pre-approved, you don’t know how much you can afford,** and neither do home sellers. Most lenders can get you approved within a few days.&nbsp;
-
 {% include pullquote.html %}
+
+You should also get pre-approved by a lender before you start the home-search process. &nbsp;People often skip this step, find the perfect house, and only realize later that they can’t qualify for it. **If you’re not pre-approved, you don’t know how much you can afford,** and neither do home sellers. Most lenders can get you approved within a few days.&nbsp;
 
 You’ll also need a good, seasoned, and aggressive agent. **It’s a tough market, and you want all the experience you can get on your side**. For example, you may have to waive some contingencies to stand out. You wouldn’t have to do this in a normal market, but your agent can help you through the process safely.&nbsp;
 
