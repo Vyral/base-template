@@ -12,12 +12,12 @@ custom_links:
   - title: Mortgage Calculator
     url: http://airassaults.idxbroker.com/idx/mortgage
 client:
-  name: Mark Kelly
+  name: 
   license_number:
   about_markdown: >-
     The Air Assault Team was founded in 2002 by Valarie Hunter-Kelly, a highly regarded Real Estate Professional and active staple in the Clarksville, TN community. Partnered with her husband Mark Kelly, whom himself was a highly decorated military veteran, and current Broker of the team carved out their corner of the real estate market and built a highly successful real estate team and brokerage. Valerie passed away in November of 2020, leaving the team in good hands with her Husband/Broker Mark Kelly. Since then, The Air Assault Team continues to live up to its Mission and Vision statement "To be the most professional real estate team...To provide dependable, exceptional, and comprehensive services...helping our clients achieve their real estate goals.". The Air Assault Team is committed to working with new and existing customers/clients in selling their homes or finding the home most suited to their needs. We work closely with our buyers and sellers helping them make one of the most important decisions and investments of their lives. Under the leadership of Mark Kelly and Aaron Morton, Affiliate Broker and CEO, we enthusiastically await the opportunity to make you a happy client!
   market: Clarksville
-  brand: The Air Assault Team
+  brand: <b>The Air Assault Team</b>
   brokerage: Keller Williams Realty
   address: '2279-D Wilma Rudolph Blvd<br>Clarksville, TN 37040'
   phone: 931-245-7435
