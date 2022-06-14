@@ -20,9 +20,9 @@ youtube_code: t-fCaUaTXAM
 
 I’ve seen real estate transactions fall apart due to obstacles that people didn’t even know about in the first place. To avoid delays in the sale of your property, don’t be caught unaware and take the time to learn about these three transaction roadblocks:
 
-**1\. Federal, state or local tax liens.** If you haven’t been paying your taxes, you can’t expect to sell your property. When you owe IRS money, it shows up on the title opinion that the attorney prepares.
+**1\. Federal, state, or local tax liens.** If you haven’t been paying your taxes, you can’t expect to sell your property. When you owe IRS money, it shows up on the title opinion that the attorney prepares.
 
-**2\. Missed child support payments.** If someone in the transaction is liable for child support, a signed child support affidavit is required in order for the property to transfer.&nbsp;
+**2\. Missed child support payments.** If someone in the transaction is liable for child support, a signed child support affidavit is required for the property to transfer.&nbsp;
 
 **3\. Failure to pay homeowners association dues.** Not paying your HOA dues can affect the sale of your property. In general, unpaid debts can hold up real estate transactions.&nbsp;
 
