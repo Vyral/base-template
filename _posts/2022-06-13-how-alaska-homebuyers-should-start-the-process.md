@@ -20,7 +20,7 @@ youtube_code: BfwDAm0VUJI/
 
 If you're a homebuyer right now, you’re probably a little frustrated. There aren’t enough homes to choose from, and you’re likely having to write multiple offers on tons of properties before one is accepted. Today I have a few tips to help make things a bit easier for you.
 
-Let’s say you’re approved for a $500,000 home. You should include homes that are priced slightly below that in your search. If your cap is $500,000, you need to look under that number because most homes are selling at or above their list prices. You need a little wiggle room, so you might want to amend your search to the $450,000 price point.
+Let’s say you’re approved for a $500,000 home. You should include homes that are priced slightly below that in your search because most homes are selling at or above their list prices. You need a little wiggle room, so you might want to amend your search to the $450,000 price point.
 
 {% include pullquote.html %}
 
@@ -28,6 +28,6 @@ You should also get pre-approved by a lender before you start the home-search pr
 
 You’ll also need a good, seasoned, and aggressive agent. **It’s a tough market, and you want all the experience you can get on your side**. For example, you may have to waive some contingencies to stand out. You wouldn’t have to do this in a normal market, but your agent can help you through the process safely.&nbsp;
 
-**My biggest piece of advice is to not give up.** More homes are being listed, they’re just selling quickly. If you’re aggressive and have the right agent on your side, I like your chances of home-buying success.
+**My biggest piece of advice is to not give up.** More homes are being listed; they’re just selling quickly. If you’re aggressive and have the right agent on your side, I like your chances of home-buying success.
 
 If you have any questions about buying a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
