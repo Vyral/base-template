@@ -22,7 +22,7 @@ youtube_code: Ui8Vp36Xxlw
 
 Waiving contingencies has become a controversial topic in real estate lately. Today I’ll discuss why many buyers are waiving contingencies in this competitive market.
 
-In the Oregon sales agreement document, many contingencies are baked into the text. For example, the disclosure contingency allows you to back out of a deal due to disclosures. The inspection contingency allows you to terminate the contract if the property needs repairs that aren’t negotiated to your satisfaction. The financial contingency makes the purchase dependent on your being fully approved for the loan and also accounts for the appraisal; if those things don’t pan out, you can back out of the deal and get your earnest money back.
+In the Oregon sales agreement document, many contingencies are baked into the text. For example, the disclosure contingency allows you to back out of a deal due to disclosures. The inspection contingency allows you to terminate the contract if the property needs repairs that aren’t negotiated to your satisfaction. The financial contingency makes the purchase dependent on you being fully approved for the loan and also accounts for the appraisal; if those things don’t pan out, you can back out of the deal and get your earnest money back.
 
 Not to speak ill of Oregon, but in terms of contingencies, our market isn’t as sophisticated as some others like California. There, they have a set process where sellers pre-inspect their homes before listing the property and then go into their offer-review period.
 
