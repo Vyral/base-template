@@ -3,7 +3,7 @@ layout: post
 title: 3 Benefits of Homeownership
 date: 2022-06-09 00:00:00
 tags:
-excerpt: For national homeownership month, I cover three benefits of owning a home.
+excerpt: What benefits have you experienced from owning your own home?
 enclosure:
 pullquote: >-
   Homeowners have an average net worth 40 times higher than that of the average
