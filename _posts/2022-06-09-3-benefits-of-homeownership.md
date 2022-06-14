@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/homeownership-yt.jpg
-youtube_code: 5kE0N6L30Yw
+youtube_code: 7Ayc64qq5S0
 ---
 {% include youtube.html %}
 
