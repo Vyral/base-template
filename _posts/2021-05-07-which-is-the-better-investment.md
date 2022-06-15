@@ -27,8 +27,6 @@ Today I’m sharing the five main reasons real estate is a better investment tha
 
 **3\. Tax benefits.** There are virtually no tax benefits to owning Bitcoin. However, for real estate, there are plenty of benefits. There are tax rules like the 1031 exchange, depreciation of a building, and the stepped-up basis on an inheritance of a piece of real estate. These tax benefits could significantly reduce your liability when you're getting cash flow and even remove some of the capital gain taxes.&nbsp;
 
-&nbsp;
-
 {% include pullquote.html %}
 
 **4\. Control.** When you have a Bitcoin investment, you have virtually no control. You can only buy and sell it—that's it. You have no control over the stock market. On the other hand, if you choose to invest in real estate, then you can buy a property for a little cheaper and fix it up yourself. Some sweat equity always increases a property’s value. Then you can rent it out, get tenants, and get an income from it. You have a lot more control over what happens with your real estate.
