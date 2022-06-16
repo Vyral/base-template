@@ -18,8 +18,6 @@ hidden: false
 
 {% include excerpt.html %}
 
-&nbsp;
-
 What the heck is happening in the Tulsa real estate market? As a real estate team that’s been in the business for going on 22 years now, we’ve always kept an eye on the ups and downs of the market and reported our findings back to you. Today we’ll share the most recent statistics from April that we pulled from our MLS to help you better understand our ever-evolving market.&nbsp;
 
 **Feel free to follow along in the video above or use the timestamps below to navigate the discussion at your leisure:**
