@@ -16,22 +16,19 @@ client:
   about_markdown: >-
     The Carter Group Chicago consists of a team of experienced sales, marketing
     & transactional specialists that assist our clients through one of the
-    biggest transitions in their lives, the purchase or sale of their home.
-
-    <br>
-
-    <br>The Carter Group Chicago is in the Top 1% of all the real estate agents
-    in Chicago Association of Realtors.
+    biggest transitions in their lives, the purchase or sale of their
+    home.<br><br>The Carter Group Chicago is in the Top 1% of all the real
+    estate agents in Chicago Association of Realtors.
   market: Chicago
   brand: Carter Group Chicago
   brokerage: Keller Williams Realty ONE Chicago
-  address: '2211 N Elston Ave Chicago, IL 60614'
-  phone: 773-825-9625
+  address: 2211 N Elston Ave Chicago, IL 60614
+  phone: 773-290-5200
   phone_type:
   phone2:
   phone2_type:
   email: Info@Cartergroupchicago.com
-  url: 'http://www.CarterGroupChicago.com'
+  url: http://www.CarterGroupChicago.com
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808367';</script><script
@@ -40,29 +37,29 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: '/homesearch/'
+  second_CTA_URL: /homesearch/
   phone_CTA: true
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: '/homesearch/'
+  CTA_url: /homesearch/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/CarterGroupChicago/
-  linkedin_url: 'https://www.linkedin.com/in/ashleycarter'
+  linkedin_url: https://www.linkedin.com/in/ashleycarter
   gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UCoFh8il4cmi7VFzqfddebfw'
-  twitter_url: 'https://twitter.com/ashleypcarter'
+  youtube_url: https://www.youtube.com/channel/UCoFh8il4cmi7VFzqfddebfw
+  twitter_url: https://twitter.com/ashleypcarter
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -89,7 +86,7 @@ podcast:
     finder, property search, property, real estate market, estate agent,
     realestate, real estate listings, buying a house, homes for sale, mls, home
     buyer
-  author: 'Ashley Carter'
+  author: Ashley Carter
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
