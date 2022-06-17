@@ -35,7 +35,7 @@ However, I'm going to give you a “but”. This is not Jeremy Larkin today tell
 
 I want to say to you, home prices \*could\* fall dramatically. I didn't say they will. I need everyone to just accept it could happen. It's hard for people to accept this.
 
-&nbsp;Now, I don't anticipate a foreclosure market because people aren't underwater. If you’d like to see my analysis on why a foreclosure wave is unlikely, watch it[HERE](https://www.youtube.com/watch?v=R-fDSOr8H5k).
+&nbsp;Now, I don't anticipate a foreclosure market because people aren't underwater. If you’d like to see my analysis on why a foreclosure wave is unlikely, watch it&nbsp;[HERE](https://www.youtube.com/watch?v=R-fDSOr8H5k){: target="_blank" rel="noopener"}.
 
 Today I want you to understand that this round of price reductions that everyone's hearing about, this is the cream off the top. The first important step in the market stabilizing back to a level of sustainability.
 
@@ -59,4 +59,4 @@ That's my fairly educated, I'm not a professional economist, assessment of this.
 
 &nbsp;I don't know what's going to happen next, but I'll leave you with this. People want to live here. They want to live in Utah. They certainly want to live in Deer Valley and Park City. They want to live in St. George, where my home is. People will continue to buy and sell real estate, but this is WEIRD time\!
 
-&nbsp;If you’ve got questions, message us directly or visit us at[www.GoStGeorge.com](http://www.gostgeorge.com/){: target="_blank" rel="noopener"} and let’s chat\!
+&nbsp;If you’ve got questions, message us directly or visit us at&nbsp;[www.GoStGeorge.com](http://www.gostgeorge.com/){: target="_blank" rel="noopener"} and let’s chat\!
