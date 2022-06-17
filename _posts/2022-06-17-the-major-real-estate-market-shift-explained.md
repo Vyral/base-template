@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Major Real Estate Market Shift Explained!
-date: 2022-06-17 14:03:10
+date: 2022-06-17 11:03:00
 tags:
   - Market Update
 excerpt: 'The Perfect Storm: What just happened to the real estate market?'
@@ -29,7 +29,7 @@ So what sellers were doing is one seller would get 400k in the neighborhood, the
 
 Well, we got to that last rung on the ladder and the last sellers that were like, oh, we'll try an extra 50 grand. This first round of reductions is that. We're just taking a knife and we're just whack, the cream's coming right off the top.
 
-&nbsp;We're not yet at... I said yet, at falling prices, like falling home value. The last six times that interest rates went up dramatically, more than 1%, all the data, we've been sharing it for three months, showed that home prices actually stayed steady or went up.
+&nbsp;We're not yet at… I said yet, at falling prices, like falling home value. The last six times that interest rates went up dramatically, more than 1%, all the data, we've been sharing it for three months, showed that home prices actually stayed steady or went up.
 
 However, I'm going to give you a “but”. This is not Jeremy Larkin today telling you that the market's crashing.
 
