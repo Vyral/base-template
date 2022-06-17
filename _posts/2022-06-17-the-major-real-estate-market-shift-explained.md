@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Major Real Estate Market Shift Explained!
+title: The Biggest Real Estate Market Shift in Over a Decade Explained!
 date: 2022-06-17 11:03:00
 tags:
   - Market Update
@@ -19,7 +19,7 @@ youtube_code: 5FO-wDxlVtc
 
 What do all these real estate price reductions mean? Guys, Jeremy Larkin here. Hold onto your hat for this conversation about price reductions and for this incredible view.
 
-&nbsp;Guys, there are a whole bunch of price reductions going on. And if you think you're seeing it as a consumer, if you were an agent, you'd see what we see all day long and it's like this:
+Guys, there are a whole bunch of price reductions going on. And if you think you're seeing it as a consumer, if you were an agent, you'd see what we see all day long and it's like this:
 
 &nbsp;“Price reduced 50K, price reduced 90K, price reduced 100K. Seller motivated. Seller says get it sold. Seller will look at all offers.”
 
@@ -29,13 +29,13 @@ So what sellers were doing is one seller would get 400k in the neighborhood, the
 
 Well, we got to that last rung on the ladder and the last sellers that were like, oh, we'll try an extra 50 grand. This first round of reductions is that. We're just taking a knife and we're just whack, the cream's coming right off the top.
 
-&nbsp;We're not yet at… I said yet, at falling prices, like falling home value. The last six times that interest rates went up dramatically, more than 1%, all the data, we've been sharing it for three months, showed that home prices actually stayed steady or went up.
+We're not yet at… I said yet, at falling prices, like falling home value. The last six times that interest rates went up dramatically, more than 1%, all the data, we've been sharing it for three months, showed that home prices actually stayed steady or went up.
 
-However, I'm going to give you a “but”. This is not Jeremy Larkin today telling you that the market's crashing.
+I want to say to you that home prices \*could\* fall dramatically. I didn’t say they will. I need everyone to just accept it could happen. It’s hard for people to accept this. But accepting that reality doesn't make it so.&nbsp;
 
-I want to say to you, home prices \*could\* fall dramatically. I didn't say they will. I need everyone to just accept it could happen. It's hard for people to accept this.
+However, I'm going to give you a “but.” I’m not telling you that the market’s crashing.
 
-&nbsp;Now, I don't anticipate a foreclosure market because people aren't underwater. If you’d like to see my analysis on why a foreclosure wave is unlikely, watch it&nbsp;[HERE](https://www.youtube.com/watch?v=R-fDSOr8H5k){: target="_blank" rel="noopener"}.
+Now, I don't anticipate a foreclosure market because people aren't underwater. If you’d like to see my analysis on why a foreclosure wave is unlikely, watch it&nbsp;[HERE](https://www.youtube.com/watch?v=R-fDSOr8H5k){: target="_blank" rel="noopener"}.
 
 Today I want you to understand that this round of price reductions that everyone's hearing about, this is the cream off the top. The first important step in the market stabilizing back to a level of sustainability.
 
@@ -57,6 +57,6 @@ That's my fairly educated, I'm not a professional economist, assessment of this.
 
 &nbsp;50 years ago, 30 years ago, people didn't get on social media and talk about all their emotions.
 
-&nbsp;I don't know what's going to happen next, but I'll leave you with this. People want to live here. They want to live in Utah. They certainly want to live in Deer Valley and Park City. They want to live in St. George, where my home is. People will continue to buy and sell real estate, but this is WEIRD time\!
+I don't know what's going to happen next, but I'll leave you with this. People want to live here. They want to live in Utah. They certainly want to live in Deer Valley and Park City. They want to live in St. George, where my home is. People will continue to buy and sell real estate, but this is WEIRD time\!
 
-&nbsp;If you’ve got questions, message us directly or visit us at&nbsp;[www.GoStGeorge.com](http://www.gostgeorge.com/){: target="_blank" rel="noopener"} and let’s chat\!
+If you’ve got questions, message us directly or visit us at&nbsp;[www.GoStGeorge.com](http://www.gostgeorge.com/){: target="_blank" rel="noopener"} and let’s chat\!
