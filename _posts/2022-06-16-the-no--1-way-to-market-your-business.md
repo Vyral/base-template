@@ -18,7 +18,7 @@ youtube_code: tk3Ou4hyOzs
 
 {% include excerpt.html %}
 
-What’s the No. 1 way to effectively market and communicate with your real estate database? The best lead source we have to build our real estate businesses is our database. We have something called the “Database Lever.” **It’s a 12-page plan I&nbsp;designed that articulates exactly how to go about building and communicating with your database.** Today I'm sharing a few tips from it.
+What’s the No. 1 way to effectively market and communicate with your real estate database? The best lead source we have to build our real estate businesses is our database. We have something called the “Database Lever.” **It’s a 12-page plan I designed that articulates exactly how to go about building and communicating with your database.** Today I'm sharing a few tips from it.
 
 {% include pullquote.html %}
 
@@ -26,4 +26,4 @@ First, write down all the people you know, like, and trust. Our database creatio
 
 I want to enrich the lives of all the people we interact with through their homeownership experience. I never ask them to do anything in return. If they do reciprocate, it’s because I’ve given them enough value that they felt they wanted to share with me and be a blessing to me too.
 
-If you have any questions about this or want a glimpse into the “Database Lever," private message me, and I’ll share some of the lead-in dialogues that allow us to come from a place of contribution and help you build a database-focused business. I look forward to hearing from you.
+If you have any questions about this or want a glimpse into the “Database Lever,” private message me, or reach out at&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com){: target="_blank"}&nbsp;or (717) 216-0860. I look forward to hearing from you.
