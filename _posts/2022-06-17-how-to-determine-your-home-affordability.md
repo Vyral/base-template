@@ -18,7 +18,7 @@ youtube_code: soOuNIWuNT0
 
 {% include excerpt.html %}
 
-To answer the question of how much of a home you can afford, we need to take into account a few primary items. Your household income, monthly debts, and the amount of savings you have for a down payment are three of the biggest.&nbsp;
+To answer the question of how much home you can afford, we need to take into account a few primary items. Your household income, monthly debts, and the amount of savings you have for a down payment are three of the biggest.&nbsp;
 
 **As a homebuyer, you want to have a certain level of comfort with your monthly mortgage payment.** While your household income and monthly debts may be relatively stable, unexpected expenses and unplanned spending can impact your savings. A good rule of thumb is to have three months’ worth of payments in savings to allow you to cover your mortgage in the case of an emergency.&nbsp;
 
