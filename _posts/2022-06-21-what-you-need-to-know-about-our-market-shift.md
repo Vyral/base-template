@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need To Know About Our Market Shift
-date: 2022-06-21 15:02:50
+date: 2022-06-21 12:02:00
 tags:
   - Market Update
 excerpt: Here’s what buyers and sellers need to know about our shifting market.
