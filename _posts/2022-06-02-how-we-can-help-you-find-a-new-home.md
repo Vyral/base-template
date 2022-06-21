@@ -5,7 +5,8 @@ date: 2022-06-02 20:39:34
 tags:
   - Home Buyer Tips
 excerpt: Three ways to ensure you find a new home in this low inventory market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/2022/How+We+Can+Help+You+Find+a+New+Home.mp4
 pullquote: Our goal is to make the buying and selling process stress-free.
 enclosure_type: video/mp4
 enclosure_time:
