@@ -5,7 +5,8 @@ date: 2022-04-26 15:21:12
 tags:
   - Home Seller Tips
 excerpt: Here is what you need to know about selling your home before you buy.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2022/Do+You+Need+To+Sell+Before+You+Buy_.mp4
 pullquote: Everyone’s situation is different.
 enclosure_type: video/mp4
 enclosure_time:
@@ -25,7 +26,7 @@ Today we wanted to answer a question that we get all the time in this market: �
 
 **If you need to sell your home to buy your next one, you’ll likely need to use a home sale contingency.** In today’s market, that’s difficult, especially if there are multiple offers on the new home. It's one more thing that could prevent you from closing, and that can be an issue. If you have to do a contingency, consult with your agent and discuss some strategies to deal with it.
 
-If you buy your new home first, your old house will be vacant. That means it will be easier to stage and show. You’re all moved out, so showings will be much less of an inconvenience for your family.&nbsp;
+If you buy your new home first, your old house will be vacant. That means it will be easier to stage and show. You’re all moved out, so showings will be much less of an inconvenience for your family.
 
 **In today’s market, we’re seeing very competitive offers.** People are eliminating their due diligence deadline, cutting their financing appraisal, and offering non-refundable earnest money. In this market, more than ever, it’s important to consult with your Colemere Realty Associate. We discuss these topics and various strategies weekly to help you and your specific situation. However, everyone’s situation is different, so talk with your agent about what works best for you.
 
