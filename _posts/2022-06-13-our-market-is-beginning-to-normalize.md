@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/celeste-zarling-yt-1-4.jpg
-youtube_code: Dmdftyj2RDM
+youtube_code: X0Wg1jVp9OU
 ---
 {% include youtube.html %}
 
