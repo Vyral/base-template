@@ -31,6 +31,6 @@ So what does this mean for buyers? If you’ve been sitting out of the market wa
 
 It’s still a good time to buy, but we need to talk about your strategy. **If you plan on staying in your new home for a while, it is still a fantastic time to buy.** Homes might not appreciate by 10% or 15% per year going forward, but prices will likely still increase. If you buy now, you can begin building equity and increasing your net worth.&nbsp;
 
-If you’re a seller, you need to understand that the game has changed. Just because your home hasn’t sold in three days doesn’t mean there’s something wrong with it. Houses may sit on the market longer than we’re used to, but **you can still get a great deal on your property.** If you want to sell, I recommend you move sooner rather than later, so reach out to me to learn more about your next steps.&nbsp;
+As a seller, you need to understand that the game has changed. Just because your home hasn’t sold in three days doesn’t mean there’s something wrong with it. Houses may sit on the market longer than we’re used to, but **you can still get a great deal on your property.** If you want to sell, I recommend you move sooner rather than later, so reach out to me to learn more about your next steps.&nbsp;
 
 This is a tumultuous time in our housing market. Now more than ever, you need an experienced expert to guide you. Please give me a call or send me an email if you have any questions. I look forward to hearing from you\!&nbsp;
