@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which inspections are necessary?
-date: 2022-06-22 15:08:14
+date: 2022-06-22 13:08:00
 tags:
   - Home Buyer Tips
 excerpt: Inspections are a powerful tool meant to help protect buyers.
