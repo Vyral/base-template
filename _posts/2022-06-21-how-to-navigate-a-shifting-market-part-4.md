@@ -33,4 +33,4 @@ Are you prepared for our shifting market? Interest rates are rising, and the mar
 
 7:11 — Wrapping up today’s topic
 
-If you have questions about shift tactic four or anything else, please call or email me. I look forward to hearing from you\!
+If you have questions about Shift tactic four or anything else, please call or email me. I look forward to hearing from you\!
