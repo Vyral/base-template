@@ -4,7 +4,7 @@ title: 'Why Do My Clients Love Working With Me? '
 date: 2022-06-21 19:19:39
 tags:
   - Real Estate
-excerpt: ' How I helped recent clients find a fantastic deal on a new home.'
+excerpt: How I helped recent clients find a fantastic deal on a new home.
 enclosure:
 pullquote: I love helping my clients win.
 enclosure_type: video/mp4
