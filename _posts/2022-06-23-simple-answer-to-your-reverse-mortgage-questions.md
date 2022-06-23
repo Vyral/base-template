@@ -29,8 +29,4 @@ Speaking of fees, many people don’t want to consider a reverse mortgage becaus
 
 Older couples often use reverse mortgages, but **what happens if one partner passes?** The surviving spouse has the option to pay the mortgage or continue it. If both partners pass, the surviving heirs have 12 months to either refinance the loan in their name or sell the property and keep the equity difference. They can also send the bank a check for what is owed and keep the property without the mortgage. No matter what, the bank or government won’t be in control of what happens to the property.&nbsp;
 
-There’s a lot we didn’t cover about reverse mortgages. If you’d like to learn more, just give me a call at (619) 948-2996 or email me; I’d love to put you in touch with Tim\!
-
-<center><em>EXCERPT.</em></center>
-
-<br>ARTICLE
+There’s a lot we didn’t cover about reverse mortgages. If you’d like to learn more, just give me a call at (619) 948-2996 or email me; I’d love to put you in touch with Tim\!​
