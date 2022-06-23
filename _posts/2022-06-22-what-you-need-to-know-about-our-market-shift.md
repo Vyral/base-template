@@ -16,13 +16,13 @@ youtube_code: oQMFYlxU7r4
 
 {% include excerpt.html %}
 
-What’s happening with our market shift? You may have heard us talk about this topic recently, but new trends have changed market dynamics once again. If you want to make informed real estate decisions, you need to understand what’s happening, so let’s get into it.&nbsp;
+What’s happening with our market shift? You may have heard us talk about this topic recently, but new trends have, once again, changed market dynamics.&nbsp;
 
 When interest rates first increased, there was an initial market shock. Because of this, sellers might need to shift their expectations. Showing activity has changed quite a bit. For example, it used to be typical for a home to see 30 showings on its first weekend—now, the average is closer to 10 or 12.
 
 {% include pullquote.html %}
 
-If you’re a seller, don’t get discouraged by these numbers. In any other context, 10 or 12 showings on the first weekend would be fantastic. **Our market remains strong.** For the last two years, things were so crazy that homes were selling year-round. However, we might see a more traditional selling season, where activity ebbs and flows with the time of year.&nbsp;
+If you’re a seller, don’t get discouraged by these numbers. In any other context, 10 or 12 showings on the first weekend would be fantastic. **Our market remains strong.** For the last two years, things were so crazy that homes were selling like crazy year-round. However, we might see a more traditional selling season, where activity ebbs and flows with the time of year.&nbsp;
 
 One of the biggest changes in our market is that inventory is increasing. Homes are staying on the market longer, so the available inventory is piling up. This doesn’t mean our market is going to crash. Instead, **we’re just returning to a more normal market,** which isn’t a bad thing.
 
