@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   Many folks, which would include most Realtors, are asking "what the #$&! just
   happened to the real estate market?" Price reductions left and right, mortgage
-  rages doubling almost overnight, record inflation, oh my!   "The Shift" was
+  rates doubling almost overnight, record inflation, oh my!   "The Shift" was
   swift and caught people off guard. In today's video Scott Himelstein breaks
   down the "perfect storm" that led to this real estate shift and offers a
   helpful perspective on what we might expect next! 
