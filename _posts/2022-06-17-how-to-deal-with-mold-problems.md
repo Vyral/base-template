@@ -24,7 +24,7 @@ If you live in southern Indiana or Kentucky, you know that we have a lot of issu
 
 Join me, Greg Sokoler, and Brad Lawler from Home Team Inspection Service as we discuss the best ways to tackle house mold.
 
-**Follow along in the video above or else use the timestamps below to navigate the conversation at your leisure:**
+**Follow along in the video above or use the timestamps below to navigate the conversation at your leisure:**
 
 0:00 —&nbsp; Introduction
 
