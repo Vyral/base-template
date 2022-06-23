@@ -21,11 +21,11 @@ Have we ever talked about how much we love real estate? You know what they say: 
 
 John’s grandmother had a really nice neighbor that would check in on her from time to time, and he recently reached out after following the success of our team. He shared a picture he found when he was cleaning out his basement. To John’s surprise, it was a photo of his grandfather, **Al Schuster, who sold real estate for Calhoun Realty in the 1960s and 1970s.&nbsp;**
 
-He was one of the nicest people you’ll ever meet, and the real estate gene was passed down. **John’s dad, Ted, was in commercial real estate** when he was growing up and worked on many different projects like Calhoun Square and brokerages like Northmark.&nbsp;
+He was one of the nicest people you’ll ever meet, and the real estate gene was passed down. **John’s dad, Tedd, was in commercial real estate** when he was growing up and worked on many different projects like Calhoun Square and brokerages like Northmark.&nbsp;
 
 {% include pullquote.html %}
 
-Ted encouraged John to give real estate a try too after he graduated from UM in 2003. Luckily for us, he did\!
+Tedd encouraged John to give real estate a try too after he graduated from UM in 2003. Luckily for us, he did\!
 
 The real estate career continues on John's mother’s side. His uncle Jay was an agent with Century 21 and became an appraiser. His great-grandpa Burt’s brother, Earl, also built the Art Deco Hunts Blakely building in L.A. in the 1930s.
 
