@@ -21,4 +21,4 @@ What is the inspection period (also called due diligence)? This period is the ti
 
 When you hire an inspector, they will make sure everything is in working order. You should also get a termite and moisture inspection. If the home you're purchasing has a pool, consider a pool inspection. If the home was built before 1979, have a lead-based paint inspection. If the home is not on a public water system, get a septic inspection. **All these inspections will help protect you from making a purchase that you’d regret and ensure that you're happy with the home.**
 
-If you have any questions, visit[ronshometeam.com](https://ronshometeam.com/){: target="_blank" rel="noopener"}&nbsp;and don’t hesitate to reach out to us by phone or email. We look forward to helping you with your real estate needs.
+If you have any questions, visit&nbsp;[ronshometeam.com](https://ronshometeam.com/){: target="_blank" rel="noopener"}&nbsp;and don’t hesitate to reach out to us by phone or email. We look forward to helping you with your real estate needs.
