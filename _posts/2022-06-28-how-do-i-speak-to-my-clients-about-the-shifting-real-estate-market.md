@@ -4,7 +4,7 @@ title: How do I speak to my clients about the shifting real estate market?
 date: 2022-06-28 18:41:15
 tags:
   - Expert Real Estate Advice
-excerpt: ' Many Realtors are asking, "How do I talk to my clients about the dramatically shifting market? Larkin Group CEO Jeremy Larkin survived, then THRIVED the last market meltdown.'
+excerpt: ' Many Realtors are asking, "How do I talk to my clients about the dramatically shifting market?'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
