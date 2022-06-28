@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Everything You Need to Know About Foreclosures '
-date: 2021-08-17 00:10:00
+date: 2022-06-27 00:10:00
 tags:
   - Real Estate
 excerpt: Here’s my explanation of why you don’t need to worry about mass foreclosure.
