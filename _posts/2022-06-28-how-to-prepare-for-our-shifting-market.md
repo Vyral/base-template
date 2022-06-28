@@ -28,6 +28,6 @@ Did you know that summer is one of the best times to buy a home? A lot of the bu
 
 We believe our market is starting to balance. A balanced market has around a six-month supply of homes. At the beginning of this year, we only had a one-month supply of homes, but the number of available properties is growing. **This should temper the double-digit price increases and set the stage for a more normal market.&nbsp;**
 
-However, every situation is unique, and real estate markets are very localized. You should consult a trusted agent when you’re ready to make a move to learn more about your situation. If you’d like to know what your home might sell for, click [this link](https://www.johnschustergroup.com/homevalue){: target="_blank" rel="noopener"}. If you want to see all the available homes for sale in Minnesota, you can start your search at [this link](https://www.johnschustergroup.com/search#?q_limit=36&amp;q_prioritize=agents.0.id=502019815&amp;mlsId=117&amp;price=50000:&amp;status=1|3&amp;q_sort=featured&amp;q_offset=0){: target="_blank" rel="noopener"}.
+However, every situation is unique, and real estate markets are very localized. You should consult a trusted agent when you’re ready to make a move to learn more about your situation.
 
 If you have any questions, call or text us anytime at (952) 222-9000. We’d love to help.<br>&nbsp;
