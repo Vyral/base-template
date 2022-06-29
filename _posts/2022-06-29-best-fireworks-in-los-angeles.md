@@ -7,11 +7,11 @@ tags:
   - Home Seller Tips
   - Market Update
   - Real Estate
-excerpt:
-enclosure: >-
+excerpt: >-
   This is Scott Himelstein with the Scott Himelstein Group. All right, so where
   can you find some of the best fireworks to watch on the 4th of July this year,
   here in 2022?
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,4 +27,4 @@ Well, it's hard to believe, only two years ago during the pandemic, we didn't ha
 
 It's also great to see all the other fireworks shows around LA County returning. You're going to have to have Dodger Stadium. You are going to have the Hollywood Bowl. You're going to have the Rose Bowl. You're going to have fireworks in Calabasas. You're going to have a fireworks show in Woodland Hills. So there's a lot of different places to choose from. We're going to include a link as well.
 
-So make sure you take a look at that to find the best firework show closest to you. We hope everybody has a happy and safe 4th of July\!&nbsp;
+So make sure you take a look at that to find the best firework show closest to you. We hope everybody has a happy and safe 4th of July\!
