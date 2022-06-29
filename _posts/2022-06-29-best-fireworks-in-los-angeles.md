@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
   - Market Update
   - Real Estate
-excerpt: Where can you find the best fireworks in Los Angeles
+excerpt: Where can you find the best fireworks in Los Angeles?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
