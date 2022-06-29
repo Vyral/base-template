@@ -28,4 +28,4 @@ It's also great to see all the other fireworks shows around LA County returning.
 
 So make sure you take a look at that to find the best firework show closest to you. We hope everybody has a happy and safe 4th of July\!&nbsp;
 
-[https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles](https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles)
+July 4th Fireworks 2022 In Greater Los Angeles:&nbsp;[https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles](https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles)
