@@ -27,4 +27,6 @@ Well, it's hard to believe, only two years ago during the pandemic, we didn't ha
 
 It's also great to see all the other fireworks shows around LA County returning. You're going to have to have Dodger Stadium. You are going to have the Hollywood Bowl. You're going to have the Rose Bowl. You're going to have fireworks in Calabasas. You're going to have a fireworks show in Woodland Hills. So there's a lot of different places to choose from. We're going to include a link as well.
 
-So make sure you take a look at that to find the best firework show closest to you. We hope everybody has a happy and safe 4th of July\!
+[https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles](https://patch.com/california/los-angeles/july-4th-fireworks-2022-greater-los-angeles){: target="_blank" rel="noopener"}
+
+So make sure you take a look at that to find the best firework show closest to you. We hope everybody has a happy and safe 4th of July\!&nbsp;
