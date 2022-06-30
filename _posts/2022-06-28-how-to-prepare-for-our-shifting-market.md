@@ -18,9 +18,9 @@ youtube_code: V-QyyqACPcE
 
 {% include excerpt.html %}
 
-Summer has officially started, and we need to enjoy it before the snow starts falling. Before that happens, let’s go over our summer market update.
+Summer has officially started, and we need to enjoy it before the snow starts falling again. Before that happens, let’s go over our summer market update.
 
-Did you know that summer is one of the best times to buy a home? A lot of the buyer competition starts to subside as the spring market ends. In other news, our market has started to shift, and if you’re buying or selling in the coming months, you need to be prepared.
+Did you know that summer is one of the best times to buy a home? A lot of the buyer competition starts to subside as the spring market ends. Lately, our market has started to shift, and if you’re buying or selling in the coming months, you need to be prepared.
 
 {% include pullquote.html %}
 
