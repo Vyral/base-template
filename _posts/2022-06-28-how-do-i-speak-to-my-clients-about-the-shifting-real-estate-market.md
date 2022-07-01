@@ -23,4 +23,6 @@ Larkin Group CEO Jeremy Larkin survived, then THRIVED the last market meltdown. 
 
 Here are 4 practical tips to having powerful, trust-building conversations with your home buyers and sellers about this new market reality\!
 
-For more tips and discussion on building your real estate team and business hop over to ["The Complete Agent" mastermind page\!](https://www.facebook.com/groups/677960353328544){: target="_blank" rel="noopener"}
+For more tips and discussion on building your real estate team and business hop over to ["The Complete Agent" mastermind page\!&nbsp;](https://www.facebook.com/groups/677960353328544){: target="_blank" rel="noopener"}
+
+To visit with Jeremy directly (and privately\!) about launching, growing, or reinventing your real estate business, come see us at&nbsp;[https://www.joinlarkingroup.com/&nbsp;](https://bixel1.net/v1/t/c/d3a8eece-d588-4244-a250-93406c00cf12/gm%3A3ebb246c-d53e-4487-b215-372526f1fd96/Multiple%20Recipients/?https%3A%2F%2Fwww.joinlarkingroup.com%2F=){: target="_blank"}
