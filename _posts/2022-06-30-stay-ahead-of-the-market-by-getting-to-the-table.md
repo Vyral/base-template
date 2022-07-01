@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/6-30-22-josh-stern-rec-yt.jpg
-youtube_code: v=lELkAi6xinY
+youtube_code: lELkAi6xinY
 ---
 {% include youtube.html %}
 
