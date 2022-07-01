@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our List of Affordable Places in Charleston
-date: 2022-07-01 14:01:23
+date: 2022-07-01 11:01:00
 tags:
   - Real Estate
 excerpt: Here’s a list of the top three most affordable places in Charleston.
