@@ -21,7 +21,7 @@ youtube_code: uneTxW6qIx0
 
 Most people assume that Charleston, South Carolina, is one of the most expensive cities in the state. If you plan on living here, I have good news. There are some very affordable areas in Charleston you can move to:
 
-**1\. North Charleston.** In terms of employment, North Charleston offers an easy commute to the other areas in the city. It’s also an ideal location if you work from home. From visiting the Park Circle to going to restaurants, it’s a walkable community where you can enjoy fun activities with family and friends.&nbsp;
+**1\. North Charleston.** In terms of employment, North Charleston offers an easy commute to the other areas in the city. If you plan on living here, I have good news: There are some very affordable areas in Charleston.&nbsp;
 
 **2\. Summerville.** Summerville has an average sale price of $383,000 for a single-family detached home. Many families who live here consider it to be a friendly neighborhood. People also choose to retire in Summerville because of its affordability.
 
