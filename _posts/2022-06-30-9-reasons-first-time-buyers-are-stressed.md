@@ -28,7 +28,7 @@ Buyers are fairly stressed these days, especially first-time buyers. Even when w
 
 **3\. Waiting for home prices to drop**. Don’t do this\! That will be extremely stressful because it’s not going to happen for a long time, and meanwhile, your rent will continue to increase.
 
-**4\. Inability to decide on your preferred locale.** I see this one in first-time homebuyers all the time. When we have a buyer consultation, we discuss lifestyle and considerations for the new home’s location. We can often provide suggestions for locations that you may not have even thought about, giving you more options. However, some buyers can go too far and feel they need to look at every house that hits the market in any direction.
+**4\. Inability to decide on your preferred locale.** I see this one in first-time homebuyers all the time. When we have a buyer consultation, we discuss lifestyle and considerations for the new home’s location. We can often provide suggestions for locations that you may not have even thought to give you more options. However, some buyers can go too far and feel they need to look at every house that hits the market in any direction.
 
 {% include pullquote.html %}
 
