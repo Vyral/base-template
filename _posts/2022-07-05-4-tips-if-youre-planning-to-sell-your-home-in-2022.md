@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips If You’re Planning To Sell Your Home in 2022
-date: 2022-03-21 20:14:48
+date: 2022-07-05 20:14:00
 tags:
   - Home Seller Tips
 excerpt: Four tips to keep in mind if you’re planning to sell your house this year.
