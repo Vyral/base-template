@@ -12,7 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-![](/uploads/july-2022---mvp---blog-post-image.jpg){: width="1200" height="628"}<br><br>No matter what’s going on in the housing market, the process of selling a home can be challenging. Some sellers have a hard time saying goodbye to a treasured family residence. Others want to skip ahead to the fun of decorating and settling into a new place. Almost all sellers want to make the most money possible.&nbsp;
+![](/uploads/rick-4.jpg){: width="997" height="381"}<br><br>No matter what’s going on in the housing market, the process of selling a home can be challenging. Some sellers have a hard time saying goodbye to a treasured family residence. Others want to skip ahead to the fun of decorating and settling into a new place. Almost all sellers want to make the most money possible.&nbsp;
 
 Whatever your circumstances, the road to the closing table can be riddled with obstacles — from issues with showings and negotiations to inspection surprises. But many of these complications are avoidable when you have a skilled and knowledgeable real estate agent by your side.
 
