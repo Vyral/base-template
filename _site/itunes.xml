@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>St. George Real Estate Podcast with Jeremy Larkin</title>
-    <link>http://www.stgeorgerealestatevideos.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.stgeorgerealestatevideos.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>A Podcast about St. George Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Jeremy Larkin</managingEditor>
-    <lastBuildDate>2018-01-31 16:20:10 -0600</lastBuildDate>
+    <lastBuildDate>2022-07-07 12:09:15 -0500</lastBuildDate>
     <media:copyright>Jeremy Larkin</media:copyright>
-    <media:thumbnail url="http://www.stgeorgerealestatevideos.com/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,12 +18,270 @@
     </itunes:owner>
     <itunes:author>Jeremy Larkin</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.stgeorgerealestatevideos.com/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent -- CLIENT NAME --</itunes:subtitle>
     <itunes:summary>A Podcast about St. George Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How do I speak to my clients about the shifting real estate market?</title>
+        <link>http://localhost:4000/how-do-i-speak-to-my-clients-about-the-shifting-real-estate-market.html</link>
+        
+          <category>Expert Real Estate Advice</category>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2022-06-28 13:41:15 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+ Many Realtors are asking, "How do I talk to my clients about the dramatically shifting market?
+
+Everyone in Real Estate, Title, Mortgage and new home construction knows that the real estate market just took a major left turn! Many Realtors are asking, “How do I talk to my clients about the dramatically shifting market?
+
+Larkin Group CEO Jeremy Larkin survived, then THRIVED the last market meltdown. And we’re not saying this market is gonna melt down! But we’ve got to communicate with “kid gloves”!
+
+Here are 4 practical tips to having powerful, trust-building conversations with your home buyers and sellers about this new market reality!
+
+For more tips and discussion on building your real estate team and business hop over to “The Complete Agent” mastermind page! 
+
+To visit with Jeremy directly (and privately!) about launching, growing, or reinventing your real estate business, come see us at https://www.joinlarkingroup.com/ 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> Many Realtors are asking, "How do I talk to my clients about the dramatically shifting market?</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary> Many Realtors are asking, "How do I talk to my clients about the dramatically shifting market?</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Ways To Overcome Youth In Real Estate</title>
+        <link>http://localhost:4000/6-ways-to-overcome-youth-in-real-estate.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2021-10-29 14:47:48 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Overcoming+Youth+and+Inexperience+in+your+Real+Estate+career.mp4</guid>
+        <description>
+
+Here’s how a young agent can overcome youth and inexperience.
+
+Recently, I met with a brand new real estate agent the other day who was only 18 years old! It’s great to see young people strive for success, but if you’re a young agent, you have some things you have to overcome. Today I want to talk about the best ways to overcome youth and inexperience in real estate. 
+
+First, you’ll have to deal with the perception that you don’t know what you’re doing. Sure, you may have studied hard and learned all the tricks, but the perception is the reality in a lot of clients’ minds. Next, you don’t have experience with professionalism. If you come across as authoritative, people will believe you. I have some tips to help you build a professional reputation, so let’s go over them right now:
+
+1. On time is late. I recommend showing up at least 10 minutes early to every meeting and appointment. Someone with a great track record might be able to get away with showing up a minute or two late, but as a new agent, you don’t have that luxury. 
+
+2. Follow through on your promises. If you tell a client you’ll do something for them by a certain date or time, make sure you do it. Don’t overpromise, and follow through on your word. 
+
+“As a young agent, you have to look professional, or no one will take you seriously.”
+
+3. Text like an adult. It’s fine to respond with the infamous “k” to your friends, but not with clients or coworkers. Try to have a more conversational tone with your texts. They should be less formal than an email, but you still probably need to use complete sentences. 
+
+4. Answer your phone! Yes, that tiny computer in your pocket can make phone calls. Real estate is a talking business; communicating with your voice brings something to the table that texting or email does not. Make sure you are always available for a call. 
+
+5. Dress for success. As you can see in the video, I am wearing a sports polo today, also known as yoga pants for men. It’s a great choice because I can dress it up with a suit jacket or dress it down with flip flops. As a young agent, you have to look professional, or no one will take you seriously. 
+
+6. Read and respond to emails like an adult. Online, communication is getting shorter and shorter, but you still need to take time to craft your emails. A lot of important information is sent through email, and if you’re using informal language or excluding important information, it could bite you later. 
+
+You can overcome youth and inexperience in the real estate industry, you just have to know how. If you have any questions about today’s topic, please give my team a call or shoot us an email. We are always willing to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Overcoming+Youth+and+Inexperience+in+your+Real+Estate+career.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Overcoming+Youth+and+Inexperience+in+your+Real+Estate+career.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how a young agent can overcome youth and inexperience.</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary>Here’s how a young agent can overcome youth and inexperience.</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How I Built a Thriving Real Estate Business by Reading</title>
+        <link>http://localhost:4000/how-i-built-a-thriving-real-estate-business-by-reading.html</link>
+        
+          <category>Business Tips</category>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2021-10-25 12:09:44 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Top+10+Books+The+Built+Our+Real+Estate+Business.mp4</guid>
+        <description>
+
+Read these 10 books to jumpstart your real estate career.
+
+Last year, we did about $65 million in real estate sales, and we’re on track for $100 million in 2021. I didn’t wake up as the man I am today. I was fortunate enough to consume tons of content. 
+
+They say that you are what you eat. The same thing applies to what you read. Today I’m taking you on a journey through the 10 books that made my real estate career and business. They fall in the personal development realm, but they’ve all made an impact on my life and career:
+
+1. “The Big Leap” by Gay Hendricks. This book is about the limiting beliefs we have and how we limit ourselves. We have a thermostat at which we’re comfy, and if we go past it we push ourselves back. 
+
+2. “You Are a Badass at Making Money” by Jen Sincero. This is all about the excuses we use that stop us from having enough money.
+
+3. “The Power of Habit”by Charles Duhigg. This is incredible. This talks about the actual science and power behind habit and how it makes or breaks us.
+
+4. “Linchpin: Are You Indispensable?” by Seth Godin. This is probably the first one that seriously impacted me. This is about being the best you can possibly be at your job and being the very best at what you’re doing.
+
+5. “Crucial conversations: Tools for Talking When Stakes Are High” by Kerry Patterson. This is about the fact that most of what we want in our career and life is stuck behind some tough conversations with ourselves, our families, and our teams.
+
+6. “Raving Fans” by Ken Blanchard. This absolute classic is about how raving fans are the key to getting the most referral-based business.
+
+7. “The Road Less Stupid” by Keith J. Cunningham. This is made up of 40 bite-sized chapters and is phenomenal to listen to. It will prevent you from many self-sabotages as you build a business.
+
+8. “The 4 Disciplines of Execution’’ by Chris McChesney and Sean Covey. This walks us through a simple four-step process to create success in your life.
+
+9. “The Millionaire Real Estate Agent” by Gary Keller, Dave Jenks, and Jay Papasan. As you’ll see, I actually bound my copy so I could take better notes. I use it all the time and the key to building a real estate business no matter what brokerage you’re working for. Most of the top producers in the industry use this as their model. It walks you through all the necessary steps to building a real estate company that endures.
+
+10. “Shift” by Gary Keller, Dave Jenks, and Jay Papasan. They wrote this book because of a crashing bubble, but it’s absolutely as valid in today’s market as it was in 2009. I have two copies of this book, and the first two real estate professionals that reach out to me, I’ll send you a copy. I highly recommend it.
+
+These are the 10 books that built our real estate company and saved me from mediocrity. If you have any questions for me, head on over to stegeorgerealestatecareers.com, and I’ll answer them for you.
+
+I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Top+10+Books+The+Built+Our+Real+Estate+Business.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Top+10+Books+The+Built+Our+Real+Estate+Business.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Read these 10 books to jumpstart your real estate career.</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary>Read these 10 books to jumpstart your real estate career.</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Drifting or Driven: Building a Business by Design</title>
+        <link>http://localhost:4000/drifting-or-driven-building-a-business-by-design.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2021-10-19 03:30:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Real+Estate+Agents_+Are+you+DRIFTING%2C+DRIVEN+or+BY+DESIGN+in+your+business_.mp4</guid>
+        <description>
+
+Here’s why drifting and being driven are both bad for your business.
+
+I recently had the honor of guest speaking on the “Agent Power Huddle” show. Every time I’m asked to do this stuff I think, “really? You want ME?”
+
+It’s a funny feeling to consider that maybe I, as a little old Realtor in St. George, Utah, have some type of wisdom to offer the real estate world, but they felt I did!
+
+We’ve now served over 1500 families and the average Larkin Group agent will close 36.6 transactions in 2021. That’s about 5.3 times as many deals as the average local Realtor closes. We have MULTIPLE Agents earning $200 - $300k! Clearly we’re doing something right!
+
+The focus in our office is ALWAYS on working “by design”, vs. “drifting” (yuck, the most common practice of active Agents in the world), or even being “driven”, (an oft-reverred quality that ultimately isn’t alway great!)
+
+Check out my conversation wtih Agent Power Huddle host, top producing team owner, and one of the best guys I know, Jesse Zagorsky. 
+
+We’d love to hear what you picked up from the show, and what did we miss? 
+
+If you’d like guidance on building a business by design, we should be talking! larkin@gostgeorge.com, or shoot me a text at 435-862-8467!
+
+You can watch the full message above or skip to topics that interest you using the timestamps provided below:
+
+1:30 — Starting the talk
+
+2:52 — Where we are matters / The most beautiful place you’ve never heard of
+
+5:23 — Drifting, driven and by design
+
+6:54 — Drifting
+
+8:15 — Driven
+
+11:36 — Being by design
+
+14:07 — How I picked my first business card and my branding
+
+16:40 — The sales process class and the 6 lessons from it
+
+20:40 — What being driven will do to you
+
+23:56 — When you’re low on energy, you’re either drifting or driven
+
+25:04 — Working by design means having a clear goal 
+
+27:17 — We overestimate for one year but underestimate for three
+
+28:56 — Wrapping up
+
+Hopefully this gave you a better idea of how you should run your business. If you have any questions, feel free to call, text, or email me. I’d love to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Real+Estate+Agents_+Are+you+DRIFTING%2C+DRIVEN+or+BY+DESIGN+in+your+business_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Recruiting/2021/Real+Estate+Agents_+Are+you+DRIFTING%2C+DRIVEN+or+BY+DESIGN+in+your+business_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s why drifting and being driven are both bad for your business.</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary>Here’s why drifting and being driven are both bad for your business.</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Zillow-Proof Your Real Estate Business</title>
+        <link>http://localhost:4000/your-relationship-with-your-database-is-more-important-than-ever.html</link>
+        
+          <category>Business Tips</category>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2019-04-29 15:12:36 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2019/St.+George+Real+Estate+Agent-+Growing+Your+Database.mp4</guid>
+        <description>
+
+Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.
+
+Behind me is Petco Park, a place out here in San Diego that many of you have been to. I didn’t come to watch baseball, though—I came down to the park to meet with Frank Klesitz, a friend of mine who owns Vyral Marketing.
+
+Vyral Marketing is a firm that helps agents connect their database with what’s going on in the real estate industry. As we know, the relationships we form with our clients are more important than ever, especially with the advent of sites like Zillow and Redfin and the tactics of iBuyers in our market.
+
+“Your relationships with your clients matter more than ever.”
+
+Everyone likes to have philosophical discussions regarding what to do about Zillow, but I like to follow the advice Gary Keller gives in his book, “The Millionaire Real Estate Agent”:
+
+1. Build your database2. Communicate with your database in a systematic way3. Feed your database every day
+
+That in mind, I came down here to spend a couple of days with Frank to talk about the idea of nourishing our database here at the Larkin Group. Ours is now over 9,000 clients strong!
+
+To reiterate: If you want to maintain relevance in a market where increasing numbers of people are turning to online resources and iBuyers to sell their homes, your relationships with your clients matter more than ever. 
+
+If you have any questions about growing your real estate businesses or beginning a career in the industry, please feel free to reach out and contact me. Let’s make it professional.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2019/St.+George+Real+Estate+Agent-+Growing+Your+Database.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2019/St.+George+Real+Estate+Agent-+Growing+Your+Database.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary>Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Books That Will Earn You More Money in 2018 (and beyond!)</title>
+        <link>http://localhost:4000/4-books-that-will-earn-you-more-money-in-2018-and-beyond.html</link>
+        
+        <author>Jeremy Larkin</author>
+        <pubDate>2018-01-11 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+You and I both know that the barrier of entry into the real estate profession is very low as we move into 2018. All it takes is $600 and 120 hours of schooling, and there’s a line of folks signing up for their exam as fast as you’re completing it!The next thing you know, your neighbor, mechanic, or garbage man might all have real estate licenses. Good grief!This is why we want to help every agent grow their business, whether they’re on our team or not. The Larkin Group closed a total of 207 home sales in 2017. Over $55 million in sales volume and $1 million in gross commission income! This is not boasting, it’s to articulate that clearly we’re doing something right. We have rare culture, a beautiful office and we’re selling a ton. Sometimes people wonder how we do it.
+
+“I encourage you to read all of these books in 2018.”
+
+One of the reasons is we’re a “reading team.” We’ve all heard the phrase, “readers are leaders,” and I have four books that had a great impact on our team in 2017 that will do the same for you in 2018:1. “The 4 Disciplines of Execution” by Sean Covey, Jim Huling, and Chris McChesney. This book is about getting out of your own way and getting out of your own head. It focuses on taking all of the complexity out of your business by focusing in on just 4 key steps daily and weekly to execute on the most important!  2. “The 12 Week Year” by Brian P. Morgan and Michael Lennington. This book is my new favorite. It’s like “The 4 Disciplines of Execution,” but a much easier to read. Unlike that book, it focuses on the “why” of execution in addition to the “how.” What is it that motivates you to get up and come to the office in the morning and build your career? The premise of this book is to get more done in 12 weeks than others do in 12 months by treating a 12-week period like a 12-month year. With this plan, you no longer set annual goals—you set 12-week goals. Everybody at the Larkin Group is now working toward 12-week goals. 12 weeks from January 1, we’ll review our goals and set new ones. 3. “The Power of Habit” by Charles Duhigg. This book concentrates on the science and emotion behind how habits are formed and broken. If there’s something you know you need to start or stop doing to improve your life, (and who doesn’t?), I strongly recommend you read this one. 4. “Shift” by Gary Keller. The market is shifting. Always shifting. We might think that it will stay the way it is forever, but it’s not. The fact that it has been this way this long tells us it will be shifting. I’ve read this book many times, and our team is already exercising this book’s tactics.A challenge for you in 2018? LESS NETFLIX, MORE READING! If you have any questions about growing your real estate business and you’re curious about how we do it, let’s have you come tour our operation in downtown St. George!If you have any other questions, don’t hesitate to give me a call or send me an email. I’d be happy to help you. And remember: You’re becoming a professional business owner, not just a Realtor! 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You and I both know that the barrier of entry into the real estate profession is very low as we move into 2018. All it takes is $600 and 120 hours of schooling, and there’s a line of folks signing up for their exam as fast as you’re completing it!</itunes:subtitle>
+        <itunes:author>Jeremy Larkin</itunes:author>
+        <itunes:summary>You and I both know that the barrier of entry into the real estate profession is very low as we move into 2018. All it takes is $600 and 120 hours of schooling, and there’s a line of folks signing up for their exam as fast as you’re completing it!</itunes:summary>
+        <itunes:keywords>St. George Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
     <copyright>Jeremy Larkin</copyright>
     <media:credit role="author">Jeremy Larkin</media:credit>
     <media:rating>nonadult</media:rating>

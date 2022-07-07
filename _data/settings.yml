@@ -22,9 +22,9 @@ client:
   brokerage: KW Realty
   address: '50 East 100 South #300<br>St. George, UT 84770'
   phone: 435-375-3462
-  phone_type: 
-  phone2: 
-  phone2_type: 
+  phone_type:
+  phone2:
+  phone2_type:
   email: sales@GoStGeorge.Com
   url: http://www.GoStGeorge.com
 
@@ -39,7 +39,7 @@ sidebar_CTA:
     CTA_title: "Looking to Build Your Real Estate Career?"
     CTA_text: "Let's talk about how we can take your business to new heights."
     CTA_link_text: "Request a Free Strategy Session"
-    CTA_url: https://larkincareers.paperform.co
+    CTA_url: https://www.joinlarkingroup.com/
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/005.jpg
@@ -79,8 +79,8 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/larkingroup/
-  trulia_url: 
-  yelp_url: 
+  trulia_url:
+  yelp_url:
   podcast_url:
 
 podcast:
