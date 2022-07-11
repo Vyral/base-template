@@ -10,7 +10,7 @@ pullquote: Alissa adds so much value to our team.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-07-colemere-youtube.jpg
+youtube_alternate_image: /uploads/06-07-colemere-youtube-1.jpg
 youtube_code: 4ggAvMsnroM
 ---
 {% include youtube.html %}
