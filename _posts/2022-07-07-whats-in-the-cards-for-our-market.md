@@ -5,7 +5,8 @@ date: 2022-07-07 20:37:21
 tags:
   - Market Update
 excerpt: Here are four things you can expect from the market this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/Videos/2022/Mark+Kelly_Market+Predictions.mp4
 pullquote: The pace of appreciation will moderate, but home prices won’t fall.
 enclosure_type: video/mp4
 enclosure_time:
