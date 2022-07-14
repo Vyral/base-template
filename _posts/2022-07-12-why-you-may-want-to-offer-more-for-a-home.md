@@ -17,11 +17,11 @@ youtube_code: b5ijiuPRS2U
 
 {% include excerpt.html %}
 
-Should you offer over the sales price? There are definitely some pros and cons to offering more money than you have to for a home. Like anything else in real estate, it will depend on your situation, so let’s talk about what you should consider.
+Should you offer over the sales price? There are multiple pros and cons to offering above the list price. Like anything else in real estate, it will depend on your situation, so let’s talk about what you should consider.
 
 The biggest thing you want to think about is the timing—how long will you be in this house? Is it a forever home, a three-year property, or are you planning to stay in it for about seven years?&nbsp;
 
-On top of that, **you need to consider the amount for which you’re approved.** If you’re approved for up to $500,000, but you’re only looking at homes worth $425,000, you have an additional $75,000 that you could leverage. If you’re maxed out at $350,000 but want to offer $375,000, there are ways to make up for that difference.
+On top of that, **you need to consider your budget.** If you’re approved for up to $500,000, but you’re only looking at homes worth $425,000, you have an additional $75,000 that you could leverage. If you’re maxed out at $350,000 but want to offer $375,000, there are ways to make up for that difference.
 
 {% include pullquote.html %}
 
