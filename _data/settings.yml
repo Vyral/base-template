@@ -45,7 +45,7 @@ client:
   url: 'http://victoriasellssd.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://victoriasellssd.com/home-value-analysis/'
+  first_CTA_URL: 'https://sandoval-home-value.paperform.co/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://victoriasellssd.com/basic-search/'
 
@@ -63,7 +63,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://victoriasellssd.com/home-value-analysis/'
+    CTA_url: 'https://sandoval-home-value.paperform.co/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
