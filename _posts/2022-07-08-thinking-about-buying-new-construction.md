@@ -22,6 +22,6 @@ Are you thinking about buying new construction? It’s becoming a popular option
 
 To make sure your home purchase goes smoothly, **we recommend you talk to your real estate professional as soon as you decide to buy new construction.** They often have relationships with builders, so you’ll know you’re receiving quality work at a fair price.&nbsp;
 
-Your agent can also help you inspect your property at the build site. **This way, you can walk into your new home with confidence that everything is in order.** Many builders are having supply chain issues right now, so we just want to be sure that you’re getting what you pay for.&nbsp;
+Your agent can also help you inspect your property at the build site. **This way, you can walk into your new home confident that everything is in order.** Many builders are having supply chain issues right now, so we want to be sure that you’re getting what you pay for.&nbsp;
 
 If you have questions about today’s topic or anything else, please call or email us. We are always willing to help\!&nbsp;
