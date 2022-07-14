@@ -17,7 +17,7 @@ youtube_code: 4ggAvMsnroM
 
 {% include excerpt.html %}
 
-What is a transaction coordinator, and what do they do? To help answer that questions, we’re talking with Alissa Smith, our transaction coordinator at the Colemere Realty Team. If you’ve worked with us in the past, you’ve probably received emails from her, but you might not have met her in person. Alissa’s job is essential, but a lot of it happens behind the scenes.
+What is a transaction coordinator, and what do they do? To help answer that questions, we’re talking with Alissa Smith, our transaction coordinator at the Colemere Realty Team. If you’ve worked with us in the past, you’ve probably received emails from Alissa, but you might not have met her in person. Alissa’s job is essential, but much of it happens behind the scenes.
 
 **Alissa, what do you do as a transaction coordinator?**
 
@@ -25,7 +25,7 @@ What is a transaction coordinator, and what do they do? To help answer that ques
 
 {% include pullquote.html %}
 
-We work with multiple third parties in a transaction, even before we go under contract. Inspectors, lenders, title companies, attorneys, and home stagers are just a few. **Alissa coordinates all of those people behind the scenes**, making sure they’re aware and involved in the transaction.&nbsp;
+We work with multiple third parties in a transaction, even before we go under contract — inspectors, lenders, title companies, attorneys, and home-stagers are just a few. **Alissa coordinates with all of those people behind the scenes**, ensuring they’re aware and involved in the transaction.&nbsp;
 
 For example, if one of those parties doesn’t get an addendum to the contract, that can really hurt the process moving forward. It puts everything behind schedule and could end up damaging the contract. **Alissa's job is to make sure the whole process is smooth and double-check all the paperwork.&nbsp;**
 
