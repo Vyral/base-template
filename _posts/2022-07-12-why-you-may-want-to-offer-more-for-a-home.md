@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-sawyer-ssyt-1.jpg
-youtube_code: b5ijiuPRS2U
+youtube_code: yB709otGsls
 ---
 {% include youtube.html %}
 
