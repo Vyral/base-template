@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/07-14-wolek-youtube-1.jpg
-youtube_code:
+youtube_code: oPj14uiewDs
 hidden: false
 ---
 {% include youtube.html %}
