@@ -18,7 +18,7 @@ youtube_code: B7DdGf1PuUc
 
 {% include excerpt.html %}
 
-So you’re hosting an open house. That’s great\! Open houses are a fantastic way to make connections and get more leads. However, a lot goes into an open house, and it’s easy to become overwhelmed. For example, choosing the right music can positively affect your visitors’ moods and can give your open house a huge boost. That’s why we’re discussing which music you should pick.&nbsp;
+So you’re hosting an open house. That’s great\! Open houses are a fantastic way to make connections and get more leads. However, a lot goes into an open house, and it’s easy to become overwhelmed. For example, choosing the right music can put your visitors at ease and give your open house a huge boost. That’s why we’re discussing which music you should pick.&nbsp;
 
 Living Cozy recently analyzed 100 property-selling playlists to determine the best songs to play during an open house. **Many of these songs would work for showings as well.** Here’s the list:
 
@@ -37,6 +37,6 @@ Based on Living Cozy’s name, they might be a little biased towards relaxed mus
 
 {% include pullquote.html %}
 
-Once you nail down the perfect soundtrack, **there are a few other open house tips you should follow.** First, have all the lights on, even if it’s the middle of summer. The home can look incredible, but no one will notice if they can’t see it. Pay attention to the scent of the home as well. People will notice if there are stray or out-of-place odors.&nbsp;
+Once you nail down the perfect soundtrack, **there are a few other open house tips you should follow.** First, keep all the lights on, even if it’s the middle of summer. The home can look incredible, but no one will notice if they can’t see it. Pay attention to the scent of the home as well. People will notice if there are stray or out-of-place odors.&nbsp;
 
 If you have questions about today’s topic or anything else, please call or email the SOLDwisch team. We look forward to hearing from you\!
