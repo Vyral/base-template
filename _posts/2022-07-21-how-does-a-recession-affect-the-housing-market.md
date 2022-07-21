@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does a Recession Affect the Housing Market?
-date: 2022-07-22 00:00:00
+date: 2022-07-21 16:00:00
 tags:
   - Market Update
   - Real Estate
