@@ -16,10 +16,6 @@ youtube_code: Y5dQ5kNrQKE
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
-{% include pullquote.html %}
-
 &nbsp;
 
 Have you heard the recession rumors? How does a recession affect the housing market? Let's talk through the facts, and what past data has shown to be true in previous recessions. Let's also look at how this economy shift is affecting the housing market shift.
