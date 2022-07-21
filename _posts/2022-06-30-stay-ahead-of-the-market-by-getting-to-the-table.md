@@ -9,7 +9,7 @@ enclosure:
 pullquote: 'Converting on leads is crucial when fewer people are buying and selling. '
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/6-30-22-josh-stern-rec-yt.jpg
 youtube_code: lELkAi6xinY
 ---
