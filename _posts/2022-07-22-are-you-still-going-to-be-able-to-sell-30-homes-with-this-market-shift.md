@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/recruit.png
-youtube_code: FvdCcI3izM
+youtube_code: https://youtu.be/_FvdCcI3izM
 ---
 {% include youtube.html %}
 
