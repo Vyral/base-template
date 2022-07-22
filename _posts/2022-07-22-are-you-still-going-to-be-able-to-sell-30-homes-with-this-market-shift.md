@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are You Still Going to be Able to Sell 30+ Homes with This Market Shift?
+title: Are You Still Able to Sell 30+ Homes with This Market Shift?
 date: 2022-07-22 00:00:00
 tags:
   - Real Estate
