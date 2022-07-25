@@ -10,7 +10,7 @@ pullquote: We’re so grateful for Tulsa!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/07-14-wolek-youtube-1.jpg
+youtube_alternate_image: /uploads/07-25-wolek-youtube.jpg
 youtube_code: oPj14uiewDs
 hidden: false
 ---
@@ -18,7 +18,7 @@ hidden: false
 
 {% include excerpt.html %}
 
-Tulsa looks good on you, and Tulsa looks fabulous on the Discover Lab\! We’re talking with Lindsay, the Director of Exhibits, about what she does at Discovery Labs and more.&nbsp;
+Tulsa looks good on you, and Tulsa looks fabulous on the Discover Lab\! We’re talking with Lindsay, the Director of Exhibits, about what she does at Discovery Labs and more.
 
 We are so excited to speak with you today and learn about what you’re doing for Tulsa. **What’s going on here?**
 
@@ -26,13 +26,13 @@ We are so excited to speak with you today and learn about what you’re doing fo
 
 {% include pullquote.html %}
 
-A lot of us have been excited about the grand opening. **Now that your doors are finally open, what’s it been like so far?&nbsp;**
+A lot of us have been excited about the grand opening. **Now that your doors are finally open, what’s it been like so far? **
 
 “We’ve been crazy busy; it’s been phenomenal\! We’re so grateful for Tulsa. This has been a long time coming for years, so it’s fantastic to finally have kids playing and families here enjoying the space.”
 
-Kids are out of school now, and it gets hot here in the summer. **If people want to enjoy the Discover Lab, what do they need to know?&nbsp;**
+Kids are out of school now, and it gets hot here in the summer. **If people want to enjoy the Discover Lab, what do they need to know? **
 
-“We have a lot of different membership options. We always say that if you plan on visiting Discover Labs at least three times, a membership is for you. After those visits, it basically pays for itself. Other than that we have the summer camps, which are a great way to stay cool, learn something new, and get some museum time. There’s always regular visitation if you need something to do and it’s too hot to play outside.&nbsp;
+“We have a lot of different membership options. We always say that if you plan on visiting Discover Labs at least three times, a membership is for you. After those visits, it basically pays for itself. Other than that we have the summer camps, which are a great way to stay cool, learn something new, and get some museum time. There’s always regular visitation if you need something to do and it’s too hot to play outside.
 
 “We’re open seven days a week from 9:30 a.m. to 5 p.m. Monday through Saturday. Sunday, we’re open from 11:30 a.m. to 5 p.m.”
 
