@@ -4,7 +4,7 @@ title: 'Tulsa Looks Good on Discovery Lab! '
 date: 2022-07-19 16:33:29
 tags:
   - Real Estate
-excerpt: Speaking with the Director of Exhibits for Discover Labs Tulsa!
+excerpt: Speaking with the Director of Exhibits for Discover Lab Tulsa!
 enclosure:
 pullquote: We’re so grateful for Tulsa!
 enclosure_type: video/mp4
