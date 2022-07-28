@@ -5,7 +5,7 @@ date: 2022-07-28 16:10:13
 tags:
 excerpt: >-
   What's taking place in the LA Real Estate Market for July 2022? <a
-  href"https://www.instagram.com/scotthimelstein/" target="_blank">Scott
+  href="https://www.instagram.com/scotthimelstein/" target="_blank">Scott
   Himelstein</a> discusses the changes in the LA Real Estate Market we have seen
   the last few months and if the latest numbers indicate a housing crash!
 enclosure:
