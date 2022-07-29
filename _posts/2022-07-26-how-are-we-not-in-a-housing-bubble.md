@@ -18,7 +18,7 @@ youtube_code: g5bTo1JiB9I
 
 {% include excerpt.html %}
 
-Based on the history of the housing market, it’s clear that our current market isn’t ready to burst. There was only ever one instance of home prices falling significantly in 2008. That was caused by two major factors: loose lending standards and cash-out refinances. Back then, people could apply for loans they weren’t truly qualified for and then take cash out on their homes to finance a lifestyle change.
+Based on the history of the housing market, it’s clear that our current market isn’t ready to burst. There has only been one instance where home prices fell significantly, and it was in 2008. That was caused by two major factors: loose lending standards and cash-out refinances. Back then, people could apply for loans they weren’t truly qualified for and then take cash out on their homes to finance a lifestyle change.
 
 Will we see something similar in today’s market? As Danielle Hale from Realtor.com said, *“We have learned from history that prices can fall. The more important question is if it’s going to happen right now. And that’s hard to say.”*
 
