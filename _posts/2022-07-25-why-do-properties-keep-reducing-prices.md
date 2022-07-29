@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/market-update-knight-yt.jpg
-youtube_code:
+youtube_code: b326WZMYb00
 ---
 {% include youtube.html %}
 
