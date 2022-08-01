@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/august-2022---mvp---blog-post-image.jpg
 youtube_code:
 ---
 ![](/uploads/rick-5.jpg){: width="998" height="383"}<br><br>The process of buying a new home can be both exhilarating and exhausting. But the journey doesn’t stop when you close on your property. On the contrary, you still have quite a bit to do before you can begin the process of settling into your new place.&nbsp;
