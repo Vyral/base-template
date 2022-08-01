@@ -17,7 +17,7 @@ youtube_code: CF2pKm9KwM0
 
 {% include excerpt.html %}
 
-We’ve spotted some amazing opportunities for all those buyers who got beat out in the previous market. So if you’re one of the buyers who got outbid so much that you’ll prefer to wait—don’t\! There are a few great reasons why now is an excellent time to buy.
+We’ve spotted some amazing opportunities for all those buyers who got beat out in the previous market. If you’re one of the buyers who got outbid so much that you decided to wait—don’t\! There are a few great reasons why now is an excellent time to buy.
 
 The sticker shock that buyers had about home prices is gone. Rates might be a bit higher, but they’re not at 9% or 10%. **Today’s rates are still great**, and they have come down a bit since their first increase.
 
