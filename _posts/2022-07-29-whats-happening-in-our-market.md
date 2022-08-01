@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s happening in our market?
+title: What’s Happening in Our Market?
 date: 2022-07-29 15:16:25
 tags:
   - Market Update
@@ -17,7 +17,7 @@ youtube_code: IF2qbJ7w5Yc
 
 {% include excerpt.html %}
 
-What’s been happening in our housing market so far this year? Today I’ll look at the latest statistics and tell you what they mean for buyers and sellers in our area.&nbsp;
+What has been happening in our housing market so far this year? Today I’ll look at the latest statistics and tell you what they mean for buyers and sellers in our area.&nbsp;
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
