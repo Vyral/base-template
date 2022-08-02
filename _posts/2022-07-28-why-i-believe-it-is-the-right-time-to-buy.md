@@ -5,7 +5,8 @@ date: 2022-07-28 19:53:36
 tags:
   - Home Buyer Tips
 excerpt: 'What the shifts in the housing market mean for potential buyers. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/2022/Mark+Kelly_Is+it+Still+a+Good+Time+to+Buy.mp4
 pullquote: 'It may make sense to buy now instead of waiting. '
 enclosure_type: video/mp4
 enclosure_time:
