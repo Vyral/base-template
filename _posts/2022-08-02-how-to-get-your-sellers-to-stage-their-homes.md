@@ -11,11 +11,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/youtube.jpg
-youtube_code:
+youtube_code: qc63JpN9sOs
 ---
 {% include youtube.html %}
-
-{% include excerpt.html %}
 
 We are on to tactic No. 8 in our series about how to handle a shifting market. Today’s tactic is all about seller staging strategies. Last week, we talked about pricing homes, but how we stage a home is also key to helping our clients.
 
