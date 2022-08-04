@@ -7,7 +7,9 @@ tags:
   - Home Seller Tips
   - Market Update
   - Real Estate
-excerpt:
+excerpt: >-
+  What questions should you be asking your real estate agent in this shifting
+  market?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
