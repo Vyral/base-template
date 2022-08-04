@@ -3,6 +3,10 @@ layout: post
 title: 3 Things to Ask Your Agent in this Shifting Market
 date:
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
+  - Market Update
+  - Real Estate
 excerpt:
 enclosure:
 pullquote:
@@ -12,11 +16,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: W34lY2jwXfs
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
-{% include pullquote.html %}
+{% include youtube.html %}
 
 What are the three questions that you need to ask your agent if you're looking to sell a home in today's shifting market? Stay tuned.
 
