@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'No Additional Fees for Our Marketing '
-date: 2022-08-04 00:00:00
+date: 2022-08-04 07:00:00
 tags:
   - Real Estate
   - Property Management
