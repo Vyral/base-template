@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will a Manufactured Home Affect Your Loan?
-date:
+date: 2022-08-05 00:00:00
 tags:
   - Home Loans
   - Realtors
