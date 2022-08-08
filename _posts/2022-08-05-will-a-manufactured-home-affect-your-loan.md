@@ -21,7 +21,7 @@ youtube_code: oTf3_z4stbE
 
 With the way home prices are right now, buying manufactured homes is becoming more and more popular. Is it harder to buy a manufactured home, and does owning one change the refinancing process? The answer is that it depends. Many lenders won’t touch manufactured homes, and there is a significant difference between mobile homes and manufactured homes.&nbsp;
 
-A mobile home is precisely what it sounds like: It’s a home you can move around. It may seem like a lower cost property at first, but keep in mind that you have to pay rent for the space and the house itself. **Manufactured homes need to sit on permanent foundations.** You need to own the land and the structure, it has to be built after 1976, and it needs to have its own source of water and sewage.
+A mobile home is precisely what it sounds like: It’s a home you can move around. It may seem like a lower-cost property at first, but keep in mind that you have to pay rent for the space and the house itself. **The difference with manufactured homes is that they need to sit on permanent foundations.** You need to own the land and the structure, it has to be built after 1976, and it needs to have its own source of water and sewage.
 
 {% include pullquote.html %}
 
