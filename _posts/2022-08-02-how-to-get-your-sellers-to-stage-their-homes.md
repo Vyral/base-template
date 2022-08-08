@@ -15,7 +15,7 @@ youtube_code: qc63JpN9sOs
 ---
 {% include youtube.html %}
 
-We are on to tactic No. 8 in our series about how to handle a shifting market. Today’s tactic is all about seller staging strategies. Last week, we talked about pricing homes, but how we stage a home is also key to helping our clients.
+We are on to tactic No. 8 in our series about how to handle a shifting market. Today’s tactic is all about seller staging strategies. [Last week](https://realestatecareersinutah.com/are-you-driving-traffic-to-your-website.html), we talked about pricing homes, but how we stage a home is also key to helping our clients.
 
 **First, you need to understand how interested the seller is in staging.** The graph at 1:04 in the video demonstrates this idea. Your seller might be all the way to the left—they’re resistant and not interested in one iota of staging. You may also have clients who are receptive to staging and ones who are ready to stage right away.&nbsp;&nbsp;
 
