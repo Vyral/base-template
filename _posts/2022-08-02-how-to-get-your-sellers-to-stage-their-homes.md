@@ -27,6 +27,6 @@ How you react to their thought around staging is critical. If they’re not set 
 
 The third option is to use professional stagers. The best of the best staging comes from professionals, but the con is obvious: They’re expensive. If you go with this method, you might have to discuss who’s bearing the cost. Is it the client, the team, or is there some cost-sharing in place?
 
-Just because it’s still a seller’s market doesn't mean that homes shouldn’t be staged for the pictures. **Your home will be loved or ignored based on how it looks online**, so you want to ensure you make a good first impression.
+Just because it’s still a seller’s market doesn't mean that homes shouldn’t be staged for the pictures. **Your clients' homes will be loved or ignored based on how they look** online, so ensure you make a good first impression.
 
 If you have any questions about staging, call, text, or email me. I would love to help you out—no strings attached. All the tactics we’ve discussed come from a book called “The Shift,” and if you don’t have it, get in touch, and we'd love to give you a copy.
