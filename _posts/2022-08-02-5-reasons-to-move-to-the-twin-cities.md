@@ -18,7 +18,7 @@ youtube_code: mxNKA5JMkM4
 
 Why do we run our business in the Twin Cities area? It’s simple: it’s an incredible place to live. If you’re considering relocating, we believe you should give the Twin Cities serious consideration, and today we’re sharing five reasons why:
 
-&nbsp; &nbsp; 1. &nbsp;**Minnesota is always at or near the top of best states to live in.** U.S. News and World Report ranked Minnesota as the second-best state in the whole country. Meanwhile, [Money Rates](www.moneyrates.com){: target="_blank" rel="noopener"} looked at median wages, cost of living, income tax, unemployment rate, and workplace safety to determine their best state, and Minnesota ranked third overall. Do a Google search if you don’t believe us; Minnesota and the Twin Cities area are always near the top.&nbsp;
+&nbsp; &nbsp; 1. &nbsp;**Minnesota is always at or near the top of best states to live in.** U.S. News and World Report ranked Minnesota as the second-best state in the whole country. Meanwhile, Money Rates looked at median wages, cost of living, income tax, unemployment rate, and workplace safety to determine their best state, and Minnesota ranked third overall. Do a Google search if you don’t believe us; Minnesota and the Twin Cities area are always near the top.&nbsp;
 
 &nbsp; &nbsp; 2.&nbsp;**You can experience the fullest of each season.** Our springs are green, our summers are beautiful, our falls are golden, and our winters are full of fun activities like skiing.&nbsp;
 
