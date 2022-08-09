@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/move-to-minnesota---yt---john-schuster-ss.jpg
-youtube_code: kveVlHmap3Q
+youtube_code: mxNKA5JMkM4
 ---
 {% include youtube.html %}
 
