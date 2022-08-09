@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/finance-tejeda-yt.jpg
-youtube_code: oTf3_z4stbE
+youtube_code: _xhtzL9JTyk
 ---
 {% include youtube.html %}
 
