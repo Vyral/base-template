@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These Past 2 Years Have Been a Blast
-date:
+date: 2022-08-11 00:00:00
 tags:
   - Real Estate
 excerpt: What I love about being on the Central Iowa Real Estate Scoreboard.
