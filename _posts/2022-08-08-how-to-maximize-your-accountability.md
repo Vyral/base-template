@@ -23,4 +23,6 @@ The first step is to set a goal that you want to achieve. The next step is to po
 
 If you want something more, private message me below, and I can give you a copy of my personal wellness assessment, which is a tracking system meant to help you set and keep goals. I can also recommend a few great fitness and real estate coaches.
 
-If you have any other questions, feel free to call or email me. I’d love to help.
+If you have any other questions, feel free to reach out at [dave@davehooketeam.com](mailto:dave@davehooketeam.com) or [(717) 216-0860](tel:717-216-0860){: target="_blank" rel="noopener"}. I’d love to help.
+
+To get &nbsp;more information about our latest community and listing updates, click here: [facebook.com/DaveHookeTeam](https://www.facebook.com/DaveHookeTeam){: target="_blank" rel="noopener"}
