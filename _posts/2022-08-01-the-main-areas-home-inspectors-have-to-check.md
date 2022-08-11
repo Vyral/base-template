@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Main Areas Home Inspectors Have to Check
+title: The Main Areas Home Inspectors Have To Check
 date: 2022-08-01 21:16:38
 tags:
   - Real Estate
@@ -18,13 +18,13 @@ youtube_code:
 
 {% include excerpt.html %}
 
-Do you know what things a home inspector looks for when they visit a property? Home inspectors will investigate every nook and cranny from the foundation up to the roof to find anything that might affect the property’s value. **Here are the main things that they have to check:**
+Do you know what things a home inspector looks for when they visit a property? They will investigate every nook and cranny from the foundation up to the roof to find anything that might affect the property’s value. **Here are the main things that they have to check:**
 
 * The structure and foundation
 * The exterior, driveway, porch, and yard
 * The roof, gutters, and windows
-* The attic is thoroughly inspected for signs of leaks and mold
-* The functionality of plumbing, electricity, and HVAC systems
+* The attic
+* The of plumbing, electricity, and HVAC systems
 * The kitchen and its appliances
 
-Depending on the age of the home, this can be a scary report. However, your Realtor is there to help you understand the report and negotiate any repairs. If you have any questions, feel free to reach out to me by phone or email. I look forward to hearing from you.
+Depending on the age of the home, what you find could be scary. However, your Realtor is there to help you understand the report and negotiate any repairs. If you have any questions, feel free to reach out to me by phone or email. I look forward to hearing from you.
