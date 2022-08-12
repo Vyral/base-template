@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Interest Rates Affect the Market
-date:
+date: 2022-08-12 00:00:00
 tags:
   - Real Estate
 excerpt: Sitting down with Shane Hofmann to discuss interest rates in our market.
