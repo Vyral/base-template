@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great News for Homeowners
-date:
+date: 2022-08-12 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
