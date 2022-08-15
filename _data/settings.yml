@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.chesapeakeareahomesearch.com/homevalue/theronsawyerteam
+  first_CTA_URL: https://sawyer-home-value.paperform.co/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.chesapeakeareahomesearch.com/search?page=1&perpage=12&soldproperty=0&sortby=latest&type=grid
   VR_form:
@@ -36,7 +36,7 @@ sidebar_CTA:
     CTA_title: Looking to Sell a Home?
     CTA_text: Find out what your home is worth in -- MARKET --.
     CTA_link_text: Home Valuation Tool
-    CTA_url: https://www.chesapeakeareahomesearch.com/homevalue/theronsawyerteam
+    CTA_url: https://sawyer-home-value.paperform.co/
   - CTA_image_path: /img/cta-images/003.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
