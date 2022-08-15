@@ -17,7 +17,7 @@ youtube_code:
 
 {% include excerpt.html %}
 
-I’ve been on the Central Iowa Real Estate Scoreboard for over two years\! It’s been an incredible opportunity, so today I’ll go over some of my favorite moments.
+I’ve been on the Central Iowa Real Estate Scoreboard for over two years\! It has been an incredible opportunity, so today I’ll go over some of my favorite parts.
 
 I look forward to this show every week. Talking to guests and covering various headlines gives me a great reason to dive into topics more than I would have otherwise. Even just putting together the information is fun.
 
