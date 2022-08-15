@@ -24,7 +24,7 @@ client:
 
 CTAs:
   first_CTA_text: Submit Your Application
-  first_CTA_URL: http://bit.ly/submittinfo
+  first_CTA_URL: https://tejeda-free-mortgage.paperform.co/
   second_CTA_text: Schedule an Appointment
   second_CTA_URL: https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
 
@@ -35,7 +35,7 @@ sidebar_CTA:
     CTA_title: "Get Your Mortgage Today!"
     CTA_text: "Are you thinking of buying a home in the San Diego area? We can help."
     CTA_link_text: "Submit Your Application"
-    CTA_url: https://calendly.com/abeltejeda/prequalification/03-29-2018
+    CTA_url: https://tejeda-free-mortgage.paperform.co/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
