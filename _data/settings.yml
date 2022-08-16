@@ -1,5 +1,5 @@
 audit_header: false
-title: 'RE/MAX Professionals'
+title: RE/MAX Professionals
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
@@ -7,59 +7,81 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Testimonials
-    url: 'http://www.nateshomes.com/Client-Reviews'
+    url: http://www.nateshomes.com/Client-Reviews
 client:
   name: Nate Martinez
   license_number:
   about_markdown: >-
-    Nate Martinez, REALTOR®, Owner, Team Leader, Master Coach, International Bestselling Author, Coach, ABR, CRS, GRI, e-PRO, CDPE, CIAS, CLHMS, CRP, and SFR
+    Nate Martinez, REALTOR®, Owner, Team Leader, Master Coach, International
+    Bestselling Author, Coach, ABR, CRS, GRI, e-PRO, CDPE, CIAS, CLHMS, CRP, and
+    SFR
 
-    Nate Martinez is the owner of RE/MAX Professionals, a multi-office franchise located in the greater Phoenix area and the owner of a Motto Mortgage franchise. The highlight of running his business and team is getting to work in the trenches every day with the love of his life and his adult children. In 2021, he co-authored an international bestselling book, 8 Ways to Dominate Any Real Estate Market with long-time business partner, team member and friend, Sarah Michelle Bliss.
+    Nate Martinez is the owner of RE/MAX Professionals, a multi-office franchise
+    located in the greater Phoenix area and the owner of a Motto Mortgage
+    franchise. The highlight of running his business and team is getting to work
+    in the trenches every day with the love of his life and his adult children.
+    In 2021, he co-authored an international bestselling book, 8 Ways to
+    Dominate Any Real Estate Market with long-time business partner, team member
+    and friend, Sarah Michelle Bliss.
 
-    Nate passionately believes in the value of education, having trained hundreds of real estate professionals across the globe as a speaker and a coach. With more than thirty-five years in the real estate industry, he has been recognized with the Lifetime Achievement, Titan Team, Circle of Legends, and the Luminary of Distinction from RE/MAX. But with all these achievements, Nate’s focus has always been giving back to this industry and now focuses much of his time on helping agents discover their potential and ultimately live their best life.
+    Nate passionately believes in the value of education, having trained
+    hundreds of real estate professionals across the globe as a speaker and a
+    coach. With more than thirty-five years in the real estate industry, he has
+    been recognized with the Lifetime Achievement, Titan Team, Circle of
+    Legends, and the Luminary of Distinction from RE/MAX. But with all these
+    achievements, Nate’s focus has always been giving back to this industry and
+    now focuses much of his time on helping agents discover their potential and
+    ultimately live their best life.
 
-    He is most proud of the charitable contributions of his agents to the Children’s Miracle Network and the support of their local Phoenix Children’s Hospital. In addition, he is proud to be ranked the number one brokerage in Arizona when it comes to production per agent.
+    He is most proud of the charitable contributions of his agents to the
+    Children’s Miracle Network and the support of their local Phoenix Children’s
+    Hospital. In addition, he is proud to be ranked the number one brokerage in
+    Arizona when it comes to production per agent.
 
-    Outside of work, Nate enjoys golfing and spending quality time around the pool with his adult children and their spouses, his confidant Tonya, their daughter, Mila, and three grandchildren.
+    Outside of work, Nate enjoys golfing and spending quality time around the
+    pool with his adult children and their spouses, his confidant Tonya, their
+    daughter, Mila, and three grandchildren.
   market: Valley of the Sun
   brand: RE/MAX Professionals
   brokerage:
-  address: '20241 N. 67th Ave. A1<br>Glendale, AZ 85308'
+  address: 20241 N. 67th Ave. A1<br>Glendale, AZ 85308
   phone: 602-942-7000
   phone_type:
   phone2:
   phone2_type:
   email: Nate@NatesHomes.com
-  url: 'http://NatesHomes.com'
+  url: http://NatesHomes.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.natemartinezteam.com/home-valuation/'
+  first_CTA_URL: http://www.natemartinezteam.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.natemartinezteam.com/'
-  VR_form: 'http://oi.vresp.com?fid=39d9e3ccea'
+  second_CTA_URL: http://www.natemartinezteam.com/
+  VR_form: http://oi.vresp.com?fid=39d9e3ccea
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Looking to Buy a Home?
-    CTA_text: Search the entire MLS for homes located in -- MARKET --.
-    CTA_link_text: Home Search Tool
-    CTA_url: 'http://www.natemartinezteam.com/'
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: http://www.natemartinezteam.com/home-valuation/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.natemartinezteam.com/'
+    CTA_url2: http://www.natemartinezteam.com/
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -70,17 +92,18 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/NateMartinezTeam/'
-  linkedin_url: 'http://www.linkedin.com/in/natemartinez'
-  youtube_url: 'https://www.youtube.com/user/natemartinez8'
-  twitter_url: 'http://twitter.com/NateMartinez'
+  facebook_url: https://www.facebook.com/NateMartinezTeam/
+  linkedin_url: http://www.linkedin.com/in/natemartinez
+  youtube_url: https://www.youtube.com/user/natemartinez8
+  twitter_url: http://twitter.com/NateMartinez
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/Nate-Martinez/'
+  zillow_url: http://www.zillow.com/profile/Nate-Martinez/
   trulia_url: >-
     https://www.trulia.com/profile/nate-martinez-agent-glendale-az-zgwmjqkx/overview
-  yelp_url: 'https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2'
-  podcast_url: https://itunes.apple.com/us/podcast/glendale-real-estate-podcast-with-nate-martinez/id1194700246?mt=2
+  yelp_url: https://www.yelp.com/biz/nate-martinez-re-max-professionals-glendale-2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/glendale-real-estate-podcast-with-nate-martinez/id1194700246?mt=2
 podcast:
   title: Valley of the Sun Real Estate Podcast with Nate Martinez
   categories:
@@ -128,5 +151,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
