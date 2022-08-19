@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mortgage-questions-yt.jpeg
-youtube_code: 7MFIwW1Ff6o
+youtube_code: CiLL5f92uc0
 ---
 {% include youtube.html %}
 
