@@ -1,5 +1,5 @@
 audit_header: false
-title: Clarksville, TN Real Estate Video Blog with -- CLIENT NAME --
+title: Clarksville, TN Real Estate Video Blog with Mark Kelly
 description: >-
   Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
   real estate advice. Whether you are a buyer, seller, or investor, our team of
@@ -119,7 +119,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_text: 'Clarksville, TN Real Estate Video Blog'
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
