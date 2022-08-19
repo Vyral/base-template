@@ -12,51 +12,66 @@ custom_links:
   - title: Mortgage Calculator
     url: http://airassaults.idxbroker.com/idx/mortgage
 client:
-  name: 
+  name:
   license_number:
   about_markdown: >-
-    The Air Assault Team was founded in 2002 by Valarie Hunter-Kelly, a highly regarded Real Estate Professional and active staple in the Clarksville, TN community. Partnered with her husband Mark Kelly, whom himself was a highly decorated military veteran, and current Broker of the team carved out their corner of the real estate market and built a highly successful real estate team and brokerage. Valerie passed away in November of 2020, leaving the team in good hands with her Husband/Broker Mark Kelly. Since then, The Air Assault Team continues to live up to its Mission and Vision statement "To be the most professional real estate team...To provide dependable, exceptional, and comprehensive services...helping our clients achieve their real estate goals.". The Air Assault Team is committed to working with new and existing customers/clients in selling their homes or finding the home most suited to their needs. We work closely with our buyers and sellers helping them make one of the most important decisions and investments of their lives. Under the leadership of Mark Kelly and Aaron Morton, Affiliate Broker and CEO, we enthusiastically await the opportunity to make you a happy client!
+    The Air Assault Team was founded in 2002 by Valarie Hunter-Kelly, a highly
+    regarded Real Estate Professional and active staple in the Clarksville, TN
+    community. Partnered with her husband Mark Kelly, whom himself was a highly
+    decorated military veteran, and current Broker of the team carved out their
+    corner of the real estate market and built a highly successful real estate
+    team and brokerage. Valerie passed away in November of 2020, leaving the
+    team in good hands with her Husband/Broker Mark Kelly. Since then, The Air
+    Assault Team continues to live up to its Mission and Vision statement "To be
+    the most professional real estate team…To provide dependable, exceptional,
+    and comprehensive services…helping our clients achieve their real estate
+    goals.". The Air Assault Team is committed to working with new and existing
+    customers/clients in selling their homes or finding the home most suited to
+    their needs. We work closely with our buyers and sellers helping them make
+    one of the most important decisions and investments of their lives. Under
+    the leadership of Mark Kelly and Aaron Morton, Affiliate Broker and CEO, we
+    enthusiastically await the opportunity to make you a happy client\!
   market: Clarksville
   brand: <b>The Air Assault Team</b>
   brokerage: Keller Williams Realty
-  address: '2279-D Wilma Rudolph Blvd<br>Clarksville, TN 37040'
+  address: 2279-D Wilma Rudolph Blvd<br>Clarksville, TN 37040
   phone: 931-245-7435
   phone_type: Office
   phone2:
   phone2_type:
   email: Info@AirAssaultTeam.com
-  url: 'http://www.AirAssaults.com'
+  url: http://www.AirAssaults.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://airassaults.idxbroker.com/idx/homevaluation'
+  first_CTA_URL: http://airassaults.idxbroker.com/idx/homevaluation
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://airassaults.idxbroker.com/idx/search/advanced'
-  VR_form: 'http://oi.vresp.com?fid=35ac4e1e40'
+  second_CTA_URL: http://airassaults.idxbroker.com/idx/search/advanced
+  VR_form: http://oi.vresp.com?fid=35ac4e1e40
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_title: What’s Your Clarksville, TN Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://airassaults.idxbroker.com/idx/homevaluation'
+    CTA_url: http://airassaults.idxbroker.com/idx/homevaluation
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://airassaults.idxbroker.com/idx/search/advanced'
+    CTA_url2: http://airassaults.idxbroker.com/idx/search/advanced
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -67,15 +82,15 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/airassaultteamkw'
-  linkedin_url: 'https://www.linkedin.com/in/valeriehunterkelly'
+  facebook_url: https://www.facebook.com/airassaultteamkw
+  linkedin_url: https://www.linkedin.com/in/valeriehunterkelly
   gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UCFcc0ErIt8JIHMUJ_8q1ssQ'
-  twitter_url: 'https://twitter.com/ftcampbell'
+  youtube_url: https://www.youtube.com/channel/UCFcc0ErIt8JIHMUJ_8q1ssQ
+  twitter_url: https://twitter.com/ftcampbell
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/Valerie-Hunter-Kelly/'
-  trulia_url: 'http://www.trulia.com/profile/valerie-hunter-kelly-agent-37042-227230'
+  zillow_url: http://www.zillow.com/profile/Valerie-Hunter-Kelly/
+  trulia_url: http://www.trulia.com/profile/valerie-hunter-kelly-agent-37042-227230
   yelp_url: >-
     http://www.yelp.com/biz/keller-williams-realty-clarksville?osq=air+assault+team
   podcast_url: >-
@@ -118,7 +133,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(250, 250, 250, 0.7)'
+  shadow_color: rgba(250, 250, 250, 0.7)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -127,5 +142,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
