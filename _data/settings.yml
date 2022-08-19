@@ -1,5 +1,5 @@
 audit_header: false
-title: '-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --'
+title: Clarksville, TN Real Estate Video Blog with -- CLIENT NAME --
 description: >-
   Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
   real estate advice. Whether you are a buyer, seller, or investor, our team of
@@ -57,8 +57,8 @@ sidebar_CTA:
     CTA_url: http://airassaults.idxbroker.com/idx/homevaluation
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: Looking for a -- MARKET -- Home?
-    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_title2: Looking for a Clarksville, TN Home?
+    CTA_text2: Search the entire MLS for your Clarksville, TN home.
     CTA_link_text2: Search the MLS
     CTA_url2: http://airassaults.idxbroker.com/idx/search/advanced
 lender:
