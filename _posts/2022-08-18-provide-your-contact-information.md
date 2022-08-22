@@ -17,7 +17,7 @@ youtube_code: amHc7ppzsf0
 
 {% include excerpt.html %}
 
-We’ve had incidents in our units, both on the tenant side and the owner side, when we cannot get in touch with them. Please make sure that you have emergency contact information for our property management company, whether you're a tenant or an owner.
+We’ve had incidents in our properties where we could not get in touch with either tenants or the owners. No matter if you're a tenant or owner, please make sure that your emergency contact information is available to your property management company.
 
 It's difficult to deal with the legalities of somebody passing away in one of our units. Some owners have a will or trust set up, and they don't tell the property manager. If something happens, nobody knows legally what to do, and that ties up what we can and cannot do for those involved. When we don't have accurate contact information, it becomes an investigative chase, so **please provide the property management company with your contact information.**
 
