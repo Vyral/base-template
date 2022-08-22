@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Remove Your PMI
+title: Sick of Your PMI?
 date: 2022-08-22 00:00:00
 tags:
   - Finance Advice
