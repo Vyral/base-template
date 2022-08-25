@@ -17,9 +17,9 @@ youtube_code: kRAlZ0wQw1k
 
 {% include excerpt.html %}
 
-“What do I see happening in the market?” Clients always ask me this question, and recently, I noticed an interesting trend in price reductions. This trend has big implications for our market, so I’ll share the details with you today.
+“What do you see happening in the market?” Clients always ask me this question, and&nbsp; I've noticed an interesting trend in price reductions. This trend has big implications for our market, so I’ll share the details with you today.
 
-Recently, my team and I looked at 168 homes in Lake, Flathead, and Sanders counties in the $750,000 to $1 million range. **To our surprise, 30 houses, or around 16%, had price reductions in the last week.** July is typically a busier time of year, so these stuck out.
+Recently, my team and I looked at 168 homes in Lake, Flathead, and Sanders counties in the $750,000 to $1 million range. **To our surprise, 30 houses, or around 16%, had price reductions in the last week.** July is typically a busier time of the year, so these stuck out.
 
 {% include pullquote.html %}
 
