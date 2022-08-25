@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-years-soldwisch-yt.jpg
-youtube_code: YT357-MQi3k
+youtube_code: j8KBs4ZOQH4
 ---
 {% include youtube.html %}
 
