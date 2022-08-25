@@ -1,6 +1,6 @@
 ---
 layout: post
-title: These Past 2 Years Have Been a Blast
+title: Thanks to Our Listeners and Viewers!
 date: 2022-08-11 00:00:00
 tags:
   - Real Estate
