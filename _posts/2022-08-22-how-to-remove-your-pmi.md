@@ -19,7 +19,7 @@ youtube_code: 1Bi8FvwsY80
 
 {% include excerpt.html %}
 
-Do you have private mortgage insurance? PMI is necessary for some loans, but your monthly payment will be lower if you can remove it. Fortunately, you can remove PMI, and I’ll tell you a few ways how.&nbsp;
+Do you have private mortgage insurance (PMI)? It's necessary for some loans, but your monthly payment will be lower if you can remove it. Fortunately, you can remove PMI, and I’ll tell you a few ways how.&nbsp;
 
 First, do you have an FHA loan or a conventional loan? **If you have an FHA loan, the only way to remove PMI is by refinancing.** This change is fairly recent; before 2018, your PMI would disappear after five years into an FHA loan. However, since then, you must refinance to remove it.&nbsp;&nbsp;
 
