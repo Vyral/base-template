@@ -5,7 +5,7 @@ date: 2022-08-22 00:00:00
 tags:
   - Home Selling Tips
   - Real Estate
-excerpt: Why older homeowners should consider all their options before they sell.
+excerpt: Why older homeowners should consider all their options before selling.
 enclosure:
 pullquote: Once you sell, the house is gone.
 enclosure_type: video/mp4
@@ -22,9 +22,9 @@ There’s a lot to consider before older homeowners sell their houses. What do I
 
 Let’s say there are a few older homeowners who we’ll call Mom and Dad. Mom has dementia and needs to live in a care facility. Dad is running out of money trying to pay for this, and the idea of selling the house comes up.
 
-{% include pullquote.html %}
-
 Sometimes people in this situation will have to do that, but there are other options. If Mom and Dad bought the house for $30,000 but they sell it for $1.5 million, **they’ll have to pay hundreds of thousands in capital gains tax.&nbsp;**
+
+{% include pullquote.html %}
 
 They could use a reverse mortgage, but that comes with some fees. Another thing to consider is that if Mom passed away, Dad could sell the house and incur much less tax.&nbsp;
 
