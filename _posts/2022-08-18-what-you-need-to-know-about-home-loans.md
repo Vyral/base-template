@@ -4,7 +4,8 @@ title: What You Need To Know About Home Loans
 date: 2022-08-18 05:00:00
 tags:
 excerpt: Bri Vandlen from Honor Home Loans answers your top mortgage questions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/2022/Mark+Kelly_Answering+Mortgage+Questions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
