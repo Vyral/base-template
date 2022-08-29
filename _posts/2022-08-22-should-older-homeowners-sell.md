@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/what-to-consider-knight-yt.jpg
-youtube_code: 9qWM7uQfcBE
+youtube_code: P_g2nTUCZIs
 ---
 {% include youtube.html %}
 
