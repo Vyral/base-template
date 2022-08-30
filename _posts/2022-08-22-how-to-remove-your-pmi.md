@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sick of Your PMI?
+title: Sick of Your Mortgage Insurance?
 date: 2022-08-22 00:00:00
 tags:
   - Finance Advice
