@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/great-photos-sawyer-yt.jpg
-youtube_code: GKkR7LI1-LQ
+youtube_code: c-t_sQxoFGk
 ---
 {% include youtube.html %}
 
