@@ -20,7 +20,7 @@ youtube_code: ZHvg7wfHDBY
 
 What happened to the Phoenix real estate market? I believe it’s best to answer that with the facts, so I’m here to share some critical market indicators and explain how they affect your buying and selling plans.&nbsp;
 
-If we compare this month’s market to what it was at this time last year, we’ll find that inventory has increased by 155.7% while homes under contract dropped by 29.2%. On the other hand, the median monthly sales price is up by 11.4% at $450,000, which is a $30,000 drop since May. Additionally, the number of homes that have closed is down by 33%, and the median days before a house is accepted is 21 days. Our days of supply is 65. Lastly, around 28% of the entire MLS had to adjust their prices only a week before I recorded this video.
+If we compare this month’s market to what it was at this time last year, we’ll find that inventory has increased by 155.7%, while homes under contract dropped by 29.2%. On the other hand, the median monthly sales price is up by 11.4% at $450,000, which is a $30,000 drop since May. Additionally, the number of homes that have closed is down by 33%, and the median days before a contract is accepted is 21 days. Our days of supply is 65. Lastly, around 28% of the entire MLS had to adjust their prices only a week before I recorded this video.
 
 {% include pullquote.html %}
 
