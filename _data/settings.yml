@@ -28,14 +28,14 @@ client:
     the best and most timely information to our clients, we are your go-to
     source for real estate industry insight and advice.
   market:
-  brand: BTG Real Estate
-  brokerage: real broker, LLC
-  address: '55 N Arizona Pl #104<br>Chandler, AZ 85225'
+  brand: real broker, LLC
+  brokerage:
+  address: '9280 S Kyrene Rd Suite 117<br>Tempe AZ 85284'
   phone: (480) 327-8092
   phone_type:
   phone2:
   phone2_type:
-  email: inquiries@btgrealestate.com
+  email: kevin.langan1@gmail.com
   url: 'https://kevin.btgarizona.com'
 emma_form: >-
   <script
@@ -43,10 +43,10 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://kevin.btgarizona.com/home_value'
+  first_CTA_URL: 'https://www.onereal.com/kevin-langan-1/cma'
   second_CTA_text: Home Search
   second_CTA_URL: >-
-    https://kevin.btgarizona.com/search#?q_limit=36&q_prioritize=agents.0.id=kb039|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
+    https://www.onereal.com/kevin-langan-1/listings?page_number=0&type=buy&google_place_id=ChIJy3mhUO0SK4cRrBtKNfjHaYw&longitude=-112.0740373&latitude=33.4483771&beds_min=&baths_min=&price_min=0&price_max=3750000
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -54,14 +54,14 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Receive a Home Value Report
-    CTA_url: 'https://kevin.btgarizona.com/home_value'
+    CTA_url: 'https://www.onereal.com/kevin-langan-1/cma'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
     CTA_url2: >-
-      https://kevin.btgarizona.com/search#?q_limit=36&q_prioritize=agents.0.id=kb039|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
+      https://www.onereal.com/kevin-langan-1/listings?page_number=0&type=buy&google_place_id=ChIJy3mhUO0SK4cRrBtKNfjHaYw&longitude=-112.0740373&latitude=33.4483771&beds_min=&baths_min=&price_min=0&price_max=3750000
 lender:
   show_section: true
   header_text: Trusted Partner
@@ -127,8 +127,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#2a1936'
-  theme_color: '#79af31'
+  brand_color: '#05C3F9'
+  theme_color: '#323232'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

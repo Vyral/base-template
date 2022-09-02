@@ -2,133 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Real Estate Video Blog with Kevin Langan</title>
-    <description>Our mission at BTG Real Estate is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The BTG Real Estate, your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Dec 2017 16:17:57 -0600</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2017 16:17:57 -0600</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <description>Our mission at real broker, LLC is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The real broker, LLC, your professional  Real Estate Agents.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Sep 2022 15:13:38 -0500</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 15:13:38 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Why Are Homebuyers Feeling Optimistic?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T_AIFal_azI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>3 Major Ways Our Market Is Changing</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WoCYcKH_FSo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Homebuyer confidence is higher than ever, and long-term renters are looking to start buying. Today I’ll talk about why that is.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;These factors are changing as the housing market continues to shift.&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;In case you weren’t aware, the real estate market is changing. We’re moving away from an extreme seller’s market, and things are slowly becoming more normalized. Today I’ll tell you about the three biggest changes that I’ve noticed lately:&lt;/p&gt;
 
-&lt;p&gt;Why are homebuyers suddenly so optimistic? Right now, homebuyer confidence is at an all-time high, and there is an increasing number of renters who think that now is a good time to buy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Inventory.&lt;/strong&gt; In March, the Phoenix area MLS had about 4,000 listings, but we now have about 18,000. That shows demand has fallen below the rate of new listings, which is causing our supply to rise.&lt;/p&gt;
 
-&lt;p&gt;There are three reasons that I believe explain this phenomenon:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Interest rates.&lt;/strong&gt; Interest rates are currently around 6% for a well-qualified buyer who puts 20% down. That impacts affordability, meaning fewer people are willing to purchase a property at our current prices.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Lending guidelines are loosening up.&lt;/strong&gt; Back in 2010 and 2011, things were a little bit harder on the buyer side to qualify for a mortgage. Now that the guidelines have opened up a bit, it has enabled more buyers to buy a home.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Things are slowly becoming more normalized.%20http://localhost:4000/3-major-ways-our-market-is-changing.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Things are slowly becoming more normalized.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Jobs are looking good.&lt;/strong&gt; Fewer buyers are concerned about losing their jobs. Additionally, the median household income is now 150% of what their monthly payment would be as opposed to the historical average of 125%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Expectations between buyers and sellers.&lt;/strong&gt; Buyers are noticing that the market is shifting, while some sellers are still clinging to the dynamics of the past market where they were getting 25 offers in one weekend. Those days are over.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. Long-term renters are now opting to buy homes.&lt;/strong&gt; Millennials, the generation born after 1980, have mostly opted out of homeownership up until now. Now that they’re entering the market as first-time buyers, they’re further along in their careers with higher income and more savings.&lt;/p&gt;
+&lt;p&gt;We’re moving toward a more normal market cycle. As things settle down, it’s very important to work with a great agent that understands the local market, pricing and marketing strategies, and negotiation tactics. If you have any questions about buying or selling a home, please give me a call or send me an email. I’d be happy to set up a free consultation.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=HOMEBUYER CONFIDENCE IS AT AN ALL-TIME HIGH.%20localhost:4000/why-are-homebuyers-feeling-optimistic.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“HOMEBUYER CONFIDENCE IS AT AN ALL-TIME HIGH.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So what does all this mean for you? If you’re on the fence about buying a home, those are three things to take into consideration. It’s definitely still a good time to buy, and interest rates are low compared to historic averages.&lt;/p&gt;
-
-&lt;p&gt;If you’re thinking about selling a home, give us a call or send us an email. We’d love to get you scheduled for a free consultation.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Dec 2017 15:42:00 -0600</pubDate>
-        <link>localhost:4000/why-are-homebuyers-feeling-optimistic.html</link>
-        <guid isPermaLink="true">localhost:4000/why-are-homebuyers-feeling-optimistic.html</guid>
+        <pubDate>Mon, 08 Aug 2022 02:00:00 -0500</pubDate>
+        <link>http://localhost:4000/3-major-ways-our-market-is-changing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/3-major-ways-our-market-is-changing.html</guid>
+        
+        <category>Market Update</category>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why You Should Invest in Real Estate</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ijrnxse1Z9Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here are three key benefits to using real estate as an investment vehicle.&lt;/p&gt;
+
+&lt;p&gt;If you haven’t invested in real estate yet, why not? There are so many great benefits to doing so. Here are my top three:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Cash flow.&lt;/strong&gt; This is the measure of the income a property will generate after all expenses are covered. It’s monthly income you can use to pay your bills or put into other savings and investments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Equity.&lt;/strong&gt; This is the difference between the value of the property and the amount you owe on the mortgage. As renters pay rent, you’ll use that money to pay off your mortgage, and your loan balance will decrease. Real estate appreciates about 3% to 5% per year historically, although we’ve seen double-digit appreciation over the last few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Tax benefits.&lt;/strong&gt; As an investor, you’re able to depreciate the value of that property over time to offset your active income. Many high-earning, self-employed individuals pay a lot in taxes. A way to shelter themselves is to purchase investment properties and use the IRS tax rules to depreciate those assets over time and offset their income tax burden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We’ve seen double-digit appreciation over the last few years.%20http://localhost:4000/why-you-should-invest-in-real-estate.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We’ve seen double-digit appreciation over the last few years.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in exploring your investment options or just have any real estate-related questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Apr 2022 10:43:39 -0500</pubDate>
+        <link>http://localhost:4000/why-you-should-invest-in-real-estate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/why-you-should-invest-in-real-estate.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>3 Ways You Can Profit From Inflation</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g87ZGXI3nTg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Three ways inflation can benefit homeowners and real estate investors.&lt;/p&gt;
+
+&lt;p&gt;How does inflation affect real estate? As an agent and investor, I study how inflation impacts both me and our market. I follow Keith Weinhold and his podcast, &lt;a href=&quot;https://www.getricheducation.com/&quot;&gt;“Get Rich Education.”&lt;/a&gt; He talks about three ways inflation benefits both investors and homeowners: price appreciation, debt debasement, and cash flow enhancement. Let’s talk about what he means:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Home prices will appreciate.&lt;/strong&gt; The price of your home will go up in an inflationary environment because there’s more capital available to bid up the value.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Inflation benefits both investors and homeowners.%20http://localhost:4000/3-ways-you-can-profit-from-inflation.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Inflation benefits both investors and homeowners.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Your loan will be easier to pay off.&lt;/strong&gt; The dollars you’re bringing in will be less valuable than the dollars you spent to get the loan on your home. Likely, inflation will outpace your mortgage’s interest rate, so it will be easier to pay off your mortgage with those less valuable dollars.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. You will get more cash flow from investments.&lt;/strong&gt; Rents typically rise during inflationary times. However, if you have a 30-year mortgage, your payments will stay the same. That means your monthly net income will increase over time.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or want to profit from inflation using real estate, call or email me. I’d be happy to schedule a free consultation with you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/3-ways-you-can-profit-from-inflation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/3-ways-you-can-profit-from-inflation.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why Inspections Are Key for Buyers and Sellers</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YG2WaWer99M?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Whether you’re a buyer or seller, you need a home inspection. &lt;/p&gt;
+
+&lt;p&gt;Are you thinking about buying or selling a home soon? If so, you should probably get an inspection; yes, even the sellers. Today I want to talk about why inspections are important to both parties in a real estate transaction. &lt;/p&gt;
+
+&lt;p&gt;In my opinion, &lt;strong&gt;every seller should get a pre-inspection before they list.&lt;/strong&gt; This way, you can address any issues before you go on the market. This will ensure your transaction runs smoothly and your buyer doesn’t walk away. &lt;/p&gt;
+
+&lt;p&gt;For buyers, the benefits of an inspection are a little more obvious. Often, your seller will be willing to help pay for any items on your inspection report. The cost of those repairs almost always exceeds the cost of the inspection. &lt;strong&gt;Don’t be scared of the inspection report.&lt;/strong&gt; Properties deteriorate over time, and a report is just a tool you can use to make the best purchase you can. &lt;/p&gt;
+
+&lt;p&gt;If you have questions about this topic or anything else real estate-related, please call or email me. I am always willing to help!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Mar 2022 09:17:08 -0500</pubDate>
+        <link>http://localhost:4000/why-inspections-are-key-for-buyers-and-sellers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/why-inspections-are-key-for-buyers-and-sellers.html</guid>
         
         <category>Home Buyer Tips</category>
         
-        
-      </item>
-    
-      <item>
-        <title>It's Time to Reflect on Our Blessings</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-Gwa81ALb2U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Now is the time of year when many choose to stop and reflect on the things they are grateful for. Today, I want to let you know how thankful I am for all of you.&lt;/p&gt;
-
-&lt;p&gt;Want to sell your home? &lt;a href=&quot;https://kevin.btgarizonaproperties.com/home-valuation/&quot; target=&quot;_blank&quot;&gt;Get a FREE home value report&lt;/a&gt;&lt;br /&gt;
-Want to buy a home? &lt;a href=&quot;https://www.btgarizonaproperties.com/&quot; target=&quot;_blank&quot;&gt; Search all homes for sale&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Today I wanted to let you know how grateful I am for you and your support.&lt;/p&gt;
-
-&lt;p&gt;Thanksgiving is a great time to reflect on our blessings. I consider all of you to be among the things I am blessed with.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THANKSGIVING IS A GREAT TIME TO REFLECT ON OUR BLESSINGS.%20localhost:4000/its-time-to-reflect-on-our-blessings.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THANKSGIVING IS A GREAT TIME TO REFLECT ON OUR BLESSINGS.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I appreciate all of you who have allowed me to serve you over this past year.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I hope you have a happy Thanksgiving and a great holiday season.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions or have any real estate needs, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2017 15:52:00 -0600</pubDate>
-        <link>localhost:4000/its-time-to-reflect-on-our-blessings.html</link>
-        <guid isPermaLink="true">localhost:4000/its-time-to-reflect-on-our-blessings.html</guid>
-        
-        <category>Thanksgiving</category>
+        <category>Home Seller Tips</category>
         
         
       </item>
     
       <item>
-        <title>Were Bringing Even More Value to Real Estate</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EXuSER3SMSs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Will Rising Rates Do To Our Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NSe1WILEzmM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;We have an exciting announcement to make today. Stay tuned for good news.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Interest rates will affect our market but not as soon as you might think.&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;Interest rates are going up, so what will that do to our market?&lt;/p&gt;
 
-&lt;p&gt;The Langan Team is excited to announce that we are joining forces with Brandon Tracy and BTG real estate.&lt;/p&gt;
+&lt;p&gt;Historically speaking, &lt;strong&gt;the market does not immediately soften when rates rise.&lt;/strong&gt; In fact, we see a rush of buyers who fear that they may be priced out of the market. &lt;/p&gt;
 
-&lt;p&gt;With this merger, &lt;strong&gt;we’re going to be able to deliver an even higher level of service to our clients&lt;/strong&gt; even as the industry is constantly changing around us.&lt;/p&gt;
+&lt;p&gt;The Federal Reserve has indicated that they plan to raise short-term rates, which will indirectly impact the mortgage bond market. Because of that, we’ll likely see higher mortgage rates throughout the year.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;We have a desire to serve everyone we work with at the highest level possible.&lt;/strong&gt; With the way things are changing in real estate, some of our personal goals got pushed by the wayside. Now that we have decided to join forces, it will allow us to accomplish all of our goals, both personally and professionally. We are very excited about what the future has to hold for ourselves and our clients.&lt;/p&gt;
+&lt;p&gt;If you’re thinking about buying or refinancing this year, &lt;strong&gt;I would do it sooner rather than later.&lt;/strong&gt; Our market still has short supply and high demand.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE RESULT IS GOING TO BE EVEN BETTER SERVICE.%20localhost:4000/were-bringing-even-more-value-to-real.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE RESULT IS GOING TO BE EVEN BETTER SERVICE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to fantastic service, Brandon and BTG Real Estate bring a high level of marketing knowledge and leverage to what we already have. Simply put, these are two very talented organizations coming together and taking what each of them is best at to combine them into one package.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions for us about the merger and what it means for you, we’re always here to answer your call or email. We look forward to hearing from you soon.&lt;/p&gt;
+&lt;p&gt;If you have any questions, feel free to call or email me. I look forward to hearing from you.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Oct 2017 12:11:00 -0500</pubDate>
-        <link>localhost:4000/were-bringing-even-more-value-to-real.html</link>
-        <guid isPermaLink="true">localhost:4000/were-bringing-even-more-value-to-real.html</guid>
-        
-        <category>BTG Introduction</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How Will the Fed's Recent Rate Hike Impact Our Real Estate Market? </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mF_i5Z1ex0g?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;How will the Fed’s recent rate hike affect our real estate market? I’ve got the answers for you.&lt;/p&gt;
-
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
-
-&lt;p&gt;On June 14th, the Fed raised the federal funds rate by 0.25%. When those types of things happen, people can start to get a little nervous.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mortgage interest rates have dropped recently to 3.9% in the wake of the recent Fed rate hike.&lt;/strong&gt; That doesn’t seem like that should be the case, but the federal funds rate and mortgage bond rates don’t necessarily go hand-in-hand.&lt;/p&gt;
-
-&lt;p&gt;The economy continues to do well, with unemployment and inflation rates looking good. The Fed will typically raise rates when the economy is doing well, so this rate hike was expected. That will keep growth on a sustainable pattern.&lt;/p&gt;
-
-&lt;p&gt;This corresponds with increased sales and home appreciation rates. Interestingly enough, the number of mortgages has actually &lt;strong&gt;increased by 2.5% since last year.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE ECONOMY CONTINUES TO DO WELL, WITH UNEMPLOYMENT AND INFLATION RATES LOOKING GOOD.%20localhost:4000/how-will-feds-recent-rate-hike-impact.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE ECONOMY CONTINUES TO DO WELL, WITH UNEMPLOYMENT AND INFLATION RATES LOOKING GOOD.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;While the Fed raising or lowering rates tends to get a lot of attention, I feel that the real estate market is going to continue growing and won’t be affected by the changes we’ve been seeing.&lt;/p&gt;
-
-&lt;p&gt;If you have any additional questions or you’re looking to buy or sell a home in our area, please give me a call. I’d be happy to help!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Aug 2017 11:50:00 -0500</pubDate>
-        <link>localhost:4000/how-will-feds-recent-rate-hike-impact.html</link>
-        <guid isPermaLink="true">localhost:4000/how-will-feds-recent-rate-hike-impact.html</guid>
+        <pubDate>Wed, 09 Mar 2022 18:00:00 -0600</pubDate>
+        <link>http://localhost:4000/what-will-rising-rates-do-to-our-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-will-rising-rates-do-to-our-market.html</guid>
         
         <category>Market Update</category>
         
@@ -136,61 +147,24 @@ Want to buy a home? Search all homes for sale&lt;/p&gt;
       </item>
     
       <item>
-        <title>Market Update for Phoenix </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Vf8Nvq0uelE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>3 Easy Ways To Improve Your Credit Score</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eeSQk64ATQM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;What’s driving the Phoenix real estate market? Three things in particular.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;These are my three tips to help you improve your credit score.&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;Having a good credit score can be the difference between getting a loan for your dream house or not. Here are three easy ways to improve your credit score:&lt;/p&gt;
 
-&lt;p&gt;At the end of the 2nd quarter of 2017, there were three things that stood out to me in terms of market activity. Here’s what’s driving the market right now:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Pay down balances on credit cards.&lt;/strong&gt; If you have a balance that’s over 50% of your max, that’s going to negatively impact your score. You may not be able to pay it off in one payment, but start making progress and get the balance under 50%. Ideally, you should get it under 30%. You can also call your credit card company and ask for a credit limit increase.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Active listings are down.&lt;/strong&gt; There are fewer homes coming on the market this month than there were last month. That 6% decrease means inventory is still very low.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Get a credit card if you don’t have one.&lt;/strong&gt; Be very responsible with your use of it, and don’t go over 30% of your max credit limit.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Pending sales.&lt;/strong&gt; Right now, we’ve got 11,394 of them, which is down from last month’s 12,431. Some of this is due to a bit of a seasonal decline in our large metro area. Some of it is related to our depleted inventory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Set up automatic payments.&lt;/strong&gt; This way, you’ll never miss a payment by over 30 days and get a late report on your credit.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. Closed sales.&lt;/strong&gt; This month, we had about 236 fewer sales than we did in the previous month, which isn’t a very big change. It’s a notable decrease, but we are still up 8% in closed sales year over year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=HOMES THAT ARE PRICED RIGHT ARE RECEIVING OFFERS QUICKLY.%20localhost:4000/market-update-for-phoenix.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“HOMES THAT ARE PRICED RIGHT ARE RECEIVING OFFERS QUICKLY.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;What does this mean to you? We still have low inventory, affordable homes, and homes that are priced right are getting offers almost immediately after they hit the market.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about the market or anything else relating to real estate, give me a call or send me an email. I look forward to hearing from you.&lt;/p&gt;
+&lt;p&gt;If you have any questions about buying or selling a home, give me a call or send an email. I’d be happy to get you scheduled for a free consultation.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Aug 2017 12:43:00 -0500</pubDate>
-        <link>localhost:4000/market-update-for-phoenix.html</link>
-        <guid isPermaLink="true">localhost:4000/market-update-for-phoenix.html</guid>
-        
-        <category>Market Update</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>3 Ways to Buy a Home Without a Down Payment</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0UrApjgu8QA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you want to buy a home but can’t cover the down payment, there are three options for home loans here in the Phoenix area that are perfect for you.&lt;/p&gt;
-
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
-
-&lt;p&gt;If you want to buy a home but don’t have any money for down payment, you still have three options.&lt;/p&gt;
-
-&lt;p&gt;If you’re a veteran of a military service, you might have VA eligibility that would allow you to qualify for a &lt;strong&gt;VA loan.&lt;/strong&gt; This is a government-insured loan program that lets you buy a home without any money down.&lt;/p&gt;
-
-&lt;p&gt;Another option would be looking at the many grant programs offered in our area. In Maricopa County, we have two in particular called &lt;strong&gt;Home Plus and Home in 5 that provide grant money that’s set aside by the county&lt;/strong&gt; for your down payment to buy a home. You can even get closing cost assistance from sellers; I’ve had client buy a home with way with less than $1,000 out of pocket.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR COUNTY HAS MULTIPLE GRANT PROGRAMS WITH MONEY SET ASIDE TO COVER YOUR DOWN PAYMENT.%20localhost:4000/3-ways-to-buy-home-without-down-payment.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR COUNTY HAS MULTIPLE GRANT PROGRAMS WITH MONEY SET ASIDE TO COVER YOUR DOWN PAYMENT.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can also look into &lt;strong&gt;USDA financing.&lt;/strong&gt; This loan program is sponsored and insured by the United States Department of Agriculture and provides zero money down financing for rural areas. Most areas in Maricopa County don’t fall into the USDA requirements, but there are some that do in surrounding areas.&lt;/p&gt;
-
-&lt;p&gt;If you’re interested in any of these three zero money down home loans or you have any other questions about the Phoenix market, give me a call or send me an email. I’m here to help.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 06 Jul 2017 15:53:00 -0500</pubDate>
-        <link>localhost:4000/3-ways-to-buy-home-without-down-payment.html</link>
-        <guid isPermaLink="true">localhost:4000/3-ways-to-buy-home-without-down-payment.html</guid>
+        <pubDate>Sun, 20 Feb 2022 18:00:00 -0600</pubDate>
+        <link>http://localhost:4000/3-easy-ways-to-improve-your-credit-score.html</link>
+        <guid isPermaLink="true">http://localhost:4000/3-easy-ways-to-improve-your-credit-score.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -198,137 +172,97 @@ Want to buy a home? Search all homes for sale&lt;/p&gt;
       </item>
     
       <item>
-        <title>The 3 Biggest Benefits of Owning Investment Property</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MhFwNTGr-tY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>My Top 3 Valentine’s Day Dinner Recommendations</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y9qo-mOS6sU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;If you’re on the fence about investing in real estate as a rental property, learning these three benefits might tip the scales for you.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;If you need a dinner reservation for Valentine’s Day, try these spots first&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;If you’re looking for a restaurant recommendation for Valentine’s Day, you’re in luck. Here are my top three recommendations for the Phoenix area:&lt;/p&gt;
 
-&lt;p&gt;Real estate is an excellent vehicle for building long-term wealth as an investment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pomopizzeria.com/&quot;&gt;&lt;strong&gt;1. Pomo Pizzeria.&lt;/strong&gt;&lt;/a&gt; It’s an authentic Neapolitan pizza shop. It reminds me of the places I’ve visited in Naples.&lt;/p&gt;
 
-&lt;p&gt;There are three benefits to focus on for buy and hold (rental) real estate investment properties:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.themissionaz.com/&quot;&gt;&lt;strong&gt;2. The Mission.&lt;/strong&gt;&lt;/a&gt; It’s a gourmet Mexican restaurant. Get your reservation in now before it’s too late.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Cash flow:&lt;/strong&gt; Once you close on the property and get a tenant, you’ll receive income every single month from their rent. You need to make sure you’re actually making profit and that the expenses of the property don’t exceed the incoming cash.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tapatiocliffshilton.com/dining/different-pointe-of-view/&quot;&gt;&lt;strong&gt;3. A Different Pointe of View.&lt;/strong&gt;&lt;/a&gt; It’s on top of a mountain at the Pointe Hilton Tapatio Cliffs Resort, and the food is just as good as the views. It’s an A+ experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Tax breaks:&lt;/strong&gt; There’s a rule in the IRS code that allows you to depreciate the property - meaning you can write off its expenses over time and deduct it from your taxable income. This creates annual savings.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Building equity&lt;/strong&gt; in the property over time: As you rent out the property, the tenant will pay down the mortgage balance and the property will appreciate over time. Between your tenant paying down the mortgage and the appreciation (40-year average is about 4%), you’ll build a lot of equity.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OVER TIME, A TENANT PAYS DOWN YOUR MORTGAGE WHILE APPRECIATION BOOSTS YOUR PROPERTY'S VALUE.%20localhost:4000/the-3-biggest-benefits-of-owning.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OVER TIME, A TENANT PAYS DOWN YOUR MORTGAGE WHILE APPRECIATION BOOSTS YOUR PROPERTY’S VALUE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of the investment, it’s important to have an exit strategy in place to move that money into another investment or retirement.&lt;/p&gt;
-
-&lt;p&gt;If you’re thinking of investing in Phoenix real estate or just buying a home, give me a call or send me an email soon. I’d be glad to help however I can.&lt;/p&gt;
+&lt;p&gt;If you need any more dinner recommendations or have a quick real estate question, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Jun 2017 11:00:00 -0500</pubDate>
-        <link>localhost:4000/the-3-biggest-benefits-of-owning.html</link>
-        <guid isPermaLink="true">localhost:4000/the-3-biggest-benefits-of-owning.html</guid>
+        <pubDate>Sun, 06 Feb 2022 18:00:00 -0600</pubDate>
+        <link>http://localhost:4000/my-top-3-valentines-day-dinner-recommendations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/my-top-3-valentines-day-dinner-recommendations.html</guid>
         
-        <category>Home Buyer Tips</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>3 Things to Remember About Zillows Zestimates</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0YkIwoxe8Fo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>2 Ways to Benefit From Homeownership Via Taxes</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Fj9jxg0xx0A?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;How accurate is Zillow’s Zestimate? Not very, and there are three main reasons why.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here are some tax-related benefits to homeownership you might not know.&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;I’m not a CPA or tax attorney, so before I begin, know that this advice is just a general guideline. Please consult with your CPA or tax attorney before you make any real estate transactions based on this advice.&lt;/p&gt;
 
-&lt;p&gt;When it comes to Zillow’s Zestimate tool, there are a few things you need to keep in mind about Zillow and home values:&lt;/p&gt;
+&lt;p&gt;That being said, there are two exclusions in the IRS code that allow you to avoid or defer paying taxes on the sale of real estate. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Zestimates can be manipulated by the homeowner&lt;/strong&gt; or an agent coaching the homeowner. In preparation to list the property for sale, the owner can add updates, change the square footage, and do other things in Zillow that will drastically change their Zestimate. Sometimes, buyers will compare the Zestimate to your asking price to determine what kind of offer they should make and if the home is priced fairly. The problem is that the Zestimate is just a ballpark number, not a fair market value.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The first is the primary residence exemption.&lt;/strong&gt; If you’ve lived in a home as your primary residence for two of the last five years and sell it, you can claim up to $250,000 in capital gains if you’re single or $500,000 if you’re married.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Zillow can be off by 10% to 20%.&lt;/strong&gt; In our county, that number is definitely closer to 20%. Zillow itself tracks the Zestimate and the actual sales price of their properties and say that it’s often off by 10%. However, I’ve seen Zestimates in our market off by 30% or 40%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The second exemption is for investment properties.&lt;/strong&gt; A 1031 exchange has a couple of rules. First, it has to be an investment property, and you have to have owned it for more than one year. If both conditions are met, you can exchange that property for another one of equal or greater value without paying capital gains taxes. The money from your sale goes to an intermediary, then you identify another property to purchase with those funds. You can then defer all your taxable liability on that money and use it to buy another, more expensive piece of real estate.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. You need to ask a professional.&lt;/strong&gt; After all, if you think you might be sick, you will look up your symptoms on WebMD. If you are actually sick or concerned, then you will go straight to a doctor for diagnosis and treatment. It’s the same with your home value. It’s fine to look at Zillow if you’re just curious, but if you really want to sell or refinance, then you need to reach out to a professional real estate agent so that you have an accurate understanding of what your house is worth in the current market.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=SEND ME YOUR ADDRESS AND YOUR ZESTIMATE TO SEE HOW ACCURATE ZILLOW REALLY IS.%20localhost:4000/3-things-to-remember-about-zillows.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“SEND ME YOUR ADDRESS AND YOUR ZESTIMATE TO SEE HOW ACCURATE ZILLOW REALLY IS.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, I’d like to give you a more specific example. Let’s try an experiment. Send me your Zestimate and your home address. I’ll pull some comparables and tell you what the actual market value of your home is.&lt;/p&gt;
-
-&lt;p&gt;If we get enough people to participate, I’ll do another video sharing the results of what I found. That way, you will have a clear understanding of how accurate (or inaccurate) Zillow really is in our market.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, if you have any other questions about real estate, just give me a call or send me an email. I look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;If you have any questions for me about this topic or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Jun 2017 10:54:00 -0500</pubDate>
-        <link>localhost:4000/3-things-to-remember-about-zillows.html</link>
-        <guid isPermaLink="true">localhost:4000/3-things-to-remember-about-zillows.html</guid>
+        <pubDate>Tue, 28 Dec 2021 18:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2-ways-to-benefit-from-homeownership-via-taxes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2-ways-to-benefit-from-homeownership-via-taxes.html</guid>
         
-        <category>Zillow Zestimates</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Real Estate Investments as Vacation Rentals</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mtRrYDNMHow?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What I Expect From Our 2022 Market</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KuaQJHiaVEk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Many real estate investors here in Phoenix have turned to vacation rentals like Airbnb for cash flow. If you’re considering this kind of investment, consider these four points.&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;Here’s what I believe we’ll see in our Phoenix real estate market in 2022.&lt;/p&gt;
 
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
+&lt;p&gt;What will happen in the 2022 Phoenix real estate market? Today I’m sharing my market predictions for next year. &lt;strong&gt;We’ve been in a seller’s market with low inventory and high demand throughout 2021, and I expect the same from 2022.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Many real estate investors here in the Phoenix area are making big returns using Airbnb and VRBO.com. If you’re thinking about using an investment property to use as a vacation rental, there are four things to keep in mind:&lt;/p&gt;
+&lt;p&gt;I also foresee single-digit appreciation despite 2021’s appreciation exceeding 20% for the median sale price. One reason I predict more mild appreciation next year is because I expect interest rates will increase by the end of 2022. Something to keep in mind about the real estate market is that it’s very stable. The stock and crypto markets can be incredibly volatile and rise or fall 20% within a day, whereas if there’s a shift in supply and demand, it’ll take months (if not a year or two) to impact the real estate market. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Location:&lt;/strong&gt; Phoenix is a destination city, so you want the property to be close to destination attractions like golf tournaments and other sporting events or things that attract winter travelers. Winter is the ‘hot’ season for vacation rentals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Zoning and/or HOA restrictions of the property:&lt;/strong&gt; Some HOAs don’t allow vacation rentals, so check with a property’s HOA and the city’s zoning codes beforehand to make sure you can use it as a vacation rental.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Management:&lt;/strong&gt; You’ll want to have a management company in place to take care of it for you so you don’t have to deal with tenants coming and going constantly, or the cleaning and turnaround that comes along with it. A management company will handle the bookings, cleaning, and management, making your life as the investor and owner much easier.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Exit strategy:&lt;/strong&gt; Like with any investment, think about the end goal you’re shooting for. Personally, I’d be focused on the cash flow and eventually liquidating the property to move the money elsewhere. Having a property in a prime location will appreciate over time, setting you up for success in the long run.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=HAVING A PROPERTY IN A PRIME LOCATION WILL APPRECIATE OVER TIME.%20localhost:4000/real-estate-investments-as-vacation_19.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“HAVING A PROPERTY IN A PRIME LOCATION WILL APPRECIATE OVER TIME.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about investment properties and the benefits of vacation rentals, give me a call or send me an email soon. I’d love to speak with you!&lt;/p&gt;
+&lt;p&gt;I believe our market will stay strong and consistent in 2022. If you have any questions about the market or buying or selling a home, please give me a call or send an email. I’d be glad to schedule a free consultation with you.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 19 May 2017 12:07:00 -0500</pubDate>
-        <link>localhost:4000/real-estate-investments-as-vacation_19.html</link>
-        <guid isPermaLink="true">localhost:4000/real-estate-investments-as-vacation_19.html</guid>
-        
-        <category>Airbnb and Investment Properties</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>1st Quarter Predictions vs. Reality in the Phoenix Market</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ka_naYSwzdk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Today we’re looking back on our predictions for the 2017 Phoenix market compared to where we’re actually at.&lt;/p&gt;
-
-&lt;p&gt;Want to sell your home? Get a FREE home value report
-Want to buy a home? Search all homes for sale&lt;/p&gt;
-
-&lt;p&gt;Back in January, I gave four predictions for what I thought would happen this year in the Phoenix market: Homes priced under $250,000 being very competitive, interest rates, new construction, and the luxury market.&lt;/p&gt;
-
-&lt;p&gt;Today, I wanted to break down how those predictions fared.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First, we still see a lot of pressure in that first-time homebuyer price range of $250,000 and under.&lt;/strong&gt; Currently, there are fewer than 7,300 pending sales in that price range with only about 5,800 active listings for sale.&lt;/p&gt;
-
-&lt;p&gt;This means that in this price range, there is less than one month of inventory, which is extremely low, and it’s definitely a seller’s market. Multiple offers on homes are very common and it’s certainly a challenge for buyers looking to get into their first home.&lt;/p&gt;
-
-&lt;p&gt;I predicted interest rates would rise this year, which they’ve done with some fluctuation thanks to the stock market going up and down a bit. Overall though, rates are higher than they were last year and we expect them to keep trending up.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=IT'S CHALLENGING FOR BUYERS LOOKING TO GET INTO THEIR FIRST HOME.%20localhost:4000/how-our-market-prediction-held-up-in-q1.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“IT’S CHALLENGING FOR BUYERS LOOKING TO GET INTO THEIR FIRST HOME.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;With new construction sales, we’re seeing the activity go up.&lt;/strong&gt; I can personally say that more and more of my clients want to see new builds because of the fact that they’re move-in ready and brand new.&lt;/p&gt;
-
-&lt;p&gt;Finally, there’s the luxury market, which I predicted would get more active this year. Between the $750,000 and $1 million price points, we have 590 pending sales and about 3,300 active listings. That makes for a balanced, healthy, and stable market with about six months worth of inventory, which is much better than it has been in recent years. Over the past few years during the recession, luxury market inventory had been as high as 24 months.&lt;/p&gt;
-
-&lt;p&gt;Thanks for looking back on our predictions. If you have any questions about the Phoenix market or you’re thinking of buying or selling a home, don’t hesitate to give me a call or send me an email. I’m always happy to help!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 04 May 2017 12:18:00 -0500</pubDate>
-        <link>localhost:4000/how-our-market-prediction-held-up-in-q1.html</link>
-        <guid isPermaLink="true">localhost:4000/how-our-market-prediction-held-up-in-q1.html</guid>
+        <pubDate>Sun, 19 Dec 2021 18:00:00 -0600</pubDate>
+        <link>http://localhost:4000/what-i-expect-from-our-2022-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-i-expect-from-our-2022-market.html</guid>
         
         <category>Market Update</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Happy Holidays! </title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UiFQQUUY8i0/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;From our team to your family, we want to wish you a happy holiday season.&lt;/p&gt;
+
+&lt;p&gt;Happy holidays to you!&lt;/p&gt;
+
+&lt;p&gt;The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We wanted to take a moment to thank you for your continued support&lt;/strong&gt;. We love helping people make their real estate dreams come true, so thank you for working with us and supporting our business.&lt;/p&gt;
+
+&lt;p&gt;This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or reply to this email; we’d love to help you.&lt;/p&gt;
+
+&lt;p&gt;In case we don’t hear from you until 2022, have a happy New Year!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Dec 2021 05:30:00 -0600</pubDate>
+        <link>http://localhost:4000/happy-holidays.html</link>
+        <guid isPermaLink="true">http://localhost:4000/happy-holidays.html</guid>
+        
+        <category>Real Estate</category>
         
         
       </item>
