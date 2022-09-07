@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/john-schuster-screenshot-templateyt.jpg
-youtube_code: _Oi6lhUkRsA
+youtube_code: dFht29E1aUs
 ---
 {% include youtube.html %}
 
