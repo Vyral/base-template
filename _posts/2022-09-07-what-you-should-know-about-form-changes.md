@@ -21,7 +21,7 @@ Every year the State Association of Realtors revises the forms that clarify or i
 
 The first change, and perhaps the most significant one, occurs in the Minnesota Purchase Agreement. It dictates how a financing contingency is handled if a buyer fails to perform. **Many people are under the impression that non-contingent offers only pertain to the sale of the home or an inspection; in reality, it also refers to mortgage financing.** What if a buyer fails to obtain a mortgage loan? This form change addresses the issue and helps direct what happens to the earnest money if a buyer fails to perform under the terms of the purchase agreement.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 A second form change on the financing side of things is the removal of a specific checkbox. Initially, this box was for whether a buyer needed a special bond or assistance for a down payment. Sellers would look at an offer, see that the buyer needed assistance, and then decide they didn’t want to work with them. **Chances were the buyer already qualified for the aid, so this was adversely hurting the negotiations.** That checkbox has been eliminated, so buyers no longer need to worry about it.
 
