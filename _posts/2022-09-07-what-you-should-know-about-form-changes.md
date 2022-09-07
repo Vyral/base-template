@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About Form Changes
-date:
+date: 2022-09-07 00:00:00
 tags:
   - Real Estate
 excerpt: What the State Association of Realtors is changing in some housing forms.
