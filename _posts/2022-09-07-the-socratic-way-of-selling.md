@@ -15,7 +15,7 @@ youtube_code: Xo2q9tdhCDM
 ---
 {% include youtube.html %} &nbsp;
 
-{% include excerpt.html %}
+{%include excerpt%}
 
 &nbsp;
 
