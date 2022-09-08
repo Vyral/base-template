@@ -1,7 +1,7 @@
 ---
 layout: post
 title: excerpt.html
-date:
+date: 2022-09-08 00:00:00
 tags:
 excerpt:
 enclosure:
@@ -12,6 +12,4 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
-{% include excerpt.html %}
-{% include pullquote.html %}
+{% include youtube.html %} {% include excerpt.html %} {% include pullquote.html %}
