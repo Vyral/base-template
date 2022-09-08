@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/inspectors-myles-yt.jpg
-youtube_code:
+youtube_code: AxG4jNIinxI
 ---
 {% include youtube.html %}
 
