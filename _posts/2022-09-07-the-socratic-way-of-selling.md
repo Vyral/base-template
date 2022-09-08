@@ -15,7 +15,7 @@ youtube_code: Xo2q9tdhCDM
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}&nbsp;
 
 Have you ever struggled to work with a certain person? Have you ever been on an appointment with someone and didn’t connect with them, but they hired you anyways? Maybe you've experienced the opposite. You felt like you connected well with someone only to watch them hire another agent. If you have ever experienced any of these things, you probably felt very confused.
 
