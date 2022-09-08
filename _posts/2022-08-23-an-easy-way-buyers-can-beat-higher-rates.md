@@ -21,6 +21,6 @@ If you’ve been paying attention to the news, you probably know that interest r
 
 Right now, many sellers are willing to pay some of their buyer's costs to secure the sale of their home. You may be able to negotiate a deal where your seller helps you pay for your discount points.&nbsp;
 
-We recently worked with a buyer who was able to lower their mortgage rate by 0.75% by buying two discount points. Typically, a discount point costs about 1% of the sales price of a home. On a $400,000 house, lowering the rate by 0.75% would save about $950 a month, **which adds up to $3,000 a year and $90,000 over a 30-year fixed-rate mortgage.&nbsp;**
+We recently worked with a buyer who was able to lower their mortgage rate by 0.75% by buying two discount points. Typically, a discount point costs about 1% of the loan amount. On a $400,000 mortgage, lowering the rate by 0.75% would save about $250 a month,&nbsp;**which adds up to $3,000 a year and $90,000 over a 30-year fixed-rate mortgage.&nbsp;**
 
 Contact your local lender to learn more about their discount point options. As always, call or email us with any questions. We are always willing to help\!
