@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/09-06-youtube.jpg
+youtube_alternate_image: /uploads/09-06-youtube-1.jpg
 youtube_code: 1nDKfHfksLA
 ---
 {% include youtube.html %}
