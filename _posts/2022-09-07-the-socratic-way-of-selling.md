@@ -13,8 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/dave-friedman-yt.jpg
 youtube_code: Xo2q9tdhCDM
 ---
-&nbsp;
-
 {% include youtube.html %}
 
 {% include excerpt.html %}
