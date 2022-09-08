@@ -13,7 +13,13 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/dave-friedman-yt.jpg
 youtube_code: Xo2q9tdhCDM
 ---
-{% include youtube.html %</p><p>&nbsp;</p><p>Have you ever struggled to work with a certain person? Have you ever been on an appointment with someone and didn&rsquo;t connect with them, but they hired you anyways? Maybe you've experienced the opposite. You felt like you connected well with someone only to watch them hire another agent. If you have ever experienced any of these things, you probably felt very confused.&nbsp;&nbsp;</p><p>{% include pullquote.html %}
+{% include youtube.html %}
+
+&nbsp;
+
+Have you ever struggled to work with a certain person? Have you ever been on an appointment with someone and didn’t connect with them, but they hired you anyways? Maybe you've experienced the opposite. You felt like you connected well with someone only to watch them hire another agent. If you have ever experienced any of these things, you probably felt very confused.&nbsp;&nbsp;
+
+{% include pullquote.html %}
 
 **As a real estate agent, you must understand your personality, as well as those of your clients.** If you need help with this, we have lots of training on understanding these things and how to interact well with all kinds of people.&nbsp;
 
