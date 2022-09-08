@@ -4,7 +4,7 @@ title: 'The Socratic Way of Selling '
 date: 2022-09-07 07:00:00
 tags:
   - Real Estate
-excerpt: 'Learning the Socratic way of selling and how to communicate effectively. '
+excerpt: 'Learning the Socratic way of selling and how to communicate effectively.  '
 enclosure:
 pullquote: 'In the eyes of the consumer, the meeting is all about them. '
 enclosure_type: video/mp4
