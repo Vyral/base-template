@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Miss Our Pumpkins Against Hunger Event
+title: Pumpkins Against Hunger
 date: 2022-09-07 14:45:00
 tags:
   - Miscellaneous
