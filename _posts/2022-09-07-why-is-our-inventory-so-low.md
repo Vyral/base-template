@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dustin.jpg
-youtube_code: Q76hMa-5oa4
+youtube_code: wERmbWmF0io
 ---
 {% include youtube.html %}
 
@@ -19,9 +19,9 @@ youtube_code: Q76hMa-5oa4
 
 Is our market going to crash? Will we see a wave of foreclosure? Is this all a repeat of 2008? We get these questions all the time, but don’t worry—the answer to all three is no.&nbsp;
 
-**We will see a shift in our market, but we won’t have a sudden change in inventory.** The banks stopped foreclosing on homes at the start of the COVID pandemic, and they’ve recently extended that policy another year. There’s now about a two-year backlog of foreclosures, which the banks will start releasing bit by bit soon.
+**We will see a shift in our market, but we won’t have a sudden change in inventory.** The banks stopped foreclosing on homes at the start of the COVID pandemic, and they’ve recently extended that policy another year. There’s now a two-year backlog of foreclosures, which the banks will start releasing bit by bit soon.
 
-However, even if all those foreclosures hit the market, it wouldn’t be enough to level out everything. A few things happened over the years that forced us to have such low home inventory. Builders haven’t had readily available supplies since the pandemic and can’t build homes quick enough. A lot of buyers are also relocating between states.
+However, even if all those foreclosures hit the market, it wouldn’t be enough to level out everything. A few things happened over the years that created a low home inventory. Builders haven’t had readily available supplies since the pandemic and can’t build homes quickly enough. Also, a lot of buyers are relocating between states.
 
 {% include pullquote.html %}
 
