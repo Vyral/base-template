@@ -20,7 +20,7 @@ youtube_code: Nphppj8xI3U
 
 {% include excerpt.html %}
 
-Lately, I’ve been doing a series on “The Shift” by Gary Keller. This book has 12 tactics to help you not just survive but thrive in a changing market like ours, and today we’ve finally reached the final tactic: bulletproofing a transaction. There are six issues that can sink a deal, and for each one, I’ll share how you can avoid them in your transaction.
+Lately, I’ve been doing a series on “Shift” by Gary Keller. This book has 12 tactics to help you not just survive but thrive in a changing market like ours, and today we’ve finally reached the final strategy: bulletproofing a transaction. There are six issues that can sink a deal, and for each one, I’ll share how you can avoid them in your transaction.
 
 **1\. Inspections and repairs.** Unexpected issues can sink a deal, but there’s an easy solution: get sellers to do inspections before they list their homes. Sellers haven’t needed to do this in years, but I have a feeling that pre-listing inspections will come back soon.&nbsp;
 
@@ -30,7 +30,7 @@ Lately, I’ve been doing a series on “The Shift” by Gary Keller. This book 
 
 {% include pullquote.html %}
 
-**4\. Contingencies.** Home-sale contingencies are probably going to come up again. They’ve been extinct from the housing market since the pandemic started, but as buyers gain more leverage, this will change. If your seller gets a contingent offer, look for a backup offer. This way, if your first choice’s home doesn’t sell, it isn’t the end of the world.&nbsp;
+**4\. Contingencies.** Home-sale contingencies are probably going to come up again. They haven't been part of the housing market since the pandemic started, but as buyers gain more leverage, this will change. If your seller gets a contingent offer, look for a backup offer. This way, if your first choice’s home doesn’t sell, it isn’t the end of the world.&nbsp;
 
 **5\. Co-op agent.** If they’re giving you bad advice or aren’t communicating well, your co-op agent could become a liability. Rectify this by clarifying your intentions. They might not be a bad agent; it could be that they’ve just never been through a shift like this.
 
