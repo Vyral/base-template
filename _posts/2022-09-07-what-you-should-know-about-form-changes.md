@@ -27,6 +27,6 @@ A second form change on the financing side of things is the removal of a specifi
 
 The third change was made to the buyer’s move-in agreement. The liability insurance template now has “300,000” where it used to be blank. This helps clients who were unsure how to fill out that portion.&nbsp;
 
-Lastly, the Association also changed the seller’s disclosure statement form. It now asks if there was an insurance claim and, if one was filed, whether or not payment was received. Upon compensation, it’s removed from the disclosure statement.&nbsp;
+Lastly, the Association also changed the seller’s disclosure statement form. It now asks if there was an insurance claim and if one was filed, whether or not payment was received. Upon compensation, it’s removed from the disclosure statement.&nbsp;
 
 With all of these alterations, it is crucial to have a good agent who knows when the changes are happening and how to utilize them. If you have any questions regarding this topic or anything else about real estate, please let us know. We’d love to help.
