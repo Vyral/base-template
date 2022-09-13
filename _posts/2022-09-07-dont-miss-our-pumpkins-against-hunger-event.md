@@ -18,8 +18,4 @@ youtube_code: FJxboxI54a8
 
 {% include excerpt.html %}
 
-Enjoy a Halloween event for a great cause\! We’re so excited to announce our annual Colemere Realty Associates Pumpkins Against Hunger event. We look forward to seeing you on **October 6 from 4:30 p.m. to 7 p.m. at Sandy Lone Peak Park.**&nbsp;
-
-We’ll have refreshments, face painting, kids’ activities, prize drawings, and the best part—pumpkin carving. We’ll clean them, so you don’t have to worry about the mess and can just focus on carving\! You can even take it home with you. Please also bring a can of food for the local food bank\! We love to give back at this time of the year. Let’s make this a fun and meaningful occasion\!
-
-Register by clicking on the link below, so we know you’re coming and can reserve you a pumpkin. If you need more details about the event or have any real estate questions, don’t hesitate to call or email us. We’d love to connect with you\!
+We are so excited to invite you to our annual Colemere Realty Associates "Pumpkins Against Hunger" event, to be held on October 6, from 4:30 p.m. to 7 p.m. Come join us for a fun and meaningful Halloween event. This year at "Pumpkins Against Hunger" we will have refreshments, face painting, kids’ activities, prize drawings, a sawdust pool with prizes, and of course pumpkin cleaning and pumpkin carving. A major part of this event is the food drive. We will be collecting food for the food bank as they stand in great need this time of year, so please bring your nonperishable item and we ask you to be generous as we will match donations. For more details about the charity event, watch this short video.
