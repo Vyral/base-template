@@ -18,7 +18,7 @@ youtube_code: TLdxhLQE60A
 
 {% include excerpt.html %}
 
-When it comes time to show your home to potential buyers, it pays to make sure your house is ready for the market. Keeping your property in top condition will ensure you sell for top dollar. Here are three simple but effective ways to prepare your home for sale:
+When it comes time to show your home to potential buyers, it pays to have your house ready for the market. Keeping your property in top condition will ensure you sell for top dollar. Here are three simple but effective ways to prepare your home for sale:
 
 **1\. Fresh paint.** As the market’s most popular color, white paint makes rooms look larger.
 
