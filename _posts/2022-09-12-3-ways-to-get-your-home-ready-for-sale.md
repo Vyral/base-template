@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/mr-08-22-youtube-3.jpg
+youtube_alternate_image: /uploads/updated-mikki-08-22-youtube-3.jpg
 youtube_code: TLdxhLQE60A
 ---
 {% include youtube.html %}
