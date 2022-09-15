@@ -19,7 +19,7 @@ youtube_code: SdTj-3dMax4
 
 Where are you financially? Where do you feel comfortable? Are you working off of fear at this point? If so, what's driving that fear? On the other hand, maybe you’re doing pretty well. We get it. This is a very private topic—after all, we’re all told not to talk about religion, politics, and money.
 
-However, **not talking about money can hurt you if that means you aren’t educating yourself**. We've learned a lot about managing money. We want to share that information and help people. If you're someone that's not sure of your budget, or you’re concerned about the market, you might need some help.
+However, **not talking about money can hurt you if that means you aren’t educating yourself**. We've learned a lot about managing money. We want to share that information and help people. If you're someone who's not sure of your budget, or you’re concerned about the market, you might need some help.
 
 We'd love to educate you on this. We're thinking about putting together some courses, training, and free stuff that can help people because we learned long ago that they did not teach financial literacy in school. We had to spend thousands of dollars to achieve our level of financial knowledge, but **we want to share that information with you because we love helping our clients**.
 
