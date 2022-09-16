@@ -23,7 +23,7 @@ Everyone loves bright and airy spaces, but **people underestimate how much energ
 
 Another tip is that 90% of the energy your washer uses goes to heating the water. If you reduce the temperature of the water, you’ll cut your CO2 emissions, and your clothes will be just fine. Plus, there are plenty of laundry detergents that are designed for cold water.
 
-**You can also make the switch to LED.** Going from a fluorescent bulb to an LED one can make a huge difference. Plus, those fluorescent bulbs are ugly anyway.
+**You can also make the switch to LED lightbulbs.** Going from a fluorescent bulb to an LED one can make a huge difference. Plus, those fluorescent bulbs are ugly anyway.
 
 Our last tip is to add more plants to your decor. Not only will it keep your home energy efficient, but it’s also very trendy.&nbsp;
 
