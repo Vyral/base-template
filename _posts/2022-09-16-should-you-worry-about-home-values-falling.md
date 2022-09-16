@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Worry About Home Values Falling?
-date:
+date: 2022-09-16 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
