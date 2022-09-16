@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now a Good Time to Buy a Home?
-date:
+date: 2022-08-10 11:39:05
 tags:
   - Home Buyer Tips
   - Market Update
