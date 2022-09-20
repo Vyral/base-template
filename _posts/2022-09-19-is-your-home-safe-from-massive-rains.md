@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/duke-kimhan-yt.png
+youtube_alternate_image: /uploads/duke-kimhan-ss-yt.png
 youtube_code: 5V6IZb7r-QE
 ---
 {% include youtube.html %}
