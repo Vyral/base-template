@@ -17,8 +17,6 @@ youtube_code: y6CfamtjFdA
 
 {% include excerpt.html %}
 
-Should you sell? Now that the market’s changed, is it still a good time to list your home?
-
-The bottom line is that **if selling your home makes sense for you, then now is a good time to do it.** Home values are still significantly higher than last year, so you may have a lot of equity you could utilize.&nbsp;
+Now that the market’s changed, is it still a good time to list your home? The bottom line is that **if selling your home makes sense for you, now is a good time to do it.** Home values are still significantly higher than last year, so you may have a lot of equity you could utilize.&nbsp;
 
 If you’re considering selling, call or email me, and I can set you up with a free consultation. I look forward to hearing from you.
