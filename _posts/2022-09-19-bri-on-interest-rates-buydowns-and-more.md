@@ -4,7 +4,8 @@ title: Bri on Interest Rates, Buydowns, and More
 date: 2022-09-19 02:00:00
 tags:
 excerpt: 'Here’s what you need to know about interest rates in our market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/Videos/2022/Mark+Kelly_Answeting+More+Mortgage+Questions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
