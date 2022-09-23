@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Taking a detailed tour of the most beautiful house in Charleston.
 enclosure:
-pullquote: “I’m showing you the coolest house in Charleston.”
+pullquote: I’m showing you the coolest house in Charleston.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
