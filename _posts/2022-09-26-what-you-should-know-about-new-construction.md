@@ -10,7 +10,7 @@ pullquote: New builds currently require a 6% to 8% deposit when you go under con
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/09-12-payne-youtube.jpg
+youtube_alternate_image: /uploads/09-27-payne-youtube.jpg
 youtube_code: CZ5swzA80SQ
 ---
 {% include youtube.html %}
