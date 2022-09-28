@@ -20,6 +20,6 @@ youtube_code: Jl_VbPBtd9U
 
 Do you know what you need to budget for when buying a home? What are the costs involved when looking to purchase property? It is important to be informed before entering the process.&nbsp;
 
-A list of things to budget for would include down payments, an earnest money deposit, any kind of repairs that you may not be able to negotiate with the seller to do, closing costs, settlement expenses, insurance, inspections, and appraisals. **Be prepared to pay for all of these.&nbsp;**
+A list of things to budget for would include down payments, an earnest money deposit, any kind of repairs that you may not be able to negotiate with the seller, closing costs, settlement expenses, insurance, inspections, and appraisals. **Be prepared to pay for all of these.&nbsp;**
 
 The right agent or team can definitely guide you in your preparations, and our team takes pride in being able to do that. You can find out more by giving us a call or visiting our website. We look forward to hearing from you\!
