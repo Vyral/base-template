@@ -35,10 +35,12 @@ Your ticket includes lunch by **Ludger's Catering**, the event space is provided
 
 {% include pullquote.html %}
 
-[![](/uploads/session-1.png){: width="1350" height="600"}](https://www.eventbrite.com/e/ql-for-adults-revealing-the-possibilities-within-tickets-425771222187?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
+&nbsp;
 
-[![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-5.png){: width="2107" height="718"}](https://www.eventbrite.com/e/ql-for-adults-unleashing-the-extraordinary-you-tickets-425804541847?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
+&nbsp;
 
-[![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-3.png){: width="2096" height="712"}](https://www.eventbrite.com/e/ql-for-adults-maximizing-your-potential-tickets-425809085437?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
+&nbsp;
 
-[![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-6.png){: width="2098" height="719"}](https://www.eventbrite.com/e/ql-for-adults-funding-the-life-you-desire-tickets-425813298037?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
+&nbsp;
+
+&nbsp;
