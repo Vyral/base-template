@@ -33,8 +33,12 @@ As business, the economy and the world has changed over the past few years, this
 
 Your ticket includes lunch by **Ludger's Catering**, the event space is provided by **Teresa Brockwell with Farmers Insurance**, and the materials and training sessions are provided by The Wolek Group. **All proceeds go to KWKC.org** to educate and empower our youth.
 
-&nbsp;
-
 {% include pullquote.html %}
 
-&nbsp;
+![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-1.png){: width="2102" height="695"}
+
+![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-5.png){: width="2107" height="718"}
+
+![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-3.png){: width="2096" height="712"}
+
+![](/uploads/ql-quarter-insta-carousel-post-youtube-banner-instagram-reel-6.png){: width="2098" height="719"}
