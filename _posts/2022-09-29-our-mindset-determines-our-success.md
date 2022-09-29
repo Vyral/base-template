@@ -21,7 +21,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/ql-quarter-insta-carousel-post-youtube-banner.png
 youtube_code: QNRTuGsk_KI
 ---
-**Our mindset determines our success.&nbsp;**
+# **Our mindset determines our success.&nbsp;**
 
 {% include youtube.html %}
 
