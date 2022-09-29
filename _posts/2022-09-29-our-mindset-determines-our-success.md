@@ -10,9 +10,9 @@ tags:
   - Lead Conversion
   - Listing Presentation
 excerpt: >-
-  Join us for QL for Adults, interactive training and mastermind, which will
-  allow you to connect with like-minded professionals while tapping into tips
-  and tools to turn your thoughts & dreams into reality! 
+  interactive training and mastermind, which will allow you to connect with
+  like-minded professionals while tapping into tips and tools to turn your
+  thoughts & dreams into reality! 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -21,11 +21,11 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/ql-quarter-insta-carousel-post-youtube-banner.png
 youtube_code: QNRTuGsk_KI
 ---
+**Our mindset determines our success.&nbsp;**
+
 {% include youtube.html %}
 
 {% include excerpt.html %}
-
-**Our mindset determines our success.&nbsp;**
 
 Join us for QL for Adults, interactive training and mastermind, which will allow you to connect with like-minded professionals while tapping into tips and tools to turn your thoughts & dreams into reality\!&nbsp;
 
