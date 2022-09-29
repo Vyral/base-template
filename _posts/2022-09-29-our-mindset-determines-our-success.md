@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Mindset Determines Our Success
+title: 'Quantum Leap: Leadership Lessons'
 date: 2022-09-29 10:00:00
 tags:
   - Transaction Management
