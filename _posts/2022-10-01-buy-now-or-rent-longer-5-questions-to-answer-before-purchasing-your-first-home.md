@@ -3,7 +3,7 @@ layout: post
 title: >-
   Buy Now or Rent Longer? 5 Questions to Answer Before Purchasing Your First
   Home
-date: 2022-10-01 00:00:00
+date: 2022-10-01 00:30:00
 tags:
 excerpt:
 enclosure:
