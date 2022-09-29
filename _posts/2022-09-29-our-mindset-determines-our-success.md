@@ -35,10 +35,10 @@ Your ticket includes lunch by **Ludger's Catering**, the event space is provided
 
 {% include pullquote.html %}
 
-* ### Session 1:&nbsp;[Revealing the Possibilities Within](https://www.eventbrite.com/e/ql-for-adults-revealing-the-possibilities-within-tickets-425771222187?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
-* ### Session 2:&nbsp;[Unleashing the Extraordinary You](https://www.eventbrite.com/e/ql-for-adults-unleashing-the-extraordinary-you-tickets-425804541847?aff=ebdsoporgprofile)
-* ### Session 3:&nbsp;[Maximize Your Potential](https://www.eventbrite.com/e/ql-for-adults-maximizing-your-potential-tickets-425809085437?aff=ebdsoporgprofile)
-* ### Session 4:&nbsp;[Funding the Life You Desire](https://www.eventbrite.com/e/ql-for-adults-funding-the-life-you-desire-tickets-425813298037?aff=ebdsoporgprofile)
+* #### Session 1:&nbsp;[Revealing the Possibilities Within](https://www.eventbrite.com/e/ql-for-adults-revealing-the-possibilities-within-tickets-425771222187?aff=ebdsoporgprofile){: target="_blank" rel="noopener"}
+* #### Session 2:&nbsp;[Unleashing the Extraordinary You](https://www.eventbrite.com/e/ql-for-adults-unleashing-the-extraordinary-you-tickets-425804541847?aff=ebdsoporgprofile)
+* #### Session 3:&nbsp;[Maximize Your Potential](https://www.eventbrite.com/e/ql-for-adults-maximizing-your-potential-tickets-425809085437?aff=ebdsoporgprofile)
+* #### Session 4:&nbsp;[Funding the Life You Desire](https://www.eventbrite.com/e/ql-for-adults-funding-the-life-you-desire-tickets-425813298037?aff=ebdsoporgprofile)
 
 &nbsp;
 
