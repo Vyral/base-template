@@ -10,8 +10,8 @@ pullquote: Buyers can negotiate for the first time in years.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/youtube.jpg
-youtube_code: pb0PESifDW0
+youtube_alternate_image: /uploads/youtube-1.jpg
+youtube_code: 8oez8ni10O8
 ---
 {% include youtube.html %}
 
