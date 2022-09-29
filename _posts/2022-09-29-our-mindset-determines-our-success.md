@@ -10,7 +10,7 @@ tags:
   - Lead Conversion
   - Listing Presentation
 excerpt: >-
-  interactive training and mastermind, which will allow you to connect with
+  Interactive training and mastermind, which will allow you to connect with
   like-minded professionals while tapping into tips and tools to turn your
   thoughts & dreams into reality! 
 enclosure:
