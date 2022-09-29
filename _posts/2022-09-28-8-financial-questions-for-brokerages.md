@@ -27,7 +27,7 @@ What are the eight financial questions to ask a team or a brokerage you might wa
 
 **3\. Administrative support.** Are you going to be doing all the administrative work yourself, will you hire out, or is there somebody assigned to you to take that off your plate?
 
-**4\. Lead generation.** If you're a real estate agent trying to get into the business, it's really hard to get new business. I also learned that the hard way. Evaluate whether the brokerage, team, or outfit you're working with will provide you with leads and what the quality of those leads is. Are they just funneling them to you, or are they vetted appointments?
+**4\. Lead generation.** If you're a real estate agent trying to get into the business, it's really hard to get new leads. I also learned that the hard way. Evaluate whether the brokerage, team, or outfit you're working with will provide you with leads and what the quality of those leads is. Are they just funneling them to you, or are they vetted appointments?
 
 {% include pullquote.html %}
 
