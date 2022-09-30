@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/budgeting-for-buying-sawyer-yt.jpg
-youtube_code: Jl_VbPBtd9U
+youtube_code: OQcqzX37-Dg
 ---
 {% include youtube.html %}
 
