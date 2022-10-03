@@ -5,7 +5,7 @@ date: 2022-09-29 07:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: Many people believe that the housing bubble has burst, but that’s not true.
+excerpt: Did you miss the peak selling season?
 enclosure:
 pullquote: Don’t believe the sensationalist news articles.
 enclosure_type: video/mp4
