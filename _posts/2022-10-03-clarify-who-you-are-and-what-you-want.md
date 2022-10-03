@@ -27,4 +27,4 @@ Who are you? What do you want? What are you willing to do to get what you want?
 
 For example, if lead generation is something that I have to do, and I'm willing to do it, but door-knocking isn’t my thing, I'm not going to entertain that. I know that the probability of me doing it well is low. Although, making 100 calls every day, talking to 30 people, and having a real estate conversation is something I'm willing to do each and every day.
 
-If you have any questions or want to talk about this further, please call, text, or email us. We'd love to set up some time to speak with you.
+If you have any questions or want to talk about this further, please call, text, or email us. We'd love to set up some time to speak with you.&nbsp;
