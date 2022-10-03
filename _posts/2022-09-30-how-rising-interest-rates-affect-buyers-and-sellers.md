@@ -25,5 +25,3 @@ A year ago, interest rates were at 3%. If you bought a $500,000 house back then,
 Due to rising interest rates, **buyers can now negotiate inspection contingencies and request closing costs**. Sellers, on the other hand, should be more open to negotiations and consider paying the closing costs to give buyers more options.&nbsp;
 
 There are different tools available to make the transaction successful for both the buyer and seller. If you want to learn more about today’s market or have any questions about this topic, call or email us. We’d love to connect with you.
-
-{% include pullquote.html %}
