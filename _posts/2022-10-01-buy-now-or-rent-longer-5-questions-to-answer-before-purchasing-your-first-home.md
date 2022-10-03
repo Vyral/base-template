@@ -5,6 +5,8 @@ title: >-
   Home
 date: 2022-10-01 00:30:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt:
 enclosure:
 pullquote:
