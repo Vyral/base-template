@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why to Not Believe Sensational Headlines
+title: Should I sell or wait for the market to come back?
 date: 2022-09-29 07:00:00
 tags:
   - Market Update
