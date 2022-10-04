@@ -114,13 +114,13 @@ The decision to buy or rent a home is among the most consequential you will make
 
 Sources:&nbsp;
 
-1. CNN -[https://www.cnn.com/2022/08/11/homes/home-prices-second-quarter/index.html](https://www.cnn.com/2022/08/11/homes/home-prices-second-quarter/index.html)
-2. NPR -[https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l](https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l)&nbsp;
-3. Bankrate -[https://www.bankrate.com/mortgages/5-year-real-estate-rule/](https://www.bankrate.com/mortgages/5-year-real-estate-rule/)&nbsp;
-4. Federal Reserve Bank of St. Louis -[https://fred.stlouisfed.org/series/MSPUS](https://fred.stlouisfed.org/series/MSPUS)
-5. National Association of REALTORS -[https://www.nar.realtor/blogs/economists-outlook/price-to-rent-ratios-by-state-from-2014-2019](https://www.nar.realtor/blogs/economists-outlook/price-to-rent-ratios-by-state-from-2014-2019)&nbsp;
-6. National Association of REALTORS -[https://www.nar.realtor/blogs/economists-outlook/single-family-homeowners-typically-accumulated-225K-in-housing-wealth-over-10-years](https://www.nar.realtor/blogs/economists-outlook/single-family-homeowners-typically-accumulated-225K-in-housing-wealth-over-10-years)
-7. Statista -[https://www.statista.com/statistics/200223/median-apartment-rent-in-the-us-since-1980/](https://www.statista.com/statistics/200223/median-apartment-rent-in-the-us-since-1980/)
+1. CNN -<br>[https://www.cnn.com/2022/08/11/homes/home-prices-second-quarter/index.html](https://www.cnn.com/2022/08/11/homes/home-prices-second-quarter/index.html)
+2. NPR -<br>[https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l](https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l)&nbsp;
+3. Bankrate -<br>[https://www.bankrate.com/mortgages/5-year-real-estate-rule/](https://www.bankrate.com/mortgages/5-year-real-estate-rule/)&nbsp;
+4. Federal Reserve Bank of St. Louis -<br>[https://fred.stlouisfed.org/series/MSPUS](https://fred.stlouisfed.org/series/MSPUS)
+5. National Association of REALTORS -<br>[https://www.nar.realtor/blogs/economists-outlook/price-to-rent-ratios-by-state-from-2014-2019](https://www.nar.realtor/blogs/economists-outlook/price-to-rent-ratios-by-state-from-2014-2019)&nbsp;
+6. National Association of REALTORS -​​​​​[https://www.nar.realtor/blogs/economists-outlook/single-family-homeowners-typically-accumulated-225K-in-housing-wealth-over-10-years](https://www.nar.realtor/blogs/economists-outlook/single-family-homeowners-typically-accumulated-225K-in-housing-wealth-over-10-years)
+7. Statista -<br>[https://www.statista.com/statistics/200223/median-apartment-rent-in-the-us-since-1980/](https://www.statista.com/statistics/200223/median-apartment-rent-in-the-us-since-1980/)
 
 &nbsp;
 
