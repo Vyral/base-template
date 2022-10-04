@@ -13,10 +13,10 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/screenshot-2022-10-05-at-4-01-21-am-1.png
+youtube_alternate_image: /uploads/screenshot-2022-10-05-at-4-01-21-am-3.png
 youtube_code:
 ---
-![](/uploads/screenshot-2022-10-05-at-4-01-21-am.png){: width="2296" height="872"}
+![](/uploads/screenshot-2022-10-05-at-4-01-21-am-2.png){: width="2296" height="872"}
 
 Deciding whether to jump into the housing market or rent instead is rarely an easy decision – especially if you’re a first-time homebuyer. But in today’s whirlwind market, you may find it particularly challenging to pinpoint the best time to start exploring homeownership.&nbsp;&nbsp;
 
