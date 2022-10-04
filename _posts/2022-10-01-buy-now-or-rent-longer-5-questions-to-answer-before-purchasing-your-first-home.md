@@ -12,8 +12,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/october-2022---mvp---blog-post-image-1.jpg
+use_youtube_image: true
+youtube_alternate_image: /uploads/october---1263-x-383-1.jpg
 youtube_code:
 ---
 ![](/uploads/screenshot-2022-09-30-at-2-34-53-am.png){: width="1944" height="742"}
