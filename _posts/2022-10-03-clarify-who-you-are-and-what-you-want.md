@@ -6,7 +6,7 @@ tags:
   - Lead Generation
 excerpt: Figure out who exactly you are and what exactly you want in this life.
 enclosure:
-pullquote: 'To what level will you go to ensure that you get everything you want? '
+pullquote: To what level will you go to ensure that you get everything you want?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
