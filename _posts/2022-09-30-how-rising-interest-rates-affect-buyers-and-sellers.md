@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/huebners-whats-happening-with-interest-rates---yt.jpg
-youtube_code: uTE7sbd46HU
+youtube_code: uMdhCOyrBR0
 ---
 {% include youtube.html %}
 
