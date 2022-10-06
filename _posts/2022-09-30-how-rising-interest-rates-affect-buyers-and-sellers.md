@@ -18,7 +18,7 @@ youtube_code: uTE7sbd46HU
 
 {% include excerpt.html %}
 
-What happened to the housing market in late September 2022? In case you haven’t heard, **interest rates are now at 7%.** If you’re a buyer or a seller, how does this affect you? Today we’ll explain what rising rates mean for your real estate plans.
+What happened to the housing market in late September 2022? In case you haven’t heard, **interest rates are near 7%.** If you’re a buyer or a seller, how does this affect you? Today we’ll explain what rising rates mean for your real estate plans.
 
 A year ago, interest rates were at 3%. If you bought a $500,000 house back then, the payment would be about the same as a $350,000 home with today’s interest rate. That’s a huge difference in buying power, and we make sure to discuss this with our clients.
 
