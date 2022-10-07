@@ -17,7 +17,7 @@ youtube_code: cPgTw-fBVWs
 
 {% include excerpt.html %}
 
-ow that the market has changed, how can you prep your home for sale while living in it? It can be tricky, but with our tips, you can make this as easy and hassle-free as possible:
+Now that the market has changed, how can you prep your home for sale while living in it? It can be tricky, but with our tips, you can make this as easy and hassle-free as possible:
 
 **1\. Make sure your home looks the same as the photos on your listing.** If you're working with the HBR team, we do everything we can to help you prepare the house—from staging to cleaning, etc.
 
@@ -25,6 +25,6 @@ ow that the market has changed, how can you prep your home for sale while living
 
 {% include pullquote.html %}
 
-However, if you think maintaining your home for sale while living in it is too much for you, especially now that most people are working from home, we have an option you can use to sell your home easily. We offer a trade wherein you use the equity in your home to move into your new home. It’s not the same as a bridge loan, although we offer that as well.&nbsp;
+However, if you think maintaining your home for sale while living in it is too much for you, especially now that most people are working from home, we have an option you can use to sell your home easily. We offer a trade where you use the equity in your home to move into your new home. It’s not the same as a bridge loan, although we offer that as well.&nbsp;
 
 As the market changes, our tips and solutions also change to accommodate your most urgent needs. If you want to learn more about this topic or need help with your buying and selling plans, call or email us. We’re here to help\!
