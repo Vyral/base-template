@@ -15,17 +15,12 @@ client:
   name: John Schuster
   license_number:
   about_markdown: >-
-    The John Schuster Group has sold over 3,800 homes in the last 10 years, is a
-    6-year recipient of \#1 Listing Agent with Coldwell Banker Realty statewide,
-    and has been ranked as one of the Top 100 Real Estate Teams in the nation by
-    Wall Street Journal. John and his team sell more homes than 99.9% of all
-    other agents while striving to be the best real estate team in the Twin
-    Cities. Let our success become your success\!
+    The John Schuster Group has sold over 4,200+ homes and is a 8-year recipient of #1 Listing Agent with Coldwell Banker Realty statewide, and has been ranked as one of the Top 100 Real Estate Teams in the nation by Wall Street Journal. John and his team sell more homes than 99.9% of all other agents while striving to be the best real estate team in the Twin Cities. Let our success become your success!
   market: Twin Cities
   brand: The John Schuster Group
   brokerage: Coldwell Banker Realty
   address: '11455 Viking Dr, Suite 325 <br> Minneapolis, MN 55344'
-  phone: 952-333-SOLD
+  phone: 952-222-9000
   phone_type:
   phone2:
   phone2_type:
@@ -77,7 +72,6 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/JohnSchusterGroup/'
   linkedin_url: 'https://www.linkedin.com/in/johnschustergroup/'
-  gplus_url: 'https://plus.google.com/+JohnSchusterGroup'
   youtube_url: 'https://www.youtube.com/channel/UCvuxZ5FzTydydoaXJVswlbg'
   twitter_url: 'https://twitter.com/johnDschuster'
   instagram_url:
