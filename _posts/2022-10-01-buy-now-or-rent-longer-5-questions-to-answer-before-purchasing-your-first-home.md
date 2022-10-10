@@ -22,9 +22,7 @@ But is renting a better alternative? Rents have also soared along with inflation
 
 So, what's the better choice for you? There’s a lot to consider when it comes to buying versus renting. Luckily, you don’t have to do it alone. Reach out to schedule a free consultation and we'll help walk you through your options. You may also find it helpful to ask yourself the following questions:
 
-<br>&nbsp;
-
-**1\. How long do I plan to stay in the home?**
+<br>**1\. How long do I plan to stay in the home?**
 
 You'll get the most financial benefit from a home purchase if you own the property for at least five years.3 If you plan to sell in a shorter period of time, a home purchase may not be the best choice for you.
 
@@ -36,9 +34,7 @@ Once you’ve found a community that you’d like to stay in for several years, 
 
 Also important: If you plan to stay in the home for the life of the mortgage, there will come a time when you no longer have to make those payments. As a result, your housing costs will drop dramatically, while your equity (and net worth) continue to grow.
 
-<br>&nbsp;
-
-**2\. Is it a better value to buy or rent in my area?**
+<br>**2\. Is it a better value to buy or rent in my area?**
 
 If you know you plan to stay put for at least five years, you should consider whether buying or renting is the better bargain in your area.
 
@@ -52,9 +48,7 @@ So even if renting seems like a better bargain today, buying could be the better
 
 &nbsp;Ready to compare your options? Then reach out to schedule a free consultation. As local market experts, we can help you interpret the numbers to determine if buying or renting is the better value in your particular neighborhood.
 
-<br>&nbsp;
-
-**3\. Can I afford to be a homeowner?&nbsp;**
+<br>**3\. Can I afford to be a homeowner?&nbsp;**
 
 If you determine that buying a home is the better value, you’ll want to evaluate your financial readiness.&nbsp;
 
@@ -67,8 +61,6 @@ Still, you could find that the monthly cost of homeownership is comparable to re
 Plus, even though you’ll be in charge of financing your home’s upkeep if you buy, you’ll also be the one who stands to benefit from the fruits of your investment. Every major upgrade, for example, not only makes your home a nicer place to live; it also helps boost your home's market value.&nbsp;
 
 If you want to buy a home but aren’t sure you can afford it, give us a call to discuss your goals and budget. We can give you a realistic assessment of your options and help you determine if your homeownership dreams are within reach.
-
-&nbsp;
 
 <br>**4\. Can I qualify for a mortgage?**
 
@@ -84,9 +76,7 @@ Whatever your circumstances, it’s always a good idea to get preapproved for a 
 
 Want to learn more about applying for a mortgage? Reach out to request a copy of our report: *“8 Strategies to Secure a Lower Mortgage Rate”*
 
-<br>&nbsp;
-
-**5\. How would owning a home change my life?**
+<br>**5\. How would owning a home change my life?**
 
 Before you begin the preapproval process, however, it’s important to consider how homeownership would affect your life, aside from the long-term financial gains.
 
@@ -98,15 +88,11 @@ The great thing about owning a home is that you can generally do what you want w
 
 The choice – like the home – is all yours.
 
-&nbsp;
-
 <br>**HAVE MORE QUESTIONS? WE’VE GOT ANSWERS**
 
 The decision to buy or rent a home is among the most consequential you will make in your lifetime. We can make the process easier by helping you compare your options using real-time local market data. So don't hesitate to reach out for a personalized consultation, regardless of where you are in your deliberations. We'd be happy to answer your questions and identify actionable steps you can take now to reach your long-term goals.
 
-&nbsp;
-
-<br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
+<br><br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
 
 <br>Sources:&nbsp;
 
