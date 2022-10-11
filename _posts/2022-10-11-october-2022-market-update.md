@@ -18,17 +18,17 @@ youtube_code: ZATT02bRHRg
 
 {% include excerpt.html %}
 
-What is happening so far this year, and what can we expect for the Fall? The real estate market was moving extremely fast as we entered this year. It still was, in fact, up until the middle of the year when **we started to see a correction in the real estate industry.**
+What is happening so far this year, and what can we expect for the fall? The real estate market was moving extremely fast as we entered this year. It still was, in fact, up until the middle of the year when **we started to see a correction in the real estate industry.**
 
-What does this mean? It means the market is starting to normalize after the significant gains we saw earlier. Days on market have increased from the first three to seven days to their current 23 days. This is still much lower than it was several years ago. This is an advantage to our homebuyers, but sellers are still getting the same value.&nbsp;
+his means the market is starting to normalize after the significant gains we saw earlier. Days on market have increased from the first three to seven days to their current 23 days. This is still much lower than it was several years ago. This is an advantage to our homebuyers, but sellers are still getting the same value.&nbsp;
 
 A normalizing market doesn’t mean we are heading for a market crash or a drop in prices. While we won’t see an appreciation rate as high as last year’s, real estate will always appreciate. We can expect a more normal rate of 5% to 8% rather than 23%.&nbsp;
 
-With over 9,100 home sales to date, we are still down 4.9% over last year. Although, new listings are on the rise by 3.5%—meaning homebuyers have more homes to choose from.&nbsp;
+With over 9,100 home sales this year already, we are still down 4.9% over last year. Although, new listings are on the rise by 3.5%—meaning homebuyers have more homes to choose from.&nbsp;
 
 {% include pullquote.html %}
 
-Currently, we only have 1.25 months worth of inventory available, with 1,200 homes on the market. In a balanced market, we would expect to see around five to seven months of inventory. As you can tell, that means we are **well short of shifting out of the seller’s market.**
+Currently, we only have 1.25 months' worth of inventory available, with 1,200 homes on the market. In a balanced market, we would expect to see around five to seven months of inventory. As you can tell, that means we are **well short of shifting out of the seller’s market.**
 
 As of today, the average sales price is $353,000, an increase of 16% over 2021. We’re still seeing record prices in the market, even if homes aren’t selling as quickly. That shows we’re heading toward a normalized market.&nbsp;
 
