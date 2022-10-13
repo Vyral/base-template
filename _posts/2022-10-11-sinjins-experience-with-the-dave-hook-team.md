@@ -5,7 +5,7 @@ date: 2022-10-11 00:00:00
 tags:
 excerpt: Sinjin’s experience in the industry and working with the Dave Hooke Team.
 enclosure:
-pullquote: The Dake Hooke Team gave Sinjin a path to financial and personal freedom.
+pullquote: The Dave Hooke Team gave Sinjin a path to financial and personal freedom.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
