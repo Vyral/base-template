@@ -3,6 +3,8 @@ layout: post
 title: We’re in a Sweet Spot for Selling Your Home
 date: 2022-10-13 00:00:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt: 'Why we believe now is the sweet spot for selling your home. '
 enclosure:
 pullquote:
