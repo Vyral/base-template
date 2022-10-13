@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sinjin’s Experience With the Dave Hook Team
+title: Sinjin’s Experience With the Dave Hooke Team
 date: 2022-10-11 00:00:00
 tags:
 excerpt: Sinjin’s experience in the industry and working with the Dave Hooke Team.
