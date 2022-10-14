@@ -30,4 +30,4 @@ Hearing that made the decision clear. Sinjin knew his business lacked accountabi
 
 One of the most exciting parts of the team for Sinjin is career visioning. That's a process where you sit down and talk about the things that you really like about the job, and it allows you to design a life that's perfect for you. Without a team, he wouldn’t have gotten to where he is right now. It’s given him a path to financial and personal freedom.
 
-If you have any questions or you’d like to learn more about the Dave Hooke Team, don’t hesitate to reach out to us at (717) 216-0860 or [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We look forward to hearing from you.
+If you have any questions or you’d like to learn more about the Dave Hooke Team, don’t hesitate to reach out via phone at&nbsp;[(717) 216-0860](tel:&#40;717&#41; 216-0860){: target="_blank" rel="noopener"}&nbsp;or email&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com). Click here to get all of our latest community and listing updates:&nbsp;[F](mailto:Facebook.com/DaveHookeTeam)[acebook.com/DaveHookeTeam](http://facebook.com/DaveHookeTeam){: target="_blank" rel="noopener"}
