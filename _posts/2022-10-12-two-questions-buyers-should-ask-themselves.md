@@ -4,7 +4,8 @@ title: Two Questions Buyers Should Ask Themselves
 date: 2022-10-12 05:00:00
 tags:
 excerpt: What buyers in today’s housing market should be considering.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/2022/Mark+Kelly_Questions+Homebuyers+Should+Ask.mp4
 pullquote: >-
   It's important to work with someone who understands how mortgage rates impact
   your monthly payment.
