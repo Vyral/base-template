@@ -39,7 +39,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.carbuttisellsct.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.carbuttirealestate.com/
+  second_CTA_URL: https://www.carbuttirealestate.com/property-search/results/?searchtype=3
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
