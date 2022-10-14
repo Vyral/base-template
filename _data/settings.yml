@@ -53,7 +53,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: http://www.carbuttirealestate.com/
+    CTA_url2: https://www.carbuttirealestate.com/property-search/results/?searchtype=3
 lender:
   show_section: false
   header_text: Preferred Lender
