@@ -19,10 +19,10 @@ youtube_code: 4vzqDzpFFVU
 
 Why do I, Jeff Springer, recommend Misty SOLDwisch?
 
-First of all, her experience and professionalism speak for themselves. She has a great team, but **Misty came out to the house on the actual listing, and it was a personal one-on-one situation**. That was impressive to me with the numbers she has accumulated in the Des Moines market.
+First of all, she's a professional, and her experience will speak for itself. She has a great team, but **Misty came out to the house on the actual listing, and it was a personal one-on-one situation**. That was impressive to me with the numbers she has accumulated in the Des Moines market.
 
 Being a catch in the industry like I was for 30 years doing real estate termite inspections, I grew to know the Realtors in this market. We performed about 70% of the real estate inspections in this market for years, so I got to know a lot of real estate professionals.
 
 When your competitors say positive things about you, that’s important to me. Nobody ever said anything negative about Misty SOLDwisch. She’s known as a go-getter. **The Misty SOLDwisch Home Selling Team proved their system worked** because someone was always there taking care of whatever my issues were immediately.
 
-She proved that she has many team members there to ensure the transaction goes well—and mine did.
+She proved that she has many team members there to ensure the transaction goes well—and mine did. If you have questions about anything real estate related, please call or email the SOLDwisch team.
