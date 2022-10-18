@@ -23,16 +23,13 @@ We just spent the last 12 weeks talking about the 12 shift tactics known to help
 Here are the skills you need to know and practice in order to thrive:
 
 1. **Be a market expert.** Know what is going on in your market, and be able to talk to both buyers and sellers confidently and directly about it.
-
-1. **Handle objections.** You might have sellers who think their home is worth more than it really is and buyers who think they will just wait out the shift. You’ve got to be armed with tactics to handle objections and the ability to influence and inspire both your buyer and seller clients to take that next step forward.&nbsp;
-
-1. **Converting.** You’ve set the appointment, but how do you get the deal done right there at the table in this challenging environment?
+2. **Handle objections.** You might have sellers who think their home is worth more than it really is and buyers who think they will just wait out the shift. You’ve got to be armed with tactics to handle objections and the ability to influence and inspire both your buyer and seller clients to take that next step forward.&nbsp;
+3. **Converting.** You’ve set the appointment, but how do you get the deal done right there at the table in this challenging environment?
 
 Outside of skills, you have activities. Here are the things you should be doing all the time:
 
 1. **Lead generation and follow-up.** Today, too many people aren’t doubling down in these activities. These are the fundamental things that every agent should always be doing, no matter the market.&nbsp;
-
-1. **Honor your calendar.** If you’ve scheduled yourself for lead generation during part of the day, you need to honor that.
+2. **Honor your calendar.** If you’ve scheduled yourself for lead generation during part of the day, you need to honor that.
 
 If you practice these skills and activities every day, you increase your chances of thriving in this shifting market. Let others be the ones to just hold on and survive—be the one that thrives.
 
