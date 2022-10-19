@@ -9,7 +9,7 @@ pullquote: The Dave Hooke Team gave Sinjin a path to financial and personal free
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sinjin-interview-hooke-yt-3.jpg
+youtube_alternate_image: /uploads/sinjin-interview-hooke-yt-4.jpg
 youtube_code: cjtTOupuUVI
 ---
 {% include youtube.html %}
