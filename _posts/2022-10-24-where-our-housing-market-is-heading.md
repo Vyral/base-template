@@ -5,7 +5,7 @@ date: 2022-10-24 00:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: An update on the housing market and how it’s normalizing like in 2019.
+excerpt: An update on the housing market and how it’s normalizing to 2019 levels.
 enclosure:
 pullquote: The market is normalizing.
 enclosure_type: video/mp4
