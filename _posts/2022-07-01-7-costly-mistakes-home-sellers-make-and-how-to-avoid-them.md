@@ -40,7 +40,7 @@ Delaying your home sale until prices have hit their peak may sound like a great 
 
 Instead of trying to time the market, choose *your* ideal sales timeline. This may be based on factors like your personal financial situation, shifting family dynamics, or the seasonal patterns in your neighborhood. We can help you figure out the best time to sell given your individual circumstances.
 
-**MISTAKE \#3: Failing to Address Needed Repairs **
+\*\*MISTAKE \#3: Failing to Address Needed Repairs \*\*
 
 Many sellers hope that buyers won’t notice their leaky faucet or broken shutters during home showings. But minor issues like these can leave buyers worrying about more serious — and costly — problems lurking out of sight.
 
@@ -72,7 +72,7 @@ Depending on your circumstances, some of these factors may or may not be importa
 
 Buyers and their agents are focused on crafting deals that work well for them. We can help you assess your needs and goals to select an offer that works best for you.
 
-**MISTAKE \#6: Acting on Emotion Instead of Reason **
+\*\*MISTAKE \#6: Acting on Emotion Instead of Reason \*\*
 
 It’s only natural to grow emotionally attached to your home. That’s why so many sellers end up feeling hurt or offended at some point during the selling process. Low offers can feel like insults. Repair requests can feel like judgments. And whatever you do — don’t listen in on showings through your security monitoring system. Chances are, some buyers won’t like your decor choices, either\!
 
