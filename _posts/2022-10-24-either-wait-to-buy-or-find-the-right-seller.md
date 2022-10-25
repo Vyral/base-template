@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/10-04-langan-youtube.jpg
+youtube_alternate_image: /uploads/10-21-langan-youtube.jpg
 youtube_code: MYyl-iRnCVQ
 ---
 {% include youtube.html %}
