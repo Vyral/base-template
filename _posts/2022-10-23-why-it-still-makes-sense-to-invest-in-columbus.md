@@ -18,7 +18,7 @@ youtube_code: I-gZSCttp1k
 
 {% include excerpt.html %}
 
-Our real estate market is changing; is it still a good idea to invest in property in the Columbus area?&nbsp;
+Our real estate market is changing so is it still a good idea to invest in property in the Columbus area?&nbsp;
 
 In our opinion, absolutely. **Columbus is still one of the top 15 hottest real estate markets in the country, yet prices remain relatively affordable.** On top of that, Ohio is a very landlord-friendly state, unlike places like California.&nbsp;
 
