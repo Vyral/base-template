@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Current Market Affects Sellers
-date: 2022-10-12 07:00:00
+date: 2022-10-25 07:00:00
 tags:
   - Real Estate
 excerpt: Sellers can still find opportunities, but they need to start right away.
