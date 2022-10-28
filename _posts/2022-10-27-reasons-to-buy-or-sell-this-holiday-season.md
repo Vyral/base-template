@@ -22,7 +22,7 @@ Should you buy or sell during the holidays? People have been asking us this ques
 
 **1\. There’s less competition.** Whether you’re looking to buy or sell, many people will take a step back from the market to spend time with their families.&nbsp;
 
-**2\. Holiday decorations make your home cozier.** Buyers will feel like they can really make your house a home if they can see that holiday touch.
+**2\. Holiday decorations make your home cozier.** Buyers will feel like they can make your house a home if they can see that holiday touch.
 
 {% include pullquote.html %}
 
