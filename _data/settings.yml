@@ -27,8 +27,8 @@ client:
     keeping you well informed, and getting you the best deal possible.
   market: Pasadena
   brand: Dave Knight Real Estate Team
-  brokerage: Keller Williams
-  address: 251 S. Lake Ave. Suite 320<br>Pasadena, CA 91101
+  brokerage: 'Keller Williams | DRE#: 01947193'
+  address: 963 Colorado Blvd, Los Angeles, CA 90041
   phone: 626-408-2890
   phone_type: Office
   phone2:
