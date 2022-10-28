@@ -1,16 +1,23 @@
 audit_header: false
 title: The Mortgage Guys
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Job Review 
+  - title: Job Review
     url: https://birdeye.com/abel-tejeda-the-mortgage-guy-157921545877513
-
 client:
   name: Abel Tejeda
   license_number: NMLS - 259168<br>DRE - 02109711
-  about_markdown: |
-    Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.
+  about_markdown: >
+    Our “About Us” web page would be more appropriately called “About You”, as
+    our focus is on closing your loans faster and more efficiently. Our winning
+    strategy consists of a carefully crafted blend of excellent Interest Rates,
+    Flexible Loan Products and Exceptional Customer Service . This concept
+    combines the winning combination: paperless loan process with instant
+    automated loan approvals.
   market: San Diego
   brand: The Mortgage Guy
   brokerage: eMortgageGuys NMLS - 1954044
@@ -21,29 +28,31 @@ client:
   phone2_type:
   email: loans@abeltejeda.com
   url: http://www.abeltejeda.com
-
 CTAs:
   first_CTA_text: Submit Your Application
-  first_CTA_URL: https://tejeda-free-mortgage.paperform.co/
+  first_CTA_URL: https://atejeda-refinance-site-11685.itclix.com/#enteryourzipcode
   second_CTA_text: Schedule an Appointment
-  second_CTA_URL: https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808804';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  second_CTA_URL: >-
+    https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808804';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Get Your Mortgage Today!"
-    CTA_text: "Are you thinking of buying a home in the San Diego area? We can help."
-    CTA_link_text: "Submit Your Application"
+    CTA_title: Get Your Mortgage Today!
+    CTA_text: Are you thinking of buying a home in the San Diego area? We can help.
+    CTA_link_text: Submit Your Application
     CTA_url: https://tejeda-free-mortgage.paperform.co/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "15 Minute Phone Consultation"
-    CTA_text2: "This appointment is to go over your scenario and determine what options are available to you."
-    CTA_link_text2: "Schedule an Appointment"
-    CTA_url2: https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
-
+    CTA_title2: 15 Minute Phone Consultation
+    CTA_text2: >-
+      This appointment is to go over your scenario and determine what options
+      are available to you.
+    CTA_link_text2: Schedule an Appointment
+    CTA_url2: >-
+      https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -55,12 +64,13 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.
-
+    Our mission at -- CLIENT BRAND -- is to be your best resource for financial
+    advice. Our team of professionals can answer any questions you might have
+    about finance. Subscribe to this blog to get the latest news on finance and
+    receive expert tips for preparing yourself for your financial future.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/Abel-Tejeda-American-Mortgage-Group-993302390783767
@@ -71,19 +81,27 @@ socials:
   pinterest_url:
   zillow_url:
   trulia_url:
-  google_reviews_url: https://www.google.com/search?q=abel+tejeda&rlz=1C1CHBF_enUS858US858&oq=abel+tejeda&aqs=chrome..69i57j69i60l2j69i61j69i65l2.1367j0j7&sourceid=chrome&ie=UTF-8#lrd=0x80d954c2adf63d2f:0x4400def41cd1d900,1
+  google_reviews_url: >-
+    https://www.google.com/search?q=abel+tejeda&rlz=1C1CHBF_enUS858US858&oq=abel+tejeda&aqs=chrome..69i57j69i60l2j69i61j69i65l2.1367j0j7&sourceid=chrome&ie=UTF-8#lrd=0x80d954c2adf63d2f:0x4400def41cd1d900,1
   yelp_url: http://www.yelp.com/biz/abel-tejeda-american-mortgage-group-san-diego-2
-  podcast_url: https://itunes.apple.com/us/podcast/san-diego-mortgage-podcast-with-abel-tejeda/id1291045797?mt=2
-
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/san-diego-mortgage-podcast-with-abel-tejeda/id1291045797?mt=2
 podcast:
   title: '-- MARKET -- Mortgage Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers in the -- MARKET -- Area Real Estate Market'
-  description: 'Home loans in San Diego can be complex, but that doesn’t mean you should sign on the dotted line without explanations.'
-  keywords: 'Houses for sale in -- MARKET --, mortgage tips, mortgage lender, financing a home, finance, home for sale, home buying, home buying process, property finder, property search, property, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers in the -- MARKET -- Area Real
+    Estate Market
+  description: >-
+    Home loans in San Diego can be complex, but that doesn’t mean you should
+    sign on the dotted line without explanations.
+  keywords: >-
+    Houses for sale in -- MARKET --, mortgage tips, mortgage lender, financing a
+    home, finance, home for sale, home buying, home buying process, property
+    finder, property search, property, realestate, real estate listings, buying
+    a house, homes for sale, mls, home buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -98,13 +116,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 10px
   shadow_color: white
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -113,5 +129,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
