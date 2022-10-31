@@ -24,7 +24,7 @@ Do you know the components of a good offer? This information is the difference b
 
 {% include pullquote.html %}
 
-**2\. Know the sellers.** Find out what the sellers want out of the deal. There are some contingencies and rent-backs happening in today’s market, so know if that would sweeten your offer. Have an agent on your side who can find out that information for you. We call this “the art of the deal” and we are very trained to help you with this.&nbsp;
+**2\. Know the sellers.** Find out what the sellers want out of the deal. There are some contingencies and rent-backs happening in today’s market, so know if that would sweeten your offer. Have an agent on your side who can find out that information for you. We call this “the art of the deal”, and we are very trained to help you with this.&nbsp;
 
 **3\. Be flexible.** Have a good purchase price, be reasonable with closing costs as well as timelines with closing and inspections, etc. Again, working with the seller will help you create a win-win scenario.&nbsp;
 
