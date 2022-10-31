@@ -11,7 +11,7 @@ pullquote: Create a win-win scenario.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/stand-out-sawyer-yt.jpg
+youtube_alternate_image: /uploads/stand-out-sawyer-yt-2.jpg
 youtube_code: UKGO3qkf_qs
 ---
 {% include youtube.html %}
