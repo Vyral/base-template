@@ -27,4 +27,4 @@ If you have any questions about the event, don’t hesitate to reach out to us. 
 
 **A huge thanks to our amazing sponsors:**
 
-![](/uploads/sponsors.PNG){: width="100%" height="100%"}
+![](/uploads/sponsors.PNG){: width="80%" height="80%"}
