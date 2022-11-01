@@ -24,3 +24,7 @@ This year we will give away 1,000 huge pumpkin pies to anyone in the community w
 If you have a charitable organization or community group that needs a bulk order of pies, we're happy to donate. Just make sure you reach out to us right away so we can add you to the reservation.&nbsp;
 
 If you have any questions about the event, don’t hesitate to reach out to us. We look forward to seeing you this Thanksgiving.
+
+**A huge thanks to our amazing sponsors:**
+
+![](/uploads/sponsors.PNG){: width="597" height="380"}
