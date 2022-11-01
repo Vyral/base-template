@@ -25,6 +25,6 @@ If you have a charitable organization or community group that needs a bulk order
 
 If you have any questions about the event, don’t hesitate to reach out to us. We look forward to seeing you this Thanksgiving.
 
-**A huge thanks to our amazing sponsors:&nbsp;**
+**A huge thanks to our amazing sponsors: &nbsp;**
 
 ![](/uploads/1.jpg){: width="368" height="126"}<br>![](/uploads/2.jpg){: width="382" height="131"}<br>![](/uploads/3.jpg){: width="472" height="128"}<br>![](/uploads/4.jpg){: width="304" height="120"}<br>![](/uploads/5.png){: width="304" height="155"}<br>![](/uploads/6.png){: width="298" height="120"}<br>![](/uploads/7.jpg){: width="325" height="101"}<br>![](/uploads/8.jpg){: width="309" height="96"}<br>![](/uploads/9.jpg){: width="340" height="106"}<br>![](/uploads/10.jpg){: width="317" height="99"}<br>![](/uploads/11.jpg){: width="289" height="90"}
