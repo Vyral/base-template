@@ -19,7 +19,7 @@ youtube_code: eEhkY0buY5Y
 
 Thanksgiving is just around the corner. Have you reserved your pumpkin pie yet? We are so excited about our fourth annual Pumpkin Pie Giveaway event in just a few weeks.
 
-This year we will give away 1,000 huge pumpkin pies to anyone in the community who registers as our way of saying thank you for your support of our local small business. **If you’d like to reserve a pumpkin pie, just text PIE to 35620.** On Monday, November 21, we’ll have our West Des Moines location giveaway, and on Tuesday, November 22, we’ll have a giveaway in Indianola.
+This year we will give away 1,000 huge pumpkin pies to anyone in the community who registers as our way of saying thank you for your support of our local small business. **If you’d like to reserve a pumpkin pie, just text PIE to 35620, or [sign up](http://www.soldincentraliowa.com/pumpkinpie) here\!**&nbsp;On Monday, November 21, we’ll have our West Des Moines location giveaway, and on Tuesday, November 22, we’ll have a giveaway in Indianola.
 
 If you have a charitable organization or community group that needs a bulk order of pies, we're happy to donate. Just make sure you reach out to us right away so we can add you to the reservation.&nbsp;
 
