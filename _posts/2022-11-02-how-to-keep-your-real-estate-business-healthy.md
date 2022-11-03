@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/lead-aggregators-hooke-yt.jpg
-youtube_code: W75lVI7EamI
+youtube_code: KogmW-aFlng
 ---
 {% include youtube.html %}
 
