@@ -12,13 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/scott-hollinger-yt-1.jpg
-youtube_code: 4_TZ2quZwWw
+youtube_code: SCTvhplsB84
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-What is going on with real estate in Montana's Flathead and Big Fork regions? There have been some interesting changes to the market, and I’ve got all the latest numbers. I’ll break down each specific area and tell you what’s happening with housing sales there, based on the facts.&nbsp;
+What is going on with real estate in NW Montana's Flathead Valley? There have been some interesting changes to the market, and I’ve got all the latest numbers. I’ll break down each specific area and tell you what’s happening with housing sales there, based on the facts.&nbsp;
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
