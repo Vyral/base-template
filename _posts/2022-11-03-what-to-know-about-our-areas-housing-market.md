@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What To Know About Our Area’s Housing Market
+title: Third Quarter Waterfront Housing Update
 date: 2022-11-03 00:00:00
 tags:
   - Market Update
