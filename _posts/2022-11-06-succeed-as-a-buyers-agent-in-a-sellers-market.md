@@ -18,9 +18,9 @@ youtube_code: hLJ_EX-4Tn0
 
 What are the blessings of being a buyer’s agent in a seller’s market? Seller’s markets are obviously tough for a buyer’s agent. With a record-low housing inventory of 1.1 months in Portland, it feels like every offer you write is one out of multiple offers on a home. There just aren’t enough houses to go around. However, there are a few key benefits to being a buyer’s agent in a seller’s market:
 
-1. **Buyer urgency.** Buyers can’t just sit on the decision to purchase a home. They know that frequently, by the time they make up their minds, the house will be closed with somebody else. In fact, there are probably already showings and maybe another offer by the time they even see the home. Working on these kinds of deadlines forces buyers to be decisive and ready to go.
+**1\. Buyer urgency.** Buyers can’t just sit on the decision to purchase a home. They know that frequently, by the time they make up their minds, the house will be closed with somebody else. In fact, there are probably already showings and maybe another offer by the time they even see the home. Working on these kinds of deadlines forces buyers to be decisive and ready to go.
 
-1. **This market makes good agents great.** Unlike an easier market, it forces agents to sharpen and use their skills. Agents need to become creative in how they put deals together. These skills get rusty when you have a market where you can just phone it in. In this competitive environment, you need to work hard to set yourself apart from the other agents.
+**2\. This market makes good agents great.** Unlike an easier market, it forces agents to sharpen and use their skills. Agents need to become creative in how they put deals together. These skills get rusty when you have a market where you can just phone it in. In this competitive environment, you need to work hard to set yourself apart from the other agents.
 
 {% include pullquote.html %}
 
