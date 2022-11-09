@@ -23,7 +23,7 @@ How do commercial transactions work in real estate? It depends on what kind of b
 
 Certainly, there are different situations where you might want to lease space, but if you are looking to buy a property, **the first step is to get partnered with a lender.** We have several preferred lenders who are good to work with for commercial real estate.&nbsp;
 
-The next step is to do your due diligence, including inspections and phase one environmental site assessments. This is to make sure that the grounds, and any areas around the property, are free of contaminants. After that, you need to have an appraisal done, and this can be a little different than the appraisals you may be used to. Lenders usually have an approved list of appraisers, and **costs are generally higher, as with all things commercial.**
+The next step is to do your due diligence, including inspections and phase one environmental site assessments. This is to ensure that the grounds, and any areas around the property, are free of contaminants. After that, you need to have an appraisal done, and this can be a little different than the appraisals you may be used to. Lenders usually have an approved list of appraisers, and **costs are generally higher, as with all things commercial.**
 
 {% include pullquote.html %}
 
