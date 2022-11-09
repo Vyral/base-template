@@ -34,4 +34,4 @@ If you have any questions about this topic or the industry in general, feel free
 
 Best wishes,
 
-NAME
+Dave Friedman
