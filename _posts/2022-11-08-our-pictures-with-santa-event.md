@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Pictures With Santa Event
+title: Pictures With Santa Event
 date: 2022-11-08 07:00:00
 tags:
 excerpt: You’re all invited to our Pictures with Santa event on December 1.
