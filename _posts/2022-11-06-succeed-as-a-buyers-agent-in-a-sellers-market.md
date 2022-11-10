@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Succeed as a Buyer’s Agent in a Seller’s Market
+title: Succeed as a Buyer’s Agent in a Shifting Market
 date: 2022-11-06 07:00:00
 tags:
-excerpt: Why being a buyer’s agent in a seller’s market is actually a good thing.
+excerpt: Why being a buyer’s agent in a shifting market is actually a good thing.
 enclosure:
 pullquote: 'You get to sharpen your skills and see what you’re made of. '
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: hLJ_EX-4Tn0
 
 {% include excerpt.html %}
 
-What are the blessings of being a buyer’s agent in a seller’s market? Seller’s markets are obviously tough for a buyer’s agent. With a record-low housing inventory of 1.1 months in Portland, it feels like every offer you write is one out of multiple offers on a home. There just aren’t enough houses to go around. However, there are a few key benefits to being a buyer’s agent in a seller’s market:
+What are the blessings of being a buyer’s agent in a shifting market? Shifting markets are obviously tough for a buyer’s agent. With a record-low housing inventory of 1.1 months in Portland, it feels like every offer you write is one out of multiple offers on a home. There just aren’t enough houses to go around. However, there are a few key benefits to being a buyer’s agent in a shifting market:
 
 **1\. Buyer urgency.** Buyers can’t just sit on the decision to purchase a home. They know that frequently, by the time they make up their minds, the house will be closed with somebody else. In fact, there are probably already showings and maybe another offer by the time they even see the home. Working on these kinds of deadlines forces buyers to be decisive and ready to go.
 
@@ -24,4 +24,4 @@ What are the blessings of being a buyer’s agent in a seller’s market? Seller
 
 {% include pullquote.html %}
 
-Those are just two of the reasons why I love the thrill of being a buyer’s agent in a seller’s market. It makes us better agents, and you get to work with the clients who need you the most. If you have any questions about being a buyer’s agent in this market or would like more details, don’t hesitate to call or email me. I’d love to help you.
+Those are just two of the reasons why I love the thrill of being a buyer’s agent in a shifting market. It makes us better agents, and you get to work with the clients who need you the most. If you have any questions about being a buyer’s agent in this market or would like more details, don’t hesitate to call or email me. I’d love to help you.
