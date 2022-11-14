@@ -21,7 +21,7 @@ Today we’re pleased to announce our fourth annual pumpkin pie giveaway. This y
 
 This is our favorite event because it’s the perfect opportunity to connect with our community. **If you would like to sign up, text PIE to 35620, or [sign up](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank" rel="noopener"} here,**&nbsp;and you’ll reserve your giant pumpkin pie at one of two different locations. One is at our West Des Moines office on Monday, November 21, from 3 p.m. to 6 p.m. The other is at our Indianola office on Tuesday, November 22, from 2 p.m. to 6 p.m. It’s a drive-through service, so you don’t even need to leave your car if you don’t want to.&nbsp;
 
-![](/uploads/image001.jpg){: width="740" height="334"}
+![](/uploads/image001.jpg){: width="100%" height="100%"}
 
 People often ask us, “Why do you give away so many pies?” The truth is that we’re a small local business, and our success depends on our clients and our community. We couldn’t be more grateful for everyone we’ve worked with, so we just like to take this opportunity to give back. However, **you don’t even need to be a past client to sign up.** Just text PIE to 35620,**&nbsp;**or **[sign up](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank" rel="noopener"}** here\! and your pie will be waiting for you.&nbsp;
 
