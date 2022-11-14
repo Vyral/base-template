@@ -23,6 +23,4 @@ This members-only golf course runs along a branch of the Cooper River known as G
 
 In 1924, the owners transformed the plantation into an unbelievable golf course. The club was designed to attract wealthy financiers from the north, offering two to 300 home sites with stunning colonial architecture. The beautiful Southern style architecture became so popular, you had to be invited to become a member.
 
-{% include pullquote.html %}
-
 If you get a chance, check out Yeamans Hall Country Club. As always, if you have questions about this piece of paradise or anything real estate related, call or email me. I’m always here to help\!
