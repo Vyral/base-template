@@ -10,7 +10,7 @@ pullquote: Animals ranging from alligators and dolphins to catfish can be seen h
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-14-youtube.jpg
+youtube_alternate_image: /uploads/11-14-youtube-1.jpg
 youtube_code: 8LqFPB7DAG4
 ---
 {% include youtube.html %}
