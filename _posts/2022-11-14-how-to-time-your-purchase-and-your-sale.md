@@ -18,13 +18,13 @@ youtube_code: jBB9eBktYi4
 
 {% include excerpt.html %}
 
-Have you ever thought about purchasing a new-construction home? This can be a very exciting opportunity, but it does have some complications, including timing. Today, we’re here to give some advice on how the timing works with your new-construction home your existing one.&nbsp;
+Have you ever thought about purchasing a new-construction home? This can be a very exciting opportunity, but it does have some complications, including timing. Today, we’re here to give some advice on how the timing works with your new-construction home and the sale of your existing one.
 
 The first thing to do is find out if your build is contingent on the sale of your existing home or not. If you are noncontingent, you have a lot of flexibility with timing. However, if your build is contingent on your sale, that’s where things get a little more complicated.&nbsp;
 
 **The timeline of the build can throw a wrench in your timing.** We have seen many complications arise when clients base their market date around when their home was supposed to be done, but then construction was delayed, and current transactions were delayed or canceled.&nbsp;
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 We suggest looking at the average market times. Depending on the state of the market, the number of days a home usually sells changes, so it is important to consider that. Also, **don’t forget to think about preparing your existing home.** You need to get the ball rolling early enough that you can get it all done in time.&nbsp;
 
