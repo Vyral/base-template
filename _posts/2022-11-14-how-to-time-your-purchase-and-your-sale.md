@@ -24,7 +24,7 @@ The first thing to do is find out if your build is contingent on the sale of you
 
 **The timeline of the build can throw a wrench in your timing.** We have seen many complications arise when clients base their market date around when their home was supposed to be done, but then construction was delayed, and current transactions were delayed or canceled.&nbsp;
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 We suggest looking at the average market times. Depending on the state of the market, the number of days a home usually sells changes, so it is important to consider that. Also, **don’t forget to think about preparing your existing home.** You need to get the ball rolling early enough that you can get it all done in time.&nbsp;
 
