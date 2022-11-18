@@ -20,7 +20,7 @@ youtube_code: 2s-0u7LE89Q
 
 One of the hottest questions in real estate right now is: What’s going on with interest rates? Today I’ll share my thoughts about this topic to help with your buying and selling goals.
 
-First, know that **rates are still historically low.** There have been times in the past when rates reached 18%. Secondly, we have to look at the three key numbers: unemployment and employment levels, GDP level, and inflation level.Inflation is out of whack right now and is around 6% to 8%. We want it to be at 2%, but to get to this point, the Fed is increasing interest rates, and they will likely continue to rise.&nbsp;
+First, know that **rates are still historically low.** There have been times in the past when rates reached 18%. Secondly, we have to look at the three key numbers: unemployment, GDP, and inflation. Inflation is out of whack right now and is around 6% to 8%. We want it to be at 2%, but to get to this point, the Fed is increasing interest rates, and they will likely continue to rise.&nbsp;
 
 If you want to push forward with your real estate plans despite increasing rates, **one great method is to use a seller buydown,** where a seller credits the buyer some money that they can use to buy down their interest rate and reduce their payment. It's a very creative strategy that I have good experience with.&nbsp;
 
