@@ -33,4 +33,4 @@ They talked about the issues that he had. Fortunately, at that time, his boss ha
 
 **He is now at a point where he has both the healthy work-life balance and financial stability he always wanted.** He is looking forward to supervising a department as the leading inside sales agent and guiding those who are on their own real estate journeys. He is excited to learn how to encourage them, as well as provide accountability to help them reach their personal and financial freedom.
 
-As always, if you have any questions for Andrew or anything about real estate, call us at [717-216-0860](tel:717-216-0860) or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). I’m always happy to hear from you\!
+As always, if you have any questions for Andrew or anything about real estate, call us at [717-216-0860](tel:717-216-0860) or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). Click here to get all of our latest community and listing updates:&nbsp;[F](mailto:Facebook.com/DaveHookeTeam){: target="_blank"}[acebook.com/DaveHookeTeam](https://t.e2ma.net/click/wts5yd/wtwk5dtb/oz7msk){: target="_blank"}. I’m always happy to hear from you\!
