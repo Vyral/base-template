@@ -4,7 +4,8 @@ title: 'Kevin Miracle Talks About VA Loans '
 date: 2022-11-16 05:00:00
 tags:
 excerpt: Mortgage expert Kevin Miracle shares his expertise about VA loans.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Kelly/2022/Mark+Kelly_Interview+with+Veterans+Lending+Group.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
