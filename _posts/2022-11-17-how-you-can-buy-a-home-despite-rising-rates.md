@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/increasing-rates-knight-yt.jpg
-youtube_code: 2s-0u7LE89Q
+youtube_code: ERsK_Qr9xl4
 ---
 {% include youtube.html %}
 
