@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/higher-rates-tejeda-yt.jpg
-youtube_code: aQ9L4Wcov2o
+youtube_code: PejdvZmOR7E
 ---
 {% include youtube.html %}
 
