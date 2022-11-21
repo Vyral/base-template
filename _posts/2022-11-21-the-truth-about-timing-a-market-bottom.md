@@ -36,7 +36,7 @@ If you need to buy or sell because your family has grown out of the home, you ne
 
 Note that I didn’t say I suggest you actually buy or sell. That’s a decision only *you* can make, armed with all of the necessary information.&nbsp;
 
-**But you can*****always*** **move to the home that you want in any housing market, if that makes sense for your family.&nbsp;**
+**But you can &nbsp;*****always*** **move to the home that you want in any housing market, if that makes sense for your family.&nbsp;**
 
 Do not let the news tell you that it’s a bad time. Instead, do your homework, meet a pro, run a pros and cons list, and make an educated decision\!&nbsp;
 
