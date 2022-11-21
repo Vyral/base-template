@@ -19,7 +19,7 @@ youtube_code: 0aXCgCPTHBY
 
 {% include excerpt.html %}
 
-Today we’re here to talk about what you need to do to prepare for winter. Yes, it is that time again. It seemed like summer was so short this year\! However, we would make sure you have your snow shovels ready because you're going to need them. To fully get ready for winter, there are a few things you need to do in your home.&nbsp;
+Today we’re here to talk about what you need to do to prepare for winter. Yes, it is that time again. It seemed like summer was so short this year\! As winter approaches, we want to make sure you have your snow shovels ready because you're going to need them. To fully get ready for winter, there are a few things you need to do in your home.&nbsp;
 
 **First, ensure your gutters are clean and your leaf guards are on to avoid future water build-up.** Also, make sure your downspouts are attached properly. When they’re not, the water drains right into the foundation, and that's the last thing you want.
 
