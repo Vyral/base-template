@@ -20,7 +20,7 @@ youtube_code: MzZZZvWId5U
 
 {% include excerpt.html %}
 
-Marry the house, date the rate. It's the end of summer 2022, moving into fall. Everybody knows that interest rates have gone up significantly. Mortgage interest rates have doubled in the last three to four months, meaning the cost of borrowing money to buy a home has actually doubled. Many people are freaking out, and thinking they won't buy now. One of the things that we're really teaching is that you marry the home—the home where you want to raise your kids in and or grow old as empty nesters—and date the rate.&nbsp;
+Marry the house, date the rate. It's the end of summer 2022, moving into fall. Everybody knows that interest rates have gone up significantly. Mortgage interest rates have doubled in the last three to four months, meaning the cost of borrowing money to buy a home has actually doubled. Many people are freaking out, and thinking they won't buy now. One of the things that we're really teaching is that you marry the home—the home where you want to raise your kids in and or grow old as empty nesters—and date the rate.
 
 **When you move into a home and get a mortgage, understand you're not trapped in that interest rate forever.** If today's rates are 6% plus, and let's say they fell to 5.5%, you have the opportunity to refinance. Most of our great lenders around town, especially the ones we work with, will do a pretty low to no-cost refinance for you with very few fees.
 
