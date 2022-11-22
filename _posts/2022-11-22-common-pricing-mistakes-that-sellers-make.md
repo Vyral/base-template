@@ -27,9 +27,9 @@ Also, remember that not all of your fix-up projects will get a dollar-for-dollar
 
 Having too high of a price will scare buyers away, then you won’t be able to drum up enough interest. Your home will sit for months on the market, and you’ll have to lower your price. Buyers will notice this and worry that something is wrong with your house.&nbsp;
 
-Plus, you might end up chasing the market. Let’s say you insist on listing your home for $300,000 even though homes similar to yours are only selling for $270,000. When your home doesn’t sell for a few months, you lower it to that $270,000, but by then the market has already changed again, and you will always be a few months behind the market.&nbsp;
-
 {% include pullquote.html %}
+
+Plus, you might end up chasing the market. Let’s say you insist on listing your home for $300,000 even though homes similar to yours are only selling for $270,000. When your home doesn’t sell for a few months, you lower it to that $270,000, but by then the market has already changed again, and you will always be a few months behind the market.&nbsp;
 
 **The key to pricing correctly is to look for comparable sales**, and this is something I would love to help you do. I can help you find homes on the market that are very similar to yours, figure out how much they sold for, and help you base your price around that. This is the most successful route. Research is very important, especially in our shifting market. As things change, we have to stay on top of that.&nbsp;
 
