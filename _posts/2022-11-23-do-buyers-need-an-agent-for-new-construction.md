@@ -17,7 +17,7 @@ youtube_code: xDzBXLDq74c
 
 {% include excerpt.html %}
 
-Do you need an agent when buying a new-construction home? As the market has changed, this has become a very interesting topic again. We went from new home builders shooing agents away to now getting daily emails where they incentivize us to bring buyers. You should always have representation when you're purchasing at home, whether it's new construction or not. An agent will ensure that you're protected and that you understand all the next steps.
+Do you need an agent when buying a new-construction home? As the market has changed, this has become a very interesting topic again. We went from new home builders shooing agents away to now getting daily emails where they incentivize us to bring buyers. You should always have representation when you're purchasing a home, whether it's new construction or not. An agent will ensure that you're protected and that you understand all the next steps.
 
 {% include pullquote.html %}
 
