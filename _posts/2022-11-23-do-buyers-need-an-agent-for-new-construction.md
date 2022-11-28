@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do Buyers Need an Agent for New Construction?
-date: 2022-11-23 00:00:00
+date: 2022-11-28 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: A Realtor’s help can be an invaluable resource in today’s market.
