@@ -5,7 +5,7 @@ date: 2022-11-23 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Could this new thing be the latest trend in home marketing?
+excerpt: Could this new thing be the latest trend in home-for-sale marketing?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
