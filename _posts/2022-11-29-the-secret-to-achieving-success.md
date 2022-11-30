@@ -17,8 +17,9 @@ youtube_code: D-avEXcxp-o
 
 Have you heard about the science of success? Some people think success happens by luck or chance, but it doesn’t; there is a science to it. That’s why I want to share what you need to do to lead you onto the path to success. At Keller Williams, we refer to these as the six personal perspectives, and today I’ll discuss the first two out of the six:
 
-1. **Commit to self-mastery**. Self-mastery is simply focusing on becoming your best. Know that what you perceive as the destination is merely just a stopping point for the longer journey. If you hit a point where you feel like you know everything there is to learn, that's where growth starts to stall, and your results tend to falter.
-2. &nbsp;**Follow the 80/20 rule.** Some people know it as the paradox principle. This is universally accepted across everywhere in life. It suggests that 20% of the input will equal 80% of the outcome you want. If you twist that and say you put in 20% of the wrong input, you won’t get the outcome you want. This means that if you input the required items correctly, you will get the outcome you want.&nbsp;
+**1\. Commit to self-mastery.** Self-mastery is simply focusing on becoming your best. Know that what you perceive as the destination is merely just a stopping point for the longer journey. If you hit a point where you feel like you know everything there is to learn, that's where growth starts to stall, and your results tend to falter.
+
+**2\. Follow the 80/20 rule.** Some people know it as the paradox principle. This is universally accepted across everywhere in life. It suggests that 20% of the input will equal 80% of the outcome you want. If you twist that and say you put in 20% of the wrong input, you won’t get the outcome you want. This means that if you input the required items correctly, you will get the outcome you want.&nbsp;
 
 {% include pullquote.html %}
 
