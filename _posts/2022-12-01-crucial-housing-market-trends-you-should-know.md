@@ -19,7 +19,7 @@ youtube_code: JzqL-hWKhws
 
 As we leave the fall and enter the holiday season, what’s happening in our housing market? This time of year is traditionally slower for real estate, but is that the case this year? Let’s take a look at the latest trends and find out.&nbsp;
 
-Right now, inventory levels are very low. This is normal for this time of year, but it’s even lower than usual because of some changes in the market. Many people who would have sold their homes have decided to stay put due to higher interest rates. Inventory is still coming into our market, but it’s mostly new construction.&nbsp;
+Right now, inventory levels are very low. This is normal for this time of year, but it’s even lower than usual because of changes in the market. Many people who would have sold their homes have decided to stay put due to higher interest rates. Inventory is still coming into our market, but it’s mostly new construction.&nbsp;
 
 {% include pullquote.html %}
 
