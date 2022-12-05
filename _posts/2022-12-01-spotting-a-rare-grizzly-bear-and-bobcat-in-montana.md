@@ -10,8 +10,8 @@ pullquote: '"Both grizzly bears and bobcats are elusive animals."'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/scott-hollinger-yt-3.jpg
-youtube_code: I2Dz33SOx3Q
+youtube_alternate_image: /uploads/scott-hollinger-yt-4.jpg
+youtube_code: IEr3EB99n9g
 ---
 {% include youtube.html %}
 
