@@ -28,6 +28,6 @@ What options do sellers have if their homes appraise for less than their asking 
 
 **3\. Lower your asking price.** If you’re motivated to sell your home and getting more than your asking price isn’t your top priority, you could also simply lower your asking price to match the appraised value. That could entice your buyer to increase their earnest money deposit, depending on how you negotiate.
 
-**4\. If you and your buyer can’t reach an agreement, they could cancel their contract and walk away.** That would allow you to go back to square one and order a new appraisal alltogether.
+**4\. If you and your buyer can’t reach an agreement, they could cancel their contract and walk away.** That would allow you to go back to square one and order a new appraisal altogether.
 
 If you found this information helpful or if you have any further questions, feel free to call or email me. I’d love to connect with you\!
