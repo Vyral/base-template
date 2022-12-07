@@ -1,6 +1,8 @@
 ---
 layout: post
-title: How would you like a 621% return on your money? Utah homeowners did!
+title: >-
+  How would you like to receive a 621% return on your money? Utah homeowners
+  did!
 date: 2022-12-06 07:00:00
 tags:
   - Real Estate
