@@ -14,10 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-6-youtube.jpg
 youtube_code: vFymBQ2OJ98
-youtube_code: k6z6cp_BZGM
 ---
-{% include youtube.html %}
-
 {% include youtube.html %}
 
 {% include excerpt.html %}
