@@ -18,7 +18,7 @@ youtube_code: k6z6cp_BZGM
 ---
 {% include youtube.html %}
 
-{% include youtube2.html %}
+{% include youtube.html %}
 
 {% include excerpt.html %}
 
