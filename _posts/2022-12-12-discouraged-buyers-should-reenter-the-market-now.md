@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discouraged Buyers Should Reenter the Market Now
-date:
+date: 2022-12-12 07:00:00
 tags:
 excerpt: The buyers in this market are seeing many opportunities.
 enclosure:
