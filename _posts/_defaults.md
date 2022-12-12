@@ -14,7 +14,7 @@ youtube_code:
 youtube_code:
 ---
 {% include youtube.html %}
-{% include excerpt.html2 %}
+{% include youtube.html2 %}
 
 {% include excerpt.html %}
 
