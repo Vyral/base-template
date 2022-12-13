@@ -16,6 +16,6 @@ youtube_code: j2eD_kuHmtg
 ---
 {% include youtube.html %}
 
-[![](/uploads/email-2.jpg){: width="1330" height="770"}](https://www.youtube.com/watch?v=k6z6cp_BZGM)
+[![](/uploads/2.jpg){: width="900" height="521"}](https://www.youtube.com/watch?v=k6z6cp_BZGM)
 
 &nbsp;
