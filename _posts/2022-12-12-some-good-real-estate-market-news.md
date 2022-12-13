@@ -7,7 +7,9 @@ tags:
   - Real Estate
 excerpt: The latest big news is that conforming loan limits will increase.
 enclosure:
-pullquote: Lenders are coming up with products to help cushion the strain of high rates.
+pullquote: >-
+  "Lenders are coming up with products to help cushion the strain of high
+  rates."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +20,7 @@ youtube_code: nsS_wXfZZMA
 
 {% include excerpt.html %}
 
-A question that I often get is, “What's happening with interest rates?” I know that things are tough right now. Lenders are coming up with products to help cushion the strain of high rates. One example is adjustable-rate mortgages that start out at a reduced rate for a number of years and then go to an adjustable rate. Those are good products to think about because **interest rates won’t stay high forever.** They'll come down at some point, and it’s great to get a bargain ahead of time.&nbsp;
+A question that I often get is, “What's happening with interest rates?” I know that things are tough right now. Lenders are coming up with products to help cushion the strain of high rates. One example is adjustable-rate mortgages that start at a reduced rate for a number of years and then go to an adjustable rate. Those are good products to think about because **interest rates won’t stay high forever.** They'll come down at some point, and it’s great to get a bargain ahead of time.&nbsp;
 
 I recently saw the news that there will be some conforming loans offered up to $1 million. A conforming loan is insured by the U.S. government. They’ve been hanging around $400,000 to $600,000, but are adjusted based on the average sales price of homes in any particular area, so they reflect where the market is.
 
