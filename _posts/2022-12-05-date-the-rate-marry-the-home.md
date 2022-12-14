@@ -22,4 +22,4 @@ hidden: false
 
 {% include pullquote.html %}
 
-If you’d like to learn more about Mortgage, visit&nbsp;[https://www.gatewayfirst.com/locations-atms/chris-padley](https://www.dessertsbykousee.com/){: target="_blank"}
+Find out more about Mortgage at https://www.gatewayfirst.com/locations-atms/chris-padley
