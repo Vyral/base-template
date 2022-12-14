@@ -9,7 +9,7 @@ tags:
   - Lead Conversion
 excerpt: Changing markets means changing strategies.
 enclosure:
-pullquote: The basics. Build business
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
