@@ -5,7 +5,7 @@ date: 2022-12-14 16:33:00
 tags:
   - Real Estate
 excerpt: Speaking with Kou See Vang the owner & pastry chef of Desserts by Kou See.
-enclosure:
+enclosure: asian bakery
 pullquote: >-
   I love it that you're doing a little twist on something that us here Americans
   were used to their sugary sweet desserts - Jennie
