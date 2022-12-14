@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reverse Offer
-date: 2022-10-13 16:00:00
+date: 2022-12-02 16:00:00
 tags:
   - Transaction Management
   - Lead Generation
