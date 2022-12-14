@@ -22,4 +22,4 @@ hidden: false
 
 {% include pullquote.html %}
 
-Find out more about Mortgage at https://www.gatewayfirst.com/locations-atms/chris-padley
+Connect with Chris for mortgage related questions, https://www.gatewayfirst.com/locations-atms/chris-padley
