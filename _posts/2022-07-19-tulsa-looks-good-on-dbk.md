@@ -4,7 +4,7 @@ title: 'Tulsa Looks Good on DBK! '
 date: 2022-12-14 11:00:00
 tags:
   - Real Estate
-excerpt: Speaking with Kou See Vang the owner & pastry chef of Desserts by Kou See.
+excerpt: TGLOY with Kou See Vang the owner & pastry chef of Desserts by Kou See.
 enclosure:
 pullquote: >-
   I love it that you're doing a little twist on something that us here Americans
