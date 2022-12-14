@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-7-22yt.jpg
+youtube_alternate_image: /uploads/12-8-222yt.jpg
 youtube_code: 3WZyRRcwITc
 ---
 {% include youtube.html %}
@@ -18,6 +18,6 @@ youtube_code: 3WZyRRcwITc
 
 From our family to yours, happy holidays. **Enjoy the very best of what this season has to offer.** The holiday season is a time of joy, gratitude, and reflection on the year as well as things that we're excited about in the coming year.
 
-We are always here to help you and answer any questions you may have. Call or email us, we’d love to help you.&nbsp;
+We are always here to help you and answer any questions you may have. Call or email us, we’d love to help you.
 
 In case we don’t hear from you until 2023, have a happy New Year\!
