@@ -9,8 +9,9 @@ excerpt: >-
   Bakery
 enclosure:
 pullquote: >-
-  I love it that you're doing a little twist on something that us here Americans
-  were used to their sugary sweet desserts - Jennie
+  We want to share a piece of our culture and our love of Asian pastries and
+  desserts to the community. We want to create a space where people can come
+  together to eat dessert.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
