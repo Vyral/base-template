@@ -22,4 +22,4 @@ hidden: false
 
 {% include pullquote.html %}
 
-Connect with Chris for mortgage related questions, https://www.gatewayfirst.com/locations-atms/chris-padley
+Connect with Chris for mortgage related questions, [https://www.gatewayfirst.com/locations-atms/chris-padley](https://www.gatewayfirst.com/locations-atms/chris-padley){: target="_blank" rel="noopener"}
