@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 'Tulsa Looks Good on DBK! '
-date: 2022-12-14 16:33:00
+date: 2022-12-14 11:00:00
 tags:
   - Real Estate
 excerpt: Speaking with Kou See Vang the owner & pastry chef of Desserts by Kou See.
-enclosure: asian bakery
+enclosure:
 pullquote: >-
   I love it that you're doing a little twist on something that us here Americans
   were used to their sugary sweet desserts - Jennie
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/asian-1.png
 youtube_code: JcTpuynv98Y
 hidden: false
