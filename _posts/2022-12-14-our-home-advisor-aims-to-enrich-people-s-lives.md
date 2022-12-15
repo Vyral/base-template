@@ -28,8 +28,8 @@ Those classes ended right around the time when everything shut down during the p
 
 At some point, she was told by another agent that she was a liability. That triggered something in her, which made her decide she needed training and accountability. **She wanted to be the best agent that she could be, so she reached out to the Dave Hook team.&nbsp;**
 
-Her best friend advised her to get on a team at Keller Williams, so she contacted Dave, and she says it has been the best move she ever made. Now Dulci gets to work with like-minded individuals, who have the same goals and passions as her. She wants to enrich people's lives and help them buy and sell homes.&nbsp;
+Her best friend advised her to get on a team at Keller Williams, so she contacted Dave, and she says it has been the best move she ever made. Now Dulci gets to work with like-minded individuals who have the same goals and passions as her. She wants to enrich people's lives and help them buy and sell homes.&nbsp;
 
 Throughout the two years she has been with the team, one of her passions has always been educating and helping first-time homebuyers get into their new home. In the future, she’d like to continue to help enrich as many lives as possible through real estate and be the best person that she can be for those she comes in contact with.&nbsp;
 
-As always, if you have any questions for Dulci or about anything relating to real estate, call or email my team and I anytime. My number is [(717) 216-0860](tel:&#40;717&#41; 216-0860) and my email is [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We’d love to connect with you\!&nbsp;
+As always, if you have any questions for Dulci or about anything relating to real estate, call or email my team and me anytime. My number is [(717) 216-0860](tel:&#40;717&#41; 216-0860) and my email is [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We’d love to connect with you\!&nbsp;
