@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does It Take to Sell Over the Holidays?
-date: 2020-12-11 00:00:00
+date: 2022-12-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -17,7 +17,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/12-10-mortimer-youtube.jpg
 youtube_code: 8-oh16hOmIY
 ---
-
 {% include youtube.html %}
 
 <center><em>I have five tips for those looking to sell this holiday season.</em></center>
