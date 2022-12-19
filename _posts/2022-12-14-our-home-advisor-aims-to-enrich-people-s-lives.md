@@ -11,7 +11,7 @@ pullquote: Dulci wants to enrich as many lives as possible through real estate.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/dulci-interview-hooke-yt-2.jpg
+youtube_alternate_image: /uploads/dulci-interview-hooke-yt-3.jpg
 youtube_code: AMVWasUXIcg
 ---
 {% include youtube.html %}
