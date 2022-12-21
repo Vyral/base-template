@@ -40,7 +40,8 @@ client:
   url: http://www.TheRonSawyerTeam.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://ronshometeam.com/
+  first_CTA_URL: >-
+    https://theronsawyerteam.hifello.com/widget/offer/3ad48af2-dbd9-41cf-bed7-24f1065ed7fe
   second_CTA_text: Home Search
   second_CTA_URL: >-
     https://www.chesapeakeareahomesearch.com/search?page=1&perpage=12&soldproperty=0&sortby=latest&type=grid
