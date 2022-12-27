@@ -21,14 +21,12 @@ hidden: false
 
 {% include excerpt.html %}
 
-We hope you are hungry because this week Tulsa Looks Good on You is highlighting DBK Bakery-Desserts by Kou See\!&nbsp;
-
-Jennie had a chance to sit down with owner & pastry chef, Kou See Vang to hear all about her beautiful Asian bakery located in Broken Arrow.&nbsp;
+Jennie sits down with County Assessor, John A. Wright to take a deep dive into increased property values, homestead exemptions, and the process to appeal property tax increases. &nbsp;
 
 {% include pullquote.html %}
 
-For the longest time, baking was always a hobby for Kou See, until the summer of 2021 when she stepped away from teaching to open her dream bakery\! Kou See and her husband, Chris, want to add something new and different to the local community. They also want to share a part of their heritage showcasing southeast Asian flavors ad Hmong treats. “We want to share a piece of our culture and our love of Asian pastries and desserts to the community. We want to create a space where people can come together to eat dessert.”&nbsp;
+Looking to make a move in 2023 or know someone who is? Be sure to visit our website for everything you need to make it a successful process from start to finish\! https://thewolekgroup.com/
 
-DBK Bakery is located off of Elm and 71st in the Boardwalk shopping center next to Pho 71.&nbsp;
+To connect with the County Assessor's office visit,&nbsp;<br>https://assessor.tulsacounty.org/&nbsp;
 
-If you'd like to learn more about DBK , visit &nbsp;[https://www.dessertsbykousee.com/](https://www.dessertsbykousee.com/){: target="_blank"}
+<br>If you haven't already filed for Homestead Expedition visit,&nbsp;<br>https://assessor.tulsacounty.org/Exemption/Homestead
