@@ -20,6 +20,6 @@ With higher inflation, interest rates, and wildly shifting prices, the real esta
 
 Some of the key things we’ll be covering will be where the market has been and where we think we’re heading, as well as five things that sellers can do to maximize their equity, and we’ll even touch on marketing that works. Finally, we’ll be covering five mistakes that sellers should avoid, and answering all of your questions.
 
-There will be a maximum number of attendees, so make sure to register now at our website. We’ll be holding these seminars on Tuesday, January 31, at 11 a.m. and 6 p.m. and on Thursday, February 2, at 11 a.m. and 6 p.m. **When you register, you’ll get a free copy of John’s 40-page whole marketing guide.**
+There will be a maximum number of attendees, so make sure to register now at our [website](https://johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}. We’ll be holding these seminars on Tuesday, January 31, at 11 a.m. and 6 p.m. and on Thursday, February 2, at 11 a.m. and 6 p.m. **When you register, you’ll get a free copy of John’s 40-page whole marketing guide.**
 
 If you have any questions about the event or anything that’s real estate related, call or email us. We’re always happy to help\!
