@@ -6,12 +6,12 @@ baseurl: ""
 url: "http://Albanynyrealestateblog.com"
 
 # Build settings
-markdown: kramdown
 
 #Handling Reading
 encoding: "utf-8"
 
 # Build settings
+markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
