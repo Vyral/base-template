@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Housing Market Update for January
-date:
+date: 2023-01-05 00:00:00
 tags:
   - Market Update
   - Real Estate
