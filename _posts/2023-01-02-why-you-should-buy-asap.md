@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-21-langan-youtube.jpg
+youtube_alternate_image: /uploads/12-21-langan-youtube-v-2.jpg
 youtube_code: _cSWp9p97lQ
 ---
 {% include youtube.html %}
