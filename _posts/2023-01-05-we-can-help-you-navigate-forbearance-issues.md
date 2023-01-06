@@ -17,7 +17,7 @@ youtube_code: qkdkOY-ZDSo
 
 {% include excerpt.html %}
 
-Did you put your home in forbearance during the pandemic? If so, you might be getting bombarded with calls from your bank. We’ve talked with a lot of homeowners who put their homes in forbearance, and a lot of them didn’t totally understand the terms of the agreement. If you’re in this position, what can you do?&nbsp;
+Did you put your home in forbearance during the pandemic? If so, you might be getting bombarded with calls from your bank. We’ve talked with a lot of homeowners who put their homes in forbearance, and a lot of them didn’t completely understand the terms of the agreement. If you’re in this position, what can you do?&nbsp;
 
 We’ve talked to a few homeowners who need to refinance due to the terms of their forbearance. This is difficult since a lot of people had interest rates at 4% or even 3%. Now that they need to refinance to a rate close to 7%, they’re finding that they can no longer afford their monthly payment. Fortunately, you have options.
 
