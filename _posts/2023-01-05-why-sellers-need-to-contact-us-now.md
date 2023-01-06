@@ -17,7 +17,7 @@ youtube_code: ajBrU4GY1zM
 
 {% include excerpt.html %}
 
-Are you planning on selling your home in 2023? If so, you probably plan on reaching out to a real estate team after the holidays. After all, who wants to think about selling during Christmas dinner? However, you might end up missing the market if you wait that long. In reality, you need to reach out to us as soon as you can if you want to sell next year.&nbsp;
+Are you planning on selling your home in 2023? If so, you probably plan on reaching out to a real estate team after the holidays. After all, who wants to think about selling during Christmas dinner? However, you might end up missing the market if you wait that long. In reality, you need to reach out to us as soon as you can if you want to sell this year.&nbsp;
 
 Typically, the market becomes very active around the end of January, and it stays active through the end of April. Those are usually the times when we get the highest value for your home.
 
