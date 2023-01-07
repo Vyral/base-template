@@ -31,6 +31,8 @@ CTAs:
   first_CTA_URL: 'https://www.johnschustergroup.com/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.johnschustergroup.com/'
+  third_CTA_text: 952-222-9000
+  third_CTA_URL: 'tel:9522229000'
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808265';</script><script
