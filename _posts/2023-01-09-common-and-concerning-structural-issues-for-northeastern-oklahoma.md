@@ -27,6 +27,6 @@ Cracks on my walls...is this normal?\!?\! Jennie sits down with FEI Structural E
 
 Looking to make a move in 2023 or know someone who is? Be sure to visit our website for everything you need to make it a successful process from start to finish\! [https://www.thewolekgroup.com/](https://www.thewolekgroup.com/)
 
-To connect with the FEI Inspections visit,&nbsp;<br>www.feiinspections.com&nbsp;
+To connect with the FEI Inspections visit,&nbsp;[https://feiinspections.com/](https://feiinspections.com/)
 
 &nbsp;
