@@ -8,8 +8,8 @@ tags:
   - Market Update
   - Home Buyer Tips
 excerpt: >-
-  Engineer  Jahan Abdoveis talks about Common and concerning structural issues
-  for Northeastern Oklahoma
+  FEI Structural Engineer  Jahan Abdoveis talks about Common and concerning
+  structural issues for Northeastern Oklahoma
 enclosure:
 pullquote:
 enclosure_type: video/mp4
