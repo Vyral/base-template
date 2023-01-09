@@ -7,7 +7,9 @@ tags:
   - Home Seller Tips
   - Market Update
   - Home Buyer Tips
-excerpt: Assessor Wright talks property tax increases & Homestead Exemption
+excerpt: >-
+  Engineer  Jahan Abdoveis talks about Common and concerning structural issues
+  for Northeastern Oklahoma
 enclosure:
 pullquote:
 enclosure_type: video/mp4
