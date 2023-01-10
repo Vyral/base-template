@@ -18,7 +18,7 @@ youtube_code: tCWMRtx1geo
 
 {% include excerpt.html %}
 
-So much happened in the 2022 market, and I’m sure you noticed the many ups and downs in the market\! As changes happen, it’s important to stay up to date to know how you, your home, and your plans are affected. To help with this, today I’m here with a recap of the 2022 market.&nbsp;
+So much happened in the 2022 market, and I’m sure you noticed the many ups and downs. As changes happen, it’s important to stay up to date to know how you, your home, and your plans are affected. To help with this, today I’m here with a recap of the 2022 market.&nbsp;
 
 **You can listen to the entire recap in the video above or skip to specific topics using these timestamps:&nbsp;**
 
