@@ -7,7 +7,7 @@ tags:
   - Lead Generation
 excerpt: 'Here’s how Brendan finally found a fulfilling career on our team. '
 enclosure:
-pullquote: 'Brendan loves being able to work directly with people. '
+pullquote: Brendan loves being able to work directly with people.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
