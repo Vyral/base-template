@@ -22,7 +22,7 @@ Today we’re interviewing one of our fantastic agents, Brendan. His real estate
 
 Fortunately, Brendan got connected with a health company in their IT department. It was a good place to start, but he wasn’t passionate about the work at all. Each day, he dreaded waking up and heading to his job. **Eventually, he broke down and told his wife that something needed to change.**
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 Soon, they realized they needed to take a leap of faith and make a career change. By talking to one of our other agents, Jennie, Brendan learned more about what daily life as a real estate agent would be like and what our core values are. He decided he wanted to give it a shot and was hired onto our team.&nbsp;
 
