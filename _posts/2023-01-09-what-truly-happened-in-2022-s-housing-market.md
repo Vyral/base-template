@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/scott-hollinger-yt-5.jpg
-youtube_code: VnqPe7Iuu7Q
+youtube_code: UKiHYS7liA0
 ---
 {% include youtube.html %}
 
