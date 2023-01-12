@@ -11,7 +11,7 @@ pullquote: 'Home values are coming in a little closer to where the list price is
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chad-sara-huebener-thumbnail.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-yt-1.jpg
 youtube_code: exB7DJIjeZQ
 ---
 {% include youtube.html %}
