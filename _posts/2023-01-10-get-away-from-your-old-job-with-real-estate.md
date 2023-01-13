@@ -28,4 +28,4 @@ Soon, they realized they needed to take a leap of faith and make a career change
 
 **So far, real estate has been a blessing in Brendan’s life.** Being able to work directly with people and help them achieve their homeownership dreams has been fulfilling in a way his other job couldn’t touch.&nbsp;
 
-If you have questions about Brendan’s journey, our team, or anything else, please call us at [(717) 216-0860](tel:&#40;717&#41; 216-0860) or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We are always willing to talk\!
+If you have questions about Brendan’s journey, our team, or anything else, please call or email me or my team anytime. My number is&nbsp;[(717) 216-0860](https://davehookecoaching.com/&#40;717&#41;%20216-0860)&nbsp;and my email is&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com). We look forward to hearing from you\! Click here to get all of our latest community and listing updates:&nbsp;[F](mailto:Facebook.com/DaveHookeTeam)[acebook.com/DaveHookeTeam](http://facebook.com/DaveHookeTeam)
