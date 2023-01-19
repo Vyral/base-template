@@ -7,7 +7,7 @@ tags:
   - Lead Generation
   - Buyer Prospects
   - Lead Conversion
-excerpt: Changing markets means changing strategies.
+excerpt: Make Your Marketing Message Current
 enclosure:
 pullquote:
 enclosure_type: video/mp4
