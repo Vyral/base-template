@@ -9,7 +9,7 @@ pullquote: If you're thinking about renting, keep in mind the true cost you'll f
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/rent-prices-yt.jpg
 youtube_code: Q80pD7ZgsaM
 ---
 {% include youtube.html %}
@@ -18,7 +18,7 @@ youtube_code: Q80pD7ZgsaM
 
 If you're a renter, you face an important decision every year: renew your current lease, start a new one, or buy a home. This year is no different, but before you dive too deeply into your options, it helps to understand the true cost of renting moving forward.&nbsp;
 
-Three out of four renters who have moved in the past 12 months reported seeing their rent increase, but the strain from recent rate hikes isn't exclusive to renters who have recently moved. Nearly two-thirds of renters who have lived in their current residence between 12 and 24 months and will likely renew their lease also reported rent increases. **According to the census, rents have been rising fairly consistently since 1998. **
+Three out of four renters who have moved in the past 12 months reported seeing their rent increase, but the strain from recent rate hikes isn't exclusive to renters who have recently moved. Nearly two-thirds of renters who have lived in their current residence between 12 and 24 months and will likely renew their lease also reported rent increases. \*\*According to the census, rents have been rising fairly consistently since 1998. \*\*
 
 {% include pullquote.html %}
 
