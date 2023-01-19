@@ -24,4 +24,4 @@ Some of the key things we’ll be covering will be where the market has been and
 
 There will be a maximum number of attendees, so make sure to register now at our [website](https://johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}. We’ll be holding these seminars on Tuesday, January 31, at 11 a.m. and 6 p.m. and on Thursday, February 2, at 11 a.m. and 6 p.m. **When you register, you’ll get a free copy of John’s 40-page whole marketing guide.**
 
-If you have any questions about the event or anything that’s real estate related, call or email us. We’re always happy to help\!
+If you have any questions about the event or anything that’s real estate related, call or email us. We’re always happy to help!
