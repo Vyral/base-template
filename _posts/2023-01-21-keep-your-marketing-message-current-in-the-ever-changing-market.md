@@ -9,7 +9,7 @@ tags:
   - Lead Conversion
 excerpt: Make Your Marketing Message Current
 enclosure:
-pullquote:
+pullquote: Love it or List it
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
