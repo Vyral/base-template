@@ -8,8 +8,7 @@ tags:
 excerpt: >-
   Today I am explaining the differences between the three types of values that
   your home is assigned.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%2526+Associates+-+The+Differences+Between+Assessed%252C+Appraised%252C+and+Market+Values.mp4
+enclosure:
 pullquote: >-
   Real estate is not a perfect market like the stock market, where you can look
   at the price and what it is is what you pay.
@@ -21,7 +20,7 @@ youtube_code: Wb25tbHUFsU
 ---
 {% include youtube.html %}
 
-<center><em>Today I am explaining the differences between the three types of values that your home is assigned.</em></center>
+{% include excertp.html %}
 
 What is the difference between assessed value, appraised value, and market value?
 
