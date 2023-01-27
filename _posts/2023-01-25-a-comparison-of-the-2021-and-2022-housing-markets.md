@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/year-end-hollinger-yt.jpg
-youtube_code: zFsou3QNTEw
+youtube_code: Lf8bHBEiE3Y
 ---
 {% include youtube.html %}
 
