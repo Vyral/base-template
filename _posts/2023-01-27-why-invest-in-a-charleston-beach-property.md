@@ -4,7 +4,7 @@ title: Why Invest in a Charleston Beach Property?
 date: 2023-01-27 07:00:00
 tags:
   - Real Estate
-excerpt: Three reasons why investors will love to buy a Charleston beach property.
+excerpt: Three reasons why investors should buy a Charleston beach property.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
