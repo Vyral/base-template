@@ -17,8 +17,6 @@ youtube_code: 4YNfHXqw_0E
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 What does Calgary's real estate market have to do with the picture I’m holding at 0:37 in the video above, and where are we heading in 2023? Today I’m sharing the truth about our market and my predictions.
 
 If you look at the picture from a distance, many people will see a skull, which is often associated with thoughts of death, doom, and gloom. In a way, that's what you see in the news or on social media, which is why it’s dangerous to believe everything you see there. Upon closer look at the picture, at 1:07 in the video, you get another view, and the perspective changes. That's a lot like the Calgary market. **Some people can see the negative, while some see the positive.**
