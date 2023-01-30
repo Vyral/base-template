@@ -6,7 +6,7 @@ tags:
   - Calgary market news
   - Calgary real estate
   - market predictions
-excerpt:
+excerpt: People have different opinions of the Calgary real estate market.
 enclosure:
 pullquote: It’s dangerous to believe everything you see on the news or social media.
 enclosure_type: video/mp4
@@ -16,6 +16,8 @@ youtube_alternate_image: /uploads/good-and-bad.jpg
 youtube_code: 4YNfHXqw_0E
 ---
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 What does Calgary's real estate market have to do with the picture I’m holding at 0:37 in the video above, and where are we heading in 2023? Today I’m sharing the truth about our market and my predictions.
 
