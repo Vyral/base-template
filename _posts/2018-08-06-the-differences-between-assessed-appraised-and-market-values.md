@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Differences Between Assessed, Appraised, and Market Values
+title: The Differences Between Assessed, Appraised, and Market Value
 date: 2018-08-06 00:00:00
 tags:
   - Real Estate
