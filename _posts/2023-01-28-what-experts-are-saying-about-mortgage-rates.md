@@ -9,7 +9,7 @@ pullquote: Have a realistic vision of what you can expect this year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/rates-declining-yt.jpg
 youtube_code: skvsRFc3FjQ
 ---
 {% include youtube.html %}
