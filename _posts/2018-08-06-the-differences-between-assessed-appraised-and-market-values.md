@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/eric-mortimer-ss-august-1-no-play.jpg
-youtube_code: Wb25tbHUFsU
+youtube_alternate_image: /uploads/value.jpg
+youtube_code: 4YNfHXqw_0E
 ---
 {% include youtube.html %}
 
