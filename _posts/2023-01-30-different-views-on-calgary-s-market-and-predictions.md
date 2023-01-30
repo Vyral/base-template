@@ -6,7 +6,7 @@ tags:
   - Calgary market news
   - Calgary real estate
   - market predictions
-excerpt: People have different opinions of the Calgary real estate market.
+excerpt:
 enclosure:
 pullquote: It’s dangerous to believe everything you see on the news or social media.
 enclosure_type: video/mp4
