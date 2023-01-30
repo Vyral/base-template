@@ -20,7 +20,7 @@ youtube_code: Wb25tbHUFsU
 ---
 {% include youtube.html %}
 
-{% include excertp.html %}
+{% include excerpt.html %}
 
 What is the difference between assessed value, appraised value, and market value?
 
