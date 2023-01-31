@@ -6,9 +6,7 @@ tags:
   - Real Estate
   - Tulsa
   - Oklahoma
-excerpt: >-
-  Tulsa looks good with Kou See Vang the owner & pastry chef of DBK - Asian
-  Bakery
+excerpt: Tulsa looks good with Shiraya Proffitt, owner of Charcuteray.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -21,8 +19,6 @@ hidden: false
 {% include youtube.html %}
 
 {% include excerpt.html %}
-
-Tulsa looks good with Shiraya Proffitt, owner of Charcuteray.
 
 We hope you are in the market for a beautifully delicious treat, because this week Tulsa Looks Good on You is highlighting, Charcuteray.
 
