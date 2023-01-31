@@ -21,3 +21,5 @@ hidden: false
 {% include excerpt.html %}
 
 Jennie sits down with Jill Croka Designs', Kate Korneva, to discuss design trends and tips to get your home feeling cozy!
+
+Looking to make a move in 2023 or know someone who is? Be sure to visit our website for everything you need to make it a successful process from start to finish! [https://thewolekgroup.com/](https://thewolekgroup.com/)
