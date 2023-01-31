@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image:
 youtube_alternate_image: /uploads/good-and-bad-1.jpg
-youtube_code: 4YNfHXqw_0E
+youtube_code: 7bF9ZzAsIB0
 ---
 {% include youtube.html %}
 
