@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
 youtube_code: https://youtu.be/y3An-pfBVWk
-hidden: false
+hidden: true
 ---
 During this season of love, we thought what better way to show our appreciation for our clients than gifting something AMAZINGLY SWEET! When you enter to win, you have not one, not two, not even THREE, but FOUR opportunities to win an amazing date night package! 🙌
 
