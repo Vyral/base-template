@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valentine’s Day YOUR Way Giveaway! ❤️.
+title: Valentine’s Day YOUR Way Giveaway! ❤️
 date: 2023-02-06 09:00:00
 tags:
   - Real Estate
