@@ -18,7 +18,7 @@ youtube_code: g55ip8Q2hZ4
 
 {% include excerpt.html %}
 
-We deal with Miller Pest & Termite for all our listing transactions because we need a wood-destroying insect report as part of a real estate transaction.
+We deal with [Miller Pest & Termite](https://www.millerthekiller.com/) for all our listing transactions because we need a wood-destroying insect report as part of a real estate transaction.
 
 The wood-destroying inspection pest professional will come out to take a look and complete what's called an MPMA 33 federally-regulated form. If you use any lender, you must complete a DEA inspection or wood-destroying insect report.&nbsp;
 
