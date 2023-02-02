@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: 'Here’s what you need to know about the next 90 days in our housing market. '
 enclosure:
-pullquote: The true culprit behind our slowing market is our lack of inventory.
+pullquote: There are some neighborhoods with literally zero inventory right now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
