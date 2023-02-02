@@ -20,7 +20,7 @@ youtube_code: Y2oIM-TS0Sg
 
 As interest rates have increased, buyers and sellers have started looking for new ways to make moving more affordable. Fortunately, lenders have heard people’s concerns, and they’ve come up with some creative strategies to help you buy or sell your home.&nbsp;
 
-One of our lenders told us about a new program designed to help doctors right out of medical school get into homes. This program is 100% financing, has no mortgage insurance, and accepts a higher debt-to-income ratio than most loans. Essentially, l**enders are leveraging your future income as an MD to provide you with the best deal possible. **
+One of our lenders told us about a new program designed to help doctors right out of medical school get into homes. This program is 100% financing, has no mortgage insurance, and accepts a higher debt-to-income ratio than most loans. Essentially, lenders are leveraging your future income as an MD to provide you with the best deal possible.
 
 **{% include pullquote.html %}**
 
