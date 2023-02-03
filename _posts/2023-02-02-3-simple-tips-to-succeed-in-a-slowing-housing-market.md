@@ -19,7 +19,7 @@ youtube_code: vyCKaOO0szg
 
 What are the three main things you can do in your business to survive a shifting market? Often in the winter months, things slow down in our business. This can lead to a feeling of stress and anxiety as your leads dry up. Fortunately, you don’t have to sit idly by when this happens. Here are three things you can do to keep your real estate business going during a slowing market:
 
-**1\. Understand which lead sources are netting you the best return on your investment.** On our real estate team, we have over 20 lead sources that we track down to the penny. By far and away, the one that brings us our highest return on investment is working our database. Those are the people that know, like and trust us already. Now is the time to get in touch with these people like you never have before.
+**1\. Understand which lead sources are netting you the best return on your investment.** On our real estate team, we have over 20 lead sources that we track down to the penny. By far and away, the one that brings us our highest return on investment is working our database. Those are the people that know, like, and trust us already. Now is the time to get in touch with these people like you never have before.
 
 **{% include pullquote.html %}**
 
