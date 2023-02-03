@@ -51,3 +51,5 @@ Please talk to me first before you buy or sell in 2023 - I promise the call will
 **Grab 30 minutes here when it works for you.**
 
 Again, no charge or obligation to buy or sell.
+
+I hope to talk to you soon.
