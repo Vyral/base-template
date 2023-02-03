@@ -19,7 +19,7 @@ youtube_code: LqDXJdfVb44
 
 {% include excerpt.html %}
 
-I wanted to let you know I'm here to answer any of your 2023 home selling or buying questions on the phone regarding our Chattanooga housing market.
+I wanted to let you know I'm here to answer any of your 2023 home selling or buying questions on the phone regarding our Chattanooga/Cleveland housing market.
 
 Free. No charge. **Just book 30 minutes with me on my calendar.**
 
