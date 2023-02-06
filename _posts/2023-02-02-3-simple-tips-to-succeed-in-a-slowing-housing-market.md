@@ -27,4 +27,4 @@ What are the three main things you can do in your business to survive a shifting
 
 **3\. Start with “Why” in all your conversations.** Your goal should be to figure out your clients’ motivations. It isn’t as simple as asking if someone is downsizing or not; you need to dig deeper. Why are they downsizing? What’s the reason behind their move? Getting down to the why will enrich your business relationship and help you build rapport.&nbsp;
 
-If you have questions about anything we talked about today or something else, please call at (717) 216-0860 or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We look forward to hearing from you!
+If you have questions about anything we talked about today or something else, please call at [(717) 216-0860](&#40;717&#41; 216-0860) or email [dave@davehooketeam.com](mailto:dave@davehooketeam.com). Check out [Facebook.com/DaveHookeTeam](www.facebook.com/davehooketeam){: target="_blank" rel="noopener"} for the latest listings in our area, community updates, and more helpful tips like this. We look forward to hearing from you!
