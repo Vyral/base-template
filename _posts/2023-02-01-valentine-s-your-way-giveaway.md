@@ -20,7 +20,9 @@ During this season of love, we thought what better way to show our appreciation 
 
 Packages include: @thesucculentshopba , @rusticchophouse , @arworkshoptulsaok, @charcuteray, @welltownbrewing, @tulsapoppi, @valkyrietulsa, @taverntulsa.Don't forget: you can share our pinned post on Facebook or Instagram for an extra entry! 🤞.All you have to do to enter is…👉 Click the link below and fill out the form with your contact information👉 Leave a review on Google👉 Share our Facebook post for 1 extra entry
 
-It's that easy! 👏.Enter to Win with this link: [https://bit.ly/TWGValentine](https://bit.ly/TWGValentine)
+It's that easy! 👏
+
+Enter to Win with this link: [https://bit.ly/TWGValentine](https://bit.ly/TWGValentine)
 
 {% include youtube.html %}
 
