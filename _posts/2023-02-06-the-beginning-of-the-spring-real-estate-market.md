@@ -28,4 +28,4 @@ Now, some of you might be saying, “Are you absolutely crazy? There's snow on t
 
 We historically see a big slowdown the week before the 4th of July, and many times, we don't see a pickup until the end of August. Buyer activity surges during the spring market, and if you're selling in 2023, you do not want to miss out on this opportunity. Don't be fooled by some of the media reports. There is still high buyer demand for well-maintained, turnkey homes. You might be surprised to see what your home could sell for in this spring market.
 
-If you want to get an instant valuation on your home or a confidential, detailed in-home comparative market analysis, visit [JohnSchusterGroup.com](JohnSchusterGroup.com){: target="_blank" rel="noopener"} or call or text us at (952) 222-9000. We look forward to hearing from you.
+If you want to get an instant valuation on your home or a confidential, detailed in-home comparative market analysis, visit [https://www.johnschustergroup.com/](https://www.johnschustergroup.com/){: target="_blank" rel="noopener"} or call or text us at (952) 222-9000. We look forward to hearing from you.
