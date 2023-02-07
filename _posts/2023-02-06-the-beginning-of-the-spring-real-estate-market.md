@@ -20,6 +20,8 @@ youtube_code: U6LvUKQZUhw
 
 {% include excerpt.html %}
 
+[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
+
 This is a very special time that happens every year in the Twin Cities real estate market — it’s the official start of the spring real estate market throughout the Greater Minneapolis and Saint Paul metro area.
 
 Now, some of you might be saying, “Are you absolutely crazy? There's snow on the ground.” Paul Douglas is predicting a snowstorm next week, but some of the seasons move quickly in the North Star State. **The Twin Cities spring real estate market starts just after the Super Bowl** in mid-February, and it runs through early July. If you wait to list your home until summer, you just might be too late.
