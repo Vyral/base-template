@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image:
-youtube_alternate_image: /uploads/we-re-hiring-soldwisch-yt.jpg
+youtube_alternate_image: /uploads/we-re-hiring-soldwisch-yt-rec.jpg
 youtube_code: yEL4NMTPOkc
 ---
 {% include youtube.html %}
