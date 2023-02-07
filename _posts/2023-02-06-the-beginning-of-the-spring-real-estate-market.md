@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beginning of the Spring Real Estate Market
-date: 2023-02-06 00:00:00
+date: 2023-02-13 00:00:00
 tags:
   - Market Update
   - Real Estate
