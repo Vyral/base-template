@@ -18,7 +18,7 @@ youtube_code: lUi1KjenG3o
 
 {% include excerpt.html %}
 
-Have you ever been stressed about how to best stage your home? It can seem so daunting, which is why it’s best to get help from a professional. Recently, I had the good fortune of getting to sit down with Luise Morris, a professional stager and owner of Green Door Home Staging. She told me all about how her company started and what her recommendations are, so I am here to share that information with you.&nbsp;
+Have you ever been stressed about how to best stage your home? It can seem so daunting, which is why it’s best to get help from a professional. Recently, I had the good fortune of getting to sit down with Luise Morris, a professional stager and owner of [Green Door Home Staging](http://greendoorhomestaging.com). She told me all about how her company started and what her recommendations are, so I am here to share that information with you.&nbsp;
 
 Luise started Green Door Home Staging in 2014 when she relocated from the East Coast. She was a Realtor in Rhode Island and always enjoyed helping people get their homes ready. Since she liked that facet of real estate the most, she decided to commit to it and create her staging business.&nbsp;
 
