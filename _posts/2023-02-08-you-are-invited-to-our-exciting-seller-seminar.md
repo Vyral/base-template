@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Are Invited to Our Exciting Seller Seminar
+title: This Sellers Seminar will NOT disappoint!
 date: 2023-02-08 00:00:00
 tags:
   - Home Seller Tips
