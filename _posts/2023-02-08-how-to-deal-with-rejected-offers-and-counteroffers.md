@@ -5,7 +5,7 @@ date: 2023-02-08 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: A rejected offer doesn’t mean the end for buyers. There’s hope still.
+excerpt: A rejected offer doesn’t mean the end for buyers—there’s still hope.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -22,4 +22,4 @@ What if your offer on a home is rejected? Sellers can reject an initial offer, b
 
 If the seller submits a counteroffer, you're still in the game. You and your agent just need to review it and determine if the deal is acceptable. If it is, then approval closes the transaction immediately. Keep in mind that offers and counteroffers can go back and forth multiple times. This is not uncommon and negotiations are part of what Realtors do on a daily basis.
 
-Each revision should bring both parties closer to an agreement on the terms of the deal. I hope this tip was helpful, and if you have any questions about this topic or anything that’s real estate related, call or email us. We look forward to speaking with you soon.
+Each revision should bring both parties closer to an agreement on the terms of the deal. If you have any questions about this topic or anything that’s real estate related, call or email us. We look forward to speaking with you soon.
