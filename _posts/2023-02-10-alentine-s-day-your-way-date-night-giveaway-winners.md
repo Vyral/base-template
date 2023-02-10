@@ -1,6 +1,6 @@
 ---
 layout: post
-title: alentine's Day Your Way Date Night Giveaway WINNERS!
+title: Valentine's Day Your Way Date Night Giveaway WINNERS!
 date: 2023-02-10 15:00:00
 tags:
 excerpt:
