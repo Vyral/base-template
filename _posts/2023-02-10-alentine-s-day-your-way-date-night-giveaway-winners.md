@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/date-night-winners-2023-banner-landscape-youtu
 youtube_code:
 hidden: false
 ---
-![](/uploads/date-night-winners-2023-banner-landscape-youtube-thumbnail-1-1.png){: width="1280" height="720"}
+![](/uploads/date-night-winners-2023-banner-landscape-youtube-thumbnail-1-2.png){: width="960" height="540"}
 
 CONGRATULATIONS to our Valentine's Day Your Way Date Night Giveaway WINNERS!
 
