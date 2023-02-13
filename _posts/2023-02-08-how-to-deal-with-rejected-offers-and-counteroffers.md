@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rejected-offers-sawyer-yt.jpg
-youtube_code: gbfp3pJPi40
+youtube_code: ItqYJ2oj6Z8
 ---
 {% include youtube.html %}
 
