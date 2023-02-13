@@ -18,7 +18,7 @@ youtube_code: gbfp3pJPi40
 
 {% include excerpt.html %}
 
-What if your offer on a home is rejected? Sellers can reject an initial offer, but there is a third option that isn't very common. **Sellers can initiate a counteroffer, so remember that a deal isn't over until it reaches a dead end.**
+What if your offer on a home is rejected? Sellers can reject an initial offer, but there is a third option that is very common. **Sellers can initiate a counteroffer, so remember that a deal isn't over until it reaches a dead end.**
 
 If the seller submits a counteroffer, you're still in the game. You and your agent just need to review it and determine if the deal is acceptable. If it is, then approval closes the transaction immediately. Keep in mind that offers and counteroffers can go back and forth multiple times. This is not uncommon and negotiations are part of what Realtors do on a daily basis.
 
