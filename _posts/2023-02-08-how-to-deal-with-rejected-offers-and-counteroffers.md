@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Deal With Rejected Offers and Counteroffers
+title: What Can Happen When You Make an Offer on a Home
 date: 2023-02-08 00:00:00
 tags:
   - Real Estate
