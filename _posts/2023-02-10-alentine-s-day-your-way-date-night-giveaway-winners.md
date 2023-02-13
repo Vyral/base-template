@@ -17,7 +17,7 @@ hidden: false
 
 CONGRATULATIONS to our Valentine's Day Your Way Date Night Giveaway WINNERS!
 
-Packages include goodies from Poppi's, Welltown Iglootown, The Tavern, Valkyrie, The Succulent Shop, LLC, Rustic Chophouse-Broken Arrow, AR Workshop Tulsa, OK, Charcuteray!&nbsp;
+Packages include goodies from Poppi's, Welltown Iglootown, The Tavern, Valkyrie, The Succulent Shop, LLC, Rustic Chophouse-Broken Arrow, AR Workshop Tulsa, OK, Charcuteray!
 
 And don't forget, for every person who enters, we will donate to Joy in the Cause to help provide baskets to 30 children at Children's Hospital at St Francis.
 
