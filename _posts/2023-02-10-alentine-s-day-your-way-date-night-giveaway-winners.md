@@ -13,6 +13,8 @@ youtube_alternate_image: /uploads/date-night-winners-2023-banner-landscape-youtu
 youtube_code:
 hidden: false
 ---
+![](/uploads/date-night-winners-2023-banner-landscape-youtube-thumbnail-1-1.png){: width="1280" height="720"}
+
 CONGRATULATIONS to our Valentine's Day Your Way Date Night Giveaway WINNERS!
 
 Packages include goodies from Poppi's, Welltown Iglootown, The Tavern, Valkyrie, The Succulent Shop, LLC, Rustic Chophouse-Broken Arrow, AR Workshop Tulsa, OK, Charcuteray!&nbsp;
