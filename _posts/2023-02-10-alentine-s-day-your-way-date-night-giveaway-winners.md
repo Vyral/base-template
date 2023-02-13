@@ -3,6 +3,10 @@ layout: post
 title: Valentine's Day Your Way Date Night Giveaway WINNERS!
 date: 2023-02-10 15:00:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
+  - Market Update
+  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote:
