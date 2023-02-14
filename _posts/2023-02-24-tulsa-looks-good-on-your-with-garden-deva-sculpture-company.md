@@ -8,7 +8,7 @@ excerpt: >-
   Sculpture Company
 enclosure:
 pullquote: >-
-  “We are a very big part of the Tulsa community, there are very few
+  We are a very big part of the Tulsa community, there are very few
   neighborhoods you can drive through without finding at least one piece from
   here. We are very proud to be a part of that,” said Babcock.
 enclosure_type: video/mp4
