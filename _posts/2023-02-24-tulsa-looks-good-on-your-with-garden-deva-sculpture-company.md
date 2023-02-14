@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/garden-deva-yt.png
 youtube_code:
-hidden: false
+hidden: true
 ---
 {% include youtube.html %}
 
