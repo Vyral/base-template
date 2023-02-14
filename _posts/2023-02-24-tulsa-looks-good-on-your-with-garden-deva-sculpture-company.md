@@ -24,7 +24,7 @@ hidden: false
 
 In the market for some whimsical garden art?? You’re in luck, because this week Tulsa Looks Good on You is highlighting, Garden Deva Sculpture Company!
 
-Jennie had a chance to chat with co-owner, Bobby Babcock, to hear about the evolution of Garden Deva, since founder, Lisa Regan sold the business in 2017.&nbsp;*Spoiler alert*&nbsp;it ends with a love story 💕.
+Jennie had a chance to chat with co-owner, Bobby Babcock, to hear about the evolution of Garden Deva, since founder, Lisa Regan sold the business in 2017. *Spoiler alert* it ends with a love story 💕.
 
 Located at 1326 E 3rd Street, this shop sparks the imagination the minute you step in the door! Garden Deva offers an array of pieces from large sculptures all the way down to a small piece to decorate your garden pot. With a variety of events, attendees have the opportunity to sip wine and create a wind chime with friends. Or maybe you want to stretch your creativity a bit further with their beginner or intermediate metal sculpture workshops.
 
