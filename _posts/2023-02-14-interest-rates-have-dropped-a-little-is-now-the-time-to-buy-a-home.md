@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interest rates have dropped (a little)..is NOW the time to buy a home?
+title: Interest Rates Have Dropped (a little)...Is NOW the Time To Buy a Home?
 date: 2023-02-14 00:00:00
 tags:
   - Real Estate
