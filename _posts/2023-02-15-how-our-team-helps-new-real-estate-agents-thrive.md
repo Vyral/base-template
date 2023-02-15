@@ -29,4 +29,6 @@ Recently, we sat down with one of our agents, Jenny, to get her thoughts on her 
 
 “You know, I didn't know if I would be successful at real estate or not, but it was a huge risk. But then, once I was able to prove that I could do it, the challenge was this mindset of how do I continue this success? **As each new challenge came my way, I was able to lean on the team to guide me through them.** They proved that with a showing agent and a transaction coordinator, you're able to have a very full career and also a very balanced life. I can still be a mom to three kids, which I think really says something. At this point, I don’t think I would change anything.”
 
-If you have questions for us about today’s interview or anything else, please call or email us at [(717) 216-0860](tel:717-216-0860) or [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We’d love to hear from you!
+If you have questions for us about today’s interview or anything else, please call us at [(717) 216-0860](tel:717-216-0860) or send an email to&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com). We'd love to hear from you!
+
+Make sure to follow us on Facebook at&nbsp;[Facebook.com/DaveHookeTeam](https://davehookecoaching.com/www.facebook.com/davehooketeam){: target="_blank" rel="noopener"}&nbsp;to get the latest listings in our area, community updates, and more helpful articles like this.
