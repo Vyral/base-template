@@ -31,4 +31,4 @@ Recently, we sat down with one of our agents, Jenny, to get her thoughts on her 
 
 If you have questions for us about today’s interview or anything else, please call us at [(717) 216-0860](tel:717-216-0860) or send an email to&nbsp;[dave@davehooketeam.com](mailto:dave@davehooketeam.com). We'd love to hear from you!
 
-Make sure to follow us on Facebook at&nbsp;[Facebook.com/DaveHookeTeam](https://davehookecoaching.com/www.facebook.com/davehooketeam){: target="_blank" rel="noopener"}&nbsp;to get the latest listings in our area, community updates, and more helpful articles like this.
+Make sure to follow us on Facebook at&nbsp;[Facebook.com/DaveHookeTeam](https://www.facebook.com/davehooketeam){: target="_blank" rel="noopener"}&nbsp;to get the latest listings in our area, community updates, and more helpful articles like this.
