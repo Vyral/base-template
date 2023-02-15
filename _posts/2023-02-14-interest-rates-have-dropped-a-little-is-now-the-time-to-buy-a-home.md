@@ -19,9 +19,9 @@ youtube_code: 86zVWrAiHGk
 
 {% include excerpt.html %}
 
-If you have been waiting to buy a home, you will be happy to know that today's mortgage rate has dropped below last year's peak, which means **it is now easier to afford a home loan.**&nbsp;
+If you have been waiting to buy a home, you will be happy to know that today's mortgage rates have dropped below last year's peak, which means **it is now easier to afford a home loan.**&nbsp;
 
-However, if you are thinking about waiting for the rate to drop more, I would caution you against that. Greg McBride from Bank Rate says we're not going back to 3% mortgage rates anytime soon. Other experts agree that rates will stabilize this year, likely below 6%, but there's no way to know for sure.&nbsp;
+However, if you are thinking about waiting for the rates to drop more, I would caution you against that. Greg McBride from Bank Rate says we're not going back to 3% mortgage rates anytime soon. Other experts agree that rates will stabilize this year, likely below 6%, but there's no way to know for sure.&nbsp;
 
 If you're ready to make your move, **holding out for a 3% rate could mean missing out on the space you need or the home you love.** Know that good things are happening for buyers in today’s market. For example, multiple offers are down and buyers don’t have to overbid like crazy anymore.&nbsp;
 
