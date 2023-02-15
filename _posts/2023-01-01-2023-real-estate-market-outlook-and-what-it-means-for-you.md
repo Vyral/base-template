@@ -18,7 +18,7 @@ In March 2022, the Federal Reserve began a series of interest rate hikes in an e
 
 Both demand and price appreciation have tapered, as the primary challenge for homebuyers has shifted from availability to affordability. And although this higher-mortgage rate environment has been a painful adjustment for many buyers and sellers, it should ultimately lead to a more stable and balanced real estate market.
 
-So what can we expect in 2023? Will mortgage rates continue to climb? Could home prices come crashing down? While this is one of the more challenging real estate periods to forecast, here’s what several industry experts predict will happen to the U.S. housing market in the coming year.
+So what can we expect in 2023? Will mortgage rates continue to climb? Could home prices come crashing down? While this is one of the more challenging real estate periods to forecast, here’s what several industry experts predict will happen to the U.S. housing market in the coming year.<br>
 
 **MORTGAGE RATES WILL FLUCTUATE LESS**
 
@@ -40,7 +40,7 @@ Economists at Fannie Mae fall somewhere in the middle. In a recent press release
 
 ***What does it mean for you? \*\****&nbsp;\*\*Even the experts can’t say for certain where mortgage rates are headed. Instead of trying to ”time the market,” focus instead on buying or selling a home when the time is right for you. There are a variety of mortgage options available that can make a home purchase more affordable, including adjustable rates, points, and buydowns—and keep in mind you can always refinance down the road. We’d be happy to refer you to a trusted mortgage professional who can outline your best options.
 
-**SALES VOLUME WILL FALL AND INVENTORY WILL RISE**
+<br>**SALES VOLUME WILL FALL AND INVENTORY WILL RISE**
 
 It looks like the home-buying frenzy we experienced in recent years is behind us. While the desire to own a home remains strong, higher mortgage rates have made it unaffordable for a large segment of would-be buyers.&nbsp;
 
@@ -54,7 +54,7 @@ However, given the severe lack of housing supply, even with a double-digit incre
 
 ***What does it mean for you? \*\***&nbsp;*If you’ve been frustrated by a lack of inventory in the past, 2023 may bring new opportunities for you to find the perfect home. And today’s buyers have more negotiating power than they’ve had in years. Contact us to find out about current and future listings that meet your criteria.
 
-If you’re hoping to sell, you may want to act fast; rising inventory levels will mean increased competition. We can help you chart the best course to maximize your profits, starting with a professional assessment of your home’s current market value. Reach out to schedule a free consultation.
+If you’re hoping to sell, you may want to act fast; rising inventory levels will mean increased competition. We can help you chart the best course to maximize your profits, starting with a professional assessment of your home’s current market value. Reach out to schedule a free consultation.<br>
 
 **HOME PRICES WILL REMAIN RELATIVELY STABLE**
 
@@ -68,7 +68,7 @@ Still, many economists agree that a housing market crash like the one we experie
 
 *\*\*What does it mean for you?&nbsp; \*\**It can feel scary to buy a home when there’s uncertainty in the market. However, real estate is a long-term investment that has been shown to appreciate over time. And keep in mind that the best bargains are often found in a slower market, like the one we’re experiencing right now. Contact us to discuss your goals and budget. We can help you make an informed decision about the right time to buy.
 
-And if you’re planning to sell this year, you’ll want to chart your path carefully to maximize your profits. Contact us for recommendations and to find out what your home could sell for in today’s market.
+And if you’re planning to sell this year, you’ll want to chart your path carefully to maximize your profits. Contact us for recommendations and to find out what your home could sell for in today’s market.<br>
 
 **RENT PRICES WILL CONTINUE TO CLIMB**
 
@@ -80,27 +80,27 @@ However, there are signs that the surge in rent prices could be tapering. Accord
 
 ***What does it mean for you? \*\****&nbsp;\*\*Rent prices are expected to keep climbing. But you can lock in a set mortgage payment and build long-term wealth by putting that money toward a home purchase instead. Reach out for a free consultation to discuss your options.&nbsp;
 
-And if you’ve ever thought about purchasing a rental property, now may be a perfect time. Call today to get your investment property search started.
+And if you’ve ever thought about purchasing a rental property, now may be a perfect time. Call today to get your investment property search started.<br>
 
 **WE’RE HERE TO GUIDE YOU**
 
 While national real estate forecasts can provide a “big picture” outlook, real estate is local. And as local market experts, we can guide you through the ins and outs of our market and the issues most likely to impact sales and drive home values in your particular neighborhood.&nbsp;
 
-If you’re considering buying or selling a home in 2023, contact us now to schedule a free consultation. We’ll work with you to develop an action plan to meet your real estate goals this year.
+If you’re considering buying or selling a home in 2023, contact us now to schedule a free consultation. We’ll work with you to develop an action plan to meet your real estate goals this year.<br>
 
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
+*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*<br><br>
 
 Sources:
 
-1. Forbes -[https://www.forbes.com/advisor/investing/fed-funds-rate-history/](https://www.forbes.com/advisor/investing/fed-funds-rate-history/)
-2. Bankrate -[https://www.bankrate.com/mortgages/will-mortgage-rates-go-up-in-december-2022/](https://www.bankrate.com/mortgages/will-mortgage-rates-go-up-in-december-2022/)
-3. Bankrate -[https://www.bankrate.com/real-estate/housing-market-predictions-2023/](https://www.bankrate.com/real-estate/housing-market-predictions-2023/)
-4. Realtor.com - [https://www.realtor.com/news/trends/2023-the-year-of-the-homebuyer-our-bold-predictions-on-home-prices-mortgage-rates-and-more/](https://www.realtor.com/news/trends/2023-the-year-of-the-homebuyer-our-bold-predictions-on-home-prices-mortgage-rates-and-more/)
-5. Mortgage Bankers Association - [https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/mortgage-finance-forecast-dec-2022.pdf?sfvrsn=b584bf7\_1](https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/mortgage-finance-forecast-dec-2022.pdf?sfvrsn=b584bf7_1)
-6. Fannie Mae - [https://www.fanniemae.com/newsroom/fannie-mae-news/economy-still-expected-enter-and-exit-modest-recession-2023](https://www.fanniemae.com/newsroom/fannie-mae-news/economy-still-expected-enter-and-exit-modest-recession-2023)
-7. Fannie Mae -[https://www.fanniemae.com/media/45801/display](https://www.fanniemae.com/media/45801/display)
-8. National Association of Realtors - [https://www.nar.realtor/newsroom/nars-lawrence-yun-predicts-us-home-prices-wont-experience-major-decline-could-possibly-rise-slightly](https://www.nar.realtor/newsroom/nars-lawrence-yun-predicts-us-home-prices-wont-experience-major-decline-could-possibly-rise-slightly)
-9. Realtor.com -[https://www.realtor.com/research/2023-national-housing-forecast/](https://www.realtor.com/research/2023-national-housing-forecast/)
-10. The New York Times - [https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html](https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html)
-11. CNBC -[https://www.cnbc.com/2022/09/28/how-much-higher-rent-will-go-in-2023-according-to-experts.html](https://www.cnbc.com/2022/09/28/how-much-higher-rent-will-go-in-2023-according-to-experts.html)
-12. Federal Reserve Bank of Dallas -[https://www.dallasfed.org/research/economics/2022/0816](https://www.dallasfed.org/research/economics/2022/0816)
+1. Forbes -<br>[https://www.forbes.com/advisor/investing/fed-funds-rate-history/](https://www.forbes.com/advisor/investing/fed-funds-rate-history/)
+2. Bankrate -<br>[https://www.bankrate.com/mortgages/will-mortgage-rates-go-up-in-december-2022/](https://www.bankrate.com/mortgages/will-mortgage-rates-go-up-in-december-2022/)
+3. Bankrate -<br>[https://www.bankrate.com/real-estate/housing-market-predictions-2023/](https://www.bankrate.com/real-estate/housing-market-predictions-2023/)
+4. Realtor.com -<br>[https://www.realtor.com/news/trends/2023-the-year-of-the-homebuyer-our-bold-predictions-on-home-prices-mortgage-rates-and-more/](https://www.realtor.com/news/trends/2023-the-year-of-the-homebuyer-our-bold-predictions-on-home-prices-mortgage-rates-and-more/)
+5. Mortgage Bankers Association -<br>[https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/mortgage-finance-forecast-dec-2022.pdf?sfvrsn=b584bf7\_1](https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/mortgage-finance-forecast-dec-2022.pdf?sfvrsn=b584bf7_1)
+6. Fannie Mae -<br>[https://www.fanniemae.com/newsroom/fannie-mae-news/economy-still-expected-enter-and-exit-modest-recession-2023](https://www.fanniemae.com/newsroom/fannie-mae-news/economy-still-expected-enter-and-exit-modest-recession-2023)
+7. Fannie Mae -<br>[https://www.fanniemae.com/media/45801/display](https://www.fanniemae.com/media/45801/display)
+8. National Association of Realtors -<br>[https://www.nar.realtor/newsroom/nars-lawrence-yun-predicts-us-home-prices-wont-experience-major-decline-could-possibly-rise-slightly](https://www.nar.realtor/newsroom/nars-lawrence-yun-predicts-us-home-prices-wont-experience-major-decline-could-possibly-rise-slightly)
+9. Realtor.com -<br>[https://www.realtor.com/research/2023-national-housing-forecast/](https://www.realtor.com/research/2023-national-housing-forecast/)
+10. The New York Times -<br>​​[https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html](https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html)
+11. CNBC -<br>[https://www.cnbc.com/2022/09/28/how-much-higher-rent-will-go-in-2023-according-to-experts.html](https://www.cnbc.com/2022/09/28/how-much-higher-rent-will-go-in-2023-according-to-experts.html)
+12. Federal Reserve Bank of Dallas -<br>[https://www.dallasfed.org/research/economics/2022/0816](https://www.dallasfed.org/research/economics/2022/0816)
