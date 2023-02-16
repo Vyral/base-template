@@ -11,7 +11,7 @@ pullquote: Several scams are targeting both new and existing homeowners.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chad-sara-huebener-yt-3.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-yt-4.jpg
 youtube_code: s6z9tPa0_WE
 ---
 {% include youtube.html %}
