@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: We have an important announcement to make about real estate scams.
 enclosure:
-pullquote: Several scams that are targeting both new and existing homeowners.
+pullquote: Several scams are targeting both new and existing homeowners.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
