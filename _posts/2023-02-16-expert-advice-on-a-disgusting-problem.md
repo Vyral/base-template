@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/soldwisch-bedbugs-yt.jpg
+youtube_alternate_image: /uploads/soldwisch-bedbugs-yt-2.jpg
 youtube_code: 5maxsLkY9W0
 ---
 {% include youtube.html %}
