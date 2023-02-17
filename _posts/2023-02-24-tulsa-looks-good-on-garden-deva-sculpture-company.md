@@ -14,8 +14,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mythic-press-yt.png
-youtube_code:
-hidden: true
+youtube_code: 9CfMyAv3NCQ
+hidden: false
 ---
 {% include youtube.html %}
 
@@ -37,4 +37,4 @@ Right outside of Mother Road Market, Tulsa’s con purchase Mythic apparel at th
 
 ‌
 
-Connect further to Mythic Press at&nbsp;[http://www.themythicpress.com](http://www.themythicpress.com/){: target="_blank" rel="noreferrer ugc nofollow"}
+Connect further to Mythic Press at [http://www.themythicpress.com](http://www.themythicpress.com/){: target="_blank" rel="noreferrer ugc nofollow"}
