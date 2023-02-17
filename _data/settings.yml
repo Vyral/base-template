@@ -16,7 +16,10 @@ custom_links:
   - title: Zillow
     url: https://www.zillow.com/profile/Mikki-Ramey/
   - title: How We Give
-    url: https://www.healthyrealtycares.com/?fbclid=IwAR2jmrGrpTVJ4RPlJ8jNv_W5rlDfwCsmSXe7jei834yF09mKXT_sIDV2KjA#our-story
+    url: >-
+      https://www.healthyrealtycares.com/?fbclid=IwAR2jmrGrpTVJ4RPlJ8jNv_W5rlDfwCsmSXe7jei834yF09mKXT_sIDV2KjA#our-story
+  - title: Want a Cash Offer?
+    url: https://mikki.zoodealio.com/
 client:
   name: Mikki Ramey
   license_number:
