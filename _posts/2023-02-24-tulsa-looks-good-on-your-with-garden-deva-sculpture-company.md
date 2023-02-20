@@ -3,6 +3,9 @@ layout: post
 title: Tulsa Looks Good On Garden Deva Sculpture Company
 date: 2023-02-24 08:00:00
 tags:
+  - Tulsa
+  - Oklahoma
+  - business spotlight
 excerpt: >-
   Tulsa Looks Good On with Bobby Babcock, Co-Owner and Artist at Garden Deva
   Sculpture Company
@@ -15,8 +18,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/garden-deva-yt.png
-youtube_code:
-hidden: true
+youtube_code: HumTdEJ1YP4
+hidden: false
 ---
 {% include youtube.html %}
 
