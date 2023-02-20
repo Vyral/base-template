@@ -5,7 +5,7 @@ date: 2023-02-17 07:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: Foreclosures are rising but are still very low.
+excerpt: Foreclosures are rising but there’s no need for you to be alarmed.
 enclosure:
 pullquote: The number of foreclosures in 2022 was incredibly low.
 enclosure_type: video/mp4
