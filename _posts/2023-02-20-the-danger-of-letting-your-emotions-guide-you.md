@@ -9,7 +9,7 @@ enclosure:
 pullquote: Let's work with trust and patience so that we can help you win in this market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2-17-23-cedillo-yt.jpg
 youtube_code: fmybDRXC7_0
 ---
