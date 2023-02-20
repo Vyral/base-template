@@ -32,9 +32,9 @@ client:
   brand: Success Mortgage Partners
   license_number2: 'NMLS #130562'
   brokerage:
-  address: >-
-    <strong>Physical Address:</strong><br>16903 Lakeside Dr. Ste 1<br>Montverde,
-    FL 34756<br><strong>
+  address:
+    <strong>Physical Address:</strong><br/>16903 Lakeside Dr. Ste 1<br/>Montverde,
+    FL 34756
   phone: 352-242-1535
   phone_type:
   phone2:
