@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Be the Next Victim of These Real Estate Scams
+title: Two Real Estate Scams You Should Know About
 date: 2023-02-16 00:00:00
 tags:
   - Homeowner Tips
