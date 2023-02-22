@@ -52,7 +52,7 @@ CTAs:
   second_CTA_text: Send Us a Referral
   second_CTA_URL: http://www.thewolekgroup.com/contact/
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/006.jpg
+  - CTA_image_path: /uploads/twg-ladies-1.png
     CTA_title: Join Our Tulsa Real Estate Team
     CTA_text: >-
       You will learn how to focus on what is most important - running a great
