@@ -18,8 +18,4 @@ youtube_code: RH6ojAzmdz4
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Time block to be more purposeful! When you do the hard stuff first, it frees you up to have FUN later!! What are your time blocking tricks? Watch the full video to see 3 quick steps to make sure your time blocking efforts set you up for success!
-
-{% include pullquote.html %}
