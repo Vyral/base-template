@@ -39,7 +39,7 @@ If you are an agent who has attended my trainings, subscribed to my podcasts or 
 
 Regards,
 
-**Jennie Wolek**<br>[918-706-9845](tel:1-918-706-9845)<br>[jennie@thewolekgroup.com](mailto:jennie@thewolekgroup.com)<br>[www.yourjourneywithjennie.com](http://www.yourjourneywithjennie.com){: target="_blank"}
+**{{site.data.settings.client.name}}**<br>[918-706-9845](tel:1-918-706-9845)<br>[jennie@thewolekgroup.com](mailto:jennie@thewolekgroup.com)<br>[www.yourjourneywithjennie.com](http://www.yourjourneywithjennie.com){: target="_blank"}
 
 ## Apply Now to Join Our Team
 {: .recruiting}
