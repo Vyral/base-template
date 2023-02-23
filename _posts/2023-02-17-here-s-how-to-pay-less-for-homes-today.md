@@ -11,9 +11,9 @@ pullquote: >-
   help you out.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/2-16-23-dar-yt.jpg
-youtube_code: TQ-NVP2HqfU
+use_youtube_image: false
+youtube_alternate_image: /uploads/2-21-23-dar-yt.jpg
+youtube_code: 89bDmYdO02Y
 ---
 {% include youtube.html %}
 
