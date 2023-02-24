@@ -10,8 +10,8 @@ enclosure:
 pullquote: The number of foreclosures in 2022 was incredibly low.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/youtube.jpg
 youtube_code: JRuFy8NK5Pc
 ---
 {% include youtube.html %}
