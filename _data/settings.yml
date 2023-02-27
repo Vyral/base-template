@@ -14,7 +14,7 @@ custom_links:
 client:
   name: Sarita Dua
   license_number:
-  about_markdown: >
+  about_markdown: >-
     My name is Sarita Dua and I am a realtor serving the Portland, Oregon,
     marketplace. I service the entire Portland Oregon real estate market,
     including surrounding communities such as Beaverton, Hillsboro, Tigard,
@@ -23,7 +23,7 @@ client:
     and out.
   market: Portland Real Estate
   brand: The AskSarita Team
-  brokerage: Keller Williams Realty
+  brokerage: Keller Williams Sunset Corridor
   address: 2061 NW Hoyt St <br> Portland, OR 97209
   phone: 503.522.0090
   phone_type: Direct
