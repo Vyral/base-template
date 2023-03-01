@@ -4,7 +4,7 @@ title: The Truth About Today’s Real Estate Investments
 tags:
   - Market Update
   - Real Estate
-date: 2023-02-23 00:00:00
+date: 2023-03-01 00:00:00
 excerpt: The truth you need to know about investing in real estate today.
 enclosure:
 pullquote:
@@ -36,4 +36,4 @@ Have you ever thought about investing in real estate? If you’re in it for the 
 
 4:57 — Wrapping up&nbsp;
 
-Overall, know that investing in real estate is great in the long run. If you want to know more, [click here](https://www.signupgenius.com/go/70A084DA8AE29A0FF2-investor){: target="_blank" rel="noopener"} to sign up for my investment seminar. Until then, call or email me if you have any questions. I hope to hear from you soon!
+Overall, know that investing in real estate is great in the long run. If you want to know more, [click here](https://www.signupgenius.com/go/70a084da8ae29a0ff2-investor){: target="_blank" rel="noopener"} to sign up for my investment seminar. Until then, call or email me if you have any questions. I hope to hear from you soon!
