@@ -32,7 +32,7 @@ What causes the shift between a seller’s market and a buyer’s market? Econom
 
 Seasonal factors like weather, holidays, and school schedules can also increase or dampen the activity and motivation of buyers. Additionally, unexpected events, such as a natural disaster or a stock market crash, can cause some buyers to put their purchasing plans on hold until conditions normalize.
 
-**Now What?**If timing does appear to be a factor, it may be advisable to delay relisting your property. Of course, that’s not feasible (or desirable) for every seller.
+**Now What?**<br>If timing does appear to be a factor, it may be advisable to delay relisting your property. Of course, that’s not feasible (or desirable) for every seller.
 
 In most cases, buyers can be motivated to act with a combination of improvements, incentives, and pricing. Where there’s a will to sell, there’s usually a way. Fortunately for sellers, people will always need a place to live, and there will be a percentage of the population that is motivated to buy quickly.
 
@@ -48,7 +48,7 @@ And how well did the listing photos showcase your property? Many buyers use phot
 
 Another factor to consider is whether your listing reached the right audience. This can be especially important if you have a unique or highly-customized home. The Multiple Listing Service is a great place to start, but some properties require a more robust marketing approach.
 
-**Now What?**If you suspect ineffective marketing, consider turning to a skilled professional with a proven approach. We employ a strategic Property Marketing Plan that uses the latest technologies to seed the marketplace, optimize for search engine placement, and position your home for the best possible impression right out of the gate.
+**Now What?**<br>If you suspect ineffective marketing, consider turning to a skilled professional with a proven approach. We employ a strategic Property Marketing Plan that uses the latest technologies to seed the marketplace, optimize for search engine placement, and position your home for the best possible impression right out of the gate.
 
 For example, we know what buyers in this market want and can craft a persuasive description to pique their interest. And since good listing photos are so crucial, we work with the top local photographers to ensure each shot is staged to your home’s advantage.
 
@@ -66,7 +66,7 @@ Next, examine your curb appeal. Does the yard need mowing or do the hedges need 
 
 Now move on to the interior of your home. Is it clean? Is there a noticeable odor? Have you taken the time to depersonalize and declutter each room? Buyers need to be able to picture their items in your home, but that’s difficult to do amongst your family photos and personal collections. And oversized furniture and packed closets can make a space seem small and cramped.
 
-**Now What?**When we take on a new listing, we always walk through it with the homeowner and point out any repairs, updates, or decluttering that should be done to maximize its sales potential. We also share tips on how to prep the property before each showing.
+**Now What?<br>​​​​​**When we take on a new listing, we always walk through it with the homeowner and point out any repairs, updates, or decluttering that should be done to maximize its sales potential. We also share tips on how to prep the property before each showing.
 
 In some cases, we will recommend that you utilize staging techniques to highlight your home’s best features and help buyers envision themselves living in the space. Home staging is one of the hottest trends in real estate—because it works! According to the Real Estate Staging Association, professionally-staged homes sell, on average, 9 days faster and for $40,000 over list price.3 In addition, the National Association of Realtors suggests that staging can help push up your final sale price by as much as 20%.4
 
@@ -82,7 +82,7 @@ Economic factors aren't the only reasons, though, why a home's asking price migh
 
 Regardless, if your home sat on the market for months without an offer, then chances are good that your asking price needs to be reevaluated.
 
-**Now What?**If you aren’t in a rush to sell your home, adjustments to timing or marketing may bring in a new pool of potential buyers. And repairs, upgrades, and staging can increase the perceived value of your home, which may be enough to bring a buyer to the table at your original list price.
+**Now What?**<br>If you aren’t in a rush to sell your home, adjustments to timing or marketing may bring in a new pool of potential buyers. And repairs, upgrades, and staging can increase the perceived value of your home, which may be enough to bring a buyer to the table at your original list price.
 
 However, if you need to sell quickly, or you’ve already exhausted those options, a price reduction may be necessary to get your home the attention it needs to sell. We are local market experts and have access to the latest market data and comparable sales in your neighborhood. We can help you determine a realistic asking price for your home given today’s market conditions. Just reach out for a free home value assessment!
 
@@ -96,7 +96,7 @@ Or, perhaps you chose not to hire a listing agent at all and have been trying to
 
 Although selling your home independently can help cut some costs, it can also be extremely risky and may even lose you money in the long run. For example, research by the National Association of Realtors suggests that For Sale By Owner (or FSBO) homes tend to sell for less than homes represented by a professional. In 2021, for example, the average FSBO home sold for $105,000 less than the average home sold with the assistance of an agent.6
 
-**Now What?**If either of those scenarios sounds familiar, you need to ask yourself: “Would I still be interested in selling my home if I could get the right offer?”
+**Now What?**<br>If either of those scenarios sounds familiar, you need to ask yourself: “Would I still be interested in selling my home if I could get the right offer?”
 
 If so, we should talk. We understand how frustrating it can be when you’ve put a lot of time, money, and effort into prepping your property for the market and it doesn’t sell. We also empathize with how disruptive a delayed home sale can be to your life.
 
