@@ -4,6 +4,7 @@ title: A New Program We Are Excited To Offer
 date: 2023-03-02 00:00:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: We are excited to announce the launch of our new Cash Offer program.
 enclosure:
 pullquote:
