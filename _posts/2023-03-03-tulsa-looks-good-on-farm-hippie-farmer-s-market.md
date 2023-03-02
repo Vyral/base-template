@@ -35,7 +35,7 @@ A new twist on your local farmer’s market, Collinsville’s Farm Hippie Farmer
 
 Almost 4 years ago, owners Ash and Carrie Beth had the idea for their business and registered with the Department of Agriculture only to discover they couldn’t technically be a farmer’s market because they provided services indoors, multiple days a week. Jumping into action and getting creative, Ash and Carrie Beth engaged in the process to update Oklahoma legislation which now allow indoor farmers markets to be recognized as such.
 
-‌{% include pullquote.html %} said Ash.
+{% include pullquote.html %}&nbsp; said Ash.
 
 If everything Farm Hippie currently offers wasn’t enough, they have recently launched a nonprofit leg of their business, Farm Hippie Community Inc. to continue to pour back into the community.
 
