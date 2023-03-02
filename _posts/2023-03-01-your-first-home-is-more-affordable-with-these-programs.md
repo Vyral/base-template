@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chad-sara-huebener-yt-5.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-yt-6.jpg
 youtube_code: DTe8g4xyxg8
 ---
 {% include youtube.html %}
