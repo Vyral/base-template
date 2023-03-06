@@ -2,7 +2,7 @@
 layout: post
 title: >-
   Tulsa Real Estate Market: Low Inventory And High Demand Make It A Great
-  Investment | Tulsa Real Estate
+  Investment
 date: 2023-03-06 08:00:00
 tags:
   - Tulsa
