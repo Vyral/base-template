@@ -20,8 +20,6 @@ hidden: false
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 🏡💰 Real estate is ALWAYS a great investment. And we still have low inventory, more buyers are looking to buy than homes available. Want to see the data, check it out here
 
 👉[https://150294627.homesconnect.com/AccountData/150294627/2023JanuaryMSAAverage.pdf](https://150294627.homesconnect.com/AccountData/150294627/2023JanuaryMSAAverage.pdf)
