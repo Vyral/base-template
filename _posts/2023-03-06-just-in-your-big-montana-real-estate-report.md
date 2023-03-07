@@ -20,7 +20,7 @@ youtube_code: lY9BU8Nb8As
 
 {% include excerpt.html %}
 
-Today we’re traveling from west to east across the state and looking at all of the numbers that you need to know. We’ll drill down on the housing market and try to draw out some lessons that we can learn about where our market is in Montana.
+Today we’re traveling from west to east across the state and looking at all of the numbers that you need to know. We’ll drill down on the housing market and try to draw out some lessons that we can learn about where our market is heading in Montana.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
@@ -44,4 +44,4 @@ Today we’re traveling from west to east across the state and looking at all of
 
 8:27 — Wrapping up the market update
 
-Hopefully, you found that interesting and useful. Remember, if you have any questions about the Montana housing market or real estate in general, please call or email me. I would be happy to serve as your resource for all of your real estate needs.
+Remember, if you have any questions about the Montana housing market or real estate in general, please call or email me. I would be happy to serve as your resource for all of your real estate needs.
