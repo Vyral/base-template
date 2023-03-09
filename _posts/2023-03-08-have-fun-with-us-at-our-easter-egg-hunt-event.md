@@ -20,3 +20,5 @@ youtube_code: G0uG02AFLlU
 Get ready to hop into spring with our exciting Easter Egg Hunt event! We cordially invite you to **join us on April 1, from 12 p.m. to 2 p.m. at Lone Peak Park** located at 10140 South, 700 East, Sandy—and no, this is not an April Fools' prank, we promise!
 
 We can't wait to see you there. To join in on the fun, [please register at this link.](https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237) As always, if you have any questions about the event or need help with your real estate goals, call or email us. We’re always happy to hear from you.
+
+**Register here:**&nbsp;[https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237](https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237)
