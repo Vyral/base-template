@@ -21,4 +21,4 @@ Get ready to hop into spring with our exciting Easter Egg Hunt event! We cordial
 
 We can't wait to see you there. To join in on the fun, [please register at this link.](https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237) As always, if you have any questions about the event or need help with your real estate goals, call or email us. We’re always happy to hear from you.
 
-**Register here:**&nbsp;[https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237](https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237)
+**Register Here:**&nbsp;[https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237](https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-575257690237)
