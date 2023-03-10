@@ -18,7 +18,7 @@ youtube_code: a4yflhL1lns
 
 {% include excerpt.html %}
 
-The real estate market has seen dramatic shifts in the past year, largely due to interest rates and inflation. As a result, the market has responded with solutions, including rate buydowns and various lending programs to help buyers still purchase homes. **Interest rates may have gone up, but this has also created more inventory** and homes are now on the market longer.
+The real estate market has seen dramatic shifts in the past year, largely due to interest rates and inflation. As a result, the market has responded with solutions, including rate buydowns and various lending programs to help buyers still purchase homes. **Interest rates may have gone up, but this has also created more inventory,** and homes are now on the market longer.
 
 This is good news for buyers who now have the opportunity to shop around and find a good deal on a home without paying a 10% over list price. This is a positive development since a double-digit plus appreciation is not healthy for long-term affordability.
 
