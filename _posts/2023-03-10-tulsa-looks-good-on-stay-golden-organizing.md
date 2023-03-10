@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/stay-golden.png
 youtube_code: ewtRq5zAcTI
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
