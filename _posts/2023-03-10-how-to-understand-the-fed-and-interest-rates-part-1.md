@@ -4,7 +4,7 @@ title: 'How To Understand the Fed and Interest Rates: Part 1'
 tags:
   - Real Estate
 date: 2023-03-10 00:00:00
-excerpt: The Federal Reserve controls monetary policy, and that affects interest rates.
+excerpt: The Federal Reserve controls monetary policy, which affects interest rates.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
