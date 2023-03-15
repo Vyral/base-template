@@ -32,4 +32,4 @@ Kelly is now learning how to have a successful career while also prioritizing he
 
 In addition, she is looking forward to seeing what other opportunities she can take advantage of. One of the things that intrigued Kelly the most about the Dave Hooke Team is that it’s not your average real estate group and a lot is going on beneath the surface. **She feels like the sky is the limit, and you can too.&nbsp;**
 
-If you have any questions about this team, please call us at [(717) 216-0860](tel:717-216-0860) or send an email to dave@davehooketeam.com. We’d love to hear from you! Also, make sure to follow us on Facebook at [Facebook.com/DaveHookeTeam](https://www.facebook.com/davehooketeam) to get the latest updates and more helpful articles like this.
+If you have any questions about this team, please call us at [(717) 216-0860](tel:717-216-0860) or send an email to [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We’d love to hear from you! Also, make sure to follow us on Facebook at [Facebook.com/DaveHookeTeam](https://www.facebook.com/davehooketeam) to get the latest updates and more helpful articles like this.
