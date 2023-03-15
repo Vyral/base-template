@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/sell-over-asking-knight-yt.jpg
 youtube_code: k4kl0gCi2tI
 ---
 {% include youtube.html %}
