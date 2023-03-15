@@ -8,7 +8,7 @@ tags:
   - business spotlight
 excerpt:
 enclosure:
-pullquote:
+pullquote: I want everyone to walk away with that unbridled joy
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,6 +26,6 @@ North Tulsa Baseball league falls under the umbrella of Tulsa County Parks focus
 
 Coming full circle, Lamar Gillory originally coached his children in North Tulsa baseball and has a hope of revitalizing the experiencing for other current parents and players in the league.
 
-“I want everyone to walk away with that unbridled joy,” Guillory added.
+{% include pullquote.html %} Guillory added.
 
 For more information on North Tulsa Baseball and ways to help visit, [https://www.facebook.com/OBrienParkRecTulsa/?ref=page\_internal](https://www.facebook.com/OBrienParkRecTulsa/?ref=page_internal)
