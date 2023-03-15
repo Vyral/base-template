@@ -24,7 +24,7 @@ Are properties still selling for over the asking price? The short answer is yes;
 
 However, it is important to note that this does not apply to all properties. There are definitely fewer properties selling over the asking price now than a year ago at the height of the market. So, what determines whether a property will sell over the asking price? There are three things to consider:
 
-**1\. Inventory.** How many options do buyers have? What is the supply of properties in that micro-market? Micro-markets can be defined by city, school district, neighborhood, or price point.
+**1\. Inventory.** How many options do buyers have? What is the supply of properties in that micro-market? Micro-markets can be defined by the city, school district, neighborhood, or price point.
 
 **{% include pullquote.html %}**
 
