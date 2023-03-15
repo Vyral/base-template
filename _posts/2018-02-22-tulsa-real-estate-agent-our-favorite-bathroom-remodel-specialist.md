@@ -1,29 +1,30 @@
 ---
 youtube_code: LodG7j_AEbg
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Favorite+Bathroom+Remodel+Specialist.mp4
-pullquote: YOU WILL GET DAILY PROGRESS REPORTS SO YOU KNOW EXACTLY HOW MUCH WORK HAS BEEN DONE.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Favorite+Bathroom+Remodel+Specialist.mp4
+pullquote: >-
+  YOU WILL GET DAILY PROGRESS REPORTS SO YOU KNOW EXACTLY HOW MUCH WORK HAS BEEN
+  DONE.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 'How John Carter Bathrooms Can Help You '
-date: '2018-02-22T11:03:00.001-08:00'
+date: 2018-02-22 19:03:00
 author: Vyral Admin
 tags:
-- Tulsa Real Estate
+  - Tulsa Real Estate
 modified_time: '2018-02-22T13:51:01.424-08:00'
 thumbnail: https://i.ytimg.com/vi/LodG7j_AEbg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-6918694338608059013
-blogger_orig_url: http://thewolekgroup.blogspot.com/2018/02/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html
+blogger_orig_url: >-
+  http://thewolekgroup.blogspot.com/2018/02/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html
 ---
-{% include youtube.html %}
-John Carter from John Carter Bathrooms is here today to answer a few questions about his business and some of the latest trends in bathroom remodels.
+{% include youtube.html %} John Carter from John Carter Bathrooms is here today to answer a few questions about his business and some of the latest trends in bathroom remodels.
 
-<div class="post-cta">
-<strong>Looking to sell your Tulsa area home? <a href="http://www.tulsahomevalue.com/" target="_blank">Get a free home value report</a><br>
-Looking to buy a Tulsa area home? <a href="http://www.thewolekgroup.com/search-for-homes/#/-1451235678" target="_blank">Click here to browse Tulsa homes for sale</a></strong></div>
+<div class="post-cta"><strong>Looking to sell your Tulsa area home? <a target="_blank" href="http://www.tulsahomevalue.com/">Get a free home value report</a><br />Looking to buy a Tulsa area home? <a target="_blank" href="http://www.thewolekgroup.com/search-for-homes/#/-1451235678">Click here to browse Tulsa homes for sale</a></strong></div>
 
 Today, I’m here with John Carter from John Carter Bathrooms. John has graciously agreed to answer some questions about his business.
 
@@ -35,7 +36,7 @@ I moved to the United States a couple of years ago and got a job like everybody 
 
 **I love your story and that you are doing something you are passionate about, which is important to me as well. What makes you stand out from the competition?**
 
-There are a couple of things that make us different. First, we complete all projects on time and on budget. It is a top priority for us to work around your schedule and your finances. Second, all of our projects are designed to fit your size and your style. We don’t ask you to cut corners on the perfect remodel. Finally, we are the most available and we provide daily progress reports on what’s done, so you’re never left wondering what we did all day.  
+There are a couple of things that make us different. First, we complete all projects on time and on budget. It is a top priority for us to work around your schedule and your finances. Second, all of our projects are designed to fit your size and your style. We don’t ask you to cut corners on the perfect remodel. Finally, we are the most available and we provide daily progress reports on what’s done, so you’re never left wondering what we did all day.
 
 {% include pullquote.html %}
 
