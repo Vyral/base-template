@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Barbara Corcoran Joins Us Again for Our Commercial
-date: 2023-03-15 00:00:00
+date: 2023-03-16 00:00:00
 tags:
   - Real Estate
 excerpt: Take a peek at this exciting BTS footage with Barbara Corcoran.
@@ -10,8 +10,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/corcoran-sokoler-yt.jpg
+youtube_code: drw-0Nv5wq0
 ---
 {% include youtube.html %}
 
