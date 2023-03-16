@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Ways To Make Your Home More Organized
-date: 2023-03-15 00:00:00
+date: 2023-03-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/organize-tips-soldwisch-yt.jpg
 youtube_code: fCII2loMdZU
 ---
 {% include youtube.html %}
