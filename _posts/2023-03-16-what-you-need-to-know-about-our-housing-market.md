@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dustin-sherlin-yt-4.jpg
-youtube_code: FI1TluurUTw
+youtube_code: UFZbd-er3Kg
 ---
 {% include youtube.html %}
 
