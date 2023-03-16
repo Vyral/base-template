@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important Information for Real Estate Agents
-date: 2023-03-15 00:00:00
+date: 2023-03-16 00:00:00
 tags:
   - Real Estate Agents
   - Agent Spotlight
@@ -11,7 +11,7 @@ pullquote: As she learned to trust her team, Kelly found the freedom she was loo
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/kelly-interview-hooke-yt.jpg
 youtube_code: C0Xf_f9xAQQ
 ---
 {% include youtube.html %}
@@ -24,7 +24,7 @@ Kelly didn’t always know she wanted to be a Realtor. She used to be a teacher,
 
 **Once she got her license and started working on the team, she was surprised at the amount of success the team brought her.** She let the number of clients overwhelm her, and she felt like she wouldn’t be a good agent if she wasn’t available 24 hours a day, seven days a week. Have you ever felt like that? If so, you know how draining that can be. It wasn’t the flexibility she was longing for.&nbsp;
 
-Then Kelly was encouraged to lean more on the resources of the team. As she learned to trust our showing agent and transaction coordinator, for example, she found the freedom she was looking for. It can take a lot to trust and let go, but she’s glad she did. **Kelly says that being a part of a team has made a huge difference. **
+Then Kelly was encouraged to lean more on the resources of the team. As she learned to trust our showing agent and transaction coordinator, for example, she found the freedom she was looking for. It can take a lot to trust and let go, but she’s glad she did. \*\*Kelly says that being a part of a team has made a huge difference. \*\*
 
 **{% include pullquote.html %}**
 
