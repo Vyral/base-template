@@ -6,7 +6,7 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt:
+excerpt: Tulsa looks so good on Black Moon Collective and artist Raegene Riggs
 enclosure:
 pullquote:
 enclosure_type: video/mp4
