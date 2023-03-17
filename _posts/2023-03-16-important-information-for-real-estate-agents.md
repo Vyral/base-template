@@ -24,9 +24,9 @@ Kelly didn’t always know she wanted to be a Realtor. She used to be a teacher,
 
 **Once she got her license and started working on the team, she was surprised at the amount of success the team brought her.** She let the number of clients overwhelm her, and she felt like she wouldn’t be a good agent if she wasn’t available 24 hours a day, seven days a week. Have you ever felt like that? If so, you know how draining that can be. It wasn’t the flexibility she was longing for.&nbsp;
 
-Then Kelly was encouraged to lean more on the resources of the team. As she learned to trust our showing agent and transaction coordinator, for example, she found the freedom she was looking for. It can take a lot to trust and let go, but she’s glad she did. \*\*Kelly says that being a part of a team has made a huge difference. \*\*
+Then Kelly was encouraged to lean more on the resources of the team. As she learned to trust our showing agent and transaction coordinator, for example, she found the freedom she was looking for. It can take a lot to trust and let go, but she’s glad she did. **Kelly says that being a part of a team has made a huge difference.**
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 Kelly is now learning how to have a successful career while also prioritizing her family and not feeling guilty about having time with her kids. She looks forward to working more on mastering this as well as learning how to lead others.&nbsp;
 
