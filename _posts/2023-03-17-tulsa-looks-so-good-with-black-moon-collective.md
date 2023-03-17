@@ -27,5 +27,3 @@ As a group of individual arts, the goal is to be a channel that brings unity, aw
 Black Moon Collective also offers a variety of class for all ages .
 
 For more information on the Black Moon Collective visit,&nbsp;[https://www.blackmoontulsa.com/](https://www.blackmoontulsa.com/){: target="_blank" rel="noreferrer ugc nofollow"}
-
-[https://www.facebook.com/OBrienParkRecTulsa/?ref=page\_internal](https://www.facebook.com/OBrienParkRecTulsa/?ref=page_internal)
