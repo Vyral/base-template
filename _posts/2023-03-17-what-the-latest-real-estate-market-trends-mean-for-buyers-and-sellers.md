@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the Latest Real Estate Market Trends Mean for Buyers and Sellers
+title: What the Latest Real Estate Market Trends Mean for You
 date: 2023-03-17 00:00:00
 tags:
   - Market Update
