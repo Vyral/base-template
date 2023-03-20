@@ -35,4 +35,4 @@ Stop in for a client showing or an agent preview, and you will be treated to a *
 
 **1108 28th Street, Perry, Iowa!**<br>[https://search.bhgmistysoldteam.com/search/detail/162833914](https://search.bhgmistysoldteam.com/search/detail/162833914)
 
-![](/uploads/perry-marketing-flyer-1.png){: width="1702" height="2200"}<br>![](/uploads/perry-marketing-flyer-2.png){: width="1702" height="2200"}
+![](/uploads/perry-marketing-flyer-1.png){: width="100%" height="100%"}<br>![](/uploads/perry-marketing-flyer-2.png){: width="100%" height="100%"}
