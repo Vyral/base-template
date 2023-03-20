@@ -16,10 +16,8 @@ custom_links:
       https://www.eventbrite.com/e/meet-greet-with-misty-soldwisch-better-homes-gardens-real-estate-tickets-44692218629
   - title: Guaranteed Offer
     url: /guaranteed-offer/
-
 forms:
   sitekey: 6LcTIUAaAAAAAOARAdt5X6ER9ooLMwXN7lmVVlla
-
 client:
   name: Misty SOLDwisch
   license_number: 'BRE #B40909000'
@@ -40,20 +38,20 @@ client:
   market: Central Iowa
   brand: The Misty SOLDwisch Home Selling Team
   brokerage: Better Homes and Gardens Real Estate Innovations
-  address: '9325 Bishop Dr. Suite 110<br>West Des Moines, IA 50266'
+  address: 9325 Bishop Dr. Suite 110<br>West Des Moines, IA 50266
   address2: 117 E Salem Ave Indianola IA 50125
   phone: 515-346-6204
   phone_type:
   phone2:
   phone2_type:
   email: Misty@MistySOLD.com
-  url: 'http://SOLDincentraliowa.com'
+  url: http://SOLDincentraliowa.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.centraliahomevalues.com/'
+  first_CTA_URL: https://mistysoldteam.hifello.com/lp/6418a667c6856a00182656fd
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://mistysold.searchcentraliowahomes.com/'
-  VR_form: 'http://oi.vresp.com?fid=590cc0a696'
+  second_CTA_URL: https://mistysold.searchcentraliowahomes.com/
+  VR_form: http://oi.vresp.com?fid=590cc0a696
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -61,24 +59,24 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://www.centraliahomevalues.com/'
+    CTA_url: http://www.centraliahomevalues.com/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://mistysold.searchcentraliowahomes.com/'
+    CTA_url2: https://mistysold.searchcentraliowahomes.com/
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -89,21 +87,21 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'http://www.facebook.com/MistySOLDTeam'
-  linkedin_url: 'http://www.linkedin.com/in/mistysold/'
+  facebook_url: http://www.facebook.com/MistySOLDTeam
+  linkedin_url: http://www.linkedin.com/in/mistysold/
   gplus_url:
-  youtube_url: 'https://www.youtube.com/user/mistysold'
-  twitter_url: 'https://twitter.com/MistySOLDTeam'
+  youtube_url: https://www.youtube.com/user/mistysold
+  twitter_url: https://twitter.com/MistySOLDTeam
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/Misty-SOLDwisch-Team/'
+  zillow_url: http://www.zillow.com/profile/Misty-SOLDwisch-Team/
   trulia_url: >-
     http://www.trulia.com/profile/the-misty-soldwisch-team-broker-indianola-ia-236926/overview
   yelp_url:
-  podcast_url: 'https://podcasts.apple.com/us/podcast/id1301595151'
-  instagram2_url: 'https://www.instagram.com/bhginnovations/'
-  facebook2_url: 'https://www.facebook.com/bhginnovations/'
-  facebook3_url: 'https://www.facebook.com/BeBetterDSM/'
+  podcast_url: https://podcasts.apple.com/us/podcast/id1301595151
+  instagram2_url: https://www.instagram.com/bhginnovations/
+  facebook2_url: https://www.facebook.com/bhginnovations/
+  facebook3_url: https://www.facebook.com/BeBetterDSM/
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
@@ -141,7 +139,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(100, 100, 100, 0.9)'
+  shadow_color: rgba(100, 100, 100, 0.9)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -150,5 +148,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
