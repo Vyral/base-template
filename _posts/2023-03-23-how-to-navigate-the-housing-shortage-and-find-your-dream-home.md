@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Navigate the Housing Shortage and Find Your Dream Home
-date:
+date: 2023-03-22 05:00:00
 tags:
 excerpt: To find a home in a tight market, determine what your must-haves are.
 enclosure:
@@ -13,6 +13,8 @@ youtube_alternate_image:
 youtube_code:
 ---
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 The pandemic has had an undeniable impact on the housing market. Although there are more homes for sale now than there were at this time last year, there is still an undersupply. While the number of homes for sale is increasing, it is still 43% lower than it was before the pandemic in 2017 to 2019. This means that there are still fewer homes available to buy on a typical day than a few years ago. **The current housing shortage will have an impact on how you search for a home this spring.** With limited options in the market, buyers who consider what's a necessity versus what's a nice-to-have will be more successful in their home search.
 
