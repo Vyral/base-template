@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preparing Your Home for the Market
+title: 3 Ways To Get Your Home Ready To Sell
 date: 2023-03-22 07:00:00
 tags:
   - Real Estate
