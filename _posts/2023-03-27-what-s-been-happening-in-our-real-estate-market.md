@@ -18,7 +18,7 @@ youtube_code: M7oiVsz5BlA
 
 {% include excerpt.html %}
 
-What’s been going on in the Big Fork real estate market recently? Interest rates and prices are changing all the time, so today, I’ll give you a brief update on what’s been happening. If you plan on making a move sometime soon, this is information you need to know.&nbsp;
+What’s been going on in the Bigfork real estate market recently? Interest rates and prices are changing all the time, so today, I’ll give you a brief update on what’s been happening. If you plan on making a move sometime soon, this is information you need to know.&nbsp;
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
