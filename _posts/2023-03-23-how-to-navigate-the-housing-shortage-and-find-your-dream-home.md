@@ -9,7 +9,7 @@ pullquote: Prioritizing what you need in a home is a critical first step.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-44.jpg
+youtube_alternate_image: /uploads/2-54.jpg
 youtube_code: https://youtu.be/nyayJcZ3tKQ
 ---
 {% include youtube.html %}
