@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homeowners NEED To Fill Out This Crucial Exemption
+title: Homeowners NEED To Claim This Crucial Exemption
 date: 2023-03-22 07:00:00
 tags:
   - Home Buyer Tips
