@@ -5,7 +5,7 @@ date: 2023-03-22 07:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: 'Here’s how you can avoid paying way more property taxes in 2023. '
+excerpt: Here’s how you can avoid overpaying property taxes in 2023.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,8 +18,13 @@ youtube_code: T-emrPz4sWc
 
 {% include excerpt.html %}
 
-Do you know there’s an easy way to save money on your property taxes this year? I'm here today to talk to you about the residential tax exemption that can save you a lot of money. If you're not aware of this or if you're getting ready to buy a home, pay attention!
+Did you know there's an easy way to save money on your property taxes this year? I'm here today to tell you about the residential tax exemption that can save you a lot of money. If you're not aware of this or if you're getting ready to buy a home, pay attention!
 
-When you purchase a home and plan to occupy it as your full-time residence, you need to fill out a form called the residential tax exemption. **Otherwise, the county might tax you as an investor or a second homeowner, which can increase your taxes by 40%.** To avoid this, follow these simple steps: go to the Washington County Assessor page and click on the "Residential Exemption" application. Then, check the box that says "I am an owner-occupant."
+When you purchase a home and plan to occupy it as your full-time residence, you must fill out a residential tax exemption form. Otherwise, the County might tax you as an investor or a second homeowner, increasing your taxes by 40%.&nbsp;
 
-Owning real estate has many benefits, and I can tell you more about that another time. For now, remember to fill out the residential tax exemption form correctly. Meanwhile, don’t hesitate to call or email me with any questions. I am always here to help.
+To avoid this, follow these simple steps:
+
+1. Go to the Washington County Assessor page, [Residential Exemption](https://www.washco.utah.gov/departments/assessor/residential-exemption/) section
+2. Follow the prompts to complete the process
+
+If you have questions about the process, feel free to reach out to us! Also, if you think your property has been "overvalued" by the County, we can discuss a possible resolution for that, as well.
