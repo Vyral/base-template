@@ -24,7 +24,7 @@ When you purchase a home and plan to occupy it as your full-time residence, you 
 
 To avoid this, follow these simple steps:
 
-1. Go to the Washington County Assessor page, [Residential Exemption](https://www.washco.utah.gov/departments/assessor/residential-exemption/) section
+1. Go to the Washington County Assessor page, [Residential Exemption](https://www.washco.utah.gov/departments/assessor/residential-exemption/) section. Click here: https://www.washco.utah.gov/departments/assessor/residential-exemption/
 2. Follow the prompts to complete the process
 
 If you have questions about the process, feel free to reach out to us! Also, if you think your property has been "overvalued" by the County, we can discuss a possible resolution for that, as well.
