@@ -19,5 +19,3 @@ youtube_code: v-il3vb0R24
 Since it’s been a while since my last update, today I thought I’d check in with you to let you know that the Boise real estate market is red-hot right now. Interest rates have reached all-time lows, home values are at all-time highs, and many listings are receiving multiple offers. **If you’ve been thinking about selling your home, now is an excellent time to do so.** If you’re thinking of buying a home, take advantage of our low interest rates, which make homes more affordable.&nbsp;
 
 If you have questions or need any help getting started on your next transaction, reach out to me. I’d love to assist you.
-
-&nbsp;
