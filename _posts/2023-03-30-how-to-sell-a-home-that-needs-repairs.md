@@ -26,9 +26,9 @@ Selling a house with major issues takes a lot of work, and there’s never enoug
 
 **1\. Get a home inspection.** You know the property is in a bad shape, but you’re not exactly sure to what extent. This is where a professional can help. A home inspector will locate the problems and give you a complete rundown of them. Once you’ve identified what has to be fixed, you can evaluate whether you can afford the repairs and replacements, or if you’ll just sell as-is. Also, remember that disclosing the issues of your home to would-be buyers is required by the law. You want to be as transparent as possible to avoid any legal repercussions later.
 
-{% include pullquote.html %}
-
 **2\. Consider selling to an investor or a bargain hunter.** The worse the home’s condition is, the bigger the pool of investment buyers will be. Real estate investors don’t want to live in that house. They want to repair and upgrade it so they can sell and earn a profit. Typically, they will pay with cash and will buy the home as-is. Bargain hunters, on the other hand, are in search of their dream homes. They are willing to put in the elbow grease needed to make a property livable and will overlook a few flaws, as long as they love the location.
+
+{% include pullquote.html %}
 
 **3\. Be realistic with your price.** Whatever market we’re in, pricing your home correctly will always be critical. This is especially true for homes that are not in the best condition. You have to set a reasonable price, one that is based on research and makes sense for the market. The best way to do this is by working with a real estate professional. An experienced agent can use their resources and connections to ensure that you get the best possible deal for your sale.&nbsp;
 
