@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Preparing for Sale: The Five Things You Need To Do'
-date: 2023-03-29 00:00:00
+date: 2023-04-04 00:00:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -12,11 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-61.jpg
-youtube_code: whje2LB4F4k
+youtube_code: _6STq66REzk
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
+
+[![](/uploads/image.JPG){: width="322" height="34"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}[.](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 
 The number two question we get from homeowners is, “What should we do to prepare our home for sale?” This is an excellent question. Let's review the five things that should be on your checklist when listing your home.
 
