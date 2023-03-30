@@ -18,14 +18,16 @@ hidden: false
 ---
 {% include youtube.html %}
 
-Jennie sits down with Lamar Guillory , Assistant Director of Recreation for Tulsa County to hear about what the organization is doing for North Tulsa youth.
+**Looking for a unique way to spend a night out with family or friends? You’re in luck because this week Tulsa Looks Good on You is highlighting Pinot’s Palette.**
 
-North Tulsa Baseball league falls under the umbrella of Tulsa County Parks focusing on youth in District 1.&nbsp; Their mission is to provide every child the opportunity to get physically active, learn life lessons, and most of all, have fun playing the great game of baseball.
+Jennie stopped by to chat with Pinot’s Palette owner, Lisa Riley.
 
-“The real objective, beyond the love of the game, is to build a pipeline for the kids to feed into schools and competitive league,” Guillory explained.
+{% include pullquote.html %}&nbsp; Riley shared.
 
-Coming full circle, Lamar Gillory originally coached his children in North Tulsa baseball and has a hope of revitalizing the experiencing for other current parents and players in the league.
+After sipping a few libations including crowd favorites, The Bob Ross or Starry Night, the mood is set to have fun and get creative!
 
-{% include pullquote.html %} Guillory added.
+Riley explained,“We don’t teach technique, we aren’t here for art instruction. Strictly entertainment!”
 
-For more information on North Tulsa Baseball and ways to help visit, [https://www.facebook.com/OBrienParkRecTulsa/?ref=page\_internal](https://www.facebook.com/OBrienParkRecTulsa/?ref=page_internal)
+‌Whether you are looking for a team building opportunity, unique way to propose to your significant other, or just a night out with friends Pinot’s Palette has you covered with three locations including, Cherry Street, Jenk’s Riverwalk, and Broken Arrow Rose District.
+
+For more information or to book a night out visit,&nbsp;[http://pinotspalette.com](http://pinotspalette.com/){: target="_blank" rel="noreferrer ugc nofollow"}&nbsp;. ​​​​​​
