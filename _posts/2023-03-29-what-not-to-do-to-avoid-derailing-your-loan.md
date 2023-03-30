@@ -16,8 +16,6 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Today, we're going to talk about something super important in the mortgage business: the top five ways to derail your loan approval. Here are some common home loan pitfalls you need to watch out for:
 
 **1\. Don't take on any new debt.** Any new debt will affect your debt-to-income ratio and can upset your loan approval.
