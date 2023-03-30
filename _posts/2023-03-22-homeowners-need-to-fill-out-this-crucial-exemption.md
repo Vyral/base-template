@@ -18,9 +18,9 @@ youtube_code: T-emrPz4sWc
 
 {% include excerpt.html %}
 
-Did you know there's an easy way to save money on your property taxes this year? I'm here today to tell you about the residential tax exemption that can save you a lot of money. If you're not aware of this or if you're getting ready to buy a home, pay attention!
+Did you know there's an easy way to save money on your property taxes this year? I'm here today to tell you about the Residential Tax Exemption that can save you a lot of money. If you're not aware of this or if you're getting ready to buy a home, pay attention!
 
-When you purchase a home and plan to occupy it as your full-time residence, you must fill out a residential tax exemption form. Otherwise, the County might tax you as an investor or a second homeowner, increasing your taxes by 40%.&nbsp;
+When you purchase a home and plan to occupy it as your full-time residence, you must fill out a Residential Tax Exemption Form. Otherwise, the County might tax you as an investor or a second homeowner, increasing your taxes by 40%.&nbsp;
 
 To avoid this, follow these simple steps:
 
