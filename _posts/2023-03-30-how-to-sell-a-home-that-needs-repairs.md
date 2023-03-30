@@ -24,9 +24,9 @@ The selling process is already difficult enough, but when you add noticeable pro
 
 Selling a house with major issues takes a lot of work, and there’s never enough time to do it. The longer the home stays with you, the more expensive the costs of repairs and maintenance will be. If you don’t act soon, that property could end up becoming a liability. Fortunately, there are ways to reach the closing table and make a profit. To sell a fixer-upper, here are three things you should do:
 
-{% include pullquote.html %}
+**1\. Get a home inspection.** You know the property is in a bad shape, but you’re not exactly sure to what extent. This is where a professional can help. A home inspector will locate the problems and give you a complete rundown of them. Once you’ve identified what has to be fixed, you can evaluate whether you can afford the repairs and replacements, or if you’ll just sell as-is. Also, remember that disclosing the issues of your home to would-be buyers is required by the law. You want to be as transparent as possible to avoid any legal repercussions later.
 
-**1\. Get a home inspection.** You know the property is in a bad shape, but you’re not exactly sure to what extent. This is where a professional can help. A home inspector will locate the problems and give you a complete rundown of them. Once you’ve identified what has to be fixed, you can evaluate whether you can afford the repairs and replacements, or if you’ll just sell as-is. Also, remember that disclosing the issues of your home to would-be buyers is required by the law. You want to be as transparent as possible to avoid any legal repercussions later.&nbsp;
+{% include pullquote.html %}
 
 **2\. Consider selling to an investor or a bargain hunter.** The worse the home’s condition is, the bigger the pool of investment buyers will be. Real estate investors don’t want to live in that house. They want to repair and upgrade it so they can sell and earn a profit. Typically, they will pay with cash and will buy the home as-is. Bargain hunters, on the other hand, are in search of their dream homes. They are willing to put in the elbow grease needed to make a property livable and will overlook a few flaws, as long as they love the location.
 
