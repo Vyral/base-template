@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Not To Do To Avoid Derailing Your Loan
+title: How to avoid derailing your loan
 date: 2023-03-29 05:00:00
 tags:
 excerpt: If you want a smooth loan process, you need to avoid these five things.
