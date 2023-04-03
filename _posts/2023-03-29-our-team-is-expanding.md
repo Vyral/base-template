@@ -25,6 +25,6 @@ Today, I’m here to tell you that our team is growing and looking for people. M
 
 Perhaps you've been an agent for a long time or are fed up with some of the elements and want to partner with an agent to do the parts you like and then outsource the rest to the team. If so, this could be great for you. **We're looking for administrative staff, listing agents, buyers agents, and showing agents.&nbsp;**
 
-##### **[Click here for job postings](https://www.realtypostings.com/cmp/the-asksarita-team-b8b#open-positions){: target="_blank" rel="noopener"}**
-
 Again, most of our best referrals are from people we know. Feel free to reach out to me privately and apply at the link or share them. Thank you for your consideration and business. Now we are excited to deliver a higher level of service. If you have any questions, call or email me anytime.
+
+**[Click here for job postings](https://www.realtypostings.com/cmp/the-asksarita-team-b8b#open-positions){: target="_blank" rel="noopener"}**
