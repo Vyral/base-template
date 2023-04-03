@@ -114,9 +114,9 @@ Keeping your home clean and organized can be a continuous struggle—there’s n
 
 Remember, we’re not just here to help you buy or sell a home. We want you to love living in it, too. Reach out if you need referrals for house cleaners, window washers, or other service providers that can help you make the most of your space.&nbsp;
 
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
+<br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
 
-Sources:
+<br>Sources:
 
 1. Healthline -<br>[https://www.healthline.com/health-news/5-health-benefits-of-spring-cleaning](https://www.healthline.com/health-news/5-health-benefits-of-spring-cleaning)
 2. Forbes -<br>[https://www.forbes.com/health/mind/mental-health-clean-home/](https://www.forbes.com/health/mind/mental-health-clean-home/)&nbsp;&nbsp;
