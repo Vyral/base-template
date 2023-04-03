@@ -20,7 +20,7 @@ The reality is, we enjoy our homes more when they are in good order. It’s much
 
 That’s why we’ve rounded up our favorite tactics—from overall strategies to little tips and tricks—for keeping things tidy without spending all our spare time cleaning.&nbsp;
 
-**Set a Schedule for Daily and Weekly Cleaning**
+<br>**Set a Schedule for Daily and Weekly Cleaning**
 
 We’ve all been there—you put off vacuuming or mopping your floor for a few days, only to realize that weeks have passed. Creating a cleaning schedule that works for you is the best way to stay on top of things and avoid overwhelm. Here are a few of our favorite strategies:
 
@@ -30,7 +30,7 @@ We’ve all been there—you put off vacuuming or mopping your floor for a few d
 
 It may take some trial and error to find the tactics that work best for you. The most important thing is to make a habit of cleaning so that clutter and grime don’t have a chance to build. And if you’d like some professional help, reach out for a referral to one of our favorite cleaning services!
 
-**Tackle Bigger Chores Seasonally**
+<br>**Tackle Bigger Chores Seasonally**
 
 Many home care tasks are seasonal by nature and only need to be completed once or twice a year. But when we don’t have a plan to tackle them, it’s all too easy to put them off. Here are a few tips to stay on top of these chores:
 
@@ -43,7 +43,7 @@ Remember—breaking down these larger tasks can make them less overwhelming. If 
 
 And since all your time is valuable, don't hesitate to delegate these larger home care tasks to professionals. Give us a call for a list of our recommended service providers.
 
-**Reduce the Barriers to Cleaning**
+<br>**Reduce the Barriers to Cleaning**
 
 Set yourself up for success by ensuring you have the tools on hand to tackle small tasks with ease. Here are a few ways to make your cleaning supplies more accessible:
 
@@ -54,7 +54,7 @@ Set yourself up for success by ensuring you have the tools on hand to tackle sma
 
 By strategically placing your tools and supplies in the locations where you’re most likely to need them, you’ll make cleaning less of a chore and more of a habit.
 
-**Stop the Clutter Before It Starts**
+<br>**Stop the Clutter Before It Starts**
 
 From coats to shoes to mail, it’s all too easy to find clutter taking over your home. Once these piles start to form, they can feel overwhelming—which only makes it harder to address them.&nbsp;
 
@@ -69,7 +69,7 @@ It can take a little time to get in the habit of returning items to their assign
 
 Are you considering a larger organizational upgrade, like a custom closet or pantry system? Reach out for a free consultation to find out how the investment could impact the value of your home!
 
-**Tackle Small Tasks Right Away**
+<br>**Tackle Small Tasks Right Away**
 
 Sometimes, the mental load of thinking about a chore you need to do is worse than the chore itself. Plus, handling small tasks right away can reduce the need for lengthy cleaning sessions.3&nbsp;
 
@@ -82,7 +82,7 @@ Try working these changes into your routine:
 
 If you implement these small changes, your home will stay neater—and you’ll minimize the number of dedicated cleaning sessions you need to take on each week.
 
-**Embrace an Evening “Shutdown” Routine**
+<br>**Embrace an Evening “Shutdown” Routine**
 
 Kitchens can get dirty and cluttered fast. But a few minutes spent cleaning up each evening can prevent the mess from getting out of control.4
 
@@ -94,7 +94,7 @@ Imagine your kitchen is a restaurant and you’re tidying it up before closing d
 
 We all know it can be hard to find the energy for chores in the evening. But if you complete these small tasks each night, you’ll start the next day off right in a tidy, clean kitchen.
 
-**Think Outside of the Box When It Comes to Storage**
+<br>**Think Outside of the Box When It Comes to Storage**
 
 Most of us have limited storage space. Unfortunately, without the right spots to stash our items, it’s easy to become disorganized.&nbsp;
 
@@ -108,7 +108,7 @@ But we’ve found that using household items in innovative ways can help keep me
 
 A little creativity goes a long way when it comes to making the most of your space. Just be sure that you’re creating systems you can stick with and not putting things where you might forget about them later!
 
-**WE’RE HERE TO HELP YOU MAKE THE MOST OF YOUR HOME**
+<br>**WE’RE HERE TO HELP YOU MAKE THE MOST OF YOUR HOME**
 
 Keeping your home clean and organized can be a continuous struggle—there’s no need to feel ashamed of that. But taking the time to implement systems that work for you can make life more pleasant and less stressful in the long run.
 
