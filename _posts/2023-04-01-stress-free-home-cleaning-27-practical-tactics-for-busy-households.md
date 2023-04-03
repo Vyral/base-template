@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/untitled-design-4.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/april-2023-mvp-blog-post-image-1.jpg
 youtube_code:
 ---
 {% include youtube.html %}
