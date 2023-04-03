@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/april-2023-mvp-blog-post-image.jpg
+youtube_alternate_image: /uploads/march-2023-mvp-blog-post-image.jpg
 youtube_code:
 ---
 ![](/uploads/untitled-design-2-5.jpg){: width="1017" height="383"}
