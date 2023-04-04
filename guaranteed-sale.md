@@ -45,33 +45,17 @@ permalink: /guaranteed-sale/
 
 <div class="col-md-6">
   <h3 class="join-us">Request a Cash Offer on Your Home Today</h3>
-  <h5 class="join-us-subtitle">Enter your contact information</h5>
-
-  <form method="post" class="home-value cta-forms" action="/thankyou" id="guaranteed-offer-form">
-  					<fieldset>
-              <label for="firstname">First Name*</label> <input type="text" required="" name="firstname" />
-  						<label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" />
-  						<label for="phone">Phone Number* </label> <input type="tel" name="phone" required="" />
-  						 <label for="email">Email*</label> <input type="text" name="email" required="" />
-  						 <label for="address">Full Address* </label> <input type="text" name="address" required="" />
-  						<label for="message">Why do you need to sell your home?* </label><textarea name="message" required=""></textarea>
-              <label for="when">When do you plan on Moving?*</label>
-              <select name="when" required="">
-                  <option value="Less than one month" selected="selected">
-                      Less than one month
-                  </option>
-                  <option value="1-3 months">
-                      1-3 months
-                  </option>
-                  <option value="3-6 months">
-                      3-6 months
-                  </option>
-                  <option value="6 months+">
-                      6 months+
-                  </option>
-              </select>
-  						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
-  					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Message from your Guaranteed Offer Landing Page" name="_subject" /> <input type="text" name="_gotcha" /></div>
-  				</form>
+  <!-- <h5 class="join-us-subtitle">Enter your contact information</h5> -->
+  <iframe src="https://thesokolerteam.hifello.com/widget/search/6425f8dc54cea00019886926" frameborder="0" height="1" width="100%" >
+  </iframe>
+  <script type="text/javascript">
+    window.addEventListener('message', function(e) {
+      const d = e.data;
+      if (d?.src === "fsw" && d.height) {
+      const f = Array.from(document.getElementsByTagName('iframe')).find(f => f.contentWindow === e.source);
+      f && (f.height = d.height);
+      }
+    }, false);
+</script>
   </div>
 </div>
