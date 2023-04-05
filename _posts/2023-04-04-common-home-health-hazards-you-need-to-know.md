@@ -26,7 +26,7 @@ What health hazards should be disclosed to you as a buyer? I recently read an ar
 
 1:13 — Lead, mold, asbestos
 
-1:31 — Methanphetomine and radon
+1:31 — Methamphetomine and radon
 
 2:17 — Why some of the health hazards rate higher than others
 
