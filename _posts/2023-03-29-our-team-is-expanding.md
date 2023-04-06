@@ -27,4 +27,4 @@ Perhaps you've been an agent for a long time or are fed up with some of the elem
 
 Again, most of our best referrals are from people we know. Feel free to reach out to me privately and apply at the link or share them. Thank you for your consideration and business. Now we are excited to deliver a higher level of service. If you have any questions, call or email me anytime.
 
-**[Click here for job postings](https://www.realtypostings.com/cmp/the-asksarita-team-b8b#open-positions){: target="_blank" rel="noopener"}**
+{% include blog-custom-cta.html %}
