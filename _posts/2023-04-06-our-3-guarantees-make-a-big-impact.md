@@ -24,4 +24,4 @@ Today, I’m here to tell you about our three big guarantees at Hawaii Pacific. 
 
 **3\. The eviction guarantee.** If we evict a tenant we placed in your unit, we'll cover the eviction costs, which can range from $3,000 to $6,000.&nbsp;
 
-These three guarantees set us apart from other property management companies. Other companies don’t offer this level of commitment, but we can guarantee our work. If you have any questions, feel free to contact us. You can call or email us anytime and we would be happy to hear from you.
+These three guarantees set us apart from other property management companies. Other companies don’t offer this level of commitment, but we can guarantee our work. If you have any questions, feel free to contact us. You can call or email us anytime, and we would be happy to hear from you.
