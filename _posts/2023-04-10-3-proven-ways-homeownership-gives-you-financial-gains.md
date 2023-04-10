@@ -11,7 +11,7 @@ enclosure:
 pullquote: Use the Place Mortgage Calculator app to help you calculate these components.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/sarita-dua-template-8.jpg
 youtube_code: 0iWbS9cDvYM
 ---
