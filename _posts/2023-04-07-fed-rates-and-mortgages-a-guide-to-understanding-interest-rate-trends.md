@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/chris-gorman-yt.png
-youtube_code: m8nCNOo7EeY
+youtube_code: qRMR36hvmAY
 ---
 {% include youtube.html %}
 
