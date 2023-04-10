@@ -18,7 +18,7 @@ youtube_code: TH6cMJh2zG0
 
 One of the benefits of being a homeowner is that you build equity over time by selling your house. That equity can be used towards purchasing your next home. But before you can put it to use, you should understand exactly what equity is and how it grows.&nbsp;
 
-**Home equity is the portion of your home you've paid off**. In other words, your stake in the property as opposed to the lender’s. In practical terms, home equity is the appraised value of your home minus any outstanding mortgages and loan balances. If you've owned your home for a while, you've likely built up some equity. You may not even realize how much. Such a large amount of equity benefits homeowners in more ways than one.
+**Home equity is the portion of your home you've paid off**. In other words, your stake in the property, as opposed to the lender’s. In practical terms, home equity is the appraised value of your home minus any outstanding mortgages and loan balances. If you've owned your home for a while, you've likely built up some equity. You may not even realize how much. Such a large amount of equity benefits homeowners in more ways than one.
 
 {% include pullquote.html %}
 
