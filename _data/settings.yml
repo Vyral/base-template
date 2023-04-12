@@ -85,8 +85,8 @@ lender:
   url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/tulsaokrealestate
-  linkedin_url: https://www.linkedin.com/in/jenniewolek/
+  facebook_url: https://www.facebook.com/tulsalooksgoodonyou
+  linkedin_url: https://www.linkedin.com/company/thewolekgrouptulsa/
   youtube_url: https://www.youtube.com/channel/UC_9WYLbPpZ-8eZz3u8NMnYg
   twitter_url:
   instagram_url: https://www.instagram.com/thewolekgrouptulsa/
@@ -95,8 +95,7 @@ socials:
   trulia_url:
   yelp_url:
   facebook_reviews_url: https://www.facebook.com/tulsaokrealestate/reviews?ref=page_internal
-  google_reviews_url: >-
-    https://www.google.com/search?q=jennie+wolek&oq=jennie+wolek&aqs=chrome..69i57j69i60j69i61j69i60.3684j0j1&sourceid=chrome&ie=UTF-8#lrd=0x87b6ecc33325418f:0x8afdb81dd6349e30,1
+  google_reviews_url: https://g.page/r/CTCeNNYduP2KEBM/review
   podcast_url: >-
     https://itunes.apple.com/us/podcast/tulsa-ok-real-estate-podcast-jennie-wolek-wolek-group/id1199631440?mt=2
 podcast:
