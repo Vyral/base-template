@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tulsa looks so Good with Black Moon Collective
+title: Tulsa looks Good with Black Moon Collective
 date: 2023-03-17 08:00:00
 tags:
   - Tulsa
