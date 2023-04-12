@@ -6,7 +6,10 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt:
+excerpt: >-
+  Looking for a unique way to spend a night out with family or friends? You’re
+  in luck because this week Tulsa Looks Good on You is highlighting Pinot’s
+  Palette.
 enclosure:
 pullquote: We paint, drink, and have fun,
 enclosure_type: video/mp4
