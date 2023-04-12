@@ -8,7 +8,7 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt:
+excerpt: 🏡💰 Real estate is ALWAYS a great investment.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
