@@ -124,7 +124,7 @@ images:
   logo_width_number: 60
   hero_text:
   hero_background_hex: '#15355b'
-  hero_image_path: /uploads/tgloy-cover-1.png
+  hero_image_path: /uploads/tgloy-cover.png
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#11365c'
