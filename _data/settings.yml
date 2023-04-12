@@ -15,35 +15,45 @@ client:
   name: The Wolek Group
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Our mission is to deliver on our Promise and provide the highest quality
     client experience with a sense of warmth and friendliness. We have a
     learning-based culture that is dedicated to giving back to our clients and
-    the community.  We commit to support our local business partners and empower
+    the community. We commit to support our local business partners and empower
     our youth through education and personal growth.
 
 
     Our Promise:
-      <ul class="about-list">
-      <li>• To work as a team to ensure a smooth and seamless transaction from start to finish.</li>
-      <li>• To exceed expectations by being solution-based.</li>
-      <li>• To make every effort to be proactive and limit surprises.</li>
-      <li>• To provide exceptional service by being honest, loyal, understanding and attentive.</li>
-      <li>• To guarantee each client receives such an outstanding experience that they always think of and recommend The Wolek Group to friends and family for any real estate needs.</li>
-      </ul>
+
+
+    * • To work as a team to ensure a smooth and seamless transaction from start
+    to finish.
+
+    * • To exceed expectations by being solution-based.
+
+    * • To make every effort to be proactive and limit surprises.
+
+    * • To provide exceptional service by being honest, loyal, understanding and
+    attentive.
+
+    * • To guarantee each client receives such an outstanding experience that
+    they always think of and recommend The Wolek Group to friends and family for
+    any real estate needs.
+
+    {: .about-list}
   market: Tulsa
   brand: Keller Williams Realty Advantage
   brokerage:
-  address: '2651 E. 21st Street, Ste 100 Tulsa, OK, 74114'
+  address: 2651 E. 21st Street, Ste 100 Tulsa, OK, 74114
   phone: 918-550-9243
   phone_type:
   phone2:
   phone2_type:
   email: info@TheWolekGroup.com
-  url: 'https://www.thewolekgroup.com'
+  url: https://www.thewolekgroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.tulsahomevalue.com/'
+  first_CTA_URL: http://www.tulsahomevalue.com/
   second_CTA_text: Home Search
   second_CTA_URL: >-
     https://www.thewolekgroup.com/search#?q_limit=36&q_prioritize=agents.0.id=173675|office.id=127576&mlsId=291&status=1|3&q_sort=createdAt-&q_offset=0
@@ -54,7 +64,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://www.tulsahomevalue.com/'
+    CTA_url: http://www.tulsahomevalue.com/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
@@ -65,25 +75,25 @@ second_sidebar_CTA:
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/tulsaokrealestate'
-  linkedin_url: 'https://www.linkedin.com/in/jenniewolek/'
-  youtube_url: 'https://www.youtube.com/channel/UC_9WYLbPpZ-8eZz3u8NMnYg'
+  facebook_url: https://www.facebook.com/tulsaokrealestate
+  linkedin_url: https://www.linkedin.com/in/jenniewolek/
+  youtube_url: https://www.youtube.com/channel/UC_9WYLbPpZ-8eZz3u8NMnYg
   twitter_url:
-  instagram_url: 'https://www.instagram.com/thewolekgrouptulsa/'
+  instagram_url: https://www.instagram.com/thewolekgrouptulsa/
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/jwolek/'
-  trulia_url: 
-  yelp_url: 
+  zillow_url: http://www.zillow.com/profile/jwolek/
+  trulia_url:
+  yelp_url:
   facebook_reviews_url: https://www.facebook.com/tulsaokrealestate/reviews?ref=page_internal
   google_reviews_url: >-
     https://www.google.com/search?q=jennie+wolek&oq=jennie+wolek&aqs=chrome..69i57j69i60j69i61j69i60.3684j0j1&sourceid=chrome&ie=UTF-8#lrd=0x87b6ecc33325418f:0x8afdb81dd6349e30,1
@@ -93,7 +103,7 @@ podcast:
   title: Tulsa Looks Good on You
   categories:
     - Education
-  image: /img/podcast.png
+  image: /uploads/tlgoy-logo-instagram-post-video.png
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
     -- Area Real Estate Market
@@ -135,8 +145,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
