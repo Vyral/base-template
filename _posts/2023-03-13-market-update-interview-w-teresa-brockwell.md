@@ -6,7 +6,9 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt:
+excerpt: >-
+  Jennie interviews Teresa Brockwell to learn about all things home owner's
+  insurance for those who are looking to buy and own a home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
