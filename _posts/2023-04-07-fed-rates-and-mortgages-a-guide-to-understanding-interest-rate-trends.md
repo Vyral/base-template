@@ -9,9 +9,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/chris-gorman-yt.png
-youtube_code: qRMR36hvmAY
+youtube_code: CaPbZyJ7oVU
 ---
 {% include youtube.html %}
 
