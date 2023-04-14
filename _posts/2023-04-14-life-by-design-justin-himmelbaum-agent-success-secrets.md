@@ -31,4 +31,6 @@ Join Jennie Wolek as she sits down with Justin Himmelbaum to discuss his journey
 
 {% include pullquote.html %}
 
+\-Justin Himmelbaum
+
 Tune in now to gain valuable insights and take your real estate career to the next level! 🚀
