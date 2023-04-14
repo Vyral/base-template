@@ -11,7 +11,10 @@ excerpt: >-
   Unlock the secrets to agent success with our new video playlist: Agent Success
   Secrets! 🎉
 enclosure:
-pullquote:
+pullquote: >-
+  if you think about transactions as one transaction it's gonna be a long career
+  if you think about every transaction as 5 to 10 all of a sudden and you've
+  sold 1000 homes
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
