@@ -24,6 +24,8 @@ youtube_code: UKUZ1LoQewc
 
 Unlock the secrets to agent success with our new video playlist: Agent Success Secrets! 🎉
 
-Join Jennie Wolek as she sits down with Justin Himmelbaum to discuss his journey and his definition of LIFE BY DESIGN. 🏡🔑 Tune in now to gain valuable insights and take your real estate career to the next level! 🚀
+Join Jennie Wolek as she sits down with Justin Himmelbaum to discuss his journey and his definition of LIFE BY DESIGN. 🏡🔑
 
 {% include pullquote.html %}
+
+Tune in now to gain valuable insights and take your real estate career to the next level! 🚀
