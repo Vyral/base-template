@@ -4,7 +4,7 @@ title: 'Egg-cellent Turnout: Thanking Our Guests for a Memorable Easter Celebrat
 date: 2023-04-14 07:00:00
 tags:
   - Real Estate
-excerpt: Thank you to everyone who came to our recent Easter event, it was a blast!
+excerpt: Thank you to everyone who came to our recent Easter event; it was a blast!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
