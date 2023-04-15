@@ -1,11 +1,11 @@
-title: 'Wasatch Front Real Estate Video Blog with Bryan and Scott Colemere'
+title: Wasatch Front Real Estate Video Blog with Bryan and Scott Colemere
 description: >-
-  Our mission at Colemere Realty Associates is to be your best resource for Wasatch Front
-  real estate advice. Whether you are a buyer, seller, or investor, our team of
-  professionals can answer any questions you might have about real estate. If
-  you are looking to buy or sell a home, you can get all the information and the
-  latest updates, tips, and tricks from The Colemere Realty Associates, your
-  professional Wasatch Front Real Estate Agents.
+  Our mission at Colemere Realty Associates is to be your best resource for
+  Wasatch Front real estate advice. Whether you are a buyer, seller, or
+  investor, our team of professionals can answer any questions you might have
+  about real estate. If you are looking to buy or sell a home, you can get all
+  the information and the latest updates, tips, and tricks from The Colemere
+  Realty Associates, your professional Wasatch Front Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Guaranteed Offer
@@ -30,20 +30,20 @@ client:
     of our clients. Each member of our team is focused on providing **the
     expertise of 3 generations in the business**. We know that a real estate
     transaction can be very challenging which is why achieving your satisfaction
-    is our top priority. As your **REALTORS&reg;**, we are **committed to your
+    is our top priority. As your **REALTORS®**, we are **committed to your
     success** in the purchase and sale of your home, and we promise you the full
     support, experience, and expertise of our team.
   market: Wasatch Front
-  brand: 'Colemere Realty Associates, LLC'
+  brand: Colemere Realty Associates, LLC
   brokerage:
-  address: '9661 S 700 E<br>Sandy, UT 84070'
+  address: 9661 S 700 E<br>Sandy, UT 84070
   office_phone: (801) 272-8192
   office_email: info@colemererealty.com
-  url: 'http://colemererealty.com'
+  url: http://colemererealty.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: 'https://www.colemererealty.com/sell/'
+  first_CTA_URL: https://www.colemererealty.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.colemererealty.com/'
+  second_CTA_URL: https://www.colemererealty.com/
   about_header: About the CRA Team
 emma_form: >-
   <script
@@ -57,9 +57,9 @@ socials:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/bcolemere/'
+  zillow_url: http://www.zillow.com/profile/bcolemere/
   trulia_url:
-  yelp_url: 'https://www.yelp.com/biz/bryan-colemere-colemere-realty-riverton'
+  yelp_url: https://www.yelp.com/biz/bryan-colemere-colemere-realty-riverton
   podcast_url: >-
     https://itunes.apple.com/us/podcast/colemere-realty-associates/id1177583830?mt=2
 CTAs:
@@ -101,10 +101,10 @@ podcast:
     buyer
   author: Bryan Colemere
 images:
-  client_headshot_path: /uploads/colmere-team-2021-short.jpg
+  client_headshot_path: /uploads/image-6483441.jpeg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: 'Wasatch Front Real Estate Video Blog'
+  hero_text: Wasatch Front Real Estate Video Blog
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -125,14 +125,14 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0)'
+  shadow_color: rgba(0, 0, 0, 0)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
