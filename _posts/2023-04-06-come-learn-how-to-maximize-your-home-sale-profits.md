@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Come Learn How To Maximize Your Home-Sale Profits
+title: >-
+  Join Me Live on Zoom  April 20 at 7 pm! Learn How to Prepare Your Home for
+  Sale!
 date: 2023-04-06 07:00:00
 tags:
   - Home Seller Tips
