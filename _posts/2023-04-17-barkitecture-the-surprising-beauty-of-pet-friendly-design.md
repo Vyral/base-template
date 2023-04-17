@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-14.jpg
+youtube_alternate_image: /uploads/soldwisch-yt.jpg
 youtube_code: brX_AN2HN7o
 ---
 {% include youtube.html %}
