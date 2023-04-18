@@ -5,7 +5,7 @@ date: 2023-04-18 10:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt:
+excerpt: Selling a home requires a ton of paperwork, so make sure you’re prepared.
 enclosure:
 pullquote: >-
   The right agent can help you identify, find, generate, or apply for all of the
