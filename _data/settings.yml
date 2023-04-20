@@ -37,7 +37,8 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.carbuttisellsct.com/
+  first_CTA_URL: >-
+    https://carbuttirealestate.hifello.com/lp/abd537ee-2829-496f-b715-42e71cee8d42
   second_CTA_text: Home Search
   second_CTA_URL: https://www.carbuttirealestate.com/property-search/results/?searchtype=3
 sidebar_CTA:
