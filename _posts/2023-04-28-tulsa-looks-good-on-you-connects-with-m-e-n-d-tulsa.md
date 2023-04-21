@@ -18,8 +18,6 @@ hidden: false
 ---
 {% include youtube.html %}
 
-Tulsa Looks Good on You connects with M.E.N.D. Tulsa for this weeks interview.
-
 Jennie sits down with M.E.N.D.'s Chapter President, Cat Markham to hear about the impact this organization is making on the Tulsa community.
 
 M.E.N.D. is a national nonprofit with a Tulsa chapter, supported fully by the kindness of volunteers. M.E.N.D. provides support to families experiencing the loss of a baby due to pregnancy or early infant loss.
