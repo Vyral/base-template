@@ -14,8 +14,6 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Have you heard of the 40-year FHA loan myth? **The truth is that the 40-year FHA loan is specifically designed for loan modification purposes.** It's meant for those who are significantly behind on their mortgage payments with an FHA loan, enabling them to roll past due payments into a new loan.
 
 The government created this product to significantly reduce FHA foreclosures. By allowing clients to consolidate overdue payments, fees, and other charges into a 40-year loan, it effectively lowers their monthly payments, making it easier for them to keep their homes. This benefits both the homeowners and the FHA by decreasing the number of foreclosures.
