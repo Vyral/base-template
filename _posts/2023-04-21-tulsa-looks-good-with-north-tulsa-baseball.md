@@ -6,7 +6,10 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt:
+excerpt: >-
+  Jennie sits down with Lamar Guillory , Assistant Director of Recreation for
+  Tulsa County to hear about what the organization is doing for North Tulsa
+  youth.
 enclosure:
 pullquote: I want everyone to walk away with that unbridled joy
 enclosure_type: video/mp4
