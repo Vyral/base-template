@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/soldwisch-yt-1.jpg
-youtube_code: brX_AN2HN7o
+youtube_code: eXqdhiWxKb8
 ---
 {% include youtube.html %}
 
