@@ -15,10 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-yt-7.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Are you looking to sell a home? At times, it may seem like you are adrift on an endless sea of paperwork. So many documents are required during the sale of a home that it can be confusing and worrisome. It’s easy to become overwhelmed, which is why I’ve put together this brief primer to help you navigate the process. This isn’t an exhaustive list of all the documents you might need during a sale, but it should help you get the ball rolling.
 
 **1\. Pre-listing paperwork.** This is possibly the most paperwork-intensive portion of the process. Put simply, this is when you need to gather all of the documentation for your ownership of the property and any changes you’ve made. This might include things like the title or deed, receipts and other documents for recent improvements, warranties and other information regarding your appliances, and any records relating to an HOA or other agreements. The disclosures and documentation required by a seller can vary widely depending on your specific situation and location, so be sure to connect with a trusted, local real estate agent like me to help you with gathering these documents.
