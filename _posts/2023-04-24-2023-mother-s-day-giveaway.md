@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
 youtube_code: 0ZxJuzkZKSA
-hidden: true
+hidden: false
 ---
 Moms are the best! Whether it's yours, yourself or any other amazing lady- they deserve a special treat this Mother's Day.
 
