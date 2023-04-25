@@ -5,12 +5,7 @@ date: 2023-04-25 07:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: >-
-  Are you considering buying a home in Arizona but are put off by the high
-  prices? Some people think that Arizona real estate is overpriced, but is it?
-  The truth is that the answer depends on certain factors, and some people
-  predict that prices will flatten out. To hear what you need to know about home
-  prices in Arizona, watch this short video.
+excerpt: The truth about Arizona’s home prices and whether or not they’re too high.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
