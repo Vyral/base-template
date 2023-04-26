@@ -22,7 +22,7 @@ Jennie sits down with M.E.N.D.'s Chapter President, Cat Markham to hear about th
 
 M.E.N.D. is a national nonprofit with a Tulsa chapter, supported fully by the kindness of volunteers. M.E.N.D. provides support to families experiencing the loss of a baby due to pregnancy or early infant loss.
 
-M.E.N.D. Tulsa hosts a support group on the third Tuesday of each month at&nbsp;[5401 S Harvard Ave](https://www.google.com/maps/place/5401+S+Harvard+Ave,+Tulsa,+OK+74135/@36.0853512,-95.9418027,17z/data=!3m1!4b1!4m5!3m4!1s0x87b692e2eca85c7b:0x94cf96145f1106a2!8m2!3d36.0853512!4d-95.9396087)[Tulsa OK 74135](https://www.google.com/maps/place/5401+S+Harvard+Ave,+Tulsa,+OK+74135/@36.0853512,-95.9418027,17z/data=!3m1!4b1!4m5!3m4!1s0x87b692e2eca85c7b:0x94cf96145f1106a2!8m2!3d36.0853512!4d-95.9396087).
+M.E.N.D. Tulsa hosts a support group on the third Tuesday of each month at 5401 S Harvard AveTulsa OK 74135.
 
 Together M.E.N.D. is breaking down the barriers associated with the isolation and sadness of pregnancy and infant loss and strives to turn all the children’s lives into legacies.
 
