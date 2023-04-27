@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Protest Your County Home Valuation and Avoid Overpaying on Your Taxes
-date: 2023-04-19 00:00:00
+date: 2023-04-27 00:00:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -17,6 +17,8 @@ youtube_code: j5RChnb-ofM
 {% include youtube.html %}
 
 {% include excerpt.html %}
+
+[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 
 Have you received your county home tax valuation in the mail yet? Recently, we've noticed that the tax assessor is raising home values faster than ever before. You may have also seen a significant increase in home values over the past few years. Therefore, it's crucial to keep an eye on these adjustments every year to ensure that they accurately reflect the value of your home and that you're not paying more than you should in property taxes.
 
