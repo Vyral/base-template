@@ -18,12 +18,12 @@ hidden: true
 ---
 {% include youtube.html %}
 
-Jennie sits down with M.E.N.D.'s Chapter President, Cat Markham to hear about the impact this organization is making on the Tulsa community.
+Tulsa Looks Good on Tulsa’s nonprofit, M.E.N.D.
 
-M.E.N.D. is a national nonprofit with a Tulsa chapter, supported fully by the kindness of volunteers. M.E.N.D. provides support to families experiencing the loss of a baby due to pregnancy or early infant loss.
+Jennie connected with M.E.N.D.'s Chapter President, Cat Markham to hear about the impact this organization is making on the Tulsa community.
 
-M.E.N.D. Tulsa hosts a support group on the third Tuesday of each month at 5401 S Harvard AveTulsa OK 74135.
+M.E.N.D. *(Mommies Enduring Neonatal Death)* is a Christian based nonprofit with a mission to provide hope and healing through your journey after the loss of your baby.
 
-Together M.E.N.D. is breaking down the barriers associated with the isolation and sadness of pregnancy and infant loss and strives to turn all the children’s lives into legacies.
+M.E.N.D. is a place for families to connect, share their unique story of loss, and learn to live life without your precious baby. Tulsa’s chapter provides monthly meetings the 3rd Tuesday of each month at, 5401 S Harvard Ave in Tulsa.
 
-Interested in learning more about this amazing organization? Visit,&nbsp;[M.E.N.D Tulsa.](https://www.facebook.com/profile.php?id=100081125786283)
+For more information on M.E.N.D or to connect with the Tulsa Chapter visit, [https://www.mend.org/chapter-tulsa-monthly](https://www.mend.org/chapter-tulsa-monthly)
