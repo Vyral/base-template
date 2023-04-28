@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Real Estate Agent Tips
   - Realtors
-excerpt: ' '
+excerpt: ' As a part of my team, you’ll learn the most important skills first.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
