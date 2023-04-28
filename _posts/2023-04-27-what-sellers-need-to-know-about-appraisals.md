@@ -8,7 +8,7 @@ excerpt: 'Answering three common questions about appraisals to prepare sellers. 
 enclosure:
 pullquote: >-
   Make sure you have a professional on your side to guide you through your
-  appraisal process. 
+  appraisal process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
