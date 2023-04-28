@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bob-sokoler-thumbnail.jpg
-youtube_code: 1lebzu8vfzE
+youtube_code: y_R2d-v8AHo
 ---
 {% include youtube.html %}
 
