@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Don't Panic: 2 Strategies for Pricing Properties in Uncertain Market
-  Conditions
+title: 2 Strategies for Pricing Properties in Uncertain Market Conditions
 date: 2023-04-26 10:00:00
 tags:
   - Transaction Management
