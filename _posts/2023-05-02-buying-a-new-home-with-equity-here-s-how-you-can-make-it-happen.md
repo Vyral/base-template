@@ -10,7 +10,7 @@ pullquote: Lenders offer great tools to help you access your equity.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chad-sara-huebener-yt-9.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-yt-10.jpg
 youtube_code: E1IqycLuA8Q
 ---
 {% include youtube.html %}
