@@ -38,4 +38,4 @@ Taking ownership of YOUR life
 
 ‌
 
-Setting yourself up for success starts with you recharging your mind and body. Reserve your free spot for Friday, May 12th at noon CST 🔗 https://investinrest.eventbrite.com
+Setting yourself up for success starts with you recharging your mind and body. Reserve your free spot for Friday, May 12th at noon CST 🔗 [https://investinrest.eventbrite.com](https://investinrest.eventbrite.com)
