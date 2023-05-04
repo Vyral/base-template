@@ -20,9 +20,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/eventbrite-banner-6.png
 youtube_code:
 ---
-​​​​​{% include pullquote.html %}
-
-\- Jennie Wolek
+{% include pullquote.html %}\- Jennie Wolek
 
 So many of us are driven to succeed and push ourselves to keep going until ALL of the work is done— into the evening hours. This could be because we’re playing catch up from not accomplishing everything we thought we needed to during the day. Or we allow distractions to get in our way or we just really need more help— which could be another person, or a system or tool or technology to leverage ourselves. Or we just aren’t clear on what matters most and we allow ourselves to be pulled and pushed by others. We simply can’t do everything and for sure not by ourselves. We can I guess, we’ll just be stressed out, cranky and eventually burn out.
 
