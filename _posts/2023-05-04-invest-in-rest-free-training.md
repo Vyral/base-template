@@ -20,6 +20,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/eventbrite-banner-6.png
 youtube_code:
 ---
+[![](/uploads/eventbrite-banner-6-1.png){: width="2160" height="1080"}](https://investinrest.eventbrite.com)
+
 {% include pullquote.html %}
 
 \- Jennie Wolek
