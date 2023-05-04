@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From Locals to Locals: Trust Our Honolulu-Based Property Management Team'
-date:
+date: 2023-05-04 07:00:00
 tags:
   - Real Estate
 excerpt: How our localized business and Honolulu expertise can benefit you.
