@@ -20,8 +20,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/eventbrite-banner-6.png
 youtube_code:
 ---
-{% include excerpt.html %}
-
 {% include pullquote.html %}
 
 \- Jennie Wolek
