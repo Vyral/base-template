@@ -11,9 +11,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/10-28-wolek-youtube.jpg
-youtube_code: thXT6ReaOfQ
+use_youtube_image: true
+youtube_alternate_image: ''
+youtube_code: 1LhRJdQNEMw
 hidden: false
 ---
 {% include youtube.html %}
