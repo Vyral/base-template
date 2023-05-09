@@ -13,7 +13,7 @@ pullquote: Prices are going up, so waiting for them to go down isn’t smart.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sokoler-yt.jpg
+youtube_alternate_image: /uploads/yt.png
 youtube_code: 9fX1P1in_o8
 ---
 {% include youtube.html %}
