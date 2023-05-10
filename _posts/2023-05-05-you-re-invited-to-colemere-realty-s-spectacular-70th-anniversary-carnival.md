@@ -17,8 +17,8 @@ youtube_code: Arn1PjmIetI
 
 {% include excerpt.html %}
 
-Are you ready for some serious fun on Saturday, June 3? I know exactly what you should be doing: heading over to the Colemere Realty 70th anniversary carnival celebration!&nbsp;
+Are you ready for some serious fun on Saturday, June 3? Colemere Realty is turning 70, and we’re having a carnival event to celebrate!
 
-**This event is going to blow your mind with endless games, amazing prizes, a cute petting zoo, mouth-watering food, and much more!** [Click this link](https://www.eventbrite.com/e/colemere-realtys-summer-carnival-tickets-630303975157) and register ASAP—you don't want to miss out on all of the excitement!
+Join us and have lots of fun in the activities we’ve prepared. **We’re going to have face painting, games, amazing prizes, a cute petting zoo, and balloon animals.** To get you in that carnival spirit, we’re also serving cotton candy, hotdogs, and chips. [Click this link](https://www.eventbrite.com/e/colemere-realtys-summer-carnival-tickets-630303975157) and register ASAP—you don't want to miss out on all of the excitement!
 
-As always, if you have any questions about the event or need help with real estate, call or email us; we’d love to hear from you.
+As always, if you have any questions about the event or need help with real estate, call or email us, we’d love to hear from you.
