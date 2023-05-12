@@ -12,7 +12,7 @@ pullquote: This significant change impacted not only her own life but also her f
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/hooke-rec-yt.jpg
+youtube_alternate_image: /uploads/dave-hooke-ssrec-7.jpg
 youtube_code: rv_ACmRn6fg
 ---
 {% include youtube.html %}
