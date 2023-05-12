@@ -23,7 +23,7 @@ We have a special guest today! Drue Richmond, our sales director, is sharing wit
 
 She began her journey by seeking a career that made a difference and mattered to people. She had worked in internet marketing for years, but it felt unfulfilling compared to the impact her mother had in the Agency on Aging or her husband's significant career accomplishments. **Drue realized she wanted to do something that made a difference in someone's life.**
 
-While under contract to purchase a home, her real estate agent asked if she had ever considered a career in real estate. That was the beginning for her. As a new agent with little industry knowledge, Drue heard that Dave Hook was hiring a buyer's agent. Although she didn't know what that entailed, and the team wasn't as established as it is today, she felt a strong conviction that this would be her opportunity to find a meaningful career.
+While under contract to purchase a home, her real estate agent asked if she had ever considered a career in real estate. That was the beginning for her. As a new agent with little industry knowledge, Drue heard that Dave Hooke was hiring a buyer's agent. Although she didn't know what that entailed, and the team wasn't as established as it is today, she felt a strong conviction that this would be her opportunity to find a meaningful career.
 
 **{% include pullquote.html %}**
 
