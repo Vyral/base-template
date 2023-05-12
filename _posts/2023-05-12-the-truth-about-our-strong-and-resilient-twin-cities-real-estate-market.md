@@ -18,7 +18,7 @@ youtube_code: Xt9CM1M_Kgw
 
 {% include excerpt.html %}
 
-[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369)
+[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 
 Over the previous nine months, we have felt the market shift. Closed sales are down 21.2% and new listings are down 24.1% from this time last year. Also, interest rates have nearly doubled. What does all of that mean?&nbsp;
 
