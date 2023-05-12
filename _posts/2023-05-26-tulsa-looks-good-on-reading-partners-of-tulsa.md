@@ -33,3 +33,5 @@ To learn about volunteer opportunities or to donate visit,
 [Reading Tutors Tulsa](https://readingpartners.org/location/tulsa/)
 
 The Wolek Group is matching donations up to $500 for Reading Partners Tulsa now through June 9th. Scan the QR code below and donate today.
+
+**![](/uploads/becc6a6253d00e01246b5b032039c27a-1-1.png){: width="396" height="396"}**
