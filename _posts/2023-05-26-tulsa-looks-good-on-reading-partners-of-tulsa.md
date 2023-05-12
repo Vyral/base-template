@@ -6,7 +6,9 @@ tags:
   - Tulsa
   - Oklahoma
   - business spotlight
-excerpt: Love spoiling your pets?
+excerpt: >-
+  Jennie caught up with Emily Fuller, Development Manager to learn about what
+  the organization does for the Tulsa community.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
