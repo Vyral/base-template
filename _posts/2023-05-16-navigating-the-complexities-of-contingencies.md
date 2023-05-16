@@ -3,6 +3,9 @@ layout: post
 title: Navigating the Complexities of Contingencies
 date: 2023-05-16 10:00:00
 tags:
+  - Real Estate
+  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: Tips to help you buy your dream home contingent on selling your old house.
 enclosure:
 pullquote: >-
