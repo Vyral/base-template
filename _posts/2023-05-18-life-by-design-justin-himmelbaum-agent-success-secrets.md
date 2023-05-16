@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life by Design Justin Himmelbaum | Agent Success Secrets
+title: Balancing Family and Business | Agent Success Secrets
 date: 2023-05-18 09:00:00
 tags:
   - Transaction Management
