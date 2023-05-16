@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Sellers Need To Know About Appraisals '
-date: 2023-05-11 00:00:00
+date: 2023-04-27 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'Answering three common questions about appraisals to prepare sellers. '
