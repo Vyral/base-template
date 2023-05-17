@@ -14,10 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/shutterstock-1822553567-cropped-16-9.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 The real estate market is an ever-changing thing. One day, prices are up, and the very next day, everything has reversed on you. Over the last few years especially, with turbulent markets and economic confusion, the real estate market has become increasingly dynamic. In this era of constant fluctuation, how will you know how much your home is worth? There are three things that you need to know:
 
 **1\. Use the right tools.** Online estimators are a great way to get a very rough estimate of where your home’s value is likely to sit. These are best accessed directly through your preferred real estate agent’s website. While they aren’t perfect, these tools can give you a general idea of your home’s value.
