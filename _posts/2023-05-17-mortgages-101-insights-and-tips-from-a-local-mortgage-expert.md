@@ -20,7 +20,7 @@ youtube_code: RAMKIKuOeZM
 
 Recently, we had the pleasure of speaking with Chuck Simmons of Motto Mortgage Midwest. He’s an expert on mortgages and the local market, so we thought it would be a great idea to pick his brain on what he does and how he helps buyers in our area.&nbsp;
 
-Chuck has been in the mortgage industry for a while now. For the past four years, he has owned his own company, Motto Mortgage Midwest, with a business partner. They have helped thousands of buyers, gained a lot of experience, and worked with people to get them in the right spot. Every loan is unique and has its own set of challenges, **but they work with buyers to ensure they get the best product, rates, and ultimately get to the closing table.**
+Chuck has been in the mortgage industry for a while now. For the past four years, he has owned his own company, Motto Mortgage Midwest, with a business partner. They have helped thousands of buyers, gained a lot of experience, and worked with people to get them in the right spot. Every loan is unique and has its own set of challenges, **but they work with buyers to ensure they get the best product and rates and ultimately get to the closing table.**
 
 **{% include pullquote.html %}**
 
