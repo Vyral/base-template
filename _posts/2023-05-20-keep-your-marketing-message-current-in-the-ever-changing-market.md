@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep your marketing message current in the ever changing market.
+title: Inspections are Back
 date: 2023-05-20 08:00:00
 tags:
   - Transaction Management
