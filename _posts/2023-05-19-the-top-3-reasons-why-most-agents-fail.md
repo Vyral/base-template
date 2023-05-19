@@ -11,8 +11,8 @@ enclosure:
 pullquote: Find a balance between your money-making activities.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/business-man-overwhelmed.jpg
 youtube_code:
 ---
 As a real estate agent, you know the business is all about helping people buy and sell properties. However, you also know that some agents don't seem to be able to get the job done. So what's the deal? Why are some agents so successful while others struggle? There are quite a few ways to get yourself into hot water if you ignore what's happening around you and how it affects your business. Real estate can be a difficult industry to succeed in, but it doesn't have to be. To help you avoid the pitfalls, here are the three main reasons why many real estate agents fail:
