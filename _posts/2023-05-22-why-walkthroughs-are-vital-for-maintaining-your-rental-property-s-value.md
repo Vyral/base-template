@@ -17,9 +17,9 @@ youtube_code: qLi_Ccmv31g
 
 {% include excerpt.html %}
 
-As a landlord or property owner, it is crucial to stay informed about the condition of your rental properties and how tenants are treating them. One effective way to assess the state of your property is through regular walkthroughs. Walkthroughs provide valuable insights into the tenant's behavior, maintenance issues, and overall care of the property. Today we will delve into the significance of walkthroughs and how they benefit both property owners and tenants.
+As a landlord or property owner, it is crucial to stay informed about the condition of your rental properties and how tenants are treating them. One effective way to assess the state of your property is through regular walkthroughs. Walkthroughs provide valuable insights into the tenant's behavior, maintenance issues, and overall care of the property. Today, we will delve into the significance of walkthroughs and how they benefit both property owners and tenants.
 
-Regular walkthroughs serve as a status quo check, allowing property managers or owners to gauge the condition of the rental property. Failure to conduct these inspections can lead to complications and potential problems in the future. Therefore, it is recommended that property managers perform at least one walkthrough annually to ensure everything is in order. In fact, the absence of walkthroughs can be an indicator of underlying issues that require attention.
+Regular walkthroughs serve as a status quo check, allowing property managers or owners to gauge the condition of the rental property. **Failure to conduct these inspections can lead to complications and potential problems in the future.** Therefore, it is recommended that property managers perform at least one walkthrough annually to ensure everything is in order. In fact, the absence of walkthroughs can be an indicator of underlying issues that require attention.
 
 {% include pullquote.html %}
 
@@ -27,4 +27,4 @@ If you own rental properties and have tenants with pets, the frequency of walkth
 
 **For rental properties without pets, conducting a walkthrough every six months is generally sufficient.** These walkthroughs can be brief, usually lasting about five minutes. During this time, property managers can observe the tenant's living conditions, ensure proper maintenance is being carried out, and assess the overall state of the property. The findings from these inspections are then communicated back to the property owner in a comprehensive report.
 
-If you have any questions, don’t hesitate to call me at (808) 445-9223.
+If you have any questions, don’t hesitate to call me at (808) 445-9223. I look forward to hearing from you.
