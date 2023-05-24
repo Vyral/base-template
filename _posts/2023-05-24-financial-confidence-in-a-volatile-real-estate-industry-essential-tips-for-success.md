@@ -3,7 +3,7 @@ layout: post
 title: >-
   Financial Confidence in a Volatile Real Estate Industry: Essential Tips for
   Success
-date:
+date: 2023-05-24 10:00:00
 tags:
 excerpt: Gain a clearer understanding of where your resources are being allocated.
 enclosure:
