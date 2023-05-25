@@ -32,6 +32,6 @@ Finally, there may be expenses that you'd like to keep but could benefit from ne
 
 **2\. Take action.** Start by eliminating the red-highlighted expenses that you have identified as unnecessary. This can be a liberating process, freeing up resources that can be redirected towards more valuable aspects of your business. Next, initiate negotiations for the yellow-highlighted expenses to ensure you are getting the best possible deals. Finally, continue investing in the green-highlighted expenses that are contributing positively to your business's growth.
 
-This process can help you make informed decisions about your finances and provide a sense of control and stability in a shifting real estate market. If you have any questions, don’t hesitate to reach out by phone at&nbsp;[(717) 216-0860](tel:717- 216-0860){: target="_blank" rel="noopener"}, or by email, [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We're here to help!
+This process can help you make informed decisions about your finances and provide a sense of control and stability in a shifting real estate market. If you have any questions, don’t hesitate to reach out by phone at&nbsp;[(717) 216-0860](tel:717- 216-0860){: target="_blank"}, or by email, [dave@davehooketeam.com](mailto:dave@davehooketeam.com). We're here to help!
 
-Don't forget to follow us on Facebook at&nbsp;[Facebook.com/DaveHookeTeam](https://facebook.com/DaveHookeTeam){: target="_blank" rel="noopener"}&nbsp;and stay up-to-date on our latest posts.
+Don't forget to follow us on Facebook at&nbsp;[Facebook.com/DaveHookeTeam](https://facebook.com/DaveHookeTeam){: target="_blank"}&nbsp;and stay up-to-date on our latest posts.
