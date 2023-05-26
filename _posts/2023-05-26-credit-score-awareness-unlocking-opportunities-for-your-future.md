@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/05-25-payne-youtube.jpg
 youtube_code: b0eOZktW8Ic
 ---
 {% include youtube.html %}
