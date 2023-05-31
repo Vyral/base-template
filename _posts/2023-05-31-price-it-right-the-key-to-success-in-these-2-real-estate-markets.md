@@ -18,7 +18,7 @@ youtube_code: LuMIOqkHQqU
 
 {% include excerpt.html %}
 
-Today, we’re here to talk to you about a tale of two markets. Homes are on the market for an average of about 30 days, but some take more time and some take less. This is the tale of two markets. Therefore, you need to know how to correctly navigate it.&nbsp;
+Today, we’re here to talk to you about a tale of two markets. Homes are on the market for an average of about 30 days, but some take more time, and some take less. This is the tale of two markets. Therefore, you need to know how to correctly navigate it.&nbsp;
 
 **In this market, it's especially crucial to price your home correctly.** Prices are extra sensitive because of interest rates, so make sure to not price your home too high, or else it’ll sit on the market for a long time. Instead, if homes are priced correctly, they’ll sell faster and get multiple offers, which is great for sellers.&nbsp;
 
