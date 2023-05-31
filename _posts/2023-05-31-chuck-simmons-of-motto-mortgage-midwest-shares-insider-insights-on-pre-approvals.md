@@ -32,4 +32,4 @@ Now mortgage companies pull the credit once, and the investors use that. Also, c
 
 Also, know that monitoring services aren’t always accurate. They can help you see if your credit score is going up or down, but they can’t give you a foolproof score. Sometimes people think their score is lower than it actually is, and vice versa. Therefore, go to people like Chuck for an accurate number.&nbsp;
 
-If you have questions about this topic, know that you can call or email us anytime. Also, we would be happy to put you in touch with Chuck and everyone at Motto Mortgage Midwest. We hope to hear from you soon!
+If you have questions about this topic, know that you can call or email us anytime. Also, we would be happy to put you in touch with [Chuck]( https://www.mottomortgage.com/offices/midwest-ankeny/contact-the-simmons-hemer-team){: target="_blank" rel="noopener"} and everyone at [Motto Mortgage Midwest](https://www.mottomortgage.com/offices/midwest-ankeny/){: target="_blank" rel="noopener"}. We hope to hear from you soon!
