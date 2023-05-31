@@ -3,7 +3,7 @@ layout: post
 title: >-
   Chuck Simmons of Motto Mortgage Midwest Shares Insider Insights on
   Pre-Approvals
-date:
+date: 2023-05-31 10:00:00
 tags:
 excerpt: Everything homebuyers need to know about pre-approvals and credit checks.
 enclosure:
