@@ -13,10 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-blog.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 How much do you know about the power of investing in real estate? The truth is that this avenue can be very lucrative and help you build long-term wealth. However, know upfront that this type of investing is much more about the long game, and you’ll need to be patient. The sooner you start, the more you can earn.&nbsp;
 
 Over the years, people have gotten their start in real estate investing in various ways. Some people have rented out part of their homes, lived with their families a little longer, and worked extra hours to save up enough to start investing. However you make it work, know that the initial work is worth it.&nbsp;
