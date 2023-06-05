@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sarita-dua-template-yt.jpg
-youtube_code: 9SCw8S6S144
+youtube_code: W6B3YI2bARs
 ---
 {% include youtube.html %}
 
