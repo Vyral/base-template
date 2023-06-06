@@ -120,8 +120,8 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  hero_logo_path: /uploads/white-single-line-logo.png
+  logo_width_number: 80
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
