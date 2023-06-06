@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/tgloy-cover-5.png
 youtube_code:
-hidden: false
+hidden: true
 ---
 ![](/uploads/tgloy-cover-5-1.png){: width="940" height="348"}
 
