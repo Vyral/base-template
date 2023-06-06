@@ -13,7 +13,7 @@ pullquote: We can help you boost your business and overcome challenges.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/hooke-rec-yt-2.jpg
+youtube_alternate_image: /uploads/dave-hooke-ssrec-yt-3.jpg
 youtube_code: x-mkt9p5_eo
 ---
 {% include youtube.html %}
