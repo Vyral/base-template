@@ -38,4 +38,4 @@ For those feeling uncertain about buying in the current market, Tyler encourages
 
 Kill it with data. When you get the facts and data, that is the easiest way to take steps toward making a home buying decision.
 
-Connect with Tyler by visiting&nbsp;[https://www.amcmtg.com/tvanbeber/](http://thebeardedlendor.com/){: target="_blank" rel="noreferrer ugc nofollow"}
+Connect with Tyler by visiting&nbsp;[https://www.amcmtg.com/tvanbeber/](http://thebeardedlendor.com/){: target="_blank"}
