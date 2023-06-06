@@ -1,60 +1,67 @@
 audit_header: false
-title: 'The Dave Hooke Team Coaching'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: The Dave Hooke Team Coaching
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Join The Team
-    url: '/join-our-team'
+    url: /join-our-team
 client:
   name: Dave Hooke
   license_number:
   about_markdown: >-
-    As a partner of Keller Williams of Central PA, he has a personal interest in the continuation of the reputable
-    family name. Also, he is the team leader of The Dave Hooke Team and has
-    consistently been in the top 1% as a top producing real estate agent in the Carlisle Area Community year after year.
+    As a partner of Keller Williams of Central PA, he has a personal interest in
+    the continuation of the reputable family name. Also, he is the team leader
+    of The Dave Hooke Team and has consistently been in the top 1% as a top
+    producing real estate agent in the Carlisle Area Community year after year.
 
 
-    Dave is a member of The Meeting House Church, enjoys outdoor
-    activities, reading, playing soccer, and things related to ‘Community’. A fun
-    fact about Dave is that when he talks on the phone, he can’t sit down and he
-    is always pacing around the office! : ) Dave enjoys living here in Carlisle with his wife, sons and family.
+    Dave is a member of The Meeting House Church, enjoys outdoor activities,
+    reading, playing soccer, and things related to ‘Community’. A fun fact about
+    Dave is that when he talks on the phone, he can’t sit down and he is always
+    pacing around the office! : ) Dave enjoys living here in Carlisle with his
+    wife, sons and family.
   market: Central PA
   brand: The Dave Hooke Team LLC
-  brokerage: 'Keller Williams of Central PA'
-  address: '977 Walnut Bottom Road<br>Carlisle, PA 17015'
+  brokerage: Keller Williams of Central PA
+  address: 977 Walnut Bottom Road<br>Carlisle, PA 17015
   phone: 717-216-0860
   phone_type: Direct
   phone2: 717-249-1844
   phone2_type: Brokerage
-  email: Dave@DaveHookeTeam.com
-  url: 'http://Viewcentralpahouses.com'
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809314';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  email: Support@DaveHookeTeam.com
+  url: http://Viewcentralpahouses.com
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809314';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Request a Free Strategy Session
-  first_CTA_URL: '/contact/'
+  first_CTA_URL: /contact/
   second_CTA_text:
   second_CTA_URL:
-
 sidebar_CTA:
-  - CTA_image_path: 'https://lh5.googleusercontent.com/proxy/V9aLZKkQrMp5XTS9sOr7LymNyck_AVJ_gvu_tGfKBwwkf1pwq6YGvfaWCfpFqZ2gU3s=s0-d'
+  - CTA_image_path: >-
+      https://lh5.googleusercontent.com/proxy/V9aLZKkQrMp5XTS9sOr7LymNyck_AVJ_gvu_tGfKBwwkf1pwq6YGvfaWCfpFqZ2gU3s=s0-d
     CTA_title: Looking to Build Your Real Estate Career?
-    CTA_text: "Let's talk about how The Dave Hooke Team can take your business to new heights."
+    CTA_text: >-
+      Let's talk about how The Dave Hooke Team can take your business to new
+      heights.
     CTA_link_text: Request a Free Strategy Session
-    CTA_url: '/contact/'
+    CTA_url: /contact/
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
-
+  url: http://eyegoop.com
 lawyer:
   name: James D. Hughes, Esq.
   title: Senior Shareholder
@@ -64,7 +71,6 @@ lawyer:
   email: jhughes@salzmannhughes.com
   url: http://salzmannhughes.com
   logo_path: /img/hughes.png
-
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
@@ -79,33 +85,46 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/DaveHookeRealtor/'
-  linkedin_url: 'https://www.linkedin.com/in/davehooke'
-  gplus_url: 
-  youtube_url: 'https://www.youtube.com/channel/UCMYs4mvNX9Exmy3OnG9Tt7Q'
-  twitter_url: 'https://twitter.com/davehooke'
+  facebook_url: https://www.facebook.com/DaveHookeRealtor/
+  linkedin_url: https://www.linkedin.com/in/davehooke
+  gplus_url:
+  youtube_url: https://www.youtube.com/channel/UCMYs4mvNX9Exmy3OnG9Tt7Q
+  twitter_url: https://twitter.com/davehooke
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/The-Dave-Hooke-Team/'
-  trulia_url: 'http://www.trulia.com/profile/the-dave-hooke-team-agent-carlisle-pa-zgpq697x/overview'
+  zillow_url: http://www.zillow.com/profile/The-Dave-Hooke-Team/
+  trulia_url: >-
+    http://www.trulia.com/profile/the-dave-hooke-team-agent-carlisle-pa-zgpq697x/overview
   yelp_url:
-  podcast_url: 'https://itunes.apple.com/us/podcast/central-pa-real-estate-career-podcast-with-dave-hooke/id1256717687?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/central-pa-real-estate-career-podcast-with-dave-hooke/id1256717687?mt=2
 podcast:
   title: Central PA Real Estate Career Podcast with Dave Hooke
   categories:
     - Education
-  image: 'http://i.imgur.com/EQG8hR1.jpg'
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  image: http://i.imgur.com/EQG8hR1.jpg
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
-  client_headshot_path: '/img/headshot.png'
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
-  hero_logo_path-2: 
-  hero_logo_path-3: 
-  hero_logo_path-4: 
-  hero_logo_path-5: 
+  hero_logo_path-2:
+  hero_logo_path-3:
+  hero_logo_path-4:
+  hero_logo_path-5:
   hero_logo_path_sponsors: /img/sponsors.png
   hero_logo_path_sponsors2: /img/sponsors2.png
   hero_logo_path_sponsors3: /img/sponsors3.png
@@ -124,7 +143,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 1)'
+  shadow_color: rgba(0, 0, 0, 1)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -133,5 +152,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#00573d'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
