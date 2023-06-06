@@ -16,6 +16,8 @@ youtube_alternate_image: /uploads/tgloy-cover-5.png
 youtube_code:
 hidden: false
 ---
+![](/uploads/tgloy-cover-5-1.png){: width="940" height="348"}
+
 We are turnin' up the volume and celebrating the AMAZING Dads in our lives!
 
 The Wolek Group is excited to present our awesome Father's Day Giveaway prize –Turtle Box Gen 2 Speaker and Marshall Brewery Gift Card
