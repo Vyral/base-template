@@ -24,6 +24,6 @@ You could win a Turtle Box Gen 2 Speaker and$50 Marshall Brewery Gift Card
 
 Enter for a Chance to Win, it’s easy! Just like our post and complete the Google Form!&nbsp;
 
-![](/uploads/april-twg-email-newsletter-1.gif){: width="793" height="268"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/april-twg-email-newsletter.png){: width="441" height="86"}](https://bit.ly/fathersdaygiveaway2023)
 
 **We will announce the winner on our [Facebook page](https://www.facebook.com/tulsaokrealestate) on Friday, June 16th!**
