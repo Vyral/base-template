@@ -12,8 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: ''
-youtube_code: 0ZxJuzkZKSA
+youtube_alternate_image: /uploads/tgloy-cover-5.png
+youtube_code:
 hidden: false
 ---
 We are turnin' up the volume and celebrating the AMAZING Dads in our lives!
