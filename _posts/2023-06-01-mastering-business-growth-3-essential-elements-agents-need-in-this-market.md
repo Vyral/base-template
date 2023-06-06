@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dave-hooke-ssrec-yt-3.jpg
-youtube_code: x-mkt9p5_eo
+youtube_code: jE6vnXKEYuA
 ---
 {% include youtube.html %}
 
