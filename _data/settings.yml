@@ -126,6 +126,8 @@ images:
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
+  navigation_logo_path: /uploads/black-multi-line-logo.png
+  navigation_logo_height: 75
 site_colors:
   brand_color: '#05C3F9'
   theme_color: '#323232'

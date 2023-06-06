@@ -1,57 +1,55 @@
 .hero-img
-	background-position: center
-	background-size: cover
-	padding-top: $nav-height + 5rem
+    background-position: center
+    background-size: cover
+    padding-top: 13rem
 #hero
-	background-position: center
-	background-size: cover
-	background-attachment: fixed
-	background-repeat: no-repeat
-	text-align: center
+    background-position: center
+    background-size: cover
+    background-attachment: fixed
+    background-repeat: no-repeat
+    text-align: center
 
 .site-logo
-	width: 90%
-	max-width: $logo-width
-	@include filter(drop-shadow($header-shadow))
+    width: 90%
+    max-width: $logo-width
+    @include filter(drop-shadow($header-shadow))
 
 .site-title
-	color: $header-font-color
-	text-shadow: $header-shadow
-	text-transform: uppercase
-	font-size: 6.5rem
-	padding-bottom: 4rem
-	margin-bottom: 0
-	font-weight: 400
+    color: $header-font-color
+    text-shadow: $header-shadow
+    text-transform: uppercase
+    font-size: 6.5rem
+    padding-bottom: 4rem
+    margin-bottom: 0
+    font-weight: 400
 
 @media (max-width: 1100px)
-	.site-title
-		font-size: 5rem
+    .site-title
+        font-size: 5rem
 
 @media (max-width: 1000px)
-	.site-logo
-		max-width: 20rem
+    .site-logo
+        max-width: 60rem
+
+@media (max-width: 768px)
+    .hero-img
+        padding-top: 10rem
 
 @media (max-width: 760px)
-	#hero
-		// height: 33rem
-	.site-logo
-		max-width: 20rem
-		margin-top: 4rem
-	.site-title
-		font-size: 5rem
+    .site-logo
+        max-width: 50rem
+        margin-top: 4rem
+    .site-title
+        font-size: 5rem
 
 @media (max-width: 600px)
-	#hero
-		// height: 31rem
-	.site-logo
-		max-width: 15rem
-		margin-top: 2rem
-	.site-title
-		font-size: 3.5rem
-	.cta
-		padding: 1rem
+    .site-logo
+        max-width: 45rem
+        margin-top: 2rem
+    .site-title
+        font-size: 3.5rem
+    .cta
+        padding: 1rem
 @media (max-width: 400px)
-	#hero
-		// height: 25rem
-	.cta
-		padding: 0.5rem
+    .cta
+        padding: 0.5rem
