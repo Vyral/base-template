@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tulsa Looks Good on You and Tyler VanBeber with AMC Mortgage
-date: 2023-06-02 08:00:00
+date: 2023-06-12 08:00:00
 tags:
   - Tulsa
   - Oklahoma
