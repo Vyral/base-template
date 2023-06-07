@@ -30,4 +30,4 @@ With one of the best patios in Tulsa, Shuffles offers a variety of seating optio
 
 With a variety of classic and modern games, Shuffles is sure to appeal to all ages and interests. And if that wasn’t enough, Shuffles offers a space for private events as well as a summer camp geared to kids ages 9-15.
 
-To plan your next visit, check out&nbsp;[https://shufflestulsa.com/](https://shufflestulsa.com/){: target="_blank" rel="noreferrer ugc nofollow"}
+To plan your next visit, check out&nbsp;[https://shufflestulsa.com/](https://shufflestulsa.com/){: target="_blank"}
