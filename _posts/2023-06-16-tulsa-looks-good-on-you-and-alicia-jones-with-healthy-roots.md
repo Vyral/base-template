@@ -7,8 +7,9 @@ tags:
   - Oklahoma
   - business spotlight
 excerpt: >-
-  Jennie sat down with Tyler to talk the ups and downs, ins and outs, and all
-  the lessons learned with the changing market, over the years.
+  Jennie connected with Alicia Jones, owner of Healthy Roots to hear all about
+  her yummy elixir and how a tablespoon a day just might help to keep the doctor
+  away!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
