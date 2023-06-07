@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Essential Steps to Making an Offer | Tulsa Real Estate
-date: 2023-06-14 08:00:00
+date: 2023-06-19 08:00:00
 tags:
   - Tulsa
   - Oklahoma
