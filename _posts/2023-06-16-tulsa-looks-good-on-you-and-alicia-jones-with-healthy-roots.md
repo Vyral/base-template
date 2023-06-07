@@ -27,7 +27,7 @@ Alicia started her business during the heart of Covid after being laid off from 
 
 Fed up with taking 7 medications daily, Alicia decided to play with recipes and research the benefits of elderberry elixir to try to make the healthiest version for her and her family to consume.
 
-After a year of working on her recipe, she finally landed on the perfect version and started &nbsp;consuming it daily. Three months later ,Alicia found herself not needing those 7 medications anymore and now, 3 years later she is still going strong supporting her health with her elderberry elixir.
+After a year of working on her recipe, she finally landed on the perfect version and started &nbsp;consuming it daily. Three months later, Alicia found herself not needing those 7 medications anymore and now, 3 years later she is still going strong supporting her health with her elderberry elixir.
 
 Motivated by the stories from her clients, Alicia doesn’t plan on slowing down anytime soon.
 
