@@ -21,6 +21,8 @@ hidden: true
 ---
 {% include youtube.html %}
 
+Tulsa Looks Good on You and Alicia Jones with Healthy Roots.
+
 Jennie connected with Alicia Jones, owner of Healthy Roots to hear all about her yummy elixir and how a tablespoon a day just might help to keep the doctor away!
 
 Alicia started her business during the heart of Covid after being laid off from her job.
@@ -43,6 +45,6 @@ You can pick up a bottle at one of the following stores:
 
 👉 Hotworx in Owasso
 
-👉 Owasso Farmers Market every Saturday
+???? Owasso Farmers Market every Saturday
 
 Be sure to follow Healthy Roots on all social platforms for the latest @HealthyRoots918 or shop the website at , https://www.healthyroots918.com/
