@@ -43,6 +43,6 @@ You can pick up a bottle at one of the following stores:
 
 👉 Hotworx in Owasso
 
-???? Owasso Farmers Market every Saturday
+👉 Owasso Farmers Market every Saturday
 
 Be sure to follow Healthy Roots on all social platforms for the latest @HealthyRoots918 or shop the website at , https://www.healthyroots918.com/
