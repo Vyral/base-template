@@ -49,4 +49,4 @@ Figure out what you can afford…including a budget for closing costs.
 
 Get prequalified for a mortgage
 
-Contact [The Wolek Group](www.thewolekgroup.com) and let’s start house hunting!
+Contact [The Wolek Group]() and let’s start house hunting!
