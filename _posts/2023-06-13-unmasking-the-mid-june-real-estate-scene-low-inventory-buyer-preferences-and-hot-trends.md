@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/chad-sara-huebener-yt-12.jpg
-youtube_code: TWncYya9-cU
+youtube_code: ZuP3EZd-Zog
 ---
 {% include youtube.html %}
 
