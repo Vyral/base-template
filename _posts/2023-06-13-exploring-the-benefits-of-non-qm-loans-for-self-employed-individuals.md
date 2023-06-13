@@ -14,8 +14,6 @@ youtube_code: AOBdtInPRrE
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Today, I’m here to discuss the concept of non-QM loans, a term that you may have come across in recent years. It's important to understand the details and consider whether you could benefit from this type of loan. Non-QM loans are designed for individuals with irregular income patterns, typically self-employed individuals, commission earners, or business owners who prefer not to disclose high income.
 
 These loans do not conform to the standards set by the U.S. government, Fannie Mae, or Freddie Mac. Therefore, they provide greater flexibility. Non-QM loans are typically backed by investment firms, large insurance companies, and other private entities.&nbsp;
