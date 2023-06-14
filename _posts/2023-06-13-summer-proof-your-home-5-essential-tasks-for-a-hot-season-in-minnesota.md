@@ -17,13 +17,13 @@ youtube_code: G0hpFIpCcoE
 
 {% include excerpt.html %}
 
-[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
+[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank"}
 
 Before you hit the lake and enjoy the summer in Minnesota, here are five essential tasks you need to do to prepare your home for the hot weather:
 
 **1\. Clean out your gutters and downspouts**. This ensures that the downspouts extend at least ten feet away from your house to prevent water damage.
 
-**2\. Check your foundation.** Seal ** ** any cracks. Make sure the earth around your home slopes away from your property. Correct any issues promptly to avoid water seepage into your basement.
+**2\. Check your foundation.** Seal any cracks. Make sure the earth around your home slopes away from your property. Correct any issues promptly to avoid water seepage into your basement.
 
 {% include pullquote.html %}
 
