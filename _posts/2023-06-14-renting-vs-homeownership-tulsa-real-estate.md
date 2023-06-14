@@ -16,25 +16,15 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
 youtube_code: w7ne7RGDy-I
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
-
-
-
-
 As we continue to celebrate \#NationalHomeownershipMonth let’s talk about Renting vs. Homeownership.
-
-
 
 That no strings attached lifestyle that comes with renting means you can switch up your living arrangement or maybe even cities without having to worry about managing a property or paying a mortgage.
 
-
-
 One of the negatives to renting long-term is you don’t have a home of your own at the end of the lease. That monthly chunk of cash you are paying toward rent each month is helping someone else build out a long term investment.
-
-
 
 So….What exactly is the value of owning a home?
 
