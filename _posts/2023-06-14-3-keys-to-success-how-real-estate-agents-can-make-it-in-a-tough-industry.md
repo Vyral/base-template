@@ -25,7 +25,7 @@ What are the three essential elements for a successful real estate career as a n
 
 **2\. Lead generation.** Once you've mastered effective communication techniques, it's time to apply those skills to connect with potential clients. Fortunately, many lead sources are readily available, and learning where to find them is essential.
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 **3\. Accountability and coaching.** Consistency is the key to success in any sales-oriented industry, and surrounding yourself with the right people who can support and guide you is invaluable.
 
