@@ -21,7 +21,7 @@ youtube_code: pYTadvEokuA
 
 What are the three essential elements for a successful real estate career as a new agent? If you're an enthusiastic new agent who's eager to kick-start your real estate journey but unsure of where to begin, here are the three key business components you need:
 
-**1\. Comprehensive training.** Training is essential, but not all training programs are created equal. Look for a brokerage that offers a personalized mentorship program with dedicated mentors who are incentivized to guide you towards success.
+**1\. Comprehensive training.** Training is essential, but not all training programs are created equal. Look for a brokerage that offers a personalized mentorship program with dedicated mentors who are incentivized to guide you toward success.
 
 **2\. Lead generation.** Once you've mastered effective communication techniques, it's time to apply those skills to connect with potential clients. Fortunately, many lead sources are readily available, and learning where to find them is essential.
 
