@@ -22,7 +22,7 @@ hidden: true
 
 Clients and friends like you make our days ***sparkle!*** Wishing you a happy and safe 4th of July!
 
-Here are some of the upcoming Fourth of July 2023 events in Tulsa, Oklahoma:
+Here are some of the Fourth of July 2023 events in Tulsa, Oklahoma:
 
 * [**Fantasy in the Sky**](http://www.cityofskiatook.com/167/Annual-Events)is a yearly Fourth of July fireworks celebration, proudly sponsored by the City of Skiatook and local businesses. This spectacular event typically takes place on or around the July 4th holiday.
 * [**Folds of Honor Freedomfest**](http://freedomfesttulsa.com/) - Join 80,000 spectators at the Folds of Honor FreedomFest presented by QuikTrip Corporation. Watch the incredible fireworks from Dream Keepers Park, River West Festival Park, or along the Arkansas River. Tune in to KRMG for the synchronized musical score. Can't make it? Watch the Fireworks Grand Finale on KTUL Tulsa's News Channel 8 at 10 p.m.
