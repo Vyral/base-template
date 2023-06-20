@@ -15,13 +15,13 @@ youtube_code: iv4yi97qh6E
 ---
 We can’t tell you how many families we speak to, mainly “younger folk”, that desperately want to break up with their Landlord and enter the realm of home ownership! The “American Dream” is still alive and well despite higher home prices and mortgage interest rates. Why? Many reasons.&nbsp;
 
-5\. Homeowners in American have, on average, a 46x higher net work than renters. Wow.&nbsp;
+1\. Homeowners in American have, on average, a 46x higher net work than renters. Wow.&nbsp;
 
-6\. Home ownership provides a slew of tax advantages that renting does not.&nbsp;
+2\. Home ownership provides a slew of tax advantages that renting does not.&nbsp;
 
-7\. When renting a home, you do get to live there! So there’s that :). But you are building your *Landlord’s* retirement nest egg, not your own!
+3\. When renting a home, you do get to live there! So there’s that :). But you are building your *Landlord’s* retirement nest egg, not your own!
 
-8\. Finally, home ownership provides endless “unquantifiable” benefits like the freedom to do what you want, when you want, to the property, pride of ownership, and your your monthly payment costs are locked in for the life of your loan!
+4\. Finally, home ownership provides endless “unquantifiable” benefits like the freedom to do what you want, when you want, to the property, pride of ownership, and your your monthly payment costs are locked in for the life of your loan!
 
 Which is why I’m proud to announce our “[**Your First Home**](https://www.youtube.com/watch?v=iv4yi97qh6E)” workshop series hosted at our ridiculously cool “Legacy Corner” headquarters, formerly the Cameo Florist building.&nbsp;
 
