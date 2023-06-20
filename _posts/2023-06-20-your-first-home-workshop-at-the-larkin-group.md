@@ -33,4 +33,4 @@ Check out the video for further details, a funny story about my first rental aft
 
 Be sure to share this email or the video with anyone in your world who would like to own a home. The events are FREE, fun, and include a copy of the best-selling book "[**Your First Home.**](https://t.e2ma.net/click/sm3gdf/8mu2l3zb/k8i11i){: target="_blank"}"
 
-[![](/uploads/rsvp-here.png){: width="300" height="150"}](https://tinyurl.com/firsthomeworkshop){: target="_blank" rel="noopener"}
+[![](/uploads/s.png){: width="300" height="85"}](https://tinyurl.com/firsthomeworkshop){: target="_blank" rel="noopener"}
