@@ -17,7 +17,7 @@ I can't tell you how many families we speak to (mainly "younger folk") who&nbsp;
 
 The "American Dream" is still alive and well despite higher home prices and mortgage interest rates. Why? Many reasons.&nbsp;
 
-1\. Homeowners in America have, on average, a 46x higher net worth than renters (wow!)
+1\. Homeowners in America have, on average, a 46x higher net worth than renters (wow!).
 
 2\. Homeownership provides a slew of tax advantages that renting does not.
 
