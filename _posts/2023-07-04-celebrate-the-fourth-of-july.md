@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/4th-of-july-banner.png
 youtube_code:
 hidden: true
 ---
-![](/uploads/4th-of-july-banner-1.png){: width="2160" height="1080"}
+![](/uploads/4th-of-july-banner.gif){: width="648" height="324"}
 
 Clients and friends like you make our days ***sparkle!*** Wishing you a happy and safe 4th of July!
 
@@ -31,7 +31,5 @@ Here are some of the upcoming Fourth of July 2023 events in Tulsa, Oklahoma:
 * [**Fleet Feet Firecracker**](https://runsignup.com/Race/OK/Tulsa/FleetFeetFirecracker) 21st Annual Firecracker 5K and Fun Run—a Tulsa tradition! It's the city's largest summer 5K and a great way to celebrate the 4th of July. Enjoy an exciting downtown course, followed by a lively after-party with music, food, and beer (21+). Special pricing for ages 18 and under. Don't miss out on the 4 Seasons Challenge, a year-long series of races with discounts, medals, and a series shirt. Sign up today!
 * [**Red, White, and Boom**](https://cityofowasso.com/608/Independence-Day---Red-White-and-BOOM) on July 4th from 9:30pm to 10pm. The fireworks display will take place at the Owasso Golf and Athletic Club, located south of 86th and 129th streets. This strategic location allows the fireworks to be seen from numerous spots across the city, ensuring that everyone can enjoy the breathtaking spectacle.
 * [**Buy Fireworks at The Castle of Muskogee**](https://okcastle.com/fireworks/) - Explore Oklahoma's only 37,000 sq. ft. Fireworks Retail Showroom at The Castle of Muskogee! Inside the Castle's Great Hall, find an array of pyrotechnics for your Independence Day celebration. Experience a one-of-a-kind shopping experience committed to fulfilling your family's fireworks needs.
-
-
 
 Mark your calendars and get ready for a memorable Fourth of July celebration in Tulsa! 🎆🎉 Don't miss out on these fantastic events.
