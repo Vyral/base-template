@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/4th-of-july-banner.png
 youtube_code:
 hidden: true
 ---
-![](/uploads/4th-of-july-banner.gif){: width="648" height="324"}
+![](/uploads/4th-of-july-banner.jpg){: width="1080" height="540"}
 
 Clients and friends like you make our days ***sparkle!*** Wishing you a happy and safe 4th of July!
 
