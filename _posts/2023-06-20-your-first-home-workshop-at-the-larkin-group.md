@@ -13,20 +13,22 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: iv4yi97qh6E
 ---
-We can’t tell you how many families we speak to, mainly “younger folk”, that desperately want to break up with their Landlord and enter the realm of home ownership! The “American Dream” is still alive and well despite higher home prices and mortgage interest rates. Why? Many reasons.&nbsp;
+I can't tell you how many families we speak to (mainly "younger folk") who&nbsp;*desperately&nbsp;*want to break up with their Landlord and enter the realm of homeownership!
 
-1\. Homeowners in American have, on average, a 46x higher net work than renters. Wow.&nbsp;
+The "American Dream" is still alive and well despite higher home prices and mortgage interest rates. Why? Many reasons.&nbsp;
 
-2\. Home ownership provides a slew of tax advantages that renting does not.&nbsp;
+1\. Homeowners in America have, on average, a 46x higher net worth than renters (wow!)
 
-3\. When renting a home, you do get to live there! So there’s that :). But you are building your *Landlord’s* retirement nest egg, not your own!
+2\. Homeownership provides a slew of tax advantages that renting does not.
 
-4\. Finally, home ownership provides endless “unquantifiable” benefits like the freedom to do what you want, when you want, to the property, pride of ownership, and your your monthly payment costs are locked in for the life of your loan!
+3\. When renting a home, you do get to live there! So there's that :) But you're building your&nbsp;*Landlord's&nbsp;*retirement nest egg, not your own!
 
-Which is why I’m proud to announce our “[**Your First Home**](https://www.youtube.com/watch?v=iv4yi97qh6E)” workshop series hosted at our ridiculously cool “Legacy Corner” headquarters, formerly the Cameo Florist building.&nbsp;
+4\. Finally, homeownership provides endless "unquantifiable" benefits like the freedom to do whatever you want to the property (*whenever&nbsp;*you want), pride of ownership, and locked-in monthly payment costs for the life of your loan!
 
-Check out the video for further details, a funny story about my first rental after getting married, and dates for our next event.
+This is why I'm proud to announce The Larkin Group's&nbsp;**"**[**Your First Home**](https://t.e2ma.net/click/sm3gdf/8mu2l3zb/onh11i){: target="_blank"}**"**&nbsp;workshop series hosted at our ridiculously cool&nbsp;*Legacy Corner*&nbsp;headquarters at 695 E Tabernacle Street (formerly the Cameo Florist building.)
+
+Check out the video for further details, a funny story about my first rental after getting married, and dates for our next event being held&nbsp;**THIS WEEK!**
 
 {% include youtube.html %}
 
-Be sure to share this link with anyone in your world who would like to own a home. The events are FREE, fun, and include a copy of the best selling book “[**Your First Home**](https://www.amazon.com/Your-First-Home-Proven-Homeownership/dp/1885167938/ref=sr_1_1?crid=17WRFMEKK6MP8&amp;keywords=your+first+home&amp;qid=1687202966&amp;sprefix=your+first+home%2Caps%2C144&amp;sr=8-1).”
+Be sure to share this email or the video with anyone in your world who would like to own a home. The events are FREE, fun, and include a copy of the best-selling book "[**Your First Home.**](https://t.e2ma.net/click/sm3gdf/8mu2l3zb/k8i11i){: target="_blank"}"
