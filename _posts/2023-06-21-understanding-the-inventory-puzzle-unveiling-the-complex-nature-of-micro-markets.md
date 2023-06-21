@@ -22,9 +22,9 @@ youtube_code: nb23XHiBrDY
 
 {% include excerpt.html %}
 
-Today, I’m here to address this question: Is inventory still low? A lot of people have been asking me this question lately, so I’m here to say that yes, general inventory is still very low. However, inventory can be high in some places because of micro markets.&nbsp;
+Today, I’m here to address this question: Is inventory still low? A lot of people have been asking me this question lately, so I’m here to say that, yes, general inventory is still very low. However, inventory can be high in some places because of micro markets.&nbsp;
 
-A micro market could be a condo complex, a neighborhood, a city, a zip code, or even a school district. The concept includes any area that people might be looking to buy. Sometimes the inventory is up in a micro market and sometimes it’s down. In addition to that, **overall demand has decreased.**
+A micro market could be a condo complex, a neighborhood, a city, a zip code, or even a school district. The concept includes any area that people might be looking to buy. Sometimes the inventory is up in a micro market, and sometimes it’s down. In addition to that, **overall demand has decreased.**
 
 **{% include pullquote.html %}**
 
@@ -32,4 +32,4 @@ To show you this concept, know that I currently have one client who doesn’t ha
 
 Therefore, when people ask whether or not inventory is down, know that the answer is complex. Historically, inventory levels are low. However, the key is that **every property is different.** The micro market a home is in will determine whether the inventory is high or low.&nbsp;
 
-If you have any questions about your micro market or real estate in general, don’t hesitate to reach out. You can call or email me anytime and I would be happy to help you.
+If you have any questions about your micro market or real estate in general, don’t hesitate to reach out. You can call or email me anytime, and I would be happy to help you.
