@@ -15,10 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/dustin-sherlin-yt-10.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Do you already own a home but want to buy a new one? Unfortunately, not everyone has the money to keep two homes and pay both mortgages. Most people will have to sell their current property to have the funds to pay for the new house. However, two transactions can sometimes mean double the headache. If you're in this position, what can you do to ensure a successful home purchase?
 
 One option that you have is to **include a home-sale contingency clause in your offer.** This means you will only buy the new home if your current one sells. If it doesn’t, you are free to walk out of the purchase agreement. However, home-sale contingencies can make your offer less attractive to sellers because it introduces uncertainty, may cause delays, and has the potential to make the deal fall through.&nbsp;
