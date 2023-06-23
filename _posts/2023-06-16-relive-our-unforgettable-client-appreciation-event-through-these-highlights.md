@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Relive Our Unforgettable Client Appreciation Event Through These Highlights
+title: >-
+  Thank You for Coming to The Colemere Realty Carnival. Check Out Some of the
+  Unforgettable Highlights!
 date: 2023-06-16 07:00:00
 tags:
   - Miscellaneous
