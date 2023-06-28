@@ -18,7 +18,7 @@ youtube_code: gqvVqknOzaU
 
 {% include excerpt.html %}
 
-[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
+[![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank"}
 
 Are you thinking about selling your home in the next two to three years? If so, we have something of value for you today. One of the best times to sell your home in the Twin Cities area is during the spring market, which starts in the middle of February and runs through early June. The challenge with this is that your yard and outdoor spaces might not look so great during that time of year.&nbsp;
 
