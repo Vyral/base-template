@@ -28,5 +28,5 @@ permalink: /join-our-team/
 							<script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>"&gt; <input name="_subject" type="hidden" value="Recruiting Contact Request Message From Your Vyral Video Blog" /> <input name="_gotcha" type="text" /></div>
 					</form>
 
-&lt;/div&gt;
+</div>
 </button></p></fieldset></form>
