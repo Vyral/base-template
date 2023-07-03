@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/4th-of-july-banner.png
 youtube_code:
-hidden: true
+hidden: false
 ---
 ![](/uploads/4th-of-july-banner.jpg){: width="1080" height="540"}
 
