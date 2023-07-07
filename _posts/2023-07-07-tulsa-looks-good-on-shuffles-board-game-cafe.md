@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
 youtube_code: q78Dic4OgJ0
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
