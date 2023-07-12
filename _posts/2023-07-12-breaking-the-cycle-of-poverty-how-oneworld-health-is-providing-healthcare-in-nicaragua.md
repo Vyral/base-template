@@ -20,7 +20,7 @@ youtube_code: H2JrjKmZ0QI
 
 {% include excerpt.html %}
 
-Did you know that **for every closing we oversee, we provide health care to 30 people** that are in need in underprivileged areas? We partner with OneWorld Health to support the healthcare needs of people in Uganda and Nicaragua. My family and I just returned from a mission trip to Nicaragua where we had a wonderful time working with OneWorld Health and a team of local Nicaraguan doctors and nurses to provide medical care.
+Did you know that **for every closing we oversee, we provide health care to 30 people** that are in need in underprivileged areas? We partner with OneWorld Health to support the healthcare needs of people in Uganda and Nicaragua. My family and I just returned from a mission trip to Nicaragua, where we had a wonderful time working with OneWorld Health and a team of local Nicaraguan doctors and nurses to provide medical care.
 
 {% include pullquote.html %}
 
