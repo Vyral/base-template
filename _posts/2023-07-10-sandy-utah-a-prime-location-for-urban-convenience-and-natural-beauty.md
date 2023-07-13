@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sandy, Utah: A Prime Location for Urban Convenience and Natural Beauty'
+title: The Top 5 Reasons To Move to Sandy
 date: 2023-07-10 07:00:00
 tags:
   - Miscellaneous
