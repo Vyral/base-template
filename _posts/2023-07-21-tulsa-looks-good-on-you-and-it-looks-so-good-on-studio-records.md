@@ -7,8 +7,8 @@ tags:
   - Oklahoma
   - business spotlight
 excerpt: >-
-  Jennie connected with Chantelle Lott to hear about what makes 5th & Fab
-  Fashion Hub just so fabulous.
+  Vinyl is BACK so Jennie connected with owner, Mike Nobles to hear about what
+  Studio Records is all about!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
