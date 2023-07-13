@@ -28,7 +28,7 @@ Today, we’re sharing the top five reasons why Sandy, Utah, is an ideal place t
 
 **3\. Home of Real Salt Lake.** Soccer enthusiasts will be thrilled to learn that Sandy is the proud home of the Real Salt Lake soccer team. Supporting a professional sports team right in your backyard adds a touch of excitement and pride to daily life. Attending games and cheering alongside fellow fans is an experience that truly embodies the spirit of Sandy.
 
-{% include pullquote.html %}
+{% include pullquote.html %}&nbsp;
 
 **4\. Shopping paradise.** Whether you have a passion for big-chain stores or prefer unique boutique shops, Sandy has it all. The city is teeming with a variety of malls, offering a wide range of shopping opportunities. From well-known retail brands to charming local boutiques, there is something to suit every taste and style. If you're a shopaholic, Sandy will undoubtedly be your paradise.
 
