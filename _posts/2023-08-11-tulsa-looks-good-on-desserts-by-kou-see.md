@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/asian-1.png
 youtube_code: JcTpuynv98Y
-hidden: false
+hidden: true
 ---
 {% include youtube.html %}
 
