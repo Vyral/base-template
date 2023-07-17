@@ -13,11 +13,9 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/league-spartan-1.png
+youtube_alternate_image: /uploads/league-spartan-1-1.png
 youtube_code:
 ---
-![](/uploads/league-spartan-1.png){: width="6000" height="3362"}
-
 {% include excerpt.html %}
 
 One way for homebuyers to find a great deal on a property is by purchasing a foreclosed home. This is a home that has been repossessed by the bank or a lender after the owner failed to make mortgage payments. According to real estate data curator ATTOM, although still below pandemic levels, the number of foreclosed homes has increased from February 2022 to February 2023, so now is a great time to consider this option.&nbsp;
