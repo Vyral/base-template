@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Understanding the Market: Insights on Sales, Inventory, and Trends in Flathead
-  Lake
+title: Waterfront and Housing report for Q2 2023
 date: 2023-07-19 00:00:00
 tags:
   - Market Update
