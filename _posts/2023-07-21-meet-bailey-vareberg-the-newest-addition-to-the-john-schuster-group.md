@@ -17,7 +17,7 @@ youtube_code: AWwYtckFCWs
 
 {% include excerpt.html %}
 
-**Today we're excited to introduce to you our newest agent: Bailey Vareberg.** He’s from North Dakota and has recently joined the John Schuster group. With a strong affinity for working with people and homes, Bailey is eager to advance his career in this new role.&nbsp;
+**Today we're excited to introduce you to our newest agent: Bailey Vareberg.** He’s from North Dakota and has recently joined the John Schuster group. With a strong affinity for working with people and homes, Bailey is eager to advance his career in this new role.&nbsp;
 
 His passion lies in engaging in physical activities, such as sports, hiking, biking, and any other competitive endeavors. In addition, Bailey possesses a deep love for homes, people, and food. His enthusiasm for physical activity traces back to their early years when their father introduced them to skating at the tender age of two. Although initially not fond of it, Bailey eventually developed a deep affection for the sport, making it his favorite pastime. To this day, he continues to play whenever possible.
 
