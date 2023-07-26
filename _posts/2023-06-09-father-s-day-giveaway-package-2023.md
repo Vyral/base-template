@@ -11,8 +11,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/tgloy-cover-5.png
+use_youtube_image: false
+youtube_alternate_image: /uploads/png-20230726-234353-0000.png
 youtube_code:
 hidden: false
 ---
