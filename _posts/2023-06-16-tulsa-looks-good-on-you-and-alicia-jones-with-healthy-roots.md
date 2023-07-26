@@ -14,8 +14,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: ''
+use_youtube_image: false
+youtube_alternate_image: /uploads/png-20230726-232950-0000.png
 youtube_code: 8R5T-4_d7co
 hidden: false
 ---
