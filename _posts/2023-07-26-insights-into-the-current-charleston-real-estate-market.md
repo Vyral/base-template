@@ -18,8 +18,6 @@ youtube_code: vS0mkZtgXgs
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Today, we'll dive into the current state of the Charleston real estate market as we reach the mid-year mark of 2023. Discover the latest trends, changes, and key areas of interest that can influence your real estate decisions. Let's get started!
 
 Comparing the first half of 2023 to the same period in 2022, we have observed a decline of approximately 22% in the number of home closings. With fewer homes transacting, showings have become increasingly crucial. The most sought-after areas for showings in Charleston are West Ashley, James Island, Summerville, and North Charleston. **If you have a listing in these regions, rest assured that there is significant interest in your property.**
