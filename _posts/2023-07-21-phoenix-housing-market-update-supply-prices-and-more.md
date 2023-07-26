@@ -18,7 +18,7 @@ youtube_code: 1K23emm7pEw
 
 {% include excerpt.html %}
 
-I want to provide you with a market update for the general Phoenix area, but before that, let's discuss the national numbers. According to the National Association of Realtors, there's an expected 20% shortfall in the number of closed transactions from last year to this year, which translates to over a million fewer sales in the United States. Now, let's focus on the Phoenix market and dive into the current trends.
+I want to provide you with a market update for the general Phoenix area, but before that, let's discuss the national numbers. According to the National Association of REALTORS®, there's an expected 20% shortfall in the number of closed transactions from last year to this year, which translates to over a million fewer sales in the United States. Now, let's focus on the Phoenix market and dive into the current trends.
 
 **Comparing this month to this time last year, there was a 27% decrease in listing activity, meaning there are fewer homes on the market.** To give you some context, in March of 2022, the inventory hit a low of about 4,400 homes, with a frenzy of multiple offers driving prices significantly above market value. However, in October of 2022, the inventory saw a rise to 20,000 homes, a level not seen in many years. The market remained relatively flat between October and December, leaning towards a buyer's market in most areas of Maricopa County.
 
