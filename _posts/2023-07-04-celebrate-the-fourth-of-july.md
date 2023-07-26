@@ -13,8 +13,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/4th-of-july-banner.png
+use_youtube_image: false
+youtube_alternate_image: /uploads/20230726-231847-0000.png
 youtube_code:
 hidden: false
 ---
