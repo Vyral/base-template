@@ -9,8 +9,8 @@ enclosure:
 pullquote: Dreams are what make life exciting, and this dad's dream home is no exception.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/7-26-23yt-1.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/7-27-23yt.jpg
 youtube_code: e44CLQgdOMs
 ---
 {% include youtube.html %}
