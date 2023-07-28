@@ -1,4 +1,3 @@
----
 audit_header: false
 title: Northern Nevada Real Estate Video Blog
 description: >-
@@ -18,7 +17,7 @@ client:
   name: Richard (Rick) Canale
   license_number: REALTOR® | S.50680
   about_markdown: >-
-    Rick is an educator and coach first and a REALTOR&reg; second. He enjoys
+    Rick is an educator and coach first and a REALTOR® second. He enjoys
     educating you, whether you're a buyer or seller, dispelling the many "myths"
     of buying and selling real estate, and helping you realize the opportunity
     to fulfill your dreams. As a successful real estate investor, Rick can offer
@@ -28,10 +27,10 @@ client:
   brand: RE/MAX Gold
   brokerage:
   address: 10785 Double R Blvd.,<br>Reno, NV 89521
-  phone: (775) 790-0574
-  phone_type: Direct
-  phone2: (775) 787-3629
-  phone2_type: Office
+  phone: (775) 404-0197
+  phone_type: Direct Call/Text
+  phone2:
+  phone2_type:
   email: Rick@NorthernNevadaHouseHunters.com
   url: https://www.NorthernNevadaHouseHunters.com
 CTAs:
@@ -138,4 +137,3 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: rgba(255, 255, 255, 0)
   secondary_button_text_color: '#ffffff'
----
