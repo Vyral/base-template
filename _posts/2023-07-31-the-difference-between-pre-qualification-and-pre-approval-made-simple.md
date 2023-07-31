@@ -5,7 +5,7 @@ date: 2023-07-31 07:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: What’s the difference between pre-qualification and pre-approval?
+excerpt: Differentiating a pre-approval from a pre-qualification.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: o9RTnp3ZJ_w
 
 {% include excerpt.html %}
 
-What’s the difference between a pre-approval and pre-qualification? Today we’ll delve into the distinction between mortgage pre-qualification and mortgage pre-approval.&nbsp;
+What’s the difference between pre-approval and pre-qualification? Today we’ll delve into the distinction between mortgage pre-qualification and mortgage pre-approval.&nbsp;
 
 When you speak with your mortgage professional, they'll gather your financial information either verbally or through documentation related to your income. Based on this data, they will determine the amount you could potentially borrow to purchase a property. However, it's important to note that at this stage, nothing has been fully verified, and the pre-qualification is based solely on the information you provided.
 
