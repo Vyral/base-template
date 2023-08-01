@@ -19,7 +19,7 @@ youtube_code: lDm5AOG0Xg4
 
 {% include excerpt.html %}
 
-Today, we are thrilled to highlight another small business in our Community Spotlight series: Green Kettle Coffee! **This new business is located in the vibrant downtown area and we highly recommend it.&nbsp;**
+Today, we are thrilled to highlight another small business in our Community Spotlight series: [Green Kettle Coffee](https://www.greenkettlecoffee.com/){: target="_blank" rel="noopener"}! **This new business is located in the vibrant downtown area and we highly recommend it.&nbsp;**
 
 This coffee shop is a small, cozy place with around eight tables. It’s clean and has great coffee! We recently had the pleasure of hearing from the owner, Kristen Gilbride. She opened in this area because of the great foot traffic and parking opportunities.&nbsp;
 
