@@ -13,7 +13,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/8-3-23-yt-3.jpg
 youtube_code: w1C3A6INGMM
 ---
-[...](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}{% include youtube.html %}
+{% include youtube.html %}
 
 {% include excerpt.html %}
 
