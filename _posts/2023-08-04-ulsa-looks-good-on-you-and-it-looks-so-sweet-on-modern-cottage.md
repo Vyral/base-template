@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ulsa Looks Good on You and it looks so sweet on Modern Cottage.
+title: Tulsa Looks Good on You and it looks so sweet on Modern Cottage.
 date: 2023-08-04 00:00:00
 tags:
   - Local Spotlight
