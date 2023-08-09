@@ -11,7 +11,7 @@ pullquote: >-
   it happen.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /08-26-wolek-youtube.jpg
 youtube_code: nkxADZPclGs
 hidden: false
