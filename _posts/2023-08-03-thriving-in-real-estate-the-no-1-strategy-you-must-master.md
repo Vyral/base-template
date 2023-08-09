@@ -12,7 +12,7 @@ pullquote: The importance of lead generation cannot be overstated.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/hooke.jpg
+youtube_alternate_image: /uploads/dave-hooke-ssrec-33-1.jpg
 youtube_code: 5RlNJNXnbbE
 ---
 {% include youtube.html %}
