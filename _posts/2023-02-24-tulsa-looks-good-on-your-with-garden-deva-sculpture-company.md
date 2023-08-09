@@ -16,8 +16,8 @@ pullquote: >-
   here. We are very proud to be a part of that,” said Babcock.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/garden-deva-yt.png
+use_youtube_image: true
+youtube_alternate_image: ''
 youtube_code: HumTdEJ1YP4
 hidden: false
 ---
