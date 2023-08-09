@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tulsa looks good with Charcuteray!
+title: Tulsa looks good on Charcuteray!
 date: 2023-02-03 09:00:00
 tags:
   - Real Estate
