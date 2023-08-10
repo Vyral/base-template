@@ -28,6 +28,6 @@ To start, let's determine what's within your financial reach, as building a budg
 
 When you become a homeowner, you assume certain responsibilities. Our aim is to ensure you're fully prepared for these obligations. We'll uncover the often-overlooked costs of homeownership, including property taxes, home insurance, and maintenance expenses. Armed with this information, you'll be empowered to make informed decisions with confidence.
 
-As a first-time homebuyer, being financially savvy is crucial, and our expert Ron Sawyer team is dedicated to providing you with guidance. **We're here to offer support, address your queries, and guide you seamlessly through the entire home-buying process.**
+As a first-time homebuyer, being financially savvy is crucial, and our expert team is dedicated to providing you with guidance. **We're here to offer support, address your queries, and guide you seamlessly through the entire home-buying process.**
 
-Our commitment is to turn your dream home into reality. Don't hesitate to call or email us today and take the first step towards homeownership.
+Our commitment is to turn your dream home into reality. Don't hesitate to call or email us today and take the first step toward homeownership.
