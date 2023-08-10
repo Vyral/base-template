@@ -38,6 +38,6 @@ Here are the top 10 most common questions that homebuyers asked Chat GPT:
 
 9\. What are the nearby amenities such as schools, parks, and shopping centers?&nbsp;
 
-10\. Has a property had any previous offers or inspections?&nbsp;
+10\. Has a property had any previous offers or inspections?&nbsp;&nbsp;
 
 These questions are a fantastic starting point when considering a new property, but they might not cover every aspect that's important to you. If you have specific inquiries that don't fall within these categories or if you'd like a human's opinion on any of these matters, don't hesitate to reach out to me via phone call or email. I'm here to assist you in making the most informed decision for your new home. For more information, visit&nbsp;[www.gostgeorge.com.](http://www.gostgeorge.com.){: target="_blank" rel="noopener"}
