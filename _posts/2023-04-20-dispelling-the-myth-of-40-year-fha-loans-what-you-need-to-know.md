@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Dispelling the Myths of 40-Year FHA Loans: What You Need To Know'
-date: 2023-04-20 05:00:00
-tags:
+date: 2023-08-15 05:00:00
 excerpt: 'The 40-year FHA loan was created by the government to reduce foreclosures. '
 enclosure:
 pullquote:
