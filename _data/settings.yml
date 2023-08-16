@@ -1,53 +1,66 @@
 audit_header: false
 title: St. George Real Estate Video Blog with Jeremy Larkin
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808658';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808658';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 client:
   name: Jeremy Larkin
   license_number:
-  about_markdown: |
-    The Larkin Group is a (dangerously) local Full-Service Real Estate Team located in St. George, Utah, serving Santa Clara, Ivins, Washington City, The Hurricane Valley and surrounding areas.
+  about_markdown: >
+    The Larkin Group is a (dangerously) local Full-Service Real Estate Team
+    located in St. George, Utah, serving Santa Clara, Ivins, Washington City,
+    The Hurricane Valley and surrounding areas.
 
-    Delivering Pizzas and Papers to St. George neighborhoods before most Agents had even heard of the place, our slogan has aptly become <strong>"We KNOW This Town!"</strong>
 
-    It's about more than just buying or selling, it's understanding intimately the local culture, traditions and "vibe" of a given area. <strong>WE UNDERSTAND THOSE THINGS. INTIMATELY.</strong>
+    Delivering Pizzas and Papers to St. George neighborhoods before most Agents
+    had even heard of the place, our slogan has aptly become <strong>"We KNOW
+    This Town!"</strong>
+
+
+    It's about more than just buying or selling, it's understanding intimately
+    the local culture, traditions and "vibe" of a given area. <strong>WE
+    UNDERSTAND THOSE THINGS. INTIMATELY.</strong>
   market: St. George
   brand: The Larkin Group
   brokerage: KW Realty
   address: '50 East 100 South #300<br>St. George, UT 84770'
   phone: 435-375-3462
-  phone_type: 
-  phone2: 
-  phone2_type: 
+  phone_type:
+  phone2:
+  phone2_type:
   email: sales@GoStGeorge.Com
   url: http://www.GoStGeorge.com
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.dixiehomevalue.com/
+  first_CTA_URL: https://www.gostgeorge.com/homevalue
   second_CTA_text: Home Search
   second_CTA_URL: https://www.gostgeorge.com/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: http://www.dixiehomevalue.com/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
     CTA_url2: https://www.gostgeorge.com/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,44 +72,51 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/pages/The-Larkin-Group/84042546052?ref=br_tf
   linkedin_url: http://www.linkedin.com/in/jeremylarkin
-  gplus_url: 
+  gplus_url:
   youtube_url: http://www.youtube.com/user/GoStGeorgeTV
   twitter_url: https://twitter.com/LarkinGroup
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/larkingroup/
   trulia_url: http://www.trulia.com/profile/jeremy-larkin-agent-saint-george-ut-4125849/
-  yelp_url: http://www.yelp.com/biz/the-larkin-group-st-george-real-estate-consultants-st-george
-  podcast_url: https://itunes.apple.com/us/podcast/st.-george-utah-real-estate/id904336366?mt=2
-
+  yelp_url: >-
+    http://www.yelp.com/biz/the-larkin-group-st-george-real-estate-consultants-st-george
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/st.-george-utah-real-estate/id904336366?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  # logo_width_number: 40
-  # hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -107,16 +127,13 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: rgba(69, 34, 14, .75)
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -125,5 +142,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
