@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discover Your Dream Home in Draper, Utah: A Perfect Blend of Luxury and Nature'
+title: Take a Tour and Get The Facts on Living in Draper UT
 date: 2023-08-14 07:00:00
 tags:
   - Real Estate
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2zrKiLbEtNQ
+youtube_code: 6YukkbXfxSc
 ---
 {% include youtube.html %}
 
