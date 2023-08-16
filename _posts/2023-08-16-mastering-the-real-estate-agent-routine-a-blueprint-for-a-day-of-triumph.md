@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/dave-hooke-ssrec-37.jpg
 youtube_code: zb2C38b_NiY
 ---
 {% include youtube.html %}
