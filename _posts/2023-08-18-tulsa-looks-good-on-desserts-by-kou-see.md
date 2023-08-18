@@ -6,7 +6,10 @@ tags:
   - Tulsa Spotlight
   - Business Spotlight
   - Oklahoma
-excerpt: Tulsa looks good on Iron Gate
+excerpt: >-
+  Jennie recently stopped by Iron Gate Tulsa to connect with Executive Director,
+  Carrie Henderson to hear about all the great work they are doing for the Tulsa
+  community!
 enclosure:
 pullquote: >-
   We want to share a piece of our culture and our love of Asian pastries and
@@ -16,12 +19,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
-youtube_code: xMuTbnIh4YQ
+youtube_code: zesmDZQLPtA
 hidden: false
 ---
 {% include youtube.html %}
-
-{% include excerpt.html %}
 
 **Jennie recently stopped by Iron Gate Tulsa to connect with Executive Director, Carrie Henderson to hear about all the great work they are doing for the Tulsa community!**
 
