@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tulsa Looks Good on Desserts by Kou See! '
+title: Tulsa Looks Good on You and Iron Gate Tulsa
 date: 2023-08-18 09:00:00
 tags:
   - Tulsa Spotlight
@@ -11,10 +11,7 @@ excerpt: >-
   Carrie Henderson to hear about all the great work they are doing for the Tulsa
   community!
 enclosure:
-pullquote: >-
-  We want to share a piece of our culture and our love of Asian pastries and
-  desserts to the community. We want to create a space where people can come
-  together to eat dessert.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
