@@ -19,7 +19,7 @@ youtube_code: 6ofKRHIe5sI
 
 In a departure from our usual discussions on real estate, we're sharing something deeply meaningful with you this week. As many of you know, our son passed away a few years ago. We established a nonprofit organization committed to giving back to our community. Our mission is clear: to spare other families from enduring the challenges we faced with little assistance during those trying times. Our ultimate goal is to save lives and provide crucial support to those seeking alcohol and drug rehabilitation.
 
-**The upcoming second annual Christopher Walden Gala for Hope is set to take place at Captain Cook on September 9.** This event promises an unforgettable evening of purpose and unity. As we gear up for this special occasion, we are extending an invitation for corporate sponsorship.
+**The upcoming second annual Christopher Walden Gala for Hope is set to take place at Captain Cook on September 9.** This event promises an unforgettabl evening of purpose and unity. As we gear up for this special occasion, we are extending an invitation for corporate sponsorship.
 
 For those interested, we offer the opportunity to purchase a table at the gala for $1,800. This contribution not only covers 10 seats but also ensures a night of enjoyment and camaraderie. Last year's event was an overwhelming success, with tickets being completely sold out. While this year's demand is high, we still have a limited number of tables available.
 
@@ -31,4 +31,6 @@ As we prepare for the gala, we're reaching out to companies that share our visio
 
 To [explore sponsorship opportunities](https://pdfhost.io/v/~1E5vOMJl_Sponsorship_Packet_85_11_in){: target="_blank" rel="noopener"}, please feel free to contact us at (907) 240-2804 or via email at [dar@darwalden.com](mailto:dar@darwalden.com). Every bit of assistance you provide matters deeply to us, as we recognize that addressing this challenge requires a united front. Let's stand together, make a lasting impact, and uplift the lives of those who need it most.
 
-![](/uploads/pictures-needed-1.png){: width="1080" height="1513"}
+
+
+![](/uploads/pictures-needed-2.png){: width="900" height="1261"}
