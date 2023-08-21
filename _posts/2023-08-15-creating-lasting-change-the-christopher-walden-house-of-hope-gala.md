@@ -31,4 +31,4 @@ As we prepare for the gala, we're reaching out to companies that share our visio
 
 To [explore sponsorship opportunities](https://pdfhost.io/v/~1E5vOMJl_Sponsorship_Packet_85_11_in){: target="_blank" rel="noopener"}, please feel free to contact us at (907) 240-2804 or via email at [dar@darwalden.com](mailto:dar@darwalden.com). Every bit of assistance you provide matters deeply to us, as we recognize that addressing this challenge requires a united front. Let's stand together, make a lasting impact, and uplift the lives of those who need it most.
 
-![](/uploads/pictures-needed.png){: width="1428" height="2000"}
+![](/uploads/pictures-needed.jpg){: width="1200" height="1681"}
