@@ -29,6 +29,6 @@ For those interested, we offer the opportunity to purchase a table at the gala f
 
 As we prepare for the gala, we're reaching out to companies that share our vision. If your business is willing to contribute or sponsor our cause, we encourage you to connect with us. In return for your invaluable support, we offer prominent recognition in our promotional materials, across social media platforms and during the event itself.
 
-To [explore sponsorship opportunities](https://pdfhost.io/v/~1E5vOMJl_Sponsorship_Packet_85_11_in), please feel free to contact us at (907) 240-2804 or via email at [dar@darwalden.com](mailto:dar@darwalden.com). Every bit of assistance you provide matters deeply to us, as we recognize that addressing this challenge requires a united front. Let's stand together, make a lasting impact, and uplift the lives of those who need it most.
+To [explore sponsorship opportunities](https://pdfhost.io/v/~1E5vOMJl_Sponsorship_Packet_85_11_in){: target="_blank" rel="noopener"}, please feel free to contact us at (907) 240-2804 or via email at [dar@darwalden.com](mailto:dar@darwalden.com). Every bit of assistance you provide matters deeply to us, as we recognize that addressing this challenge requires a united front. Let's stand together, make a lasting impact, and uplift the lives of those who need it most.
 
 ![](/uploads/pictures-needed.png){: width="1428" height="2000"}
