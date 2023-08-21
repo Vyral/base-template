@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creating Lasting Change: The Christopher Walden House of Hope Gala'
+title: 'Creating Lasting Change: The Christopher Walden Gala for Hope'
 date: 2023-08-15 00:00:00
 excerpt: Join us on September 9 for the Christopher Walden House of Hope Gala.
 enclosure:
