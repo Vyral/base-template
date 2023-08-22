@@ -10,7 +10,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/8-8-23-dar-yt.jpg
+youtube_alternate_image: /uploads/8-22-23-dar-yt.jpg
 youtube_code: 6ofKRHIe5sI
 ---
 {% include youtube.html %}
