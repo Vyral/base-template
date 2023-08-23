@@ -23,4 +23,4 @@ We're set to exceed 4 million home sales nationwide this year, equating to aroun
 
 Just last week, I listed a home and received an offer through community buzz before it even hit the MLS. Within hours, the client and I had a full-priced cash offer, sparking a bidding war. Feel free to contact me for more details.
 
-This isn't just talk—it's a hot market. **We back our claims with action and due diligence.** To see the proof, reach out to me. If you've delayed selling because of market uncertainty, rest assured that there's no need to worry. If you're considering selling, don't hesitate to call anytime at (502) 376-5483. I’d be happy to help you!
+This isn't just talk—it's a hot market. **We back our claims with action and due diligence.** To see the proof, reach out to me. If you've delayed selling because of market uncertainty, rest assured that there's no need to worry. If you're considering selling, don't hesitate to call anytime at [(502) 376-5483](tel:502-376-5483). I’d be happy to help you!
