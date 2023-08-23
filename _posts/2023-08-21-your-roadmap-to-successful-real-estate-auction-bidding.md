@@ -8,7 +8,7 @@ excerpt: Real estate auctions present an opportunity to secure your dream proper
 enclosure:
 pullquote: >-
   If you're ready to participate in a real estate auction, you'll need to be
-  financially prepared. 
+  financially prepared.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
