@@ -22,7 +22,7 @@ youtube_code: '-gJUKwpa4XQ'
 
 Have you ever found yourself wondering, "What are closing costs?" It's a common question that often gets confused with real estate commissions. Allow us to shed light on this topic and provide you with a clear understanding.
 
-Closing costs refer to the fees you pay to your lender to facilitate the origination of your loan. While the average closing cost typically falls between one and 2%, **the exact percentage can vary from lender to lender and situation to situation.**
+Closing costs refer to the fees you pay to your lender to facilitate the origination of your loan. While the average closing cost typically falls between 1% and 2%, **the exact percentage can vary from lender to lender and situation to situation.**
 
 {% include pullquote.html %}
 
