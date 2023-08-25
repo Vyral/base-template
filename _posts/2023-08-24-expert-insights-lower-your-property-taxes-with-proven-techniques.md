@@ -30,7 +30,7 @@ If you've received a property tax notice and believe your property's assessed va
 
 {% include pullquote.html %}
 
-As real estate professionals, we can provide you with comparable sales data that may indicate a lower property value. This evidence is crucial for your appeal. By presenting data that suggests your property is overvalued compared to similar properties, you can make a strong case for a reduced assessment. Our role as realtors extends beyond property transactions. We're here to assist you in navigating the property tax appeal process. Here's how we can help:
+As real estate professionals, we can provide you with comparable sales data that may indicate a lower property value. This evidence is crucial for your appeal. By presenting data that suggests your property is overvalued compared to similar properties, you can make a strong case for a reduced assessment. Our role as Realtors extends beyond property transactions. We're here to assist you in navigating the property tax appeal process. Here's how we can help:
 
 **• Comparable sales data.** We can gather and provide you with recent sales data of properties similar to yours. These comparisons will support your argument for a lower assessed value.
 
