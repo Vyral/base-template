@@ -16,8 +16,6 @@ youtube_code: caumQUeGoy8
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Have you ever considered buying a home in Foys Lake? If you have, or if you just like looking at beautiful properties, you’re in luck. Today, **I’m sharing a full 360 walkthrough of a recent listing in Foys Lake that you have to see to believe.&nbsp;**
 
 You can interact with the video to check out different parts of the rooms. I highly recommend you use this tool because there’s a ton to see.&nbsp;
