@@ -5,7 +5,7 @@ date: 2023-08-25 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
+excerpt: Here is more information on this Lake Foys home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,8 +16,10 @@ youtube_code: caumQUeGoy8
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Have you ever considered buying a home in Foys Lake? If you have, or if you just like looking at beautiful properties, you’re in luck. Today, **I’m sharing a full 360 walkthrough of a recent listing in Foys Lake that you have to see to believe.&nbsp;**
 
 You can interact with the video to check out different parts of the rooms. I highly recommend you use this tool because there’s a ton to see.&nbsp;
 
-If you are interested in this home or just have a question, don’t hesitate to call or email me. I am always willing to help!
+If you are interested in [this home](https://www.flatheadrealestate.com/montana-real-estate/30007513/){: target="_blank" rel="noopener"} or just have a question, don’t hesitate to call or email me. I am always willing to help!
