@@ -37,4 +37,8 @@ Selling a home involves a great deal of emotion, and this sentiment is understan
 
 **6\. The cost of rebuilding your home doesn't equate to its market value.** This is an issue we're currently addressing with a client whose opulent home exceeds the market's capacity to justify the build cost. In any market, buyers are only willing to pay what the market deems reasonable.
 
-The market determines your home's value, regardless of emotional attachment, initial purchase price, personal needs, or external opinions. By recognizing and avoiding these misconceptions, you'll position yourself for a successful home sale. Whether you're working with us or another Realtor, our goal is to help you maximize your home's value. If you're interested, call, email us, or DM us the word “value.” We’d love to help.
+Ultimately, just like stocks, cars, or even a gallon of milk, the&nbsp;*market*&nbsp;determines your home’s value, regardless of emotional attachment, initial purchase price, personal needs, or external opinions.&nbsp;
+
+By recognizing and avoiding these misconceptions, you’ll position yourself for a successful,&nbsp;*and much less stressful*, home sale.&nbsp;
+
+Whether you’re working with us or another Realtor, we aim to help you maximize your home’s value. If you’re interested in a 1:1 discussion, feel free to text me at 435-291-5443, or launch an email to&nbsp;[larkin@gostgeorge.com](mailto:larkin@gostgeorge.com){: target="_blank"}.&nbsp;
