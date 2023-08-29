@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/september-2023-mvp-blog-post-image.jpg
 youtube_code:
 ---
-![](/uploads/untitled-design-6.jpg){: width="1018" height="383"}<br><br>Not long ago, home sellers were in their heyday, as historically-low mortgage rates triggered a real estate buying frenzy. However, the Federal Reserve shut down the party when it began raising interest rates last year.1 &nbsp;
+![](/uploads/untitled-design-7.jpg){: width="1018" height="383"}<br><br>Not long ago, home sellers were in their heyday, as historically-low mortgage rates triggered a real estate buying frenzy. However, the Federal Reserve shut down the party when it began raising interest rates last year.1 &nbsp;
 
 Now, it’s not as simple to sell a home. While pandemic-era homebuyers were racing the clock—trying to lock in a low mortgage rate and gain a foothold in the market—current buyers are more discerning. Higher prices and mortgage rates have pushed their limits of affordability, leading them to prioritize cost, condition, and overall value.2
 
