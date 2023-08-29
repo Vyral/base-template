@@ -25,7 +25,7 @@ Last month, I received numerous calls and inquiries, prompting us to revisit thi
 
 During the call, they pose the right questions, possibly conduct a brief property analysis, determine the value, list the house, and use platforms like DocuSign for document submission. The impersonator, posing as the seller, signs all the documents and sends them back. Unfortunately, this scenario has become far too common.
 
-Maricopa County has introduced a solution to safeguard your property. By using the provided link, you can register your properties. This step will trigger an alert if any activity related to your property's deed occurs. However, this precaution alone may not suffice.
+Maricopa County has introduced a solution to [safeguard your property](https://recorder.maricopa.gov/MaricopaTitleAlert/Default){: target="_blank" rel="noopener"}. By using the provided link, you can register your properties. This step will trigger an alert if any activity related to your property's deed occurs. However, this precaution alone may not suffice.
 
 **{% include pullquote.html %}**
 
