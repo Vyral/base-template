@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/email-2-3.jpg
-youtube_code: yod9MXBpCQg
+youtube_code: SvE6fug-xK8
 ---
 {% include youtube.html %}
 
