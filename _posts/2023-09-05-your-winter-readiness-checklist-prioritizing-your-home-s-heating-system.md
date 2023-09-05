@@ -20,6 +20,8 @@ youtube_code: >-
 
 {% include excerpt.html %}
 
+[![](/uploads/capture-1.PNG)](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
+
 As the calendar inches closer to winter, those of us here in Minnesota can almost feel the crisp air and envision the picturesque landscapes covered in a blanket of snow. Our beloved winter wonderland is just a couple of months away. Amidst the excitement, there's a crucial aspect of home preparation that often goes overlooked – ensuring the safety and efficiency of our heating systems.
 
 Did you know that **one of the most vital home safety tips for the impending cold season is to schedule a furnace or boiler safety check** well before you start relying on it daily? After being dormant for five to six months, your heating system needs attention before it takes on the demanding task of keeping you warm throughout the frosty months.
