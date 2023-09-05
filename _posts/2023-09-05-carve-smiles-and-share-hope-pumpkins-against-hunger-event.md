@@ -21,6 +21,6 @@ youtube_code: TgkS3CXFj8Y
 
 One of the highlights is our donation drive for the food bank and the road home. We'll gladly take your canned food donations. We'll even handle the pumpkin cleaning for you. You can find all the event details in this link. If you have any specific questions, feel free to reach out to your agent. Register now and get ready for a fantastic and enjoyable event. We look forward to your presence.&nbsp;
 
-Reserve a spot here: https://www.eventbrite.com/e/colemere-realtys-annual-pumpkins-against-hunger-tickets-706810979667
+Reserve a spot here:&nbsp;[https://www.eventbrite.com/e/colemere-realtys-annual-pumpkins-against-hunger-tickets-706810979667](https://www.eventbrite.com/e/colemere-realtys-annual-pumpkins-against-hunger-tickets-706810979667){: target="_blank" rel="noopener"}
 
 As always, if you need help with your real estate goals, call or email us. We’re happy to help.
