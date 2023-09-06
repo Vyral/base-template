@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identify and Achieve Your ideal Life With the Dave Hooke Team
+title: Identify and Achieve Your Ideal Life With The Dave Hooke Team
 date: 2023-09-06 10:00:00
 tags:
   - Real Estate Goals
