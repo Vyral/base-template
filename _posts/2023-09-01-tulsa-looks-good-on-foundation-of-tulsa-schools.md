@@ -7,9 +7,8 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  Jennie recently stopped by Iron Gate Tulsa to connect with Executive Director,
-  Carrie Henderson to hear about all the great work they are doing for the Tulsa
-  community!
+  Jennie connected with President and CEO, Moises Echeverria, to hear about ways
+  to support and connect with the Foundation of Tulsa Schools.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
