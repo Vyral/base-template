@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tulsa Looks Good on Foundation of Tulsa Schools
-date: 2023-09-01 09:00:00
+date: 2023-09-08 09:00:00
 tags:
   - Tulsa Spotlight
   - Business Spotlight
