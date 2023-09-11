@@ -4,7 +4,7 @@ title: Navigating the September Real Estate Landscape
 date: 2023-09-11 00:00:00
 tags:
   - Market Update
-excerpt: Exploring Key trends and insights for September 2023.
+excerpt: Exploring key trends and insights for September 2023.
 enclosure:
 pullquote: These trends highlight the evolving dynamics in the real estate market.
 enclosure_type: video/mp4
