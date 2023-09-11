@@ -17,10 +17,10 @@ youtube_code: TgkS3CXFj8Y
 
 {% include excerpt.html %}
 
-**Our annual Pumpkins Against Hunger event is fast approaching, and you’re invited!** This year marks the 10th or 11th edition, and each year it keeps getting better. Join us on Thursday, October 5, from 5:30 PM to 7:30 PM at the Lone Peak Park Pavilion. The event will feature games, face painting, and, of course, pumpkin-related activities.
+**Our annual Pumpkins Against Hunger event is fast approaching, and you’re invited!** Let's create even better memories than last year. Join us on Thursday, October 5, from 5:30 PM to 7:30 PM at the Lone Peak Park Pavilion. The event will feature games, face painting, and, of course, pumpkin-related activities.
 
-One of the highlights is our donation drive for the food bank and the road home. We'll gladly take your canned food donations. We'll even handle the pumpkin cleaning for you. You can find all the event details in this link. If you have any specific questions, feel free to reach out to your agent. Register now and get ready for a fantastic and enjoyable event. We look forward to your presence.&nbsp;
+Don't forget to bring your canned food items to donate to the Utah Food Bank in exchange for a pumpkin—we'll even handle the pumpkin cleaning for you, so you can focus on having a blast with the carving! You can find all the event details in this link. If you have any specific questions, feel free to reach out to your agent. Register now and get ready for a fantastic and enjoyable event. We look forward to your presence.&nbsp;
 
 Reserve a spot here:&nbsp;[https://www.eventbrite.com/e/colemere-realtys-annual-pumpkins-against-hunger-tickets-706810979667](https://www.eventbrite.com/e/colemere-realtys-annual-pumpkins-against-hunger-tickets-706810979667){: target="_blank" rel="noopener"}
 
-As always, if you need help with your real estate goals, call or email us. We’re happy to help.
+We hope to see you there. We're excited to spend an amazing time with you and your family!
