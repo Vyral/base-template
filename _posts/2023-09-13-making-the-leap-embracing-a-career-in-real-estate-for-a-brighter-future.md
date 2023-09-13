@@ -21,7 +21,7 @@ youtube_code: TLBceRQwDko
 
 {% include excerpt.html %}
 
-Are you at a crossroads in your career, wondering if there's something more fulfilling out there for you? I can relate because I've been there too. I'm Drew Richmond, the team leader of the Dave Hook Real Estate Team at Keller Williams of Central P.A. Today, I want to share with you how a single question changed my life forever and led me to a rewarding career in real estate.
+Are you at a crossroads in your career, wondering if there's something more fulfilling out there for you? I can relate because I've been there too. I'm Drew Richmond, the team leader of the Dave Hooke Real Estate Team at Keller Williams of Central P.A. Today, I want to share with you how a single question changed my life forever and led me to a rewarding career in real estate.
 
 It all began during a period of transition in my professional life when I was grappling with a sense of purposelessness in my work. That's when someone asked me a question that would ultimately reshape my future: "Have you ever considered a career in real estate?"
 
@@ -29,8 +29,8 @@ At first, I was hesitant and skeptical. I was accustomed to the security of a st
 
 **{% include pullquote.html %}**
 
-However, I realized that **the only way to overcome my apprehensions was to seek guidance** and gather the information I needed to make an informed choice. That's when I made a pivotal decision—I booked a strategy session with Dave Hook, an experienced real estate professional.
+However, I realized that **the only way to overcome my apprehensions was to seek guidance** and gather the information I needed to make an informed choice. That's when I made a pivotal decision—I booked a strategy session with Dave Hooke, an experienced real estate professional.
 
 During our session, Dave provided me with invaluable insights and a clear roadmap for success as a real estate agent. It was a turning point that enabled me to take the necessary steps to achieve my goals.
 
-If you're currently pondering a career in real estate and feel unsure about where to begin, I want to offer you the same opportunity I had to explore this exciting path. Reach out to us by calling us at [(717) 216-0860](tel:717-216-0860) or sending an email to dave@davehooketeam.com. Also, make sure to follow us on Facebook at [Facebook.com/DaveHookeTeam](https://www.facebook.com/DaveHookeTeam){: target="_blank" rel="noopener"}. We're here to provide you with the information and guidance you need to embark on a rewarding journey in the world of real estate. Don't let uncertainty hold you back—take that first step towards a brighter future today.
+If you're currently pondering a career in real estate and feel unsure about where to begin, I want to offer you the same opportunity I had to explore this exciting path. Reach out to us by calling us at [(717) 216-0860](tel:717-216-0860) or sending an email to [support@davehooketeam.com](mailto:support@davehooketeam.com). Also, make sure to follow us on Facebook at [Facebook.com/DaveHookeTeam](https://www.facebook.com/DaveHookeTeam){: target="_blank" rel="noopener"}. We're here to provide you with the information and guidance you need to embark on a rewarding journey in the world of real estate. Don't let uncertainty hold you back—take that first step towards a brighter future today.
