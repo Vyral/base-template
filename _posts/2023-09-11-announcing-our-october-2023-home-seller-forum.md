@@ -30,8 +30,6 @@ Tuesday, Oct 3rd, 11:00am and 6:00pm sessions
 
 Thursday, Oct 5th, &nbsp;11:00am and 6:00pm sessions
 
-
-
 During this excellent and informative interview, we had the opportunity to discuss a wide array of topics related to the real estate space. As your trusted source for real estate information in the upper Midwest, we’re bringing you some of the highlights of the conversation.
 
 **1\. Market insights.** Our conversation touched upon various facets of the real estate market. We can't ignore the elephant in the room - the current market's high interest rates have left many feeling anxious. We discussed the importance of making the right choices in these conditions, recalling our own experience of selling a beautiful home during a challenging market.
