@@ -9,7 +9,7 @@ excerpt: Here are the details you need to know about the upcoming Home Seller Fo
 enclosure:
 pullquote: >-
   If you're even remotely thinking about selling your home in the next two
-  years, this is a must-attend event. Paul Douglas
+  years, this is a must-attend event. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
