@@ -34,7 +34,7 @@ During this excellent and informative interview, we had the opportunity to discu
 
 **1\. Market insights.** Our conversation touched upon various facets of the real estate market. We can't ignore the elephant in the room - the current market's high interest rates have left many feeling anxious. We discussed the importance of making the right choices in these conditions, recalling our own experience of selling a beautiful home during a challenging market.
 
-{% include pullquote.html %} -Paul Douglas
+{% include pullquote.html %}&nbsp;
 
 **2\. The turning point.** John shared a turning point in his life when he realized it wasn't the property but the marketing that was the issue.
 
