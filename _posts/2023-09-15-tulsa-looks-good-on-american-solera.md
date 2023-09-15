@@ -32,26 +32,10 @@ With something for everyone, the space not only offers beer and wine, but also n
 
 For more information on American Solera visit, https://www.americansolera.com/
 
-
-
-
-
-
-
 1702 E 6th St, Tulsa, OK 74104
-
-
 
 (918) 949-4318
 
-
-
-
-
-
-
 https://www.facebook.com/Americansolera/
-
-
 
 https://www.instagram.com/americansolera/
