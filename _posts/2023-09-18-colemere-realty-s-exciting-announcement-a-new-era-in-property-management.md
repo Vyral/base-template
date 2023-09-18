@@ -17,8 +17,6 @@ youtube_code: BY73kQXM7KA
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 We’re excited to announce our partnership with CRA&nbsp; Property Management. Over the last year, we have worked hard to put the proper people systems in place to have and offer a management company for the properties that we own as well as the ones that you own or that we can help you own.
 
 We’ve been fortunate enough to invest in real estate and accumulate our own portfolio of properties which we've managed over the years. But we've decided to hand that management to our management company and therefore **offer our clients an end-to-end solution in the purchase.** We're really excited to offer this great service. Stay tuned for more information. If you have an immediate need or questions, reach out to your Colemere Realty associate by phone or email.
