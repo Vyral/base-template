@@ -18,7 +18,7 @@ youtube_code:
 ---
 {% include excerpt.html %}
 
-When preparing to sell your house, you need to make sure it’s appealing to potential buyers. Many homeowners rush to fix every little flaw thinking it will boost their property's value, but not every improvement will yield a significant return on investment. To help you avoid the ones that aren’t worthwhile, here are the top three things you should avoid fixing when getting your house ready to sell:&nbsp;
+When preparing to sell your house, you need to make sure it’s appealing to potential buyers. Many homeowners rush to fix every little flaw, thinking it will boost their property's value, but not every improvement will yield a significant return on investment. To help you avoid the ones that aren’t worthwhile, here are the top three things you should avoid fixing when getting your house ready to sell:&nbsp;
 
 **1\. Minor HVAC, electrical, and plumbing issues.** While well-maintained and fully functional systems are crucial for any home, addressing minor issues in these areas may not be the best use of your resources. Major problems that could significantly impact the home's livability and safety should be fixed, but minor issues are usually better left for the buyer to handle.
 
