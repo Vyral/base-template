@@ -21,7 +21,7 @@ youtube_code: TLBceRQwDko
 
 {% include excerpt.html %}
 
-Are you at a crossroads in your career, wondering if there's something more fulfilling out there for you? I can relate because I've been there too. I'm Drew Richmond, the team leader of the Dave Hooke Real Estate Team at Keller Williams of Central P.A. Today, I want to share with you how a single question changed my life forever and led me to a rewarding career in real estate.
+Are you at a crossroads in your career, wondering if there's something more fulfilling out there for you? I can relate because I've been there too. I'm Drue Richmond, the team leader of the Dave Hooke Real Estate Team at Keller Williams of Central PA. Today, I want to share with you how a single question changed my life forever and led me to a rewarding career in real estate.
 
 It all began during a period of transition in my professional life when I was grappling with a sense of purposelessness in my work. That's when someone asked me a question that would ultimately reshape my future: "Have you ever considered a career in real estate?"
 
