@@ -22,6 +22,6 @@ If you’re thinking about selling your home anytime soon, you need to know how 
 
 **{% include pullquote.html %}**
 
-**3\. Work with a trusted Realtor.** Who you work with matters. Unfortunately, too many people just work with the first agent they talk to, who says they can get a good price, and then end up suffering because of that. You need to work with an experienced professional with a top-notch marketing plan who is great at negotiations and can help you understand the current market to get the most money possible.&nbsp;
+**3\. Work with a trusted REALTOR®****.** Who you work with matters. Unfortunately, too many people just work with the first agent they talk to, who says they can get a good price, and then end up suffering because of that. You need to work with an experienced professional with a top-notch marketing plan who is great at negotiations and can help you understand the current market to get the most money possible.&nbsp;
 
 There are many things you can work on to get top dollar for your property, but those are the three most important ones. If you have any questions, want advice on what else you can do, or want to work with this experienced professional, don’t hesitate to reach out! You can call or email me anytime, and I would love to help you.
