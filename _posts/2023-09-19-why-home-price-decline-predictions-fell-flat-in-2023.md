@@ -22,7 +22,7 @@ youtube_code: TV6HKp_vWY8
 
 No matter where you get your news, you've likely heard someone predict a decline in home prices this year. Negative news tends to spread quickly. However, the reality is that prices did not crash. I can back this up with data. But don't just take my word for it.
 
-Let's examine the facts. **Even experts admit they made incorrect forecasts.** The chart below illustrates seven expert organizations' 2023 year-end home price forecasts. It includes both their initial 2023 predictions from late last year and the most recent revisions, available here. When I analyze it, I notice that all their initial forecasts predicted price drops, represented in red.
+Let's examine the facts. **Even experts admit they made incorrect forecasts.** The chart at 0:25 in the video illustrates seven expert organizations' 2023 year-end home price forecasts. It includes both their initial 2023 predictions from late last year and the most recent revisions, available here. When I analyze it, I notice that all their initial forecasts predicted price drops, represented in red.
 
 **{% include pullquote.html %}**
 
