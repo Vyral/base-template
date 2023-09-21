@@ -2,6 +2,12 @@
 layout: post
 title: We Make Real Estate Fun! How We Keep Things Interesting
 date: 2023-09-21 10:00:00
+tags:
+  - Real Estate
+  - Team culture
+  - Stress
+  - fun
+  - bonds
 excerpt: How we try to keep things fun in a high-stress environment.
 enclosure:
 pullquote:
