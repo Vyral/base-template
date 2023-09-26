@@ -21,8 +21,6 @@ Now, as higher interest rates continue to push priced-out homebuyers to the side
 
 But how do you know if you’re well-suited to take advantage of these real estate investment opportunities? Here are three signs that owning a rental property could be right for you.
 
-
-
 **1\. YOU'RE A HOMEBUYER WHO WANTS HELP COVERING THE MORTGAGE**
 
 If you're looking for a creative way to buy a home without overspending, “house hacking” could be the answer. Increasingly popular with first-time homebuyers and budget-conscious investors, house hacking simply means buying a home that you intend to live in while renting out a portion of it to one or more tenants.5&nbsp;
@@ -32,8 +30,6 @@ House hacking also tends to be easier to break into than traditional real estate
 If you house hack, the money you collect for rent each month can help cover your mortgage and other homeownership expenses. Depending on your setup, you may also be able to save on utility bills by splitting them with your tenant or tacking a portion onto their monthly rent. Another major advantage of house hacking is that it entitles you to certain tax benefits and deductions available only to landlords.8
 
 When it's time to start your search, we can help you find a property that's ideal for house hacking, such as a house with a walkout basement, a multifamily unit, or a home with enough outdoor space to build an accessory dwelling unit or garage apartment.
-
-
 
 **2\. YOU'RE AN INVESTOR LOOKING FOR STEADY AND RELIABLE INCOME**
 
@@ -46,8 +42,6 @@ However, the rate of appreciation can be hard to predict, so it’s prudent to i
 While today’s higher mortgage rates can make it more challenging for landlords to turn a profit, investment opportunities aren’t reserved for cash buyers. In fact, currently, almost 60% of real estate investors take out a loan to finance their purchase, according to Thomas Malone, an economist at the real estate data firm CoreLogic.4&nbsp; He also notes that more small investors are stepping in to meet demand for rental housing, which has grown since many would-be buyers remain priced out of the purchase market.4&nbsp;
 
 If you want to explore opportunities for a residential rental property that's good for your wallet and attractive to renters, we can help. Reach out with questions or to schedule a free consultation.&nbsp;
-
-
 
 **3\. YOU'RE AN EXPERIENCED INVESTOR LOOKING TO MAXIMIZE YOUR POTENTIAL RETURNS**
 
@@ -63,43 +57,35 @@ The vacation rental market enjoyed a boom during the pandemic, and some inexperi
 
 We can help you scout opportunities in our local market or, if you’re interested in investing in another area, we can refer you to an agent there for assistance.
 
-
-
 **BOTTOMLINE**
 
 Investing in real estate can be a great way to build your wealth long-term and earn some extra income. But to make the most of your investment, it pays to be strategic.&nbsp;
 
 Call us for a consultation so we can discuss your goals and budget. We'll help you discover neighborhoods with the best income potential, point out the homes most suited to renting, and help you brainstorm the best investment strategy for you.
 
+<br><br><br>***Before you take the plunge, make sure you can answer “YES”*** ***to these three questions:***&nbsp;&nbsp;*&nbsp;*&nbsp;&nbsp; &nbsp;
 
-
-***Before you take the plunge, make sure you can answer “YES”*** ***to these three questions:***&nbsp;*&nbsp;*&nbsp;&nbsp; &nbsp; *&nbsp; &nbsp; *&nbsp; &nbsp;
-
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*1. Are you ready to be a landlord?*
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*1\. Are you ready to be a landlord?*
 
 Owning a rental property can take a lot of time and energy. You're not just buying passive income, you're also building sweat equity since the time you spend maintaining, marketing, and managing your rental can add up quickly. So be prepared to do some soul-searching to ensure you’ll not only flourish as a landlord, but actually enjoy it.&nbsp;
 
 If you want to invest in real estate but aren’t prepared to put in the day-to-day effort required, we can refer you to a property management service for help.&nbsp;
 
-<br>&nbsp; &nbsp; &nbsp; *2. Can you afford to invest in real estate?*
+<br>&nbsp; &nbsp; &nbsp; *2\. Can you afford to invest in real estate?*
 
 The last thing you want is to get over-extended with your new real estate venture. Besides the cost of purchasing the property, you’ll need to consider additional expenses, like property taxes, insurance, administrative costs, and maintenance and repairs. You will also need a cash reserve for unexpected issues or potential vacancies.
 
-We can help you run the numbers to determine whether you can charge enough rent to offset your expenditures.<br>
+We can help you run the numbers to determine whether you can charge enough rent to offset your expenditures.
 
-&nbsp; &nbsp; &nbsp; *3. Have you found the right income property?*
+&nbsp; &nbsp; &nbsp; *3\. Have you found the right income property?*
 
 &nbsp;Even if you’ve got your finances in order and are emotionally ready to invest, your success as a landlord will also depend on the property you buy. The criteria for a good rental home and a good family home are often different, so it’s important to lean on professionals for advice.&nbsp;
 
 We can help you find an ideal rental property, taking into account your budget, risk appetite, and investment goals. If you decide to invest in a different area, we'll connect you with an agent who's more plugged into that community. Reach out today to schedule a free consultation.
 
+<br><br><br><br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
 
-
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
-
-
-
-Sources:
+<br><br>Sources:
 
 1. PR Newswire -<br>[https://www.prnewswire.com/news-releases/census-data-show-individuals-continue-to-own-largest-share-of-single-family-rental-homes-301725024.html](https://www.prnewswire.com/news-releases/census-data-show-individuals-continue-to-own-largest-share-of-single-family-rental-homes-301725024.html)
 2. Bankrate -<br>[https://www.bankrate.com/investing/survey-favorite-long-term-investment-2022/](https://www.bankrate.com/investing/survey-favorite-long-term-investment-2022/)&nbsp;
