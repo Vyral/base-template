@@ -27,7 +27,7 @@ For those who have been in St. George even longer, you might have fond memories 
 
 Now, as we proudly open the doors to our new headquarters, we want to express our deep gratitude to this wonderful community. We invite each of you to come and experience this remarkable space for yourself. **We can't wait to show you around and share our excitement for the future.**
 
-![](/uploads/small.jpg){: width="500" height="680"}
+![](/uploads/medium.jpg){: width="625" height="850"}
 
 Stay tuned for more updates, events, and news as we embark on this new chapter. Thank you for being part of our journey, and we hope to see you soon at Legacy Corner!
 
