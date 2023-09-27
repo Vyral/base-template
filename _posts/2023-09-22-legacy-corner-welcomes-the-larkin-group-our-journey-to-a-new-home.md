@@ -27,6 +27,8 @@ For those who have been in St. George even longer, you might have fond memories 
 
 Now, as we proudly open the doors to our new headquarters, we want to express our deep gratitude to this wonderful community. We invite each of you to come and experience this remarkable space for yourself. **We can't wait to show you around and share our excitement for the future.**
 
+![](/uploads/illustration.jpg){: width="5148" height="7004"}
+
 Stay tuned for more updates, events, and news as we embark on this new chapter. Thank you for being part of our journey, and we hope to see you soon at Legacy Corner!
 
 * GENERAL CONTRACTOR: George Greenwood of Big Tree Construction
