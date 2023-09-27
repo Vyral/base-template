@@ -14,8 +14,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: ''
-youtube_code: _WltUeDHOU8
+youtube_alternate_image: /uploads/yt-thumbnail-3-1.png
+youtube_code:
 hidden: false
 ---
 {% include youtube.html %}
