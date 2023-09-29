@@ -2,6 +2,11 @@
 layout: post
 title: Presenting 3 Tips to Level Up Your Open Houses and Get More Leads
 date: 2023-09-29 10:00:00
+tags:
+  - Buyer Prospects
+  - Lead Generation
+  - Listing Presentation
+  - Open Houses
 excerpt: Sharing three tips to help you properly utilize an open house.
 enclosure:
 pullquote: Pick a home in a high-traffic neighborhood.
