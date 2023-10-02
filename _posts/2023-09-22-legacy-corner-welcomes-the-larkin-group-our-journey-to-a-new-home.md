@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Legacy Corner Welcomes the Larkin Group: Our Journey to a New Home'
+title: Legacy Corner Welcomes The Larkin Group - Our Journey to a New Home!
 date: 2023-09-22 07:00:00
 excerpt: Explore the exciting transformation of the beloved Cameo Florist space.
 enclosure:
