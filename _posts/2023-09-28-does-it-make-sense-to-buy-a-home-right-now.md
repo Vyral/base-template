@@ -17,7 +17,7 @@ youtube_code: vJnSqVBvoSY
 
 {% include excerpt.html %}
 
-Today, I want to tackle the most common question I get asked, whether I'm at the grocery store, the mall, or the post office. When people find out I'm a realtor, they all want to know the same thing: What's happening in the real estate market, especially with interest rates on the rise? Is it the right time to buy or should I wait? These questions are on the minds of both buyers and sellers.
+Today, I want to tackle the most common question I get asked, whether I'm at the grocery store, the mall, or the post office. When people find out I'm a Realtor, they all want to know the same thing: What's happening in the real estate market, especially with interest rates on the rise? Is it the right time to buy or should I wait? These questions are on the minds of both buyers and sellers.
 
 **So, here's the unvarnished truth: None of us have crystal balls.** We can't predict the future with absolute certainty. However, we do have some solid insights into what's happening right now. Interest rates have climbed significantly compared to this time last year. We've shifted from sub-3% rates to approaching high 7% rates, and this change impacts the numbers, no matter where you stand in the market.
 
