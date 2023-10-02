@@ -15,9 +15,7 @@ youtube_code: GqZWvCxFjvs
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}&nbsp;
-
-Do you know what home equity is? \*\* \*\* In a nutshell, **equity is the current value of your home minus your outstanding loan balance.** With recent increases in home prices, your equity has significantly grown in the past few years.
+{% include excerpt.html %}&nbsp;<br>Do you know what home equity is? In a nutshell, **equity is the current value of your home minus your outstanding loan balance.** With recent increases in home prices, your equity has significantly grown in the past few years.
 
 In fact, according to CoreLogic, the average U.S. homeowner now has over $274,000 in equity, up from $182,000 before the pandemic. This substantial increase has also contributed to home values increasing nationwide. If you've owned your home for a while, you may have more equity than you realize.
 
