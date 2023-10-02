@@ -63,7 +63,7 @@ Investing in real estate can be a great way to build your wealth long-term and e
 
 Call us for a consultation so we can discuss your goals and budget. We'll help you discover neighborhoods with the best income potential, point out the homes most suited to renting, and help you brainstorm the best investment strategy for you.
 
-<br><br><br>***Before you take the plunge, make sure you can answer “YES”*** ***to these three questions:***&nbsp;&nbsp;*&nbsp;*&nbsp;&nbsp; &nbsp;
+<br><br><br>***Before you take the plunge, make sure you can answer “YES”*** ***to these three questions:***&nbsp;&nbsp;&nbsp;*&nbsp;*&nbsp;&nbsp;&nbsp; &nbsp;
 
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*1\. Are you ready to be a landlord?*
 
