@@ -23,6 +23,6 @@ When you're ready to determine your exact equity and explore how to leverage it,
 
 **{% include pullquote.html %}**
 
-To access the system, go to this link. If you're considering selling, reach out to me via email or phone to discuss your plans. You can reach me at [502-376-5483](502-376-5483).
+To access the system, go to this link. If you're considering selling, reach out to me via email or phone to discuss your plans. You can reach me at [502-376-5483](tel:502-376-5483).
 
 And don't forget to tune in to my radio show every Sunday morning from 8:30 to 9 a.m. on Newsradio 840 WHAS. You can listen on AM radio or online by searching for '840.' If you have questions or want to be featured on the show, feel free to call me or send an email to [bob@weselllouisville.com](mailto:bob@weselllouisville.com).
