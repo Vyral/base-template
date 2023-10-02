@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/october-2023-mvp-blog-post-image.jpg
 youtube_code:
 ---
-![](/uploads/screenshot-2023-09-26-at-10-53-35-pm.png){: width="2040" height="766"}<br><br>If the thought of investing your money into brick and mortar—or perhaps some stylishly-painted siding—excites you, join the club.
+![](/uploads/untitled-design-2-10.jpg){: width="1020" height="383"}<br><br>If the thought of investing your money into brick and mortar—or perhaps some stylishly-painted siding—excites you, join the club.
 
 Investing in real estate has long been one of Americans' favorite ways to grow their wealth. In fact, over 70% of single-family rental properties are currently owned by individual investors rather than corporations, according to Census data.1&nbsp;
 
