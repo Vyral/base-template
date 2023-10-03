@@ -28,6 +28,6 @@ Are you ready to host a wildly successful open house? If you've been in the real
 
 **{% include pullquote.html %}**
 
-1. **Place directional signs.** Finally, on the day of or the day before the open house, strategically position 20 to 30 directional signs throughout the vicinity, guiding potential attendees to the event location. While it may sound excessive, repetition is key. People tend to ignore what they see once, but if they encounter the same message multiple times, they're more likely to follow the signs to your open house.
+**3\. Place directional signs.** Finally, on the day of or the day before the open house, strategically position 20 to 30 directional signs throughout the vicinity, guiding potential attendees to the event location. While it may sound excessive, repetition is key. People tend to ignore what they see once, but if they encounter the same message multiple times, they're more likely to follow the signs to your open house.
 
 Hopefully, you found these tips helpful. If you have any questions, reach out at [support@davehooketeam.com](mailto:support@davehooketeam.com) or [Facebook.com/DaveHookeTeam](http://facebook.com/DaveHookeTeam). We look forward to hearing from you!&nbsp;
