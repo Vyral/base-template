@@ -7,9 +7,9 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  Jennie recently stopped by Iron Gate Tulsa to connect with Executive Director,
-  Carrie Henderson to hear about all the great work they are doing for the Tulsa
-  community!
+  Jennie caught up with Executive Director, Destiny Green to hear what to expect
+  for the run on the Mother of all Roads! The Williams Route 66 Marathon
+  showcases the best of what Tulsa has to offer!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
