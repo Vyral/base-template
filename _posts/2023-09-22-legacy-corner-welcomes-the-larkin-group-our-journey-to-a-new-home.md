@@ -31,7 +31,7 @@ Now, as we proudly open the doors to our new headquarters, we want to express ou
 
 Stay tuned for more updates, events, and news as we embark on this new chapter. Thank you for being part of our journey, and we hope to see you soon at Legacy Corner!
 
-* GENERAL CONTRACTOR: George Greenwood of Big Tree Construction
+* GENERAL CONTRACTOR: George Greenwood of Big Tree Construction&nbsp;[https://bigtreeconst.com/](https://bigtreeconst.com/){: target="_blank" rel="noopener"}
 * INTERIOR DESIGNER: Kasi Miller&nbsp;[https://www.instagram.com/kasimillerdesigns](https://t.e2ma.net/click/wtbfof/8mu2l3zb/kgpbcj){: target="_blank"}&nbsp;/ Jeremy Larkin&nbsp;[https://www.instagram.com/larkingroup/](https://www.instagram.com/larkingroup/){: target="_blank"}
 * MURALIST: Ashley Graf&nbsp;[https://www.instagram.com/bohemiandesertdweller/](https://t.e2ma.net/click/wtbfof/8mu2l3zb/08pbcj){: target="_blank"}&nbsp;
 * VIDEOGRAPHER: Orson Wilkins&nbsp;[https://www.instagram.com/orsonwilkins/](https://t.e2ma.net/click/wtbfof/8mu2l3zb/g1qbcj){: target="_blank"}
