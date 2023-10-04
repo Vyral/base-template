@@ -24,4 +24,4 @@ This captivating home offers a mesmerizing panorama, overlooking the pristine wa
 
 You can also interact with the video to have a closer look at the different areas of the home. Make sure to take advantage of this tool for a better viewing experience!&nbsp;
 
-If you want more details about this home or just need my real estate advice, call or email me. I’m happy to help.
+If you want [more details](https://www.flatheadrealestate.com/montana-real-estate/22212033/){: target="_blank" rel="noopener"} about this home or just need my real estate advice, call or email me. I’m happy to help.
