@@ -7,9 +7,8 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  Jennie recently stopped by Iron Gate Tulsa to connect with Executive Director,
-  Carrie Henderson to hear about all the great work they are doing for the Tulsa
-  community!
+  Jennie recently connected with Chief Development Officer, Tom Taylor, to find
+  out what Family & Children’s Services is doing for our community.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
