@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Folly Beach and Charleston Beach Real Estate: A Deep Dive Into Market Dynamics'
+title: Folly Beach Sales Fall, While Sullivan's Soars!
 date: 2023-10-04 07:00:00
 tags:
   - Market Update
