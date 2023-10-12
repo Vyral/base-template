@@ -22,6 +22,6 @@ It’s time for a quick market update, where we'll delve into the critical trend
 
 First and foremost, 2023 continues to be a seller's market. Closed sales have declined by 25.4% over the last rolling 12 months. Although interest rates have risen to the mid-7% range, there's a reassuring trend of steady growth—the average sale price in the 13-county metro area has surged by over 3.9% in the past 12 months. **This makes Minnesota an excellent place to be a homeowner, and the Twin Cities continue to exhibit strength.** Buyers are anxiously anticipating new inventory to hit the market.
 
-If you're curious about the current value of your home, you can discover it instantly without the need to consult with an agent. Just visit [JohnSchusterGroup.com](https://www.johnschustergroup.com/)and input your address to receive an immediate estimate.&nbsp;
+If you're curious about the current value of your home, you can discover it instantly without the need to consult with an agent. Just visit [JohnSchusterGroup.com](https://www.johnschustergroup.com/){: target="_blank" rel="noopener"}&nbsp;and input your address to receive an immediate estimate.&nbsp;
 
 If you’re considering buying or selling a home, rest assured that we'll help you get moving. Call or email us anytime.
