@@ -26,9 +26,9 @@ When it comes to selling your home, first impressions matter. Making your proper
 
 **2\. Don’t neglect the yard.** Maintaining your yard is one of the simplest yet often underestimated ways to enhance your home's curb appeal. Regularly mowing the lawn, keeping it well-trimmed, and tending to the landscaping can create an inviting atmosphere that leaves a lasting impression.
 
-**3\. Address design turnoffs.** To avoid turning potential buyers away, pay attention to design elements that tend to be major turn offs. These include outdated bathrooms, worn-out carpets, obsolete kitchen features, textured ceilings, and aging appliances.
+**{% include pullquote.html %}**
 
-{% include pullquote.html %}
+**3\. Address design turnoffs.** To avoid turning potential buyers away, pay attention to design elements that tend to be major turn offs. These include outdated bathrooms, worn-out carpets, obsolete kitchen features, textured ceilings, and aging appliances.
 
 **4\. The buyer’s perspective.** Remember that buyers appreciate homes that already have essential updates and improvements. They tend to have a positive emotional response to properties that appear move-in ready, even if they initially considered undertaking projects themselves.
 
