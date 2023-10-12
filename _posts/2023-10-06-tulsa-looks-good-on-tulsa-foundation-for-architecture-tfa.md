@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tulsa Looks Good on Tulsa Foundation for Architecture (TFA)
-date: 2023-10-06 09:00:00
+date: 2023-10-13 09:00:00
 tags:
   - Tulsa Spotlight
   - Business Spotlight
