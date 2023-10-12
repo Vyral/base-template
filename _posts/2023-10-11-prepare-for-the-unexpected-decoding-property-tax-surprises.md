@@ -32,7 +32,7 @@ Now, let's switch to sellers. While it's less common, **sellers can also encount
 
 The property's beneficiaries or the trustee effectively become the new owners, and the property is reassessed at its current value. This reassessment can lead to an unsecured supplemental property tax bill to cover the gap between the date of death and the sale of the property.
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 To avoid being caught off guard by these bills, it's crucial to plan ahead. Estate planning attorneys and CPAs often recommend having a reserve account to cover potential surprises during the settlement of an estate. Consulting with these professionals can help you determine the likelihood of receiving an unsecured supplemental property tax bill and ensure you're financially prepared if it happens.
 
