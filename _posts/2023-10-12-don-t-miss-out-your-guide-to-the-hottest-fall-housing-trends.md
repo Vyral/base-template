@@ -12,11 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-12-23-yt.jpg
-youtube_code: GEAnJv1UGwI
+youtube_code: GSMNna02Fwg
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
+
+[![](/uploads/capture-1.PNG)](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 
 It’s time for a quick market update, where we'll delve into the critical trends of the fall housing market in 2023.
 
