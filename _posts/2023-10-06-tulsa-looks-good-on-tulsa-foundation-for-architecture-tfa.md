@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
 youtube_code: 2_QtCaIK0u8
-hidden: true
+hidden: false
 ---
 {% include youtube.html %}
 
@@ -36,8 +36,6 @@ As a nonprofit, TFA offers a variety of sponsorship opportunities and events to 
 If you are looking for something fun to do this Halloween season and want to support TFA reserve a ticket to their Haunting Halloween Bash on Saturday, October 21st at the Gateway Building, a former 1920s machine shop.&nbsp;**Use promo code: SPOOKY to save on tickets**. Register today!
 
 [TFA HAUNTING HALLOWEEN BASH 2023 - Tulsa Foundation for Architecture](https://tulsaarchitecture.org/programs/tfa-distinctive-dwellings-miss-jacksons-house-2-2-4-2-3-2-2-3-2-3-2/?post=5028&amp;page=0){: target="_blank" rel="noreferrer ugc nofollow"}
-
-
 
 Tulsa Foundation for Architecture
 
