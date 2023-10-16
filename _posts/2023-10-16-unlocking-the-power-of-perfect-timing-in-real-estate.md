@@ -2,6 +2,8 @@
 layout: post
 title: Unlocking the Power of Perfect Timing in Real Estate
 date: 2023-10-16 00:00:00
+tags:
+  - Home Seller Tips
 excerpt: Why timing matters when selling your home.
 enclosure:
 pullquote: >-
