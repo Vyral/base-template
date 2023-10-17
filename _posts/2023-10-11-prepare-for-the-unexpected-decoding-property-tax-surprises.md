@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dave-knight-template-3.jpg
-youtube_code: oRLEKr7VYM0
+youtube_code: LCTfC57ea-8
 ---
 {% include youtube.html %}
 
