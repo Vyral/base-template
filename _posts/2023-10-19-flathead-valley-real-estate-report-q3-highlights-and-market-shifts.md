@@ -27,7 +27,7 @@ Welcome to our third-quarter recap of waterfront transactions in the beautiful F
 
 As of now, there are a little over 1,000 homes available for sale in both counties. This year, we've seen almost 1,400 closings, which is a decrease from the nearly 1,700 closings recorded last year. This represents about a 15-16% decrease in the number of transactions. However, pending sales are on the rise, indicating a steady, though not as brisk, market.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 Land sales have seen a significant reduction, with 711 vacant properties available for sale, compared to 600 the previous year. This equates to roughly a 30% decrease in land sales. While there are 140 pending sales, it's clear that there's a shortage of available properties for buyers.
 
