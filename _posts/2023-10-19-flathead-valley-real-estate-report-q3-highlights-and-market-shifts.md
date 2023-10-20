@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/hollinger.jpg
-youtube_code: Jz1g_U717KU
+youtube_code: PBcI8uzuYqw
 ---
 {% include youtube.html %}
 
