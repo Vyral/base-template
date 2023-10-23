@@ -24,5 +24,3 @@ Is your home furnished or unfurnished? If you plan on renting your home out in H
 **This all adds up to a much higher repair cost for you.** Hawaii Pacific Property Management doesn’t take on short-term rentals, and this is part of the reason why.&nbsp;&nbsp;
 
 If you have questions about this topic or anything else, please call or email us. We are always willing to help!
-
-{% include pullquote.html %}
