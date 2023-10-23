@@ -13,11 +13,13 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/2.jpeg
 youtube_code: mrfIonlHDps
 ---
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Is your home furnished or unfurnished? If you plan on renting your home out in Hawaii, this is a critical question. Generally, furnished homes (especially if you are renting them out as a short-term rental, like an Airbnb) come with tons of problems, including broken furniture, missing items, bedbugs, and more. Plus, many renters like to pick and choose which pieces of furniture they want to keep and which ones they want to replace.&nbsp;
 
