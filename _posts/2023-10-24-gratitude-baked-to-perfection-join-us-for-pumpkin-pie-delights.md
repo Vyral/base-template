@@ -21,6 +21,6 @@ Today, we are going to talk about our annual pumpkin pie giveaway, as Thanksgivi
 
 **If you reserve a pie, you can come in, bring your family, and even have your pictures taken at the photo emporium bus.** It's an opportunity to get a head start on your Christmas photos and enjoy a cup of hot chocolate. Come on over to collect your pumpkin pie and whipped cream.
 
-This is our way of expressing gratitude to our clients. It may not be a grand gesture, but it's something special we do every year. If you have any questions, feel free to call me at (907) 240-2804 or send me an email. [Please remember to fill out this RSVP](https://www.eventbrite.com/e/dar-walden-team-annual-thanksgiving-pie-giveaway-registration-733674428967?aff=oddtdtcreator) because we need to order pies based on your response. We look forward to seeing you, your family, kids, dogs, or anyone else who wants to join for holiday pictures.
+This is our way of expressing gratitude to our clients. It may not be a grand gesture, but it's something special we do every year. If you have any questions, feel free to call me at (907) 240-2804 or send me an email. [Please remember to fill out this RSVP](https://www.eventbrite.com/e/dar-walden-team-annual-thanksgiving-pie-giveaway-registration-733674428967?aff=oddtdtcreator) because we need to order pies based on your response. We look forward to seeing you, your family, kids, dogs, or anyone else who wants to join you for holiday pictures.
 
 If you have any questions about our giveaway or anything else, call or email us. We’re always happy to help.
