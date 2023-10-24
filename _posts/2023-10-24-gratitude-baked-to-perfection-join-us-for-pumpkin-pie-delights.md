@@ -15,12 +15,12 @@ youtube_code: xQ3eeP8NWEY
 
 {% include excerpt.html %}
 
-Today, we are going to talk about our annual pumpkin pie giveaway, as Thanksgiving is right around the corner. You may have already received an email, but if not, expect an invitation and an RSVP request to pick up a pumpkin pie on November 22 from 1 p.m. to 6 p.m. at the Keller Williams Building, located at 101 West Benson, which is our office address.
+Today, we are going to talk about our annual pumpkin pie giveaway, as Thanksgiving is right around the corner. You're invited to join us on November 22 from 1 p.m. to 6 p.m. at the Keller Williams Building, located at 101 West Benson, which is our office address. [Click here to RSVP and reserve your pumpkin pie](https://www.eventbrite.com/e/dar-walden-team-annual-thanksgiving-pie-giveaway-registration-733674428967?aff=oddtdtcreator).
 
 {% include pullquote.html %}
 
 **If you reserve a pie, you can come in, bring your family, and even have your pictures taken at the photo emporium bus.** It's an opportunity to get a head start on your Christmas photos and enjoy a cup of hot chocolate. Come on over to collect your pumpkin pie and whipped cream.
 
-This is our way of expressing gratitude to our clients. It may not be a grand gesture, but it's something special we do every year. If you have any questions, feel free to call me at (907) 240-2804 or send me an email. Please remember to fill out the RSVP because we need to order pies based on your response. We look forward to seeing you, your family, kids, dogs, or anyone else who wants to join for holiday pictures.
+This is our way of expressing gratitude to our clients. It may not be a grand gesture, but it's something special we do every year. If you have any questions, feel free to call me at (907) 240-2804 or send me an email. [Please remember to fill out this RSVP](https://www.eventbrite.com/e/dar-walden-team-annual-thanksgiving-pie-giveaway-registration-733674428967?aff=oddtdtcreator) because we need to order pies based on your response. We look forward to seeing you, your family, kids, dogs, or anyone else who wants to join for holiday pictures.
 
 If you have any questions about our giveaway or anything else, call or email us. We’re always happy to help.
