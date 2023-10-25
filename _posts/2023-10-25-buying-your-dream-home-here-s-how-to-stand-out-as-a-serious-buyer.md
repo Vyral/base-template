@@ -10,7 +10,7 @@ pullquote: Securing your dream home requires a strategic approach.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/shutterstock-370794533.jpg
 youtube_code:
 ---
 Are you embarking on the exciting journey of finding your dream home? The process can be both exhilarating and challenging. To enhance your prospects of landing your dream property, consider these three crucial tips that not only empower you but also make you an appealing buyer in the eyes of the seller:
