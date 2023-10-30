@@ -25,7 +25,7 @@ Do you need to sell your house as soon as possible? Maybe you need to relocate f
 
 **1\. Prepare your home before putting it on the market.** The better your home looks, the more interest you’ll generate. Clean, declutter, and depersonalize before listing your home. That means you’ll need to put away your family photos and pack everything into boxes. I also recommend hiring a professional cleaner. They’ll be able to do the job faster and better than even the most motivated amateur. Once your home is in tip-top shape, buyers will be more likely to put in good offers sooner.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 **2\. Take care of any small repairs upfront.** One of the most common issues that stalls a home sale is negotiations over minor repairs. If you want to avoid a drawn-out conversation with your buyer and their agent, take care of any issues before you list your house. Faulty light sockets, old door handles, and other minor problems should be addressed upfront. This way, the inspection and negotiation period can go as smoothly as possible.
 
