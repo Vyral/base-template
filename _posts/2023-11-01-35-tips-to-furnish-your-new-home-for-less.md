@@ -11,7 +11,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/november-2023-mvp-blog-post-image.jpg
 youtube_code:
 ---
-![](/uploads/untitled-design-2-12.jpg){: width="1017" height="383"}<br><br>Buying a new home is one of the most exciting experiences in life. And if you’re like most homebuyers, you’ll be planning your furniture placement and decor before the ink dries on your offer letter.
+![](/uploads/untitled-design-2-12.jpg){: width="1017" height="383"}
+
+<br>Buying a new home is one of the most exciting experiences in life. And if you’re like most homebuyers, you’ll be planning your furniture placement and decor before the ink dries on your offer letter.
 
 But before you run to the nearest home goods store, take a deep breath. First, you’ll need to delay any major purchases before you close on your new home. A large outlay or additional line of credit could lower your credit score and, thus, impact your mortgage terms.1 Second, moving and closing costs can add up quickly, so it’s important to be strategic with your remaining budget.
 
