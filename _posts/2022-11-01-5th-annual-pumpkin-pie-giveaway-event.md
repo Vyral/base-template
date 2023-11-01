@@ -4,7 +4,7 @@ title: 5th Annual Pumpkin Pie Giveaway Event
 date: 2023-11-01 08:00:00
 tags:
   - Real Estate
-excerpt: Our fifth annual pumpkin pie giveaway event starts in a few weeks.
+excerpt: Our 5th Annual Pumpkin Pie Giveaway is coming up! Registration is OPEN now!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -19,7 +19,9 @@ youtube_code: Z8S4_cgBubE
 
 Thanksgiving is just around the corner. Have you reserved your pumpkin pie yet? We are so excited about our fourth annual Pumpkin Pie Giveaway event in just a few weeks.
 
-This year we will give away 1,000 huge pumpkin pies to anyone in the community who registers as our way of saying thank you for your support of our local small business. **If you’d like to reserve a pumpkin pie, just text PIE to 35620, or call [515-777-0144](tel:515-777-0144){: target="_blank" rel="noopener"}!**&nbsp;On Monday, November 20, we’ll have our West Des Moines location giveaway, and on Tuesday, November 21, we’ll have a giveaway in Indianola.
+This year we will give away 1,000 huge pumpkin pies to anyone in the community who registers as our way of saying thank you for your support of our local small business. **If you’d like to reserve a pumpkin pie, just text PIE to 35620, or call [515-777-0144](tel:515-777-0144){: target="_blank" rel="noopener"}, or [CLICK HERE TO ORDER](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank" rel="noopener"}!**&nbsp;
+
+On Monday, November 20, we’ll have our West Des Moines location giveaway, and on Tuesday, November 21, we’ll have a giveaway in Indianola.
 
 If you have a charitable organization or community group that needs a bulk order of pies, we're happy to donate. Just make sure you reach out to us right away so we can add you to the reservation.&nbsp;
 
