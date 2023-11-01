@@ -21,7 +21,7 @@ youtube_code: 9o_fwI8Zrps
 
 {% include excerpt.html %}
 
-<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
 
 
 Do you need to sell your house as soon as possible? Maybe you need to relocate for a new job soon, or perhaps you just don’t want to draw out the hassle of a home sale. Whatever your reason is, you don’t need to worry. I have tons of experience helping homeowners sell their properties quickly. Here are three things I’ve learned that will help you sell as soon as possible without sacrificing your final sales price:
