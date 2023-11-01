@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/schuster.jpg
-youtube_code: 4i4VYjlUU58
+youtube_code: 9o_fwI8Zrps
 ---
 {% include youtube.html %}
 
