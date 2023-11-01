@@ -21,6 +21,8 @@ youtube_code: 9o_fwI8Zrps
 
 {% include excerpt.html %}
 
+<button type="button"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a"></a>See Your Home's Estimated Value Instantly</button>
+
 Do you need to sell your house as soon as possible? Maybe you need to relocate for a new job soon, or perhaps you just don’t want to draw out the hassle of a home sale. Whatever your reason is, you don’t need to worry. I have tons of experience helping homeowners sell their properties quickly. Here are three things I’ve learned that will help you sell as soon as possible without sacrificing your final sales price:
 
 **1\. Prepare your home before putting it on the market.** The better your home looks, the more interest you’ll generate. Clean, declutter, and depersonalize before listing your home. That means you’ll need to put away your family photos and pack everything into boxes. I also recommend hiring a professional cleaner. They’ll be able to do the job faster and better than even the most motivated amateur. Once your home is in tip-top shape, buyers will be more likely to put in good offers sooner.
