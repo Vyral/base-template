@@ -25,7 +25,7 @@ If you have a charitable organization or community group that needs a bulk order
 
 If you have any questions about the event, don’t hesitate to reach out to us. We look forward to seeing you this Thanksgiving.
 
-![](/uploads/event-flyer.jpg){: width="100%" height="100%"}
+[![](/uploads/event-flyer.jpg){: width="100%" height="100%"}](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank" rel="noopener"}
 
 ### **A huge thanks to our amazing sponsors:** &nbsp;
 
