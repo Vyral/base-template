@@ -1,0 +1,9 @@
+<div class="cta-box">
+    <p>
+        {{ site.data.settings.blog.CTA_main_box_markdown | markdownify | remove: '<p>' | remove: '</p>' }}
+
+        <a class="cta" href="{{ site.data.settings.blog.CTA_main_box_link.url }}">
+            {{ site.data.settings.blog.CTA_main_box_link.title }}
+        </a>
+    </p>
+</div>
