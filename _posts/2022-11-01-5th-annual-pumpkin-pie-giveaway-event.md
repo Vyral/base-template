@@ -25,7 +25,7 @@ If you have a charitable organization or community group that needs a bulk order
 
 If you have any questions about the event, don’t hesitate to reach out to us. We look forward to seeing you this Thanksgiving.
 
-![](/uploads/event-flyer.jpg){: width="1220" height="1782"}
+![](/uploads/event-flyer.jpg){: width="100%" height="100%"}
 
 ### **A huge thanks to our amazing sponsors:** &nbsp;
 
