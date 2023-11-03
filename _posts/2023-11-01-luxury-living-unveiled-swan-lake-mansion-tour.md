@@ -20,7 +20,7 @@ youtube_code: 67KmuJ9GUcg
 
 {% include excerpt.html %}
 
-Get ready for a deep dive into the lap of luxury living on Swan Lake. In this full-length video, we explore every nook and cranny of one of the most gorgeous properties available on the market. Complete with a library, theater, spacious master suite, and many other amenities, this is one property that you definitely don’t want to miss.
+Get ready for a deep dive into the lap of luxury living on Swan Lake. In this full-length video, we explore every nook and cranny of one of the most gorgeous properties available on the market. Complete with a library, theater, spacious master suite, and many other amenities, this is one property that you definitely don’t want to miss.&nbsp;&nbsp;**This is a 360 degree video so you can use your mouse (or your finger) to twirl the image around while I'm walking and talking to see anywhere in the video as if you are turning your head.**
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
