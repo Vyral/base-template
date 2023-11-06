@@ -10,7 +10,7 @@ pullquote: Do you have what you need to support your growth in the direction you
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/dave-hooke-ssrec-26.jpg
+youtube_alternate_image: /uploads/dave-hooke-ssrec-28.jpg
 youtube_code: DFxUGuRDBKQ
 ---
 {% include youtube.html %}
