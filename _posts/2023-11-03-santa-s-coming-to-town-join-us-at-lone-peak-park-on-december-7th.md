@@ -27,4 +27,6 @@ It's that time of year when Santa Claus is coming to town! Regardless of whether
 
 In addition to getting your photos taken, you can savor gourmet hot chocolate and gourmet cookies. We'll also have prizes and giveaways for you. More importantly, **we encourage you to bring blankets, coats, and sweaters because we'll be donating them to the Road Home,** an organization in great need of these items during this time of year. Once again, don't forget to mark your calendars for December 7, from 6 p.m. to 8 p.m., at Lone Peak Park.
 
+👉&nbsp;[**Register for the event here!**](https://www.eventbrite.com/e/pictures-with-santa-tickets-746164697697?aff=oddtdtcreator){: target="_blank" rel="noopener"}
+
 We're aiming to make a positive impact by collecting coats and blankets for those in need. For all the details and registration, please click this link or get in touch with your local realty agent. We can't wait to see you for some memorable moments with Santa. If you have any questions about the event, call or email us. We’re happy to hear from you!
