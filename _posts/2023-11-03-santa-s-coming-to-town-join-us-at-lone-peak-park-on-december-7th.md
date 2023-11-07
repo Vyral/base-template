@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Santa’s Coming to Town! Join Us at Lone Peak Park on December 7th
+title: Join Us, Santa’s Coming to Town!
 date: 2023-11-03 07:00:00
 tags:
   - events
