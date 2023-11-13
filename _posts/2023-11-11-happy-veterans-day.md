@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: ''
-youtube_code: shorts/iCSJQ7_5ps0?feature=share
+youtube_code: iCSJQ7_5ps0?feature=share
 hidden: false
 ---
 {% include youtube.html %}
