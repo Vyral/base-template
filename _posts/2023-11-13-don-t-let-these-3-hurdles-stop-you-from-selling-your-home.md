@@ -24,7 +24,7 @@ Are you struggling to sell your home? If you’re a homeowner who is having diff
 
 **1\. Pricing problems.** This is a very common issue, as many homeowners price their homes too high in hopes that it will leave room for them to negotiate down. However, this may end up turning buyers away and losing you money in the end. Today’s buyers are getting smarter, so listen to the feedback you’re getting in open houses, as you may find the common problem is the price. In most cases, you need to lower your price a little, and the right agent can help you do that appropriately based on comparable homes.&nbsp;
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 **2\. Product problems.** Sometimes, there may be a problem with your home. Again, listen to what people say at your open houses and respond to the feedback. Maybe there are renovations or updates you need to make. However, sometimes it can be as simple as decluttering to show that the home has more space. Also, a common problem is staging. The correct staging (including curb appeal, decorations, paint, and much more) will make a huge difference.&nbsp;
 
