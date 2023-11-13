@@ -17,7 +17,7 @@ youtube_code:
 
 But before you run to the nearest home goods store, take a deep breath. First, you’ll need to delay any major purchases before you close on your new home. A large outlay or additional line of credit could lower your credit score and, thus, impact your mortgage terms.1 Second, moving and closing costs can add up quickly, so it’s important to be strategic with your remaining budget.
 
-But don’t worry! There are plenty of ways to save on home essentials, and we’ve rounded up some of our favorites to share with you.&nbsp;
+But don’t worry! There are plenty of ways to save on home essentials, and we’ve rounded up some of our favorites to share with you.&nbsp;<br>
 
 **PRIORITIZE WHAT YOU REALLY NEED BEFORE YOU START SHOPPING**
 
@@ -29,7 +29,7 @@ According to Home Advisor, the national average cost to furnish a new house is $
 * **Calculate your budget.** Figure out how much money you’ll have available for immediate purchases after the sale has closed, and start researching the items on your priority list to understand how they’ll fit into your budget.
 * **Don’t rush the process.** Bringing older items to your new space doesn’t mean you need to keep them forever. Consider hanging onto pieces that can tide you over for a year or two until your bank account has recovered from the costs of a home purchase.&nbsp;
 
-Before you start shopping, make sure you know which appliances and fixtures are included with your home purchase. We can inform you of the standard contract terms when you’re making an initial offer and note any additional items that you would like to request.
+Before you start shopping, make sure you know which appliances and fixtures are included with your home purchase. We can inform you of the standard contract terms when you’re making an initial offer and note any additional items that you would like to request.<br>
 
 **TIME YOUR PURCHASES TO MAKE THE MOST OF SEASONAL SALES**
 
@@ -45,7 +45,7 @@ Did you know that some home items predictably go on sale at certain times of the
 * **Tools:** June
 * **Outdoor furniture**: August through October
 
-Generally speaking, holiday weekends (as well as Black Friday and Cyber Monday) tend to be great times to find deals. If the item you’re looking for is seasonal—like patio furniture or holiday decorations—waiting until the end of that season usually pays off.
+Generally speaking, holiday weekends (as well as Black Friday and Cyber Monday) tend to be great times to find deals. If the item you’re looking for is seasonal—like patio furniture or holiday decorations—waiting until the end of that season usually pays off.<br>
 
 **FIND ALTERNATIVE SHOPPING SOURCES**
 
@@ -58,7 +58,7 @@ Can’t wait for a sale? It’s time to think outside of the box (the big-box st
 * **Expand your window treatment search.** Window treatments can be surprisingly expensive, but it’s often possible to save by buying off-the-shelf offerings in standard sizes. If you need a custom size or material, consider ordering online from a discount supplier and installing them yourself.
 * **Shop secondhand.** In addition to thrift stores and garage sales, Facebook Marketplace, NextDoor, and Craigslist are all great places to find deals in your area.
 
-Are alternative shopping sources still a stretch for your budget? Check out local Freecycle or “Buy Nothing” groups, which are often hosted on Facebook. Participants offer big and small items they no longer need—everything from furniture to clothing hangers—for free to other members.7,8&nbsp;
+Are alternative shopping sources still a stretch for your budget? Check out local Freecycle or “Buy Nothing” groups, which are often hosted on Facebook. Participants offer big and small items they no longer need—everything from furniture to clothing hangers—for free to other members.7,8&nbsp;<br>
 
 **DON’T BE AFRAID TO NEGOTIATE FOR A BETTER DEAL**
 
@@ -71,7 +71,7 @@ Many people don’t realize that prices for home goods, from furniture to applia
 * **Point out scratches or dings to the sales associate.** They may be willing to offer a discount to compensate for the imperfection.
 * **Ask about floor models.** Many stores offer these pieces at a lower price, even if they’re in like-new condition.&nbsp;
 
-After you’ve negotiated a killer deal, don’t forget to ask for free or discounted delivery! Sometimes furniture and appliance stores will offer complimentary delivery or installation if you spend a certain amount or purchase multiple items.
+After you’ve negotiated a killer deal, don’t forget to ask for free or discounted delivery! Sometimes furniture and appliance stores will offer complimentary delivery or installation if you spend a certain amount or purchase multiple items.<br>
 
 **MAKE THE MOST OF REWARD PROGRAMS AND COUPONS**
 
@@ -83,7 +83,7 @@ Every penny counts when you’re on a budget—and spending a little extra time 
 * **Consider store credit cards (carefully).** Store credit cards can offer significant discounts—but only charge items you can pay off right away to avoid interest, and *never* open new lines of credit until your home purchase is complete, since it can affect your credit score.
 * **Enroll in coupon and cashback programs.** When you’re shopping online, programs like Rakuten and Honey can help you find coupon codes and give you cash back on purchases.
 
-While you’re at it, why not set up a housewarming registry?12&nbsp; You can share the link with family and friends if they ask what you need—and you can also use it to score discounts. Many stores offer a percentage off to help you buy unpurchased items on your registry.&nbsp;
+While you’re at it, why not set up a housewarming registry?12&nbsp; You can share the link with family and friends if they ask what you need—and you can also use it to score discounts. Many stores offer a percentage off to help you buy unpurchased items on your registry.&nbsp;<br>
 
 **GET CREATIVE**
 
@@ -94,13 +94,13 @@ If you want to avoid a cookie-cutter home aesthetic—and save a few bucks—try
 * **Reupholster instead of buying new.** If you have a tired-looking sofa or chair that’s still comfortable and stable, think about getting it reupholstered in new fabric instead of replacing it.
 * **Get handy.** Building furniture is certainly not for everyone, but with some basic tools and help from the internet, you may find that simple items like headboards are well within your grasp. You might also be able to repair pieces you already have and avoid shopping altogether.&nbsp;
 
-Do-it-yourself projects can be fun, but they aren’t for everyone. If you’d like some professional help, reach out for a list of our recommended service providers.
+Do-it-yourself projects can be fun, but they aren’t for everyone. If you’d like some professional help, reach out for a list of our recommended service providers.<br>
 
 **WE’RE HERE TO HELP**
 
-We know budgeting for a new home can be overwhelming, and we want to make the process easier for you. If you’re considering a home purchase, we can advise you on a realistic budget and help you review your options. We can also offer insights on other financial considerations and programs and incentives that can help make homeownership more attainable. Reach out for a free consultation.&nbsp;
+We know budgeting for a new home can be overwhelming, and we want to make the process easier for you. If you’re considering a home purchase, we can advise you on a realistic budget and help you review your options. We can also offer insights on other financial considerations and programs and incentives that can help make homeownership more attainable. Reach out for a free consultation.&nbsp;<br><br>
 
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
+*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*<br>
 
 Sources:&nbsp;
 
