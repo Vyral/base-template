@@ -14,10 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1920-obstacles.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Selling your home can be an exciting yet daunting experience. It's often a significant financial transaction, and, understandably, you want everything to go smoothly. To ensure a successful sale and maximize your profits, you need to avoid some common pitfalls that can end up costing you dearly. Today, we'll discuss the top three costly mistakes you must steer clear of when selling your home:
 
 **1\. Pricing incorrectly.** One of the most crucial factors in selling a home is setting the right price. Pricing your home too high can discourage potential buyers, leading to it sitting on the market for extended periods. Conversely, underpricing your property means leaving money on the table. To avoid this mistake, work with a knowledgeable local real estate agent who can conduct a comparative market analysis (CMA) to determine the optimal price for your home. An experienced agent understands the local market's nuances and can help you strike the right balance between a competitive price and maximizing your return on investment.
