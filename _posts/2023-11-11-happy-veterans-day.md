@@ -18,4 +18,4 @@ hidden: false
 ---
 {% include youtube.html %}
 
-The Wolek Group hopes that this Veterans Day, we can all take a moment to honor the sacrifices of our veterans and pay tribute with gratitude. Your patriotism is an example we can aspire too, thank you very much! Happy Veterans Day blue\_heart
+The Wolek Group hopes that this Veterans Day, we can all take a moment to honor the sacrifices of our veterans and pay tribute with gratitude. Your patriotism is an example we can aspire too, thank you very much! Happy Veterans Day.
