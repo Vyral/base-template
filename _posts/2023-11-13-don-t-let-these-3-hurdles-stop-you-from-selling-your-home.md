@@ -20,6 +20,8 @@ youtube_code: s8LDq9fr7bU
 
 {% include excerpt.html %}
 
+<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+
 Are you struggling to sell your home? If you’re a homeowner who is having difficulty selling, know that you’re not alone. Fortunately, there are ways to combat this issue, and we’re here today to talk about them. Here are the top three reasons why your home may not be selling and what to do about them:&nbsp;
 
 **1\. Pricing problems.** This is a very common issue, as many homeowners price their homes too high in hopes that it will leave room for them to negotiate down. However, this may end up turning buyers away and losing you money in the end. Today’s buyers are getting smarter, so listen to the feedback you’re getting in open houses, as you may find the common problem is the price. In most cases, you need to lower your price a little, and the right agent can help you do that appropriately based on comparable homes.&nbsp;
