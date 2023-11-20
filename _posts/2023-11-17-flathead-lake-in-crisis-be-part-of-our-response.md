@@ -21,7 +21,7 @@ This summer posed a significant environmental challenge for Flathead Lake, a con
 
 **A notable consequence of these conditions was Flathead Lake not reaching its full pool level.** This situation escalated to the point where boat owners faced difficulties; some boats were even stranded on the lake due to rapidly dropping water levels. The need to prematurely winterize boats was an unexpected and disheartening outcome for many.
 
-In response to this crisis, I joined an initiative dedicated to preventing such occurrences in the future. The problem wasn't a lack of water; it was a matter of management. This led to the formation of a group known as the National Organization to Save Flathead Lake. Their mission is to collaborate with regulators and lawmakers to implement a long-overdue drought management plan. This plan, though completed a decade ago, was never integrated into the dam's operating permit, leading to the current predicament.
+In response to this crisis, I joined an initiative dedicated to preventing such occurrences in the future. The problem wasn't a lack of water; it was a matter of management. This led to the formation of a group known as the [National Organization to Save Flathead Lake](https://fillthelake.com/){: target="_blank" rel="noopener"}. Their mission is to collaborate with regulators and lawmakers to implement a long-overdue drought management plan. This plan, though completed a decade ago, was never integrated into the dam's operating permit, leading to the current predicament.
 
 {% include pullquote.html %}
 
