@@ -5,7 +5,7 @@ date: 2023-11-27 10:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: 'These are the three proven ways to get huge savings and slash your rates. '
+excerpt:
 enclosure:
 pullquote: >-
   If you want to get the best deal, shop around and compare offers from
