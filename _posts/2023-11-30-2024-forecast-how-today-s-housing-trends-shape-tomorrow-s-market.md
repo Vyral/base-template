@@ -23,7 +23,7 @@ youtube_code: bKWtnw649x0
 
 This graph compares existing home sales with new construction, revealing a significant divide since the rise in interest rates. This divergence is particularly noteworthy, and here's why.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 For those comfortably settled in existing homes with low mortgage rates, the incentive to sell and move into a higher-interest-rate market is minimal. Consequently, **many homeowners are opting to stay put**, a trend I've observed frequently.
 
