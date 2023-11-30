@@ -21,7 +21,7 @@ youtube_code: bKWtnw649x0
 
 Have you ever wondered what the housing market is like these days? It's a question that's been on many minds, and my recent encounters with it have led me to describe it simply as "weird." Let me share a compelling story and graph that highlights what's happening.
 
-![](/uploads/us-new-home-sales-graph-2022-2023.jpg){margin-left: "auto"; margin-right: "auto"; width="50%";"}
+![](/uploads/us-new-home-sales-graph-2022-2023.jpg){margin-left: "auto"; margin-right: "auto"; width="50%";}
 
 This graph compares existing home sales with new construction, revealing a significant divide since the rise in interest rates. This divergence is particularly noteworthy, and here's why.
 
