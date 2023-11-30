@@ -17,7 +17,9 @@ youtube_code: bKWtnw649x0
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}Have you ever wondered what the housing market is like these days? It's a question that's been on many minds, and my recent encounters with it have led me to describe it simply as "weird." Let me share a compelling story and graph that highlights what's happening.
+{% include excerpt.html %}
+
+Have you ever wondered what the housing market is like these days? It's a question that's been on many minds, and my recent encounters with it have led me to describe it simply as "weird." Let me share a compelling story and graph that highlights what's happening.
 
 ![](/uploads/us-new-home-sales-graph-2022-2023.jpg){: width="773" height="515"}
 
