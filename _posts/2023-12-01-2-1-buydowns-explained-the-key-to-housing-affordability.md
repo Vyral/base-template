@@ -14,10 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1920-finding-bank-loan-interest-rates.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 In this housing market, there’s one thing on everyone’s minds: affordability. Ever since interest rates increased, purchasing a home has become much more expensive for most buyers. To make things even worse, we haven’t seen a massive price correction like some experts predicted. In an environment with high home prices and interest rates, what can people do to achieve their dreams of buying a home?&nbsp;
 
 Fortunately, there’s a lending product that can counteract high interest rates: 2-1 buydowns. Let’s go over what this product is, how it works, and how it can help you get into your dream home:
