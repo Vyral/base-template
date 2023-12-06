@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays From Us
+title: 🎄Happy Holidays From Us🎄
 date: 2023-12-06 10:00:00
 tags:
   - Real Estate
