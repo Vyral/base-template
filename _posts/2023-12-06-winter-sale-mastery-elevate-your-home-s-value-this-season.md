@@ -15,10 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/mark-callender-template-12.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Embracing the chillier months as an advantageous time to sell your home might seem counterintuitive, but don't underestimate the unique opportunities that come with showcasing your property during winter. While many homeowners tend to shy away from selling this time of the year, savvy sellers know that with the right strategy, you can get top dollar for your property and reap the benefits of the seasonal change. To help you maximize your home sale price during the colder months, here are three expert tips you can follow:
 
 **1\. Enhance curb appeal despite the season.** First impressions matter, and the exterior of your home sets the tone for a buyer's perception. To make your home stand out, consider adding some winter-friendly decorations, like tasteful outdoor lighting or a seasonal wreath on the front door. Additionally, keep the yard tidy and eye-catching by removing fallen leaves or debris, clearing pathways and driveways of snow and ice, and ensuring that exterior lights are in working order.
