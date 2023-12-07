@@ -23,7 +23,7 @@ youtube_code: lZ9rCYHnAoQ
 
 The truth is that our market has seen a decrease in activity recently due to higher interest rates. This may sound like the start of a market crash, but prices have remained fairly steady since our inventory is so low. In other words, while demand is low, so is supply. **The end result is a fairly balanced and steady market that doesn’t aggressively favor buyers or sellers**, which means you can absolutely still get a great deal for a home if you work with the right people.&nbsp;
 
-{% include pullquote.html %}&nbsp;
+{% include pullquote.html %}
 
 Plus, **the end of the year is always great for investment opportunities.** Sellers are more motivated because they want to move before the new year, so they may be willing to pay for an interest rate buydown that could lower your rate by 2% for the first two years of your loan.&nbsp;
 
