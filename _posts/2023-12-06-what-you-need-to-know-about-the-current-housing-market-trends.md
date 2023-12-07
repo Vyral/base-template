@@ -19,9 +19,9 @@ youtube_code: 7tiaTlT4UoY
 
 Are you feeling overwhelmed by the constant barrage of headlines about the housing market? You're not alone. Many people have reached out to me, seeking clarity on the current situation. Fortunately, I have some insights to share.
 
-**2\. What's happening with mortgage rates?** The truth is, no one can predict with absolute certainty. Currently, rates are high, affecting affordability. However, experts believe they will trend downward over the next year. Encouragingly, in the past two weeks alone, rates have already dropped by almost a point, bringing a sense of relief to prospective homebuyers.
+**1\. What's happening with mortgage rates?** The truth is, no one can predict with absolute certainty. Currently, rates are high, affecting affordability. However, experts believe they will trend downward over the next year. Encouragingly, in the past two weeks alone, rates have already dropped by almost a point, bringing a sense of relief to prospective homebuyers.
 
-**3\. Where are home prices headed?** Concerns about home prices are prevalent. Contrary to fears, prices are not plummeting; rather, they are climbing at a pace typical for this time of year. This upward trajectory is expected to continue, according to experts. This holds true for areas like Louisville and southern Indiana, at least for the time being.
+**2\. Where are home prices headed?** Concerns about home prices are prevalent. Contrary to fears, prices are not plummeting; rather, they are climbing at a pace typical for this time of year. This upward trajectory is expected to continue, according to experts. This holds true for areas like Louisville and southern Indiana, at least for the time being.
 
 {% include pullquote.html %}
 
