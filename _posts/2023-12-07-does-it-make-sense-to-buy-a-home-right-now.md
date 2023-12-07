@@ -21,7 +21,7 @@ youtube_code: lZ9rCYHnAoQ
 
 “Is our market crashing? Does it even make sense to buy a home right now?” We get these questions all the time, and to be honest, we understand why. There’s a lot of doom and gloom in the media right now about our housing market, but that doesn’t mean it’s accurate.&nbsp;
 
-The truth is that our market has seen a decrease in activity recently due to higher interest rates. This may sound like the start of a market crash, but prices have remained fairly steady since our inventory is so low. In other words, while demand is low, so is supply. **The end result is a fairly balanced and steady market that doesn’t aggressively favor buyers or sellers**, which means you can absolutely still get a great deal for a home if you work with the right people.
+The truth is that our market has seen a decrease in activity recently due to higher interest rates. This may sound like the start of a market crash, but prices have remained fairly steady since our inventory is so low. In other words, while demand is low, so is supply. **The end result is a fairly balanced and steady market that doesn’t aggressively favor buyers or sellers**, which means you can absolutely still get a great deal for a home if you work with the right people.&nbsp;
 
 {% include pullquote.html %}&nbsp;
 
