@@ -2,7 +2,6 @@
 layout: post
 title: Why You Should Head Downtown for the Holidays
 date: 2023-12-12 07:00:00
-tags:
 excerpt: From our team to your family, we want to wish you a happy holiday season.
 enclosure:
 pullquote:
