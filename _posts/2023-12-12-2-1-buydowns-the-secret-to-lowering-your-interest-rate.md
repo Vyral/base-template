@@ -27,4 +27,6 @@ Fortunately, there’s a lending product that can counteract high interest rates
 
 The bottom line is that 2-1 buydowns are the best way to purchase a home in this market. If you need to sell, they also make a fantastic incentive to offer to your buyers and keep your listing price high. It's a win-win situation!
 
+If you want to know how much your home is worth, **[click here.](https://thesokolerteam.hifello.com/lp/6424abadcd1ee600194d120c)**
+
 I have plenty of experience negotiating 2-1 buydowns for my clients, so if you have any questions or are interested in buying or selling a home, please call or email me. I am always willing to help!
