@@ -22,13 +22,13 @@ youtube_code: 7cX5qCNDOVU
 
 {% include excerpt.html %}
 
-Flathead Valley is a treasure trove of outdoor activities, and I often get asked by people new to the area about what there is to do. Thanks to the Flathead Trails Association, a collective of various local organizations, we have a wealth of activities to engage in, no matter the season.
+Flathead Valley is a treasure trove of outdoor activities, and I often get asked by people new to the area about what there is to do. Thanks to the **[Flathead Trails Association](https://www.flatheadtrails.org/partners){: target="_blank" rel="noopener"}**, a collective of various local organizations, we have a wealth of activities to engage in, no matter the season.
 
 For those interested in exploring the great outdoors, there's something for everyone. From the scenic trails of Glacier Park and the North Fork Trails to Nordic trails for cross-country skiing enthusiasts, the options are endless. **The area also offers excellent opportunities for snowmobiling, with designated areas to enjoy the sport amidst stunning landscapes.**
 
 For hikers, the Bob Marshall Wilderness is a major attraction, offering extensive trails for both day hikes and overnight backpacking. Horseback riding and packing into the mountains are also popular activities, supported by local associations like the Backcountry Horse Association, which offers advice and connections for equestrian enthusiasts.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 Cycling enthusiasts can enjoy a variety of bike trails, including mountain biking facilities and paved trails around highways, streets, and neighborhoods. Boating enthusiasts are not left out either, with lake and river access websites providing information on canoeing, rafting, kayaking, and fishing.
 
