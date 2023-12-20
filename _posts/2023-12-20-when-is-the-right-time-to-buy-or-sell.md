@@ -25,7 +25,7 @@ Often, people buy or sell a home because of a major life event or for financial 
 
 **2\. Interest rates fluctuate.** Most people need a mortgage to buy a home, so knowing what is going on with interest rates can only help you. Though interest rates were very low at the beginning of 2022, they’ve been increasing. Your agent can put you in touch with a local lender to get the best rate possible.
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 **3\. Seasons change.** Traditionally, spring is a strong selling season. However, today’s buyers are looking at homes online every day, no matter the season. Don’t try to time the market based on old assumptions about seasons. It is more important to show your home when it is in its best condition possible. Price your home right and it will sell, no matter what time of year you enter the market.&nbsp;
 
