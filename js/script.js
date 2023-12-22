@@ -209,3 +209,8 @@ document.getElementById("contact-form").addEventListener("submit", function(even
     // Redirect to another page (e.g., "redirect-page.html")
     window.location.href = "redirect-page.html";
 });
+
+function onSubmit(token) {
+  console.log('called')
+  document.getElementById("contact-form").submit();
+}
