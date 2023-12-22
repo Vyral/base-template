@@ -212,5 +212,6 @@ document.getElementById("contact-form").addEventListener("submit", function(even
 
 function onSubmit(token) {
   console.log('called')
+  window.location.href = '/thankyou';
   document.getElementById("contact-form").submit();
 }
