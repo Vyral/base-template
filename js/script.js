@@ -202,15 +202,6 @@ $('.feedlink').click(function(){
 	});
 });
 
-
-document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent the default form submission
-    console.log('called')
-    // Redirect to another page (e.g., "redirect-page.html")
-    window.location.href = "redirect-page.html";
-});
-
-function onSubmit(token) {
-  console.log('called')
+function onSubmit() {
   window.location.href = '/thankyou';
 }
