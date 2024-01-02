@@ -21,9 +21,7 @@ Lower mortgage rates should bring some much-needed movement back into the real e
 
 What does that mean for you? Read on to learn more about the current state of the U.S. housing market, the potential opportunities for buyers and sellers, and economists’ predictions for the year ahead.
 
-
-
-**HOME PRICES WILL REMAIN RELATIVELY STABLE**
+<br>**HOME PRICES WILL REMAIN RELATIVELY STABLE**
 
 Not even 8% mortgage rates could bring home prices crashing down in 2023, as some prospective home buyers may have hoped. In fact, on average, U.S. property values ended the year higher—with declines in some areas of the country offset by appreciation in others.6
 
@@ -39,9 +37,7 @@ However, experts widely agree: Mortgage rates will be the largest driver of prop
 >
 > And if you’ve been waiting to sell your home, this could be your year. Price growth has slowed, so now is the time to maximize your equity gains while minimizing your competition. Contact us for recommendations and to find out what your home could sell for in today’s market.
 
-
-
-**MORTGAGE RATES SHOULD FINALLY TREND DOWN**
+<br>**MORTGAGE RATES SHOULD FINALLY TREND DOWN**
 
 The best news we've got incoming for 2024? The extra-high mortgage rates that have weighed heavily on the real estate market may finally be headed south.
 
@@ -53,13 +49,11 @@ The average 30-year fixed mortgage rate has already declined from an October hig
 
 However, it’s not all good news: It appears that the days of 3% mortgage rates are firmly behind us. “As long as the economy continues to motor along, the new normal of higher rates is here to stay,” explains Greg McBride, chief financial analyst for Bankrate.4 So, when it comes to a home loan, borrowers may need to adjust their expectations.
 
-> ***What does it mean for you?***&nbsp; **&nbsp; **&nbsp; If you're a prospective home buyer, declining mortgage rates could give you the opportunity to lock in a more affordable monthly payment. And if you purchase before the market reheats, you could secure an especially good deal. To find the lowest rate, it pays to compare lenders. Ask us to refer you to a mortgage broker who can help you shop around for the best option.
+> ***What does it mean for you?***&nbsp; \*\*&nbsp; \*\*&nbsp; If you're a prospective home buyer, declining mortgage rates could give you the opportunity to lock in a more affordable monthly payment. And if you purchase before the market reheats, you could secure an especially good deal. To find the lowest rate, it pays to compare lenders. Ask us to refer you to a mortgage broker who can help you shop around for the best option.
 >
 > Sellers also have reason to celebrate buyers' lower interest rates: As the barriers to entry to the housing market decline, they could enjoy more or better offers. Reach out to discuss how we can help you maximize your home’s sales potential.
 
-
-
-**LOWER RATES WILL BRING SOME BUYERS AND SELLERS BACK TO THE MARKET**
+<br>**LOWER RATES WILL BRING SOME BUYERS AND SELLERS BACK TO THE MARKET**
 
 Over the past couple of years, higher mortgage rates have cooled home buyer demand. They’ve also delayed the plans of many home sellers, who have been reluctant to trade in their current mortgages for loans that are several points higher.&nbsp;
 
@@ -75,9 +69,7 @@ There’s also evidence that the patience of holdout home buyers may be waning, 
 >
 > If you’re hoping to sell this year, you may also want to act fast. An increase in listings will make it harder for your home to stand out. We can help you chart the best course to maximize your profits, starting with a professional assessment of your home’s current market value. Reach out to schedule a free consultation.
 
-
-
-**THE HOUSING SUPPLY SHORTAGE WILL PERSIST**
+<br>**THE HOUSING SUPPLY SHORTAGE WILL PERSIST**
 
 Will home buyers who are eager for options have more homes to choose from this year?
 
@@ -93,19 +85,15 @@ According to First American Financial Corporation’s Chief Economist Mark Flemi
 >
 > While sellers will continue to benefit from the low-inventory environment, they should be prepared to compete against brand-new homes. We can help you prep your property for the market and highlight the features most likely to appeal to today’s buyers.
 
-
-
-**WE'RE HERE TO GUIDE YOU**&nbsp;
+<br>**WE'RE HERE TO GUIDE YOU**&nbsp;
 
 While national real estate forecasts can give you a “big picture” outlook, real estate is local. And as local market experts, we know what's most likely to impact sales and drive home values in your neighborhood. As a trusted partner in your real estate journey, we'll keep our ears to the ground so that we can guide you through the market's twists and turns.
 
 If you’re considering buying or selling a home in 2024, contact us now to schedule a free consultation. Let’s work together and craft an action plan to meet your real estate goals.
 
+<br><br><br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
 
-
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
-
-Sources:
+<br>Sources:
 
 1. CNN -<br>[https://www.cnn.com/2023/10/19/homes/existing-home-sales-september/index.html](https://www.cnn.com/2023/10/19/homes/existing-home-sales-september/index.html)
 2. Goldman Sachs -​[https://www.gspublishing.com/content/research/en/reports/2023/10/23/2d814362-a656-4cb3-8586-bea8591188e3.html](https://www.gspublishing.com/content/research/en/reports/2023/10/23/2d814362-a656-4cb3-8586-bea8591188e3.html)
