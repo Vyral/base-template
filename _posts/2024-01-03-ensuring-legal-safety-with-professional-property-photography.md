@@ -15,9 +15,7 @@ youtube_code: S_RLB_Kw03c
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
-​​​​
+{% include excerpt.html %}​​​​
 
 A common question we often receive is whether we use professional photos for our property listings. The answer is a resounding yes, and there are several crucial reasons for this.
 
