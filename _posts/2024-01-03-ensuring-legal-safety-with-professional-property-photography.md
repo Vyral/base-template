@@ -17,7 +17,7 @@ youtube_code: S_RLB_Kw03c
 
 {% include excerpt.html %}​​​​
 
-A common question we often receive is whether we use professional photos for our property listings. The answer is a resounding yes, and there are several crucial reasons for this.
+A common question we often receive is whether we use professional photos for our property listings. The answer is a resounding yes, and there are several crucial reasons for this:
 
 **1\. Documenting property conditions.** Each time a new tenant occupies one of your units, or whenever a unit goes vacant, we ensure to capture its current state through professional photos and videos. This practice is not universally adopted in the industry, as some companies may rely on outdated images, assuming the property remains unchanged. However, our approach is different.
 
@@ -25,4 +25,4 @@ A common question we often receive is whether we use professional photos for our
 
 **3\. No additional cost.**&nbsp; Perhaps the best part of this service is that it comes at no extra cost to you. By choosing to work with us, you are not only ensuring the best presentation of your property but also fortifying your legal standing, all without incurring additional expenses.
 
-For more information or to discuss how our professional photography can benefit your property management experience, please don’t hesitate to give us a call.
+For more information or to discuss how our professional photography can benefit your property management experience, please don’t hesitate to give us a call. We look forward to hearing from you!
