@@ -19,7 +19,7 @@ youtube_code: Uw9a4Qqrtl8
 
 {% include excerpt.html %}
 
-Today, I'll address three commonly asked questions about these three topics: mortgage rates, housing prices, and the possibility of a recession.
+Today, I'll address three commonly asked questions about these topics: mortgage rates, housing prices, and the possibility of a recession.
 
 Firstly, regarding mortgage rates, **recent news suggests no expected increases this year,** with a slight decrease in interest rates recently. This trend indicates positive news for borrowers.
 
