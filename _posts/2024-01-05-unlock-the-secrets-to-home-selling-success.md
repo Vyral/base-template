@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Unlock the Secrets to Home Selling Success
-date: 2024-01-05 07:00:00
+date: 2024-01-08 07:00:00
 tags:
   - Home Seller Tips
 excerpt: Join our virtual webinar for insights into maximizing your sale price.
 enclosure:
-pullquote: Sign up today for one of the upcoming sessions
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +23,9 @@ Here's the crucial point: if you delay listing your home until spring, you're mi
 
 The real estate market shifted significantly last year, but there's excellent news. **Interest rates are finally on the decline.** So, whether you're planning to move in the next few months or even years, you don't want to miss the upcoming spring market. This webinar provides invaluable information on how to maximize your home's sale price and offers a customized blueprint for your success.
 
-{% include pullquote.html %}
+##### [**Reserve Your Spot - Sign Up Today**](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
+
+#####
 
 As an added bonus, everyone who registers for this virtual webinar will receive John Schuster's free 40-page home marketing guide. **It's your ticket to gaining an unfair advantage when selling your home.**
 
