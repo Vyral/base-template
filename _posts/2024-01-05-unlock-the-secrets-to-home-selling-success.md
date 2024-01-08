@@ -25,7 +25,7 @@ The real estate market shifted significantly last year, but there's excellent ne
 
 ##### [**Reserve Your Spot - Sign Up Today**](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
 
-#####
+
 
 As an added bonus, everyone who registers for this virtual webinar will receive John Schuster's free 40-page home marketing guide. **It's your ticket to gaining an unfair advantage when selling your home.**
 
