@@ -27,4 +27,4 @@ The real estate market shifted significantly last year, but there's excellent ne
 
 As an added bonus, everyone who registers for this virtual webinar will receive John Schuster's free 40-page home marketing guide. **It's your ticket to gaining an unfair advantage when selling your home.**
 
-Sign up today for one of the upcoming sessions on Tuesday, January 30, at 11 a.m. or 6 p.m., or Thursday, February 1, at 11 a.m. or 6 p.m. Space is limited, so secure your spot now. You'll thank yourself later for taking action and not waiting for spring!
+[Sign up today](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"} for one of the upcoming sessions on Tuesday, January 30, at 11 a.m. or 6 p.m., or Thursday, February 1, at 11 a.m. or 6 p.m. Space is limited, so secure your spot now. You'll thank yourself later for taking action and not waiting for spring!
