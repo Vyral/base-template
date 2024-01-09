@@ -30,10 +30,9 @@ client:
   url: http://www.BuyBoise.net
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://brent.buyboise.net/sell.php
+  first_CTA_URL: https://www.buyboise.net/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: >-
-    http://www.buyboise.net/index.php?quick=1&display=Boise%2C+&areas[]=city%3ABoise&types[]=1&beds=0&baths=0&min=0&max=100000000
+  second_CTA_URL: https://www.buyboise.net/search/advanced_search/
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808809';</script><script
