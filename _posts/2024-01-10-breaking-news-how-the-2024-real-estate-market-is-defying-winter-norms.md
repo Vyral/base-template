@@ -32,4 +32,4 @@ Moreover, large down payments are still prevalent among buyers, even as rates ha
 
 We anticipate a strong spring selling market ahead. If you have any questions or need guidance in navigating the current real estate landscape, don't hesitate to call or send us an email.&nbsp;
 
-<br>Happy New Year, and may your 2024 be filled with real estate success!
+Happy New Year, and may your 2024 be filled with real estate success!
