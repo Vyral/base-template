@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Breaking News: How the 2024 Real Estate Market is Defying Winter Norms'
+title: How the 2024 Real Estate Market is Defying Winter Norms
 date: 2024-01-10 00:00:00
 tags:
   - Market Update
