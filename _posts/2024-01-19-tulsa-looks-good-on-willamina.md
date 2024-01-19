@@ -18,7 +18,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-# Willamina: Where Style Meets Community!
+## Willamina: Where Style Meets Community!
 
 Tulsa, with its vibrant charm, has a gem in the form of Willamina, a delightful boutique owned by Paige. In this blog post, we'll take a closer look at the story behind Willamina, Paige's journey to Tulsa, and the unique challenges and successes she has encountered.
 
