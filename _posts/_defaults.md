@@ -16,6 +16,4 @@ youtube_code:
 
 {% include excerpt.html %}
 
-{% include HVButton.html %}
-
 {% include pullquote.html %}
