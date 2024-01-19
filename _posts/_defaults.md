@@ -4,7 +4,6 @@ title:
 date:
 tags:
 excerpt:
-HVButton: True
 enclosure:
 pullquote:
 enclosure_type: video/mp4
