@@ -17,6 +17,8 @@ youtube_code: bhS-QL1V8k0
 
 {% include excerpt.html %}
 
+<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+
 Winter is here, or at least, it's supposed to be. Allegedly, snow and ice will make their appearance, but before you know it, spring will be upon us. If you're considering selling your home, waiting until spring might not be your best move.
 
 Here's the crucial point: if you delay listing your home until spring, you're missing out on a golden opportunity. You need to take action right now. You can even sign up for a free 45-minute virtual webinar, all from the comfort of your sofa and your home.
