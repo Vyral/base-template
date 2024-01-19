@@ -16,6 +16,6 @@ youtube_code:
 
 {% include excerpt.html %}
 
-<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+{% include HVButton.html %}
 
 {% include pullquote.html %}
