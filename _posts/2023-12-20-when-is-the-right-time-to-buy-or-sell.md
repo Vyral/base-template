@@ -14,12 +14,13 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-15-23-yt.jpg
 youtube_code: h921cUMr6J8
+hidden: true
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-<div class="text-center"><button type="button">See Your Home's Estimated Value Instantly</button></div>
+<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
 
 Often, people buy or sell a home because of a major life event or for financial reasons. However, if you have the option of choosing when to enter the real estate market, there are a few points you should consider:
 
