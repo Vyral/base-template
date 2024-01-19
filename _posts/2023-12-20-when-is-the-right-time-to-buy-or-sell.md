@@ -19,6 +19,8 @@ youtube_code: 2_BCPm5ZvP8
 
 {% include excerpt.html %}
 
+<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+
 Often, people buy or sell a home because of a major life event or for financial reasons. However, if you have the option of choosing when to enter the real estate market, there are a few points you should consider:
 
 **1\. Every market is different.** Just because the national news says that home prices are rising, homes are selling quickly, and multiple offers are common, doesn’t mean that’s what is happening in your area. Real estate markets can vary even within the same county. Timing is everything in real estate because it can impact both the sale price and your chances of submitting the winning bid. Your local agent will help you stay informed about market trends in your area.&nbsp;
