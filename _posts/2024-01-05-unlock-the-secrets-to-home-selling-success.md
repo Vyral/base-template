@@ -23,8 +23,8 @@ Here's the crucial point: if you delay listing your home until spring, you're mi
 
 The real estate market shifted significantly last year, but there's excellent news. **Interest rates are finally on the decline.** So, whether you're planning to move in the next few months or even years, you don't want to miss the upcoming spring market. This webinar provides invaluable information on how to maximize your home's sale price and offers a customized blueprint for your success.
 
-##### [**Reserve Your Spot - Sign Up Today**](https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a){: target="_blank" rel="noopener"}
+##### [**Reserve Your Spot - Sign Up Today**](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
 
 As an added bonus, everyone who registers for this virtual webinar will receive John Schuster's free 40-page home marketing guide. **It's your ticket to gaining an unfair advantage when selling your home.**
 
-[Sign up today](https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a){: target="_blank" rel="noopener"} for one of the upcoming sessions on Tuesday, January 30, at 11 a.m. or 6 p.m., or Thursday, February 1, at 11 a.m. or 6 p.m. Space is limited, so secure your spot now. You'll thank yourself later for taking action and not waiting for spring!
+[Sign up today](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"} for one of the upcoming sessions on Tuesday, January 30, at 11 a.m. or 6 p.m., or Thursday, February 1, at 11 a.m. or 6 p.m. Space is limited, so secure your spot now. You'll thank yourself later for taking action and not waiting for spring!
