@@ -17,8 +17,6 @@ youtube_code: ok8elLTZsdw
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 As we progress into 2024, there's good news on the horizon for potential homebuyers and sellers. Last year, we saw mortgage rates peak near 8%, but recently, they've been trending downward. This change, even if it seems small, can have a significant impact on the real estate market.
 
 **A decrease in mortgage rates can substantially affect how much home you can afford.** For instance, let’s consider a home loan of $400,000. As mortgage rates drop, so does your monthly mortgage payment. This is crucial for both buyers and sellers, as it directly influences purchasing power and market dynamics.
