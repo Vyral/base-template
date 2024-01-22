@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mortgage Rates Trend Downward: A 2024 Market Analysis'
-date: 2024-01-18 08:00:00
+date: 2024-01-17 07:00:00
 tags:
   - Market Update
 excerpt: Explore how 2024’s lower mortgage rates can enhance your home buying.
