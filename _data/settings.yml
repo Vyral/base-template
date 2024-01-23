@@ -35,12 +35,12 @@ client:
   market: St. George
   brand: The Larkin Group
   brokerage: KW Realty
-  address: '50 East 100 South #300<br>St. George, UT 84770'
+  address: 695 E Tabernacle St<br>St. George, UT 84770
   phone: 435-375-3462
   phone_type:
   phone2:
   phone2_type:
-  email: sales@GoStGeorge.Com
+  email: sales@GoStGeorge.com
   url: http://www.GoStGeorge.com
 CTAs:
   first_CTA_text: Home Valuation
