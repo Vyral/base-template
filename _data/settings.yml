@@ -18,20 +18,20 @@ emma_form: >-
 client:
   name: Jeremy Larkin
   license_number:
-  about_markdown: >
+  about_markdown: >-
     The Larkin Group is a (dangerously) local Full-Service Real Estate Team
     located in St. George, Utah, serving Santa Clara, Ivins, Washington City,
     The Hurricane Valley and surrounding areas.
 
 
     Delivering Pizzas and Papers to St. George neighborhoods before most Agents
-    had even heard of the place, our slogan has aptly become <strong>"We KNOW
-    This Town!"</strong>
+    had even heard of the place, our slogan has aptly become **"We KNOW This
+    Town!"**
 
 
     It's about more than just buying or selling, it's understanding intimately
-    the local culture, traditions and "vibe" of a given area. <strong>WE
-    UNDERSTAND THOSE THINGS. INTIMATELY.</strong>
+    the local culture, traditions and "vibe" of a given area. **WE UNDERSTAND
+    THOSE THINGS. INTIMATELY.**
   market: St. George
   brand: The Larkin Group
   brokerage: KW Realty
@@ -115,7 +115,7 @@ podcast:
     buyer
   author: '-- CLIENT NAME --'
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/jeremy-larkin-1.png
   hero_logo_path: /img/logo.png
   hero_background_hex: '#999999'
   hero_image_path: /uploads/untitled-design-31.png
