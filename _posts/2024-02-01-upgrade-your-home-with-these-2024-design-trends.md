@@ -15,9 +15,9 @@ youtube_code:
 
 Even so, it’s always smart to think about the long-term impact those decisions might have on your home’s value. Choosing over-personalized or unpopular materials and finishes could make your home less appealing to future buyers. And selecting out-of-style or overly-trendy elements could cause your home to feel dated quickly.
 
-To help inspire your design choices, we’ve rounded up some of the top trends we’re watching in 2024. Keep in mind, not all of these will work well in every house. If you plan to list or renovate your property, give us a call. We can help you realize your vision and maximize the impact of your investment.<br>
+To help inspire your design choices, we’ve rounded up some of the top trends we’re watching in 2024. Keep in mind, not all of these will work well in every house. If you plan to list or renovate your property, give us a call. We can help you realize your vision and maximize the impact of your investment.
 
-&nbsp; &nbsp; &nbsp; **1. Spa-Like Bathrooms**
+<br>&nbsp; &nbsp; &nbsp; **1\. Spa-Like Bathrooms**
 
 We could all use a little more relaxation in our lives—so why not bring the spa into your home? In 2024, more homeowners will remodel their bathrooms to turn them into personal oases.1,2
 
@@ -25,9 +25,9 @@ If you’re undertaking a renovation, consider upgrading fixtures and materials.
 
 If you want to maximize the mind-body benefits of a relaxing bathroom (and have the budget to spare), you might consider installing a steam shower, infrared sauna, or cold plunge tub.3 Not looking to spend as much? Even minor upgrades like a massaging showerhead or heated towel bar can add some pampering to your morning routine.3
 
-But remember, if you’re modifying your bathroom, it’s always wise to work with experienced and licensed professionals to avoid water damage that could lead to costly repairs. We can refer you to a trusted contractor for help.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/1.jpeg){: width="500" height="332"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Photo by - [Browse bathroom photos](https://www.houzz.com/photos/bathroom-ideas-phbr0-bp~t_712){: target="_blank" rel="noopener"}<br>
+But remember, if you’re modifying your bathroom, it’s always wise to work with experienced and licensed professionals to avoid water damage that could lead to costly repairs. We can refer you to a trusted contractor for help.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/1.jpeg){: width="500" height="332"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Photo by - [Browse bathroom photos](https://www.houzz.com/photos/bathroom-ideas-phbr0-bp~t_712){: target="_blank" rel="noopener"}
 
-&nbsp; &nbsp; &nbsp; **2. Maximalist Decor**
+<br>&nbsp; &nbsp; &nbsp; **2\. Maximalist Decor**
 
 In 2024, maximalism is back in vogue, contrasting the neutral aesthetic that dominated design in recent years. While maximalism can be summed up as “more is more,” there’s nothing sloppy or cluttered about this look. Instead, it’s all about intentional curation.4
 
@@ -35,9 +35,9 @@ Hallmarks of maximalist style include rich and saturated colors, bold wallpaper,
 
 If you’re trying to embrace maximalism on a budget, check out thrift stores. They’re often a great place to find unique furniture, colorful rugs, and interesting art or collectibles. Before you invest in rolls of vintage wallpaper, though, it’s important to note—if you plan to sell your home in the near future, the maximalist look won’t appeal to every buyer.
 
-We typically advise sellers to remove clutter and personal items to help buyers imagine their own future lives within the home. Sometimes, that means repainting or redecorating in a more neutral palette. Of course, this shouldn’t stop you from embracing your own style now—just be aware that you may need to walk back your aesthetic prior to selling. We can advise you when the time comes.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/2.jpeg){: width="500" height="338"}<br>​​​​​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Noz Design](https://www.houzz.com/professionals/interior-designers-and-decorators/noz-design-pfvwus-pf~1325401364){: target="_blank" rel="noopener"} - [Search living room design ideas](https://www.houzz.com/photos/living-room-ideas-phbr0-bp~t_718){: target="_blank" rel="noopener"}<br>
+We typically advise sellers to remove clutter and personal items to help buyers imagine their own future lives within the home. Sometimes, that means repainting or redecorating in a more neutral palette. Of course, this shouldn’t stop you from embracing your own style now—just be aware that you may need to walk back your aesthetic prior to selling. We can advise you when the time comes.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/2.jpeg){: width="500" height="338"}<br>​​​​​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Noz Design](https://www.houzz.com/professionals/interior-designers-and-decorators/noz-design-pfvwus-pf~1325401364){: target="_blank" rel="noopener"} - [Search living room design ideas](https://www.houzz.com/photos/living-room-ideas-phbr0-bp~t_718){: target="_blank" rel="noopener"}
 
-&nbsp; &nbsp; &nbsp; **3. Japandi Style**
+&nbsp; &nbsp;<br>&nbsp; **3\. Japandi Style**
 
 Not quite ready to embrace maximalism? Japandi style, which blends Japanese and Scandinavian influences, offers a more subdued approach that still has plenty of character. The look dates back about 150 years to a time when many Scandinavian designers were traveling to Japan for inspiration.5
 
@@ -45,9 +45,9 @@ Japandi style brings together clean lines, simplicity, and a focus on natural el
 
 Interested in playing with Japandi? Common features include calming color palettes and organic materials like raw wood and bamboo. Try softening harsh edges with softer textures, like cozy blankets and ceramic pieces.
 
-The look also minimizes clutter, but that doesn’t mean you need to be a minimalist. Instead, Japandi style embraces storage solutions like baskets, folding screens, and sofas with built-in storage to give everything a place.6 If you’d like some help implementing Japandi-style organization in your home, contact us for a list of recommended professionals.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/3.jpeg){: width="500" height="506"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Eric Miller Interiors](https://www.houzz.com/professionals/interior-designers-and-decorators/eric-miller-interiors-pfvwus-pf~1260107766){: target="_blank" rel="noopener"} - [Discover bedroom design inspiration](https://www.houzz.com/photos/bedroom-ideas-and-designs-phbr0-bp~t_715){: target="_blank" rel="noopener"}<br>
+The look also minimizes clutter, but that doesn’t mean you need to be a minimalist. Instead, Japandi style embraces storage solutions like baskets, folding screens, and sofas with built-in storage to give everything a place.6 If you’d like some help implementing Japandi-style organization in your home, contact us for a list of recommended professionals.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/3.jpeg){: width="500" height="506"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Eric Miller Interiors](https://www.houzz.com/professionals/interior-designers-and-decorators/eric-miller-interiors-pfvwus-pf~1260107766){: target="_blank" rel="noopener"} - [Discover bedroom design inspiration](https://www.houzz.com/photos/bedroom-ideas-and-designs-phbr0-bp~t_715){: target="_blank" rel="noopener"}
 
-&nbsp; &nbsp; &nbsp; **4. Mixed Metals**
+<br>&nbsp; &nbsp; &nbsp; **4\. Mixed Metals**
 
 Mixing metals used to be a “no-no.” But in 2024, it’s definitely a “yes.”
 
@@ -59,9 +59,9 @@ Some designers recommend using each metal at least twice in a room to make it lo
 
 Finally, you might think about playing with undertones (brass is warm, chrome is cool) to change the “temperature” of a room. And don’t be afraid of a little shine—many designers predict that a retro, high-polished look will replace matte finishes in 2024.8
 
-Want some help sourcing fixtures and hardware in a variety of finishes? Reach out for a list of our favorite retailers.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/4.jpeg){: width="500" height="334"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Photo by Jessica Koltun Home](https://www.houzz.com/professionals/real-estate-agents/jessica-koltun-home-pfvwus-pf~687930931){: target="_blank" rel="noopener"} - [More bathroom photos](https://www.houzz.com/photos/bathroom-ideas-phbr0-bp~t_712){: target="_blank" rel="noopener"}<br>
+Want some help sourcing fixtures and hardware in a variety of finishes? Reach out for a list of our favorite retailers.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/4.jpeg){: width="500" height="334"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Photo by Jessica Koltun Home](https://www.houzz.com/professionals/real-estate-agents/jessica-koltun-home-pfvwus-pf~687930931){: target="_blank" rel="noopener"} - [More bathroom photos](https://www.houzz.com/photos/bathroom-ideas-phbr0-bp~t_712){: target="_blank" rel="noopener"}
 
-&nbsp; &nbsp; &nbsp; **5. Wood Cabinetry And Accents**
+&nbsp;<br>&nbsp; &nbsp; **5\. Wood Cabinetry And Accents**
 
 The all-white kitchen has been ubiquitous in recent years. But in 2024, classic wood cabinetry is back in a big way.9 In fact, industry professionals surveyed by the National Kitchen & Bath Association predict that wood cabinets will be more popular than white in the next three years.10
 
@@ -71,9 +71,9 @@ The addition of wood-grain accents to painted kitchen cabinets—like with a con
 
 You can also expect to see more wood in bathrooms in 2024. According to Houzz, last year, wood vanities surpassed white in popularity for the first time in recent years, and designers expect the trend to continue.12 While white countertops and walls still dominate bathrooms, a wood-grained vanity brings a relaxed, organic element into the space.
 
-Dreaming about new cabinets or hardwood floors? We’d be happy to share a list of recommended trade professionals who can help.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/6.jpeg){: width="500" height="398"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Great Rooms Building Group](https://www.houzz.com/professionals/design-build-firms/great-rooms-building-group-pfvwus-pf~1476412939){: target="_blank" rel="noopener"} - [Look for kitchen pictures](https://www.houzz.com/photos/kitchen-ideas-and-designs-phbr0-bp~t_709){: target="_blank" rel="noopener"}<br>
+Dreaming about new cabinets or hardwood floors? We’d be happy to share a list of recommended trade professionals who can help.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/6.jpeg){: width="500" height="398"}<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Photo by Great Rooms Building Group](https://www.houzz.com/professionals/design-build-firms/great-rooms-building-group-pfvwus-pf~1476412939){: target="_blank" rel="noopener"} - [Look for kitchen pictures](https://www.houzz.com/photos/kitchen-ideas-and-designs-phbr0-bp~t_709){: target="_blank" rel="noopener"}
 
-&nbsp; &nbsp; &nbsp; **6. Timeless Renovations**
+<br>&nbsp; &nbsp; &nbsp; **6\. Timeless Renovations**
 
 In its latest Kitchen Trends Study, Houzz found that “nearly half of homeowners (47%) opt for a timeless design as a sustainable choice during renovations.” Respondents cited long-term cost effectiveness and environmental consciousness as their main motivators.14
 
@@ -87,13 +87,9 @@ If you’re thinking about remodeling, it’s wise to incorporate as many classi
 
 If you’re thinking about making design changes—whether that’s repainting or a full remodel—it’s important to be informed about how your choices could impact your home’s resale potential. Buyer preferences can vary significantly based on your home’s neighborhood and price point. Before you begin your project, reach out to discuss your plans and how they could impact the value of your home.
 
+<br><br>*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
 
-
-*The above references an opinion and is for informational purposes only.&nbsp; It is not intended to be financial, legal, or tax advice. Consult the appropriate professionals for advice regarding your individual needs.*
-
-
-
-Sources:
+<br>Sources:
 
 1. HGTV -<br>[https://www.hgtv.com/design/decorating/design-101/2024-home-and-garden-design-trends](https://www.hgtv.com/design/decorating/design-101/2024-home-and-garden-design-trends-pictures#:~:text=Expect%20to%20see%20more%20indoor,between%20the%20interior%20and%20exterior.%22)
 2. The Spruce -<br>[https://www.thespruce.com/2024-design-trends-8411457](https://www.thespruce.com/2024-design-trends-8411457)&nbsp;
