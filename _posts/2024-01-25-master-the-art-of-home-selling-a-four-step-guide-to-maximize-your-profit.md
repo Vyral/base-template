@@ -18,7 +18,7 @@ youtube_code: g_aoc6vWfeM
 
 {% include excerpt.html %}
 
-Are you ready to sidestep the stress of selling and maximize your profit at the same time? Today I’ll guide you through the four-step home selling process:
+Are you ready to sidestep the stress of selling and maximize your profit at the same time? Today, I’ll guide you through the four-step home selling process:
 
 **1\. Prepare your home for sale.** The first crucial step in the home selling process is preparing your home. While staging is an option, it's more about ensuring your home shows and smells its absolute best. Investing time and, if necessary, money in this step is essential for attracting potential buyers. We provide a detailed "34 Steps to Greatness" document to guide sellers through the process, ensuring your property is presented in the best light.
 
