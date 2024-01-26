@@ -28,7 +28,7 @@ hidden: false
 
 ✨🕯️ Ignite the Spark at Wick and Flame Candle Bar paired with dinner with a view at In the Raw
 
-The Wolek Group will donate $5 to the Tulsa Dream Center for every entry up to $500. Click here for more information on the Tulsa Dream Center.
+The Wolek Group will donate $5 to the Tulsa Dream Center for every entry up to $500. [Click here](https://tulsadreamcenter.org/) for more information on the Tulsa Dream Center.
 
 We will announce the winners on Friday February 9th!
 
