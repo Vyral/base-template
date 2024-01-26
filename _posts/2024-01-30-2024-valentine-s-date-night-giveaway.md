@@ -16,8 +16,6 @@ youtube_alternate_image: /uploads/yt-thumbnail.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/valentine-s-day-your-way-giveaway-2022-email-header.png){: width="1600" height="400"}
-
 🌟✨ Elevate your love story with our Valentine's Day Date Night Giveaway!
 
 🌹💑 There are 4 exclusive packages that provide unforgettable moments and heartwarming memories:
