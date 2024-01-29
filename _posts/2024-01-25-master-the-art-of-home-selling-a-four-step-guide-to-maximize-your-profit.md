@@ -26,7 +26,7 @@ Are you ready to sidestep the stress of selling and maximize your profit at the 
 
 {% include pullquote.html %}
 
-**3\. Marketing - Putting your home in the spotlight.** Unlike many others, we invest significantly in marketing, spending about $20,000 per month to ensure their clients' homes receive maximum exposure. This involves leveraging various channels to get the most eyeballs on your property. Their commitment to marketing sets them apart from the average Realtor who spends less than a thousand dollars per year on marketing. This step aims to enhance the visibility of your home on the market.
+**3\. Marketing - Putting your home in the spotlight.** Unlike many others, we invest significantly in marketing, spending about $20,000 per month to ensure our clients' homes receive maximum exposure. This involves leveraging various channels to get the most eyeballs on your property. Our commitment to marketing sets us apart from the average Realtor who spends less than a thousand dollars per year on marketing. This step aims to enhance the visibility of your home on the market.
 
 **4\. Gathering feedback.** In the final step, the focus shifts to feedback. We use a digital feedback system to provide sellers with valuable insights into what potential buyers are saying about their homes. While the feedback may not always be what sellers want to hear, it is crucial to make necessary adjustments to increase the likelihood of a successful sale.
 
