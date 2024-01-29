@@ -19,6 +19,6 @@ youtube_code: vVvSFqtw2Bk
 
 Why are we standing in front of the crawlspace of a house in the video above? In California, one of the things sellers need to disclose is whether or not the house is built into the foundation. If yours isn’t, it can be an issue with potential buyers.&nbsp;
 
-**Fortunately, there’s a program that will help you pay to bolt your home to your foundation.** They’re called the Earthquake Brace and Bolt foundation, and if you qualify, they can help pay for your foundation renovation. **[Click here](https://www.earthquakebracebolt.com/)** to find out more about this program.&nbsp;
+**Fortunately, there’s a program that will help you pay to bolt your home to your foundation.** They’re called the Earthquake Brace and Bolt Foundation, and if you qualify, they can help pay for your foundation renovation. **[Click here](https://www.earthquakebracebolt.com/)** to find out more about this program.&nbsp;
 
 In the meantime, don’t hesitate to call or email us with any questions about real estate in California. We look forward to hearing from you.
