@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Your Home With These 2024 Design Trends
-date: 2024-02-01 00:05:00
+date: 2024-01-31 00:05:00
 excerpt:
 enclosure:
 pullquote:
