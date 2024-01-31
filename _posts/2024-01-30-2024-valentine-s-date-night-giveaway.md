@@ -33,3 +33,5 @@ The Wolek Group will donate $5 to the Tulsa Dream Center for every entry up to $
 We will announce the winners on Friday February 9th!
 
 Thank you to our sponsor : Teresa Brockwell Farmers Insurance
+
+[![](/uploads/twg-newsletter-4.png){: width="510" height="65"}](https://bit.ly/twgdatenight)
