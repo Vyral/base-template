@@ -33,14 +33,10 @@ For people who are wondering whether they should stage their homes. My fast answ
 
 {% include pullquote.html %}
 
-Why is staging important?
-
-**The purpose of staging is to create a great first impression of your home.** Buyers often decide to see your home in-person after looking at three to four pictures. Those pictures are critical to ensuring that your home has a fighting chance to sell.
+Why is staging important?&nbsp;**The purpose of staging is to create a great first impression of your home.** Buyers often decide to see your home in-person after looking at three to four pictures. Those pictures are critical to ensuring that your home has a fighting chance to sell.
 
 Staging your home is not long-term. It usually stays staged for about 30 days or less. It gives you the best of both worlds, where the buyer can both see the staged pictures of your home and, at the same time, imagine their own things in your space when they visit your home and see it vacant.&nbsp;
 
-While staging your home can be expensive, it will always make your home sell for more and faster.&nbsp;
-
-So, if you are selling your home, staging is definitely something that you should consider doing. This can make your home look its best. It doesn’t matter if you hire a professional stager or me as your advisor; either way, we will make it a point to keep your house appealing to prospective buyers.
+While staging your home can be expensive, it will always make your home sell for more and faster. So, if you are selling your home, staging is definitely something that you should consider doing. This can make your home look its best. It doesn’t matter if you hire a professional stager or me as your advisor; either way, we will make it a point to keep your house appealing to prospective buyers.
 
 If you have questions about staging or if you’re thinking about your next real estate move, contact me by phone or email. Let's have a chat. I’ll be happy to talk with you.
