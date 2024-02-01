@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tulsa Looks Good on Dress for Success
-date: 2024-02-09 09:00:00
+date: 2024-02-02 09:00:00
 tags:
   - Tulsa Spotlight
   - Business Spotlight
