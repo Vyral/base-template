@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Right Time To Buy or Sell?
-date: 2023-12-20 10:00:00
+date: 2024-02-06 10:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -20,7 +20,7 @@ hidden: true
 
 {% include excerpt.html %}
 
-<div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
+<div class="text-center"><button type="button">See Your Home's Estimated Value Instantly</button></div>
 
 Often, people buy or sell a home because of a major life event or for financial reasons. However, if you have the option of choosing when to enter the real estate market, there are a few points you should consider:
 
