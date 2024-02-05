@@ -6,7 +6,7 @@ tags:
   - Tulsa Spotlight
   - Business Spotlight
   - Oklahoma
-excerpt: 'Willamina: Where Style Meets Community!'
+excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
