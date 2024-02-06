@@ -19,7 +19,7 @@ youtube_code: 7B2nUGBkPrQ
 
 As we gear up for the dynamic spring market, I want to share some essential strategies with my fellow agents, real estate teams, and team members. These insights are focused on re-engaging and revitalizing your business to make the most of the upcoming opportunities.
 
-In real estate, the actions we take today significantly impact our business 90 days down the line. I always emphasize the importance of this 90-day window. What you do now will shape your business in the coming months, so it's crucial to be proactive and strategic:
+In real estate, the actions we take today significantly impact our business 90 days down the line. I always emphasize the importance of this 90-day window. What you do now will shape your business in the coming months, so it's crucial to be proactive and strategic.
 
 **1\. Reconnecting with your pipeline.** Now is the perfect time to revisit those who expressed interest in buying or selling last year. The landscape of real estate is ever-changing, with shifts in interest rates, market dynamics, and buyer and seller attitudes. Reach out, update them on these changes, and understand their current position in their buying or selling journey.
 
