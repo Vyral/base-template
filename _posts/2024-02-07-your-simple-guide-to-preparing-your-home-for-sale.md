@@ -13,8 +13,6 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Selling your home can be a significant undertaking, but with careful preparation, you can enhance its appeal and increase the likelihood of a successful sale. Whether you're a first-time seller or have experience in the real estate market, taking specific steps to prepare your home is crucial. Today, we'll explore three key points to help you get your home ready for the market.
