@@ -6,7 +6,10 @@ tags:
   - Tulsa Spotlight
   - Business Spotlight
   - Oklahoma
-excerpt:
+excerpt: >-
+  Located in areas of Tulsa ravaged with poverty and lack of resources, The
+  Dream Center helps neighbors in need through programs designed to produce
+  outcome-based results.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
