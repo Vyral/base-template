@@ -20,6 +20,8 @@ youtube_code: '-Doftw4X0YI'
 
 {% include excerpt.html %}
 
+
+
 Are you considering purchasing or selling a townhome that falls under the jurisdiction of a homeowners association (HOA)? Today, let's delve into the crucial aspects of HOAs, specifically as they relate to townhomes.
 
 For prospective buyers, navigating an HOA community requires a thorough understanding of the associated rules and regulations. A pivotal document in this process is the resale disclosure certificate. It is the seller's responsibility to get this paperwork filled out by an association lien holder from the HOA management business and give it to the buyer.
