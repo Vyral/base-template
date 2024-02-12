@@ -20,15 +20,13 @@ youtube_code: '-Doftw4X0YI'
 
 {% include excerpt.html %}
 
-
-
 Are you considering purchasing or selling a townhome that falls under the jurisdiction of a homeowners association (HOA)? Today, let's delve into the crucial aspects of HOAs, specifically as they relate to townhomes.
 
 For prospective buyers, navigating an HOA community requires a thorough understanding of the associated rules and regulations. A pivotal document in this process is the resale disclosure certificate. It is the seller's responsibility to get this paperwork filled out by an association lien holder from the HOA management business and give it to the buyer.
 
 Minnesota law grants buyers **ten days to scrutinize documents** such as rules and regulations, bylaws, covenants, declarations, budgets, financials, and meeting minutes. It's imperative for buyers to use this timeframe wisely, as they cannot be compelled to waive this right. This period offers a crucial opportunity to uncover any potential oversights within these documents.
 
-**Association living presents both advantages and disadvantages**, making it essential for buyers to be well-informed. External maintenance is often covered, but not always, so attention to detail is key. While MLS listings generally outline what the association covers, nuances such as specific details about windows, roofs, or snow removal may require careful examination.
+**Association living presents both advantages and disadvantages**, making it essential for buyers to be well-informed. External maintenance is often covered but not always, so attention to detail is key. While MLS listings generally outline what the association covers, nuances such as specific details about windows, roofs, or snow removal may require careful examination.
 
 {% include pullquote.html %}
 
