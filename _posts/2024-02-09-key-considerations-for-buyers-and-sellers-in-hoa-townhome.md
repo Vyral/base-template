@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Key Considerations for Buyers and Sellers in HOA Townhome
+title: Key Considerations for Homes with an HOA
 date: 2024-02-09 07:00:00
 tags:
   - Home Buyer Tips
