@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ready To Sell? Learn How To Price Your Home Right & Get Top Dollar This Spring
-date: 2024-02-09 00:00:00
+date: 2024-02-20 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Get ahead in the spring real estate market with these expert insights.
