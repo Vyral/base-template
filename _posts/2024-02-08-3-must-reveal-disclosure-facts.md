@@ -13,9 +13,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/untitled-design-69.jpg
 youtube_code:
 ---
-When making an offer on a house, one of the first things buyers get from the seller is a property disclosure. This is also referred to as a property disclosure statement, a real estate disclosure form, or a home disclosure. The specifics vary by state, but most states, including ours, require some type of seller disclosure. The goal is to add transparency to the transaction.
+When making an offer on a house, one of the first things buyers get from the seller is a property disclosure. The specifics vary by state, but most states, including ours, require some type of seller disclosure. The goal is to add transparency to the transaction.
 
-In this disclosure, a seller provides written information about known things that could impact the property's value. While there are many different things a seller must disclose, I’m going to highlight three of the most forgotten (and impactful) items:
+In this disclosure, a seller provides written information about known things that could impact the property's value. While there are many different things a seller must disclose, I’m going to highlight three impactful items:
 
 **1\. HOA information.** If the home is located within a homeowners association, you should disclose that fact. Associations generally impose monthly fees on homeowners, and they can impose rules on their membership that a prospective buyer might or might not find acceptable. You also need to know about the HOA's financial health and provide this information to the buyer so they can make an informed purchasing decision.
 
