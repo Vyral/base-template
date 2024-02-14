@@ -17,7 +17,7 @@ youtube_code: KGlt6K9EEPg
 
 {% include excerpt.html %}
 
-Today, let's dive into the home-inspection process, particularly for buyers. This can be a nerve-wracking stage, especially for first-time buyers.
+Today, let's dive into the home inspection process, particularly for buyers. This can be a nerve-wracking stage, especially for first-time buyers.
 
 Picture this: You've found your dream home, made an offer, and now it's time for inspections. Typically, we conduct several inspections in our area, including a general home inspection, sewer inspection, radon inspection, and possibly oil tank checks. These may lead to further inspections depending on their findings.
 
