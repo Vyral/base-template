@@ -17,6 +17,6 @@ youtube_code: Ptz6pUxq2fI
 
 {% include excerpt.html %}
 
-Today, **we're excited to invite you to our spring Easter egg hunt on Saturday, March 23, from 10 a.m. to noon at Lone Peak Park.** The event kicks off promptly, so make sure to be there on time. We'll have a petting zoo, face painting, prizes, and giveaways.&nbsp;
+Today, **we're excited to invite you to our spring Easter egg hunt on Saturday, March 23, at 10 a.m. to noon at Lone Peak Park.** The event kicks off promptly, so make sure to be there on time. We'll have a petting zoo, face painting, prizes, and giveaways.&nbsp;
 
 Don't miss out on this exciting event—visit this link to RSVP and learn more details! You can also call or email us with any questions. We look forward to seeing you there.
