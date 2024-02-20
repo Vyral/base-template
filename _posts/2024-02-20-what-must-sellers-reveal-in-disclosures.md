@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-![](/uploads/33-1.png){: width="1280" height="827"}
+![](/uploads/33-1.png){: width="100%" height="100%"}
 
 When making an offer on a house, one of the first things buyers get from the seller is a property disclosure. This is also referred to as a property disclosure statement, a real estate disclosure form, or a home disclosure. The specifics vary by state, but most states, including ours, require some type of seller disclosure. The goal is to add transparency to the transaction.
 
