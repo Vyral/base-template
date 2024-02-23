@@ -28,7 +28,7 @@ One option that you have is to **include a home-sale contingency clause in your 
 
 {% include pullquote.html %}
 
-To make your offer more appealing, consider presenting a competitive purchase price or better terms. You need to work to make your offer worth their while. You could cover some of the seller's closing costs, or provide a larger earnest money deposit. By demonstrating your commitment to the transaction, you can help the seller feel more comfortable waiting for your home to sell.
+To make your offer more appealing, consider presenting a competitive purchase price or better terms. You need to work to make your offer worth their while. You could cover some of the seller's closing costs or provide a larger earnest money deposit. By demonstrating your commitment to the transaction, you can help the seller feel more comfortable waiting for your home to sell.
 
 If you're feeling uncertain about how to navigate the process, **work with a real estate professional who has a proven track record of quickly selling homes.** They can guide you through the complexities of a home-sale contingency and offer valuable advice on how to make a competitive offer. In addition, working with an experienced agent can help instill confidence in the seller that your home will sell on the market.
 
