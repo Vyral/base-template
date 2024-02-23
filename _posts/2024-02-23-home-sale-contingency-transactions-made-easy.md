@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home-Sale Contingency Transactions Made Easy
-date:
+date: 2024-02-23 00:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
