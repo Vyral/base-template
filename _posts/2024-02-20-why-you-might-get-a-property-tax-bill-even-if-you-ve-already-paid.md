@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-20-24-yt-scott-hollinger.jpg
-youtube_code: uTaMIU16qco
+youtube_code: ts6GzFLvBpA
 ---
 {% include youtube.html %}
 
