@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-23-24-yt-john-schuster.jpg
-youtube_code: Szv8pme3tLw
+youtube_code: cVAzmJMYyy0
 ---
 {% include youtube.html %}
 
