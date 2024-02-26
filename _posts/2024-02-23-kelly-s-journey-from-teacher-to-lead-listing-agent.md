@@ -19,7 +19,7 @@ youtube_code: R1UXdBXkI0Y
 
 {% include excerpt.html %}
 
-Kelly’s career in real estate started unexpectedly. After completing her education and teaching for 15 years, she met Dave Hook when he handled her home sale. Ever since then, they kept in touch.&nbsp;
+Kelly’s career in real estate started unexpectedly. After completing her education and teaching for 15 years, she met Dave Hooke when he handled her home sale. Ever since then, they have kept in touch.&nbsp;
 
 The connection deepened when their daughter interned for Dave during her high school years, and her husband briefly worked with him, too. After speaking with a friend who was already on the team, she became even more interested.&nbsp;
 
