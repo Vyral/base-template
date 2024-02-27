@@ -32,4 +32,4 @@ Spring heralds a time of renewal and refreshment, not just for nature but also f
 
 We’re running a special promotion to help you with one of these home updates. Visit our **[Instagram](https://www.instagram.com/colemererealty/){: target="_blank" rel="noopener"}** for a chance to win and see the promotion details. This spring, let's embrace the season of renewal by enhancing our living spaces, making them more beautiful, functional, and appealing.
 
-For more ideas or assistance, don't hesitate to reach out to a Colemere Realty Associate today. Let's make this spring a season of transformation for your home!
+For more ideas or assistance, don't hesitate to call or send an email to Colemere Realty Associates today. Let's make this spring a season of transformation for your home!
