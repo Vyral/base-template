@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revitalize Your Home This Spring with Simple Upgrades
+title: Revitalize Your Home This Spring With Simple Upgrades
 date: 2024-02-27 07:00:00
 tags:
   - Homeownership
