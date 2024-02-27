@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montana''s Real Estate Dynamics: A 2023 Overview'
-date:
+date: 2024-02-27 00:00:00
 tags:
   - Market Update
   - Real Estate
