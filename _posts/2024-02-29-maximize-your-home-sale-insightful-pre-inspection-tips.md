@@ -33,4 +33,4 @@ Another crucial point to consider is the inherent skepticism buyers might have t
 
 For sellers uncertain about the best path forward, consulting with a real estate professional can provide clarity. An experienced advisor can offer resources, connections to contractors, and strategic guidance to navigate the inspection process effectively, whether it occurs before listing or during the transaction.
 
-If you're grappling with the decision of whether to pre-inspect your home or have other questions about the selling process, I'm here to help. Reach out via phone, email, or visit my website at asksarita.com for personalized advice and support tailored to your unique selling journey.
+If you're grappling with the decision of whether to pre-inspect your home or have other questions about the selling process, I'm here to help. Reach out via phone or email for personalized advice and support tailored to your unique selling journey.
