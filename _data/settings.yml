@@ -34,7 +34,7 @@ client:
 emma_form:
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://asksarita.com/home_value
+  first_CTA_URL: https://asksarita.hifello.com/lp/65e5d80e1b8e68002b391c5c
   second_CTA_text: Home Search
   second_CTA_URL: >-
     https://asksarita.com/search#?q_limit=36&mlsId=110&price=500000:800000&multi_search=Portland,%20OR&multi_cat=CityState&status=1|3&q_sort=createdAt-&q_offset=0
