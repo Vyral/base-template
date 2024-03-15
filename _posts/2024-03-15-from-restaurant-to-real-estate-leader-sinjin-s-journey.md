@@ -35,6 +35,6 @@ Looking ahead, I feel confident about the future because I've laid out a clear p
 
 If you’re thinking about starting a career in real estate or just curious about it, I encourage you to give us a call at (717) 216-0860 or send an email to [dave@davehooketeam.com](mailto:dave@davehooketeam.com). Rest assured, we will answer your questions and guide you through your real estate journey.
 
-Also check out our Facebook page at [Facebook.com/DaveHookeTeam](http://facebook.com/DaveHookeTeam) to know more about us. We look forward to connecting with you!
+Also, check out our Facebook page at [Facebook.com/DaveHookeTeam](http://facebook.com/DaveHookeTeam) to know more about us. We look forward to connecting with you!
 
 &nbsp;
