@@ -33,6 +33,6 @@ Currently, our data shows that we are in an exceptional seller's market. Many pr
 
 **If you're considering selling your home, now could be an opportune moment.** I’m offering a free, no-obligation analysis to help you understand what selling your home might entail. Whether you're ready to make a move or just exploring your options, feel free to reach out to me at 502-376-5483 or visit BobSellsLouisville.com.
 
-Additionally, if you're interested in real estate insights, tune in to my radio show on AM 840 WHAS every Sunday morning from 8:30 to 9 a.m. You can also send me your questions via email at Bob@wesellLouisville.com, and I'll address them on the air.
+Additionally, if you're interested in real estate insights, tune in to my radio show on AM 840 WHAS every Sunday morning from 8:30 to 9:00 a.m. You can also send me your questions via email at Bob@wesellLouisville.com, and I'll address them on the air.
 
 Don't miss out on this exceptional seller's market – contact me today to explore your options and make the most of the current housing market conditions.
