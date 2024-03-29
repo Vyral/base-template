@@ -23,7 +23,7 @@ Our search is broad, encompassing agents at any point in their career—**whethe
 
 Being a part of the Ask Sarita Team means you'll work as a contractor within a supportive environment, dedicated to helping people achieve their homeownership dreams. Our team approach ensures you'll never be going it alone. You'll have access to our extensive database of clients, requiring diligent follow-ups, property showings, and the knack for matching buyers with their ideal homes.
 
-Are you someone who thrives on connection and has a knack for understanding people’s needs? Do you or someone you know possess the drive to guide others through one of their most significant life decisions? If so, **we’d love to explore how your career aspirations align with our team's goals.**
+Are you someone who thrives on connection and has a knack for understanding people’s needs? Do you or someone you know possess the drive to guide others through one of their most significant life decisions? If so, [**we’d love to explore how your career aspirations align with our team's goals.**](https://www.asksarita.com/careers "We're hiring!"){: target="_blank" rel="noopener"}
 
 At Ask Sarita, we're more than just a team; we're a community that values growth, learning, and achieving together. If you're interested in exploring a career in real estate with us, or know someone who would be a great fit, let's have a conversation about how we can support each other's aspirations and goals.
 
