@@ -1,8 +1,19 @@
 show_testimonials_section: true
 testimonial:
-  - quote: How Brett's life has changed personally and professionally after leaving the corporate world. He will sell over 40 homes for $10 Million in volume in his first full year as a Buyer Partner.
-    youtube_code: 'K9opiFd6IGw'
-  - quote: Evan shares a lot about his personal growth after joining the team. He was first a client, then a buyer agent, promoted to listing agent, and is now the Dave Friedman Team Sales Manager. He will sell over 40 homes for $10 Million in volume in the first 6 months of this year.
-    youtube_code: 'MRvTM8BLAdY'
-  - quote: Ellie explains her transition from selling 8 homes a year in Washington to 20 homes within her first 6 months on The Dave Friedman Team. She has transitioned into the team's Operations Manager and soon to be CEO of Expert Realtor Services.
-    youtube_code: 'kVzaJt5fDys'
+  - quote: >-
+      How Brett's life has changed personally and professionally after leaving
+      the corporate world. He will sell over 40 homes for $10 Million in volume
+      in his first full year as a Buyer Partner.
+    youtube_code: K9opiFd6IGw
+  - quote: >-
+      Evan shares a lot about his personal growth after joining the team. He was
+      first a client, then a buyer agent, promoted to listing agent, and is now
+      the Dave Friedman Team Sales Manager. He will sell over 40 homes for $10
+      Million in volume in the first 6 months of this year.
+    youtube_code: MRvTM8BLAdY
+  - quote: >-
+      Ellie explains her transition from selling 8 homes a year in Washington to
+      20 homes within her first 6 months on The Dave Friedman Team. She has
+      transitioned into the team's Operations Manager and soon to be CEO of
+      Expert Realtor Services.
+    youtube_code: kVzaJt5fDys

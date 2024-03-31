@@ -35,23 +35,23 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<hr>
+<hr />
 <div class="qanda">
 	<p class="section-title">Here’s what a few agents say about working with me…</p>
 
 
-	<img src="/img/olivia.jpg" alt="Olivia Froncillo" class="photo-left"/>
+	<img src="/img/olivia.jpg" alt="Olivia Froncillo" class="photo-left" />
 	<p><span class="quote">"After working in many professional settings, I have never felt more appreciated or valued than working with Dave. In a fast-paced environment like real estate, Dave has found a way to make his employees feel supported and challenged while maintaining an incredibly fun workspace."</span></p>
 
-	<img src="/img/ellie.jpg" class="photo-left">
+	<img src="/img/ellie.jpg" class="photo-left" />
 	<p><span class="quote">"Working with Dave has  encouraged, inspired, and pushed me to become the best version of myself in every sense! From my work habits and determining my Big Why, to creating a work-life balance, and self improvement in every facet of my life, Dave does it all! My daily outlook and goals have changed tenfold as I have grown more than I ever imagined possible.  Be prepared to triple your goals and push yourself, while making your Big Why your priority!"
 	</span></p>
 
-	<img src="/img/traci.jpg" class="photo-left">
+	<img src="/img/traci.jpg" class="photo-left" />
 	<p><span class="quote">"I had a great career in the corporate world, but I knew I wasn't passionate about my work.  For over ten years, I dreamed of a career in real estate but taking the leap from a secure, salaried position to pursue my dream was such a scary thought.  I believed in myself, but I knew that I needed additional support and strong leadership to ensure my success.  Dave has given me the tools, education, positivity, and accountability I need."</span></p>
 
 </div>
-<hr>
+<hr />
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 

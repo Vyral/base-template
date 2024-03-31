@@ -3,7 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-
 Being the No. 1 Realtor in families served annually and one of the top 2 two Realtors overall in Charleston for the last four years running, it is easy to say that Dave Friedman is committed to his work.
 
 Despite Dave’s busy schedule, he loves spending time with his wife, Halley, and their two pups. Dave wholeheartedly believes in giving back. He has always been, and continues to be, extremely involved in several non profits. He has organized many successful events for the American Red Cross, Habitat for Humanity, Lifeline and many more organizations.
