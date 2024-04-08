@@ -18,6 +18,6 @@ youtube_code: cguGQA9ge8M
 
 {% include excerpt.html %}
 
-Should you fix up your home before putting it on the open market? If you want to get the most money possible, it’s probably a good idea. When buyers inspect your home, small issues can add up. While whatever minor issues your property has might not be deal breakers, buyers often assume that if there are a few small things they can see, there are probably other issues they can’t see. **They price this anxiety into their offer, and you might get less money than you wanted as a result.**
+Should you fix up your home before putting it on the open market? If you want to get the most money possible, it’s probably a good idea. When buyers inspect your home, small issues can add up. While whatever minor issues your property has might not be deal breakers, buyers often assume that if there are a few small things they can see, there are probably other issues they can’t see. **They price this anxiety into their offer, and you might get less money than you wanted.**
 
-Instead, I recommend reaching out to a trusted real estate expert like me to give you honest feedback about what is and isn’t worth fixing when selling your home. Just give me a call or send an email if you’d like to learn more!
+Instead, I recommend contacting a trusted real estate expert like me to give you honest feedback about what is and isn’t worth fixing when selling your home. Just give me a call or send an email if you’d like to learn more!
