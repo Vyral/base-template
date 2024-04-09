@@ -32,6 +32,6 @@ Assessors set these property values annually as of January 2nd. But the question
 
 {% include pullquote.html %}
 
-If you're questioning the current market value assigned to your home, we're here to assist. At the John Schuster Group, we offer our expertise to help you navigate this process. **By providing a custom market analysis, we aim to ensure your property is fairly assessed, potentially saving you from overpaying on property taxes.**
+If you're questioning the current market value assigned to your home, we're here to assist. At the John Schuster Group, we offer our expertise to help you navigate this process. **By providing a custom market analysis, we aim to ensure your property is fairly assessed, potentially saving you from overpaying property taxes.**
 
-Don't miss out on the opportunity to review and contest your tax-assessed value if necessary. Visit our website at JohnSchusterGroup.com and click on "Connect" in the upper right corner, or directly reach out to us at 952-222-9000 for personalized assistance. We're ready to support you in securing a fair assessment for your home today.
+Don't miss out on the opportunity to review and contest your tax-assessed value if necessary. Visit our website at [**JohnSchusterGroup.com**](https://www.johnschustergroup.com/) and click on "Connect" in the upper right corner, or directly reach out to us at 952-222-9000 for personalized assistance. We're ready to support you in securing a fair assessment for your home today.
