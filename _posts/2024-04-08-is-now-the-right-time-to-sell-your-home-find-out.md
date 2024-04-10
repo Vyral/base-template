@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bob-thumbnail-option-3-18.jpg
-youtube_code: kBwNAIJppiU
+youtube_code: qa8RcD76y_M
 ---
 {% include youtube.html %}
 
