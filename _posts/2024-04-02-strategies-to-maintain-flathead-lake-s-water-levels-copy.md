@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flathead Lake Real Estate Update and Conservation Efforts
-date: 2024-04-02 00:00:00
+date: 2024-04-16 00:00:00
 tags:
   - Real Estate
   - FSBO
