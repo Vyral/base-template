@@ -29,7 +29,7 @@ PWhat’s going on in Flathead Lake’s real estate market? The first quarter nu
 
 **1\. Flathead Lake homes.** There are 32 homes listed for sale in Flathead Lake, 27 of which are priced over $2 million. Despite the high sales threshold, two homes have been sold so far in the first quarter of 2024 alone, which shows a slight uptick in market demand.
 
-<br>**2\. Flathead Lake condominiums.** With 17 active listings, ranging from $299,000 at Marina Cay Estates Luxury Condo to $2.1 million at Sunset Point, you might find your next home in these lakefront condos. In 2024, two lakefront condo units were sold, one in Marina Cay Estates Luxury Condo and another in Lake Place Condo.
+<br>**2\. Flathead Lake condominiums.** With 17 active listings, ranging from $299,000 at Marina Cay Estates Luxury Condo to $2.1 million at Sunset Point, you might find your next home in these lakefront condos. In 2024, two lakefront condo units were sold, one in Marina Cay Estates Luxury Condo and another in Lake Place Condo in Polson.
 
 {% include pullquote.html %}
 
