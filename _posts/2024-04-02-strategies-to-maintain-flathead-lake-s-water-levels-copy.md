@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flathead Lake Real Estate Update and Conservation Efforts
+title: 'Flathead Lake Q1 2024 Real Estate Update '
 date: 2024-04-16 00:00:00
 tags:
   - Real Estate
@@ -12,11 +12,9 @@ tags:
   - Flathead Lake Listings
   - Save Flathead Lake
   - Fill The Lake
-excerpt: 'Market demand uptick breathes life back into Flathead Lake housing. '
+excerpt: 'The latest news on home prices, supply, inventory, and much more. '
 enclosure:
-pullquote: >-
-  Positive changes in market supply and demand are seen to increase during the
-  spring season. 
+pullquote: Market activity is heating up as we head further into the spring.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,16 +25,18 @@ youtube_code: M1ee5QDkYZw
 
 {% include excerpt.html %}
 
-Picture yourself in your summer home, sipping tea or drinking coffee, looking at the beautiful view of the lake outside your house. Imagine having easy access to all the fun summer recreational activities for your family. If that image lingers in your mind, you may want to give Flathead Lake listings a try. To keep you informed of the current housing demand and supply in Flathead Lake, here’s what’s going on in each major area:
+PWhat’s going on in Flathead Lake’s real estate market? The first quarter numbers are in for 2024, and they paint a pretty clear picture of our market. Today, I’ll go over what’s happening in our market and what it means for buyers and sellers in our area:
 
 **1\. Flathead Lake homes.** There are 32 homes listed for sale in Flathead Lake, 27 of which are priced over $2 million. Despite the high sales threshold, two homes have been sold so far in the first quarter of 2024 alone, which shows a slight uptick in market demand.
 
-**2\. Flathead Lake condominiums.** With 17 active listings ranging from $299,000 at Marina Cay Estates Luxury Condo to $2.1 million at Sunset Point, you might find your next home in these lakefront condos. In 2024, two lakefront condo units were sold, one in Marina Cay Estates Luxury Condo and Lake Place Condo.
+<br>**2\. Flathead Lake condominiums.** With 17 active listings, ranging from $299,000 at Marina Cay Estates Luxury Condo to $2.1 million at Sunset Point, you might find your next home in these lakefront condos. In 2024, two lakefront condo units were sold, one in Marina Cay Estates Luxury Condo and another in Lake Place Condo.
 
 {% include pullquote.html %}
 
-**3\. Flathead Lake land.** If you’re planning on building your dream home or investment property, you may want to consider land areas for sale in Flathead Lake. At present, there are 620 active listings for lot areas. In the first quarter of 2024 alone, 115 land properties were sold.
+**3\. Flathead Lake land.** If you’re planning on building your dream home or investment property, you may want to consider land areas for sale in Flathead Lake. In the first quarter of 2024, there was one sale in Rollins Bay for $1.6 million. There are currently 13 active listings in our area, so you have options despite the slower market.
 
-Following the water level crisis in 2023, there’s been a moderate uptick in demand in the real estate market in Flathead Lake. However there has been a low supply mainly due to lack of inventory. But don’t worry—positive changes in market supply and demand are seen to increase during the spring season. Collective efforts are also underway to protect, conserve, and maintain lake water levels, particularly in the summer. To know more about the Save Flathead Lake initiative, please visit [http://www.fillthelake.com](http://www.fillthelake.com).
+Overally, demand remains high in our area and inventory remains low. We’re still in a strong seller’s market with a lot of upward pressure on home prices, so reach out to me if you are interested in selling.
 
-In the meantime, if you’re interested in viewing lakefront properties, particularly in Lake Blaine, Swan Lake, Foys Lake, Lake Mary Ronan, and Whitefish Lake, please email or call me. I’d love to show you around the property and help you achieve your real estate goals.<br>
+Finally, I want to ask everyone to visit [**http://www.fillthelake.com**](http://www.fillthelake.com). Flathead Lake is facing a tough situation: last summer, the lake was shut down for most of the season. This greatly affected businesses around the lake that rely on recreational summer visitors to sustain their livelihoods. If you visit this website, you can help us try and bring the lake back to the way it operated for the last 80 years. Just call or email me if you’d like to learn more; I’d love to talk to you more about this topic.
+
+In the meantime, don’t hesitate to reach out with any real estate related questions. I’d love to help you achieve your real estate goals.<br><br>
