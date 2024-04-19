@@ -32,4 +32,4 @@ Divorce is undeniably one of life's toughest challenges. Having been through it 
 
 During emotional turmoil, it's easy to let logic take a back seat. However, taking proactive steps to address these practical matters can alleviate some of the stress associated with selling a home during a divorce.
 
-Remember, you don't have to navigate this challenging time alone. If you need guidance or assistance with the real estate aspects of your divorce, we're here to help. Our team is dedicated to providing support and expert advice to ensure a smooth transition for you and your family. Don't hesitate to reach out for personalized assistance tailored to your unique situation.
+Remember, you don't have to navigate this challenging time alone. If you need guidance or assistance with the real estate aspects of your divorce, we're here to help. Our team is dedicated to providing support and expert advice to ensure a smooth transition for you and your family. Don't hesitate to reach out for personalized assistance tailored to your unique situation. You can call, text, or send us an email. Our lines are always open for you.
