@@ -47,4 +47,4 @@ Keeping your home safe and secure is a top priority for any homeowner. From basi
 
 **10\. Install a home security system.** With the decreasing cost of security systems, there's no excuse not to have one. Advertise your system at all entry points to deter intruders effectively.
 
-By implementing these ten tips, you can significantly enhance the security of your home, protecting your family and belongings from potential threats. Do you know your home's value? Visit [JohnSchusterGroup.com](http://johnschustergroup.com) and enter your address to find out the worth of your home in seconds. Knowing your home's value can help inform your security decisions and overall financial planning.
+By implementing these ten tips, you can significantly enhance the security of your home, protecting your family and belongings from potential threats. Do you know your home's value? Visit [**JohnSchusterGroup.com**](http://johnschustergroup.com) and enter your address to find out the worth of your home in seconds. Knowing your home's value can help inform your security decisions and overall financial planning.
