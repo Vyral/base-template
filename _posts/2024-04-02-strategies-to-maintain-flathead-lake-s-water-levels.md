@@ -4,7 +4,7 @@ title: Strategies to Maintain Flathead Lake's Water Levels
 date: 2024-04-02 00:00:00
 tags:
   - Real Estate
-excerpt: There is a strategy available to us that will save Flathead Lake.
+excerpt: FillTheLake.com has a strategy to help save Flathead Lake.
 enclosure:
 pullquote: We must mobilize as a community.
 enclosure_type: video/mp4
@@ -29,10 +29,10 @@ However, despite the existence of a comprehensive drought management plan create
 
 **The responsibility falls on all of us to ensure that the necessary steps are taken** to protect Flathead Lake and the surrounding community. By advocating for the adoption of the dormant drought management plan and urging the tribe responsible for the dam to modify operations to match stream flows, we can safeguard the lake's stability.
 
-One organization, Fill the Lake, has taken up this cause and offers valuable resources and information on their website. But it's not enough for a few to carry the burden alone. We must mobilize as a community, reaching out to local authorities and spreading awareness to ensure that action is taken swiftly.
+One organization, [**Fill the Lake**](https://fillthelake.com/){: target="_blank" rel="noopener"}, has taken up this cause and offers valuable resources and information on their website. But it's not enough for a few to carry the burden alone. We must mobilize as a community, reaching out to local authorities and spreading awareness to ensure that action is taken swiftly.
 
 The repercussions of inaction are far-reaching. Beyond the inconvenience to residents and recreational users, the economic impact on local businesses is substantial. Preserving Flathead Lake isn't just about maintaining a picturesque landscape; it's about protecting our way of life.
 
-As we approach the summer months, let's make our voices heard. Visit Fill the Lake's website, reach out to local representatives, and spread the word. Together, we can ensure that Flathead Lake remains a vibrant and thriving ecosystem for generations to come. If you have any questions, don’t hesitate to call or send us an email.
+As we approach the summer months, let's make our voices heard. Visit [Fill the Lake's](https://fillthelake.com/){: target="_blank" rel="noopener"} website, reach out to local representatives, and spread the word. Together, we can ensure that Flathead Lake remains a vibrant and thriving ecosystem for generations to come. If you have any questions, don’t hesitate to call or send us an email.
 
 <br>
