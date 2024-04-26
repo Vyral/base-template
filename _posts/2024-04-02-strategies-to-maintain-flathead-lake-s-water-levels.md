@@ -33,6 +33,6 @@ One organization, [**Fill the Lake**](https://fillthelake.com/){: target="_blank
 
 The repercussions of inaction are far-reaching. Beyond the inconvenience to residents and recreational users, the economic impact on local businesses is substantial. Preserving Flathead Lake isn't just about maintaining a picturesque landscape; it's about protecting our way of life.
 
-As we approach the summer months, let's make our voices heard. Visit [Fill the Lake's](https://fillthelake.com/){: target="_blank" rel="noopener"} website, reach out to local representatives, and spread the word. Together, we can ensure that Flathead Lake remains a vibrant and thriving ecosystem for generations to come. If you have any questions, don’t hesitate to call or send us an email.
+As we approach the summer months, let's make our voices heard. Visit [**Fill the Lake's**](https://fillthelake.com/){: target="_blank" rel="noopener"} website, reach out to local representatives, and spread the word. Together, we can ensure that Flathead Lake remains a vibrant and thriving ecosystem for generations to come. If you have any questions, don’t hesitate to call or send us an email.
 
 <br>
