@@ -36,4 +36,4 @@ Remember, you don’t have to navigate this challenging time alone. If you need 
 
 Our team is dedicated to providing support and expert advice to ensure a smooth transition for you and your family. Don’t hesitate to ask for personalized assistance tailored to your unique situation.
 
-Call or text (435) 375-3462 or email [sales@gostgeorge.com](mailto:sales@gostgeorge.com). Our lines are always open.
+Call or text (435) 375-3462 or email [sales@gostgeorge.com](mailto:sales@gostgeorge.com). Our lines are always open!
