@@ -19,7 +19,7 @@ youtube_code: QVvQw1i2d7Q
 
 You've probably heard the saying that negative news sells. If you've watched or read any media coverage on home prices, you've likely seen this in action. As a former anchor and television reporter, I'd like to set the record straight.
 
-If you check out the graph at 0:26, you'll notice that home prices actually rose for most of 2023. Even if you're drawn to the red, you may only see two slight declines. **This is what the media often highlights, but it's not the full story.** It's clickbait, aiming to grab your attention with negative news. In reality, there's much more green than red, and even the two red bars are so minor they're practically flat. So despite what the news says, the bigger picture is that prices rose overall.
+If you check out the graph at 0:26, you'll notice that home prices actually rose for most of 2023. Even if you're drawn to the red, you may only see two slight declines. **This is what the media often highlights, but it's not the full story.** It's clickbait, aiming to grab your attention with negative news. In reality, there's much more green than red, and even the two red bars are so minor they're practically flat. So, despite what the news says, the bigger picture is that prices rose overall.
 
 Experts predict that home prices will continue to rise in 2024, even with higher interest rates. When interest rates likely start to decrease later this year, many potential buyers will enter the market, potentially leading to bidding wars over available homes.
 
