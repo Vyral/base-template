@@ -18,7 +18,7 @@ youtube_code: ZRqQgYtjL-I
 
 {% include excerpt.html %}
 
-Here at Hawaii Pacific Property Management, we understand and give importance in building strong relationships with both homeowners and tenants. We pride ourselves to go beyond just simply managing properties; we strive to create a smooth and stress-free experience for all stakeholders.
+Here at Hawaii Pacific Property Management, we understand building strong relationships with both homeowners and tenants. We pride ourselves in going beyond just simply managing properties; we strive to create a smooth and stress-free experience for all stakeholders.
 
 Here are three things that keep our homeowners and tenants happy:
 
