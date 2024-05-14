@@ -40,6 +40,6 @@ So, if you are a follow-up pro, enjoy connecting with people, are up for the tas
 
 If this sounds like something that you are interested in, don’t hesitate to reach out. You can call, text, or send us an email. Rest assured that your application with us will be treated with the utmost confidentiality.
 
-If you have questions, head over to asksarita.com. We are eager to chat with you, and if you’re the one we’re looking for, we will happily welcome you aboard!
+If you have questions, head over to [asksarita.com](). We are eager to chat with you, and if you’re the one we’re looking for, we will happily welcome you aboard! For more information go to [https://www.asksarita.com/careers](https://www.asksarita.com/careers){: target="_blank" rel="noopener"}
 
 <br>
