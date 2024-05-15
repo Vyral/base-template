@@ -13,7 +13,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/5-14-24yt.jpg
 youtube_code: bNDF5__G--g
 ---
-{% include youtube.html %}<br>{% include excerpt.html %}
+{% include youtube.html %}
+
+<br>{% include excerpt.html %}
 
 When it comes to buying a home, understanding your purchasing personality can help you go through the housing market more effectively. By recognizing your tendencies, you can address any challenges you may face when buying your dream home. Let’s identify the three personalities and the struggles that come with each:
 
