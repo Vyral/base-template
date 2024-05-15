@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Know Your Home Buying Personality
-date: 2024-05-14 08:00:00
+date: 2024-05-15 08:00:00
+tags:
+  - Home Buyer Tips
 excerpt: Discover now if you're a FOMO, YOLO, or Wait-and-See home buyer!
 enclosure:
 pullquote: >-
@@ -11,9 +13,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-14-24yt.jpg
-youtube_code:
+youtube_code: bNDF5__G--g
 ---
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 When it comes to buying a home, understanding your purchasing personality can help you go through the housing market more effectively. By recognizing your tendencies, you can address any challenges you may face when buying your dream home. Let’s identify the three personalities and the struggles that come with each:
 
