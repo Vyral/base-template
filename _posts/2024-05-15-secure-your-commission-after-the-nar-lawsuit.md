@@ -27,4 +27,4 @@ The recent NAR settlement has raised concerns among buyer's agents about commiss
 
 By proactively using buyer agency contracts and seeking guidance from industry professionals, agents can get the better of post-NAR settlement challenges and secure their rightful commissions.
 
-For agents seeking clarity and support in maximizing commission earnings post-NAR settlement, schedule a strategy session with our team. We're here to help you in every step of the way.
+For agents seeking clarity and support in maximizing commission earnings post-NAR settlement, schedule a strategy session with our team. We're here to help you every step of the way.
