@@ -29,10 +29,10 @@ I went through the process myself, taking real estate classes through the Des Mo
 
 {% include pullquote.html %}
 
-**For the licensing process, besides the 60-hour course, you need to pass a background check, including getting your fingerprints taken and sent to the FBI.** There are also three additional courses required: 12 hours each of listing practices, buying practices, and developing professionalism and ethics. These are needed for understanding the responsibilities you’ll have as an agent, especially since we handle contracts and clients' money with a significant fiduciary duty.
+**For the licensing process, besides the 60-hour course, you need to pass a background check, including getting your fingerprints taken and sent to the FBI.** There are also three additional courses required: 12 hours each of listing practices, buying practices, and developing professionalism and ethics. These are needed to understand the responsibilities you’ll have as an agent, especially since we handle contracts and clients' money with a significant fiduciary duty.
 
 **If you're thinking about becoming a real estate agent, you can start these classes and get your background check done simultaneously.** This way, once you complete your courses and pass the test, you'll be ready to get your license immediately. Typically, the entire process takes about two to three months, though some motivated individuals complete it faster.
 
-I completed all my classes within January and took the test four days after finishing the courses, totaling about six weeks. It's a testament to my work ethic and dedication to becoming a licensed real estate agent.
+I completed all my classes in January and took the test four days after finishing the courses, totaling about six weeks. It's a testament to my work ethic and dedication to becoming a licensed real estate agent.
 
 Becoming a real estate agent can be a rewarding career move, opening doors to new opportunities and growth. If you want to learn more about starting your journey, give us a call or send us an email today!
