@@ -21,12 +21,10 @@ youtube_code: ZgNOVRdJ1LI
 
 {%include author-box.html%}
 
-{%include cta-main-box.html%}
-
 Are you considering selling your home this spring but prefer to avoid the traditional listing process? We've been receiving numerous inquiries from homeowners just like you who are interested in selling without the hassle of a full market listing. The good news is, **we have a robust network of eager buyers waiting for new properties to hit the market.**
 
 Imagine selling your home quickly and effortlessly, exactly as it is, and at a premium price. If this sounds appealing to you, now might be the perfect time to make a move. Is there a specific dollar amount that would make you ready to sell and relocate this year? Reach out to us today for a confidential discussion.
 
-Our commitment is to ensure a smooth and highly profitable sale for you. The Twin Cities real estate market is thriving, and we're here to help you capitalize on this opportunity. Discover what your home could be worth today by visiting our website at [www.JohnSchusterGroup.com](http://www.johnschustergroup.com) for an instant online estimate. You can also contact us directly via phone or text at (952) 222-9000.
+Our commitment is to ensure a smooth and highly profitable sale for you. The Twin Cities real estate market is thriving, and we're here to help you capitalize on this opportunity. Discover what your home could be worth today by visiting our website at [***www.JohnSchusterGroup.com***](http://www.johnschustergroup.com) for an instant online estimate. You can also contact us directly via phone or text at (952) 222-9000.
 
 {%include cta-content-box.html%}
