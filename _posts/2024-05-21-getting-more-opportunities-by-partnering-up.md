@@ -17,7 +17,7 @@ youtube_code: XFXXxAzrs20
 
 {% include excerpt.html %}
 
-I wholeheartedly believe that teamwork is the future of real estate. Collaborating with others enhances efficiency and service, that will make our industry thrive. That’s why today, I want to talk about our partnership with PLACE.
+I wholeheartedly believe that teamwork is the future of real estate. Collaborating with others enhances efficiency and service, which will make our industry thrive. That’s why today, I want to talk about our partnership with PLACE.
 
 Partnering with PLACE strengthens the power of our small-scale team collaboration to a massive scale, providing us with incredible opportunities. **This partnership will streamline our systems, align us with the industry's best and brightest, and create more opportunities for our agents.** I'm also excited about the additional benefits like healthcare, stock options, and profit sharing, which I couldn't offer on my own. By partnering with PLACE, we gain access to superior resources, tools, and methods to serve our clients and agents more effectively.
 
