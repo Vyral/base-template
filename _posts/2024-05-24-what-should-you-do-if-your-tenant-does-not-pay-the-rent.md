@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/rent.jpg
 youtube_code:
 ---
-#### ![](/uploads/rent.jpg){: width="1280" height="720"}
+#### ![](/uploads/rent-2.jpg){: width="800" height="450"}
 
 {% include excerpt.html %}
 
