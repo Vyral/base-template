@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Current Market Looking Strange to You? Find Out Why
+title: Is the Current Market Looking Different to You? Find Out Why
 date: 2024-05-24 07:00:00
 tags:
   - Real Estate
