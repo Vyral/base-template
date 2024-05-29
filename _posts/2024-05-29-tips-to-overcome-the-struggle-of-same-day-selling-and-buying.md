@@ -29,6 +29,6 @@ Selling your home and buying a new one simultaneously can be a daunting task. Ho
 
 {% include pullquote.html %}
 
-**3\. Consider keeping your current home as an investment.** Before selling your current home, consider the potential of keeping it as an investment property. With many homeowners benefiting from low-interest rates of 2-3%, your current home might be a valuable asset. Research rental prices in your area to see if renting out your home could be a profitable venture. This way, you can start your journey as a real estate investor while securing your next home.
+**3\. Consider keeping your current home as an investment.** Before selling your current home, consider the potential of keeping it as an investment property. With many homeowners benefiting from low interest rates of 2%-3%, your current home might be a valuable asset. Research rental prices in your area to see if renting out your home could be a profitable venture. This way, you can start your journey as a real estate investor while securing your next home.
 
 If you have any questions or need further assistance with selling your home and buying the next, don’t hesitate to reach out by phone or email. Our real estate team is here to help you every step of the way.
