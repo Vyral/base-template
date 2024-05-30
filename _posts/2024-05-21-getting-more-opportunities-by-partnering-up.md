@@ -9,8 +9,8 @@ pullquote: >-
   collaboration to a massive scale…
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/misty-ss.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/misty-ss-psd-4.jpg
 youtube_code: XFXXxAzrs20
 ---
 {% include youtube.html %}
