@@ -21,7 +21,7 @@ Our world today offers instant information with the click of a button. This exte
 
 **In reality, real estate is high-tech, but it is also high-touch.** While convenient, technology like home automation tools should be seen as a starting point and not a definitive answer when it comes to knowing your home’s worth. Yes, computers can generate data with algorithms, but there is no replacing humans when it comes to identifying intangibles and unique factors of your home.
 
-That is why, today, **I am very excited to launch a**[**<u>new automated home tool</u>**](https://asksarita.hifello.com/lp/65e5d80e1b8e68002b391c5c) ** ** to help you get an idea of how much your home is worth. This tool looks at several data sources to come up with the most accurate value possible. This is just the first step, and moving forward, I’d like to have a conversation with you to understand your specific situation and ensure the accuracy of the valuation.
+That is why, today, **I am very excited to launch a** [**<u>new automated home tool</u>**](https://asksarita.hifello.com/lp/65e5d80e1b8e68002b391c5c)**<u> </u>**to help you get an idea of how much your home is worth. This tool looks at several data sources to come up with the most accurate value possible. This is just the first step, and moving forward, I’d like to have a conversation with you to understand your specific situation and ensure the accuracy of the valuation.
 
 {% include pullquote.html %}
 
