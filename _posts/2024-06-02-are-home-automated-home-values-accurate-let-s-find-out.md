@@ -27,7 +27,7 @@ That is why, today, **I am very excited to launch a** [**<u>new automated home t
 
 If you think that the valuation is spot on, **I still encourage you to reach out to refine the initial estimate based on your home’s unique features and neighborhood trends.** Understanding your home’s value can also help determine how much equity you have. Lastly, we can create a plan to maximize the value of your home based on your goals.
 
-#### {% link https://asksarita.hifello.com/lp/65e5d80e1b8e68002b391c5c %}**How Much Is Your Home Worth?**
+#### [**How Much Is Your Home Worth?**](https://asksarita.hifello.com/lp/65e5d80e1b8e68002b391c5c){: target="_blank" rel="noopener"}
 
 I do understand that people crave instant automated information, but I’d like to warn you to take that information with a grain of salt and **make sure that you get advice from a real estate professional** such as myself. We know what’s going on on the ground and can pinpoint why your home’s value may or may not be accurate.
 
