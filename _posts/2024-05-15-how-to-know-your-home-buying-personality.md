@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-14-24yt.jpg
+youtube_alternate_image: /uploads/misty-ss-psd-6.jpg
 youtube_code: bNDF5__G--g
 ---
 {% include youtube.html %}
