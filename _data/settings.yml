@@ -79,9 +79,9 @@ lender:
   url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -127,7 +127,7 @@ images:
   logo_width_number: 60
   hero_text: Changing Lives Through Real Estate
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/mistysoldteam-hero-img.webp
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#439639'
