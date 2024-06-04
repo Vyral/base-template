@@ -130,7 +130,7 @@ images:
   hero_image_path: /uploads/mistysoldteam-hero-img.webp
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#439639'
+  brand_color: '#30a6b6'
   theme_color: '#333333'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
