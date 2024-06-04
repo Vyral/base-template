@@ -125,7 +125,7 @@ images:
   client2_headshot_path: /img/headshot2.jpg
   hero_logo_path:
   logo_width_number: 60
-  hero_text: Changing Lives Through Real Estate
+  hero_text:
   hero_background_hex: '#999999'
   hero_image_path: /uploads/mistysoldteam-hero-img.webp
   post_cover: /img/cover.jpg
