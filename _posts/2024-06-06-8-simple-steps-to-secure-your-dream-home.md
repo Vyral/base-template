@@ -17,7 +17,7 @@ youtube_code: 4xd7Sb1ozpY
 
 {% include excerpt.html %}
 
-Have you just gone under contract with a seller for a new home? Congratulations! You are well on your way towards the dream of homeownership. But before we pop the champagne, there's still a few more hurdles to clear. Don’t stress – I'm here to guide you through each one:
+Have you just gone under contract with a seller for a new home? Congratulations! You are well on your way toward the dream of homeownership. But before we pop the champagne, there are still a few more hurdles to clear. Don’t stress – I'm here to guide you through each one:
 
 **Step 1: Show Your Commitment with an Earnest Money Deposit.** The first step is to put your money where your mouth is – literally. The earnest money deposit is a way to show the seller you are serious about buying their home. Typically, this amount ranges from 1% to 3% of the purchase price. Don't worry; this deposit isn't extra cash out of your pocket. It will go towards your closing costs or down payment later on.
 
