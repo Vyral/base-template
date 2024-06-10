@@ -13,10 +13,10 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1667316150937.jpeg
+youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
+![](/uploads/1667316150937.jpeg){: width="1280" height="854"}
 
 When the toilet drains fail to flush, who’s responsible for having them fixed?
 
