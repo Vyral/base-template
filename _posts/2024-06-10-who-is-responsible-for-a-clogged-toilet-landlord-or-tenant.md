@@ -18,6 +18,10 @@ youtube_code:
 ---
 ![](/uploads/1667316150937.jpeg){: width="1280" height="854"}
 
+{%include author-box.html%}
+
+{%include cta-main-box.html%}
+
 When the toilet drains fail to flush, who’s responsible for having them fixed?
 
 A clogged toilet is a household nightmare and probably the last thing you’d ever want to deal with. Imagine rising water levels and a frantic search for plungers. Amidst this flushing situation comes the question: who pays for the fix?
