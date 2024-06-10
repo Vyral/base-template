@@ -12,7 +12,7 @@ pullquote: >-
   terms, local laws, and the cause of the clog
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/1667316150937.jpeg
 youtube_code:
 ---
