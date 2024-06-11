@@ -16,7 +16,9 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-![](/uploads/1667316150937.jpeg){: width="1280" height="854"}
+![](/uploads/ezgif-com-resize-1.jpg){: width="612" height="408"}
+
+{% include excerpt.html %}
 
 When the toilet drains fail to flush, who’s responsible for having them fixed?
 
