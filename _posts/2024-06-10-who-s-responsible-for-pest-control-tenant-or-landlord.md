@@ -12,8 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/duke-kimhan-thumbnail-2024-1.jpg
-youtube_code: aBvA_Q_0n7w
+youtube_alternate_image: /uploads/2-4-1.jpg
+youtube_code: Dr-e7YLDTM0
 ---
 {% include youtube.html %}
 
