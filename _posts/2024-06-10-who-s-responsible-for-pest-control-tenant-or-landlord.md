@@ -17,7 +17,7 @@ youtube_code: aBvA_Q_0n7w
 ---
 {% include youtube.html %}
 
-{%include author-box.html%}
+{% include excerpt.html %}
 
 Who’s responsible for pest control: The tenant or the owner? **Here’s how we handle this question.**
 
