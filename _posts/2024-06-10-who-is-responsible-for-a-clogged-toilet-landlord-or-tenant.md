@@ -16,6 +16,7 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
+![](/uploads/ezgif-com-resize-1.jpg){: width="612" height="408"}
 
 {% include excerpt.html %}
 
