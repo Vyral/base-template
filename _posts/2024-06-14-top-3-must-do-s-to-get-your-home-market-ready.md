@@ -7,8 +7,8 @@ enclosure:
 pullquote: 'Buyers'' top concerns right now are higher interest rates and affordability. '
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/6-14-24.jpg
 youtube_code: mowyc-Mt1Pc
 ---
 {% include youtube.html %}
