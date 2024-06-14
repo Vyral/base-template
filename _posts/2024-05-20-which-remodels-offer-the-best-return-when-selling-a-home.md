@@ -9,7 +9,7 @@ pullquote: Think about the impact of each improvement on your home's appeal and 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/untitled-design-77.jpg
+youtube_alternate_image: /uploads/remodel-offer.jpg
 youtube_code:
 ---
 How do I get the most bang for my buck when it comes to home improvements? Spring is a time when flowers bloom and home sales peak, but it’s also a time when we can shake the dust off of our home improvement projects. It’s a time when you’ll find homeowners out renovating their gardens and inside painting their walls to refresh their homes for the new season. But, for those who are interested in selling this spring, what kind of home improvement projects will net them the biggest return on their investment? It's a crucial consideration, as not all improvements will significantly enhance your home's value. Today, I'll go over what projects to avoid, what repairs to make, and how to select a good contractor to do the work.
