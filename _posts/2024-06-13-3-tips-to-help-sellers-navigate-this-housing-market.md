@@ -32,4 +32,4 @@ The housing market has gone through significant changes recently. Because of thi
 
 **3\. Listen to feedback and professional guidance.** Feedback is important in today’s market. In the past, homes sold so fast that you didn’t really need to listen to agent feedback. However, now that homes linger on the market longer, communication is critical. Keep in mind that buyers don’t always give perfect feedback, which is why professional guidance is needed to guide you through the process. Real estate professionals can interpret feedback from buyers and use it to make better decisions on pricing and condition arrangements.
 
-Moving forward, the best way to adjust to the changes in the market is to understand market shifts, be patient and adaptable, and professional guida
+Moving forward, the best way to adjust to the changes in the market is to understand market shifts, be patient and adaptable, and professional guidance. If you have any questions or further need assistance, please reach us by phone or email.
