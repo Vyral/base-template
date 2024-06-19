@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Timing Matters:A Guide to Selling Your Home Efficiently
+title: 'Why Timing Matters: A Guide to Selling Your Home Efficiently'
 date: 2024-06-18 00:00:00
 excerpt: Discover the reasons why preparing your home to sell can’t be rushed.
 enclosure:
