@@ -15,8 +15,6 @@ youtube_code: FIyQETo7g_4
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Many home buyers think they should find a real estate agent and a house first, then figure out the loan later. However, getting pre-approved for a mortgage is a critical step and something that should be done much earlier in the process. I’ll give you four reasons why:
 
 **1\. Understand your numbers.** When searching for a house, you might think based on house prices, like having a budget of $500,000 or $600,000. But in reality, we don’t think in terms of house prices, but in terms of monthly payments. Knowing your numbers means identifying how much you can afford based on your monthly budget and being clear on the actual cost, including the principal, interest, taxes, and insurance. You’ll also get a better idea of which homes are within your budget.
