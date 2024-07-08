@@ -2,7 +2,7 @@
 layout: post
 title: 4 Tips to Help You Make a Strong Offer
 date: 2024-07-05 07:00:00
-excerpt: Learn the tips on how to make an offer that sellers could not resist.
+excerpt: Learn expert tips for making an offer that sellers can’t resist.
 enclosure:
 pullquote: >-
   Instead of focusing on negatives like the home's condition, emphasize your
