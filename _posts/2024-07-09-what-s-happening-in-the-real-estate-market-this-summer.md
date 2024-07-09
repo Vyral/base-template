@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/lead-gen-2.jpg
 youtube_code:
 ---
-![](/uploads/ccimage.jpg){: width="800" height="400"}
+![](/uploads/cc-image-1.jpg){: width="700" height="400"}
 
 {% include excerpt.html %}
 
