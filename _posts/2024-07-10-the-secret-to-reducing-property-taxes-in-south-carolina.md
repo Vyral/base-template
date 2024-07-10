@@ -17,9 +17,9 @@ youtube_code: N6ZRMCVZXF4
 
 {% include excerpt.html %}
 
-Did you know that primary residents in South Carolina can save thousands on property taxes? Homeowners typically worry about the long-term costs of homeownership, that’s why today, I will tell you the secret to reducing your tax costs: just fill up a form at closing.
+Did you know that primary residents in South Carolina can save thousands on property taxes? Homeowners typically worry about the long-term costs of homeownership, that’s why today, I will tell you the secret to reducing your tax costs: just fill out a form at closing.
 
-Your attorney can provide this form to you at closing. Filling out this form with the county can save you thousands of dollars as **it allows you to file for a 4% tax rate, compared to the standard 6% rate.** The 4% rate is designated for primary residences, while the 6% rate applies to second homes or investment properties.
+Your attorney can provide this form to you at closing. Filing out this form with the county can save you thousands of dollars as **it allows you to file for a 4% tax rate, compared to the standard 6% rate.** The 4% rate is designated for primary residences, while the 6% rate applies to second homes or investment properties.
 
 I recently had a client who forgot to complete this form. When I reminded him, he was able to receive a refund for 18 months of property taxes that he had paid at the higher 6% rate instead of the 4% rate!
 
