@@ -17,7 +17,7 @@ youtube_code: rRBtqGfSSrI
 
 {% include excerpt.html %}
 
-Are you looking to make a strong offer on a home? Here are four tips that can give you the edge in today's competitive market.
+Are you looking to make a strong offer on a home? Misty Darling spoke with Abbi Gilson and Shelby Allgood recently about this on our weekly radio show "The Central Iowa Real Estate Scoreboard" on KxNO. Here are four tips that can give you the edge in today’s competitive market.
 
 **1\. Partner with a Real Estate Agent.** Having a professional by your side gives you a massive advantage. Real estate agents understand the nuances of the market and can help you determine the right offer price. They also guide you through the process, ensuring you avoid common pitfalls.
 
