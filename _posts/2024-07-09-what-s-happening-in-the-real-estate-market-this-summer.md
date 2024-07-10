@@ -11,8 +11,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/lead-gen-2.jpg
 youtube_code:
 ---
-![](/uploads/cc-image-1.jpg){: width="700" height="400"}
-
 {% include excerpt.html %}
 
 As we head further into the summer real estate market, tons of people have been asking me, “What’s going on in the market right now?” I get it; if you’re looking to move in the near future, you want to be informed about what’s happening with real estate. The truth is that home prices are still high in most areas; however, they’re starting to come down in a few places that were most affected by the pandemic boom market. While we don’t know for sure what this means for the country at large, it might be safer to make a move sooner rather than later. With that in mind, I’m sharing three key points about our housing market you need to know if you’re planning on making a move this summer:
