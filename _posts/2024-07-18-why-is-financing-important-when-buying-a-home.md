@@ -30,7 +30,7 @@ Sometimes, buyers are surprised when they talk to a lender, thinking that they�
 
 We are also seeing some challenges with HOA master insurance policies affecting buyers’ ability to secure financing. This is important for some conventional buyers and many FHA buyers — 90% of buyers who are using loans backed by Fannie Mae and Freddie Mac. **Fannie and Freddie have certain regulations and specifications for insurance policies** on associations for the loans they will avail. For example, Fannie and Freddie often deny loans if an HOA has modified their insurance policies to keep costs down.
 
-HOA boards naturally want to keep fees low for homeowners. However, insurance costs are rising, especially for townhome communities that need complicated insurance coverage. While HOAs try to save money on insurance, **sometimes the cheaper policies don't meet the standards required by mortgage lenders.** This can create problems when homeowners try to sell their properties or when buyers try to get loans.
+HOA boards naturally want to keep fees low for homeowners. However, insurance costs are rising, especially for townhome communities that need complicated insurance coverage. While HOAs try to save money on insurance, **sometimes, the cheaper policies don't meet the standards required by mortgage lenders.** This can create problems when homeowners try to sell their properties or when buyers try to get loans.
 
 As buyers or real estate professionals, we sometimes don’t see these issues until a lender starts looking into their master policy. If you’re on a townhome association board, this is something to consider for your homeowners and their ability to sell their homes.
 
