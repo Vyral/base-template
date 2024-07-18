@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Is Financing Important When Buying a Home
+title: Why Is Financing Important When Buying a Home?
 date: 2024-07-18 07:00:00
 tags:
   - Financing
