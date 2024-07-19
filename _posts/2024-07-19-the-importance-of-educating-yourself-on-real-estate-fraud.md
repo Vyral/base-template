@@ -2,7 +2,7 @@
 layout: post
 title: The Importance of Educating Yourself on Real Estate Fraud
 date: 2024-07-19 07:00:00
-excerpt:
+excerpt: Learn how to protect yourself from real estate transaction scams.
 enclosure:
 pullquote: >-
   When wires are allowed, extreme measures are taken to confirm the identity of
