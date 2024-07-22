@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chad-sara-huebener-yt-7-1.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-yt-8-1.jpg
 youtube_code: eXqAkhjzIo8
 ---
 {% include youtube.html %}
@@ -34,4 +34,4 @@ HOA boards naturally want to keep fees low for homeowners. However, insurance co
 
 As buyers or real estate professionals, we sometimes don’t see these issues until a lender starts looking into their master policy. If you’re on a townhome association board, this is something to consider for your homeowners and their ability to sell their homes.
 
-We will be sharing more information related to financing but for now, let us tell you that the market is still moving along. If you have any questions, please reach out to us at (952) 212-3597. Let us know how we can help.
+We will be sharing more information related to financing but for now, let us tell you that the market is still moving along. If you have any questions, please reach out to us at **(952) 212-3597**. Let us know how we can help.
