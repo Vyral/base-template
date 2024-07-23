@@ -28,4 +28,4 @@ Let’s say a typical home in Hawaii is valued at around $1 million. **Our goal 
 
 For example, if your house is worth $800,000, we’d multiply that by 4.5% or 5%, depending on the property’s condition and comparable homes in the neighborhood. This gives us the annual expected return, which we then divide by 12 to get the monthly rent. It may sound a bit complicated, but it’s quite simple.
 
-Accurate computation of your rental rate will give you maximum ROI on your property. If you have any questions or need assistance, feel free to call our office at (808) 445-9223.
+Accurate computation of your rental rate will give you maximum ROI on your property. If you have any questions or need assistance, feel free to call our office at **(808) 445-9223**.
