@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need Help Calculating Your Rental Rate Follow This Formula
+title: Need Help Calculating Your Rental Rate? Follow This Formula
 date: 2024-07-23 00:00:00
 tags:
   - Property Management
@@ -17,6 +17,8 @@ youtube_alternate_image: /uploads/yt-1.jpg
 youtube_code: 0TsEJklvMpo
 ---
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Property owners often call us to check if their property management company is setting the right rent, or if they’re a self-management owner, they are seeking advice on how to do it themselves. Here’s how we calculate rent.
 
