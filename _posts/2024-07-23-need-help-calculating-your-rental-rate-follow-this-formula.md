@@ -20,12 +20,12 @@ youtube_code: 0TsEJklvMpo
 
 {% include excerpt.html %}
 
-Property owners often call us to check if their property management company is setting the right rent, or if they’re a self-management owner, they are seeking advice on how to do it themselves. Here’s how we calculate rent.
+Property owners often call us to check if their property management company is setting the right rent or, if they’re self-managing, they are seeking advice on how to do it themselves. Here’s how we calculate rent.
 
-Let’s say a typical home in Hawaii is valued at around $1 million. **Our goal is to get a 4% to 5% return on investment annually.** To calculate the monthly rent, multiply the property value by 4% to 5%, then divide that by 12.
+Let’s say a typical home in Hawaii is valued at around $1 million. **Our goal is to get a 4% to 5% return on investment annually.** To calculate the monthly rent, we take 4% to 5% of the property value, and divide that by 12.
 
 {% include pullquote.html %}
 
-For example, if your house is worth $800,000, we’d multiply that by 4.5% or 5%, depending on the property’s condition and comparable homes in the neighborhood. This gives us the annual expected return, which we then divide by 12 to get the monthly rent. It may sound a bit complicated, but it’s quite simple.
+As an example, if a house is worth $800,000, we would take 4% to 4.5% of that value, or around $32,000 depending on the condition and comparable properties in the neighborhood. This gives us the annual expected return, which we then divide by 12 to get the monthly rent. It may sound a bit complicated, but it’s quite simple.
 
 Accurate computation of your rental rate will give you maximum ROI on your property. If you have any questions or need assistance, feel free to call our office at **(808) 445-9223**.
