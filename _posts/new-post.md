@@ -15,8 +15,6 @@ youtube_code: QaX4OdYa2xA
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Are you considering selling your home in the near future? If you are, you’ll likely make a nice profit from your sale. However, you should be aware that there are costs and fees associated with selling your home that you need to be aware of. To make sure you don’t get caught off guard, today, I’m going over a few of the most common costs you should prepare for before selling.
 
 **You can listen to the full explanation in the video above or skip to each topic using the timestamps provided:**
