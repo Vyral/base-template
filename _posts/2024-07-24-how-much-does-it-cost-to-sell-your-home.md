@@ -34,5 +34,3 @@ Are you considering selling your home in the near future? If you are, you’ll l
 4:58 — Wrapping things up
 
 If you have questions about fees you might have to pay or anything else, please call or email me. I am always willing to help!
-
-{% include pullquote.html %}
