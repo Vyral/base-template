@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How Much Does it Cost To Sell Your Home? '
-date: 2024-07-24 00:00:00
+date: 2024-07-23 00:00:00
 excerpt: 'All the fees, costs, and commissions you need to pay when selling. '
 enclosure:
 pullquote:
