@@ -36,6 +36,58 @@
 	&:active
 		box-shadow: 0 0 0 $brand
 		@include transform(translateY(0rem))
+		
+.reviews-container
+	background-color: #f2f2f2
+
+	.reviews
+		display: flex
+		flex-wrap: wrap
+		align-items: center
+		justify-content: center
+		overflow: hidden
+		height: 14.5rem
+
+	.review
+		padding: 2rem
+		max-width: 26rem
+		height: 100%
+		display: flex
+		flex-direction: column
+		align-items: center
+		justify-content: center
+
+		.name
+			font-weight: 600
+			font-size: 1.6rem
+
+
+	h4
+		font-weight: 600
+		font-style: italic
+
+	p
+		margin: 0
+		font-size: 1.5rem
+		line-height: 1.4
+		letter-spacing: -0.02rem
+
+	img
+		margin-bottom: 1.1rem
+		width: 13rem
+		height: auto
+
+@media (max-width: 750px)
+	.reviews-container
+		padding: 0 1rem
+
+		.reviews
+			height: 16.5rem
+
+		.review
+			width: 50%
+			max-width: 50%		
+		
 
 @media (max-width: 990px)
 	.review-button-wrapper
