@@ -34,23 +34,7 @@ client:
   phone2:
   phone2_type:
   email: Kevin@ClancyRealEstate.com
-  url: http://ClancyRealEstate.com
-5star_reviews:
-  enabled: true
-  excerpts:
-    - text: The team has been amazing throughout the house-selling process.
-      name: Frances Torres
-    - text: >-
-        Bob and Blaire are an exceptional team. I've sold twelve houses, and
-        they surpass all other realtors.
-      name: Dustin Tengler
-    - text: Working with Blaire was incredible and highly recommended for buyers.
-      name: Kaylynn Wilkes
-    - text: >-
-        Consistently led to exceptional experiences, with quick sales above
-        asking price.
-      name: Bill Brab
-      
+  url: http://ClancyRealEstate.com     
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.albanynyhomevalues.com/
