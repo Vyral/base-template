@@ -1,6 +1,9 @@
 audit_header: false
 title: Albany Real Estate Video Blog with Kevin Clancy
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Clancy Real Estate - your professional Albany Real Estate Agents.
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from Clancy Real Estate - your professional
+  Albany Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Our Listings
@@ -9,13 +12,19 @@ custom_links:
     url: http://www.clancyrealestate.com/custompages_reports/team_clancy.htm
   - title: About
     url: http://www.clancyrealestate.com/custompages_reports/about.htm
-
 client:
   name: Kevin Clancy
   title:
   license_number:
-  about_markdown: |
-    Kevin Clancy is the #1 Realtor in the Capital Region as voted by the Times Union Readers "best of" poll. He has been providing real estate brokerage and appraisal services to the Capital District for over 25 years. He is a New York State licensed real estate broker, Insurance broker, and general certified appraiser. Kevin is a HUD approved broker and started his career specializing in the sale of HUD homes. Kevin's appraisal experience ranges from vacant land and single family homes to multi-tenant office buildings and retail centers.
+  about_markdown: >
+    Kevin Clancy is the #1 Realtor in the Capital Region as voted by the Times
+    Union Readers "best of" poll. He has been providing real estate brokerage
+    and appraisal services to the Capital District for over 25 years. He is a
+    New York State licensed real estate broker, Insurance broker, and general
+    certified appraiser. Kevin is a HUD approved broker and started his career
+    specializing in the sale of HUD homes. Kevin's appraisal experience ranges
+    from vacant land and single family homes to multi-tenant office buildings
+    and retail centers.
   market: Albany
   brand: Clancy Real Estate
   brokerage:
@@ -26,27 +35,25 @@ client:
   phone2_type:
   email: Kevin@ClancyRealEstate.com
   url: http://ClancyRealEstate.com
-
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.albanynyhomevalues.com/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.albanyhomefinder.com/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: http://www.albanynyhomevalues.com/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
     CTA_url2: http://www.albanyhomefinder.com/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -58,36 +65,45 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/pages/Clancy-Real-Estate/53079920567
   linkedin_url: https://www.linkedin.com/in/albanynyrealestate
-  gplus_url: 
+  gplus_url:
   youtube_url: https://www.youtube.com/channel/UCfdkq316BAtmSHrYxDNlDdA
   twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/KevinClancy/
-  trulia_url: http://www.trulia.com/profile/kevin-clancy-1-voted-realtor-agent-albany-ny-221545/
+  trulia_url: >-
+    http://www.trulia.com/profile/kevin-clancy-1-voted-realtor-agent-albany-ny-221545/
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/kevin-clancy-yt.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -96,16 +112,13 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: rgba(0, 0, 0, .8)
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -114,5 +127,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
