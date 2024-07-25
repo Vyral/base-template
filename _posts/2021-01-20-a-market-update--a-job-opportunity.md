@@ -4,8 +4,7 @@ title: A Market Update & a Job Opportunity
 date: 2021-01-20 17:01:00
 tags:
   - Market Update
-excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/2021/SOI/Albany+Real+Estate+Agent_+Capitalizing+on+the+Market_New+Year's+Resolutions_Are+You+Struggling_.mp4
+excerpt:
 enclosure:
 pullquote: >-
   Being grateful for what you have and helping others is probably one of the
@@ -16,7 +15,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: sO2DoSfGlR4
 ---
-
 {% include youtube.html %}
 
 In today’s post, I want to address three different topics. First, I’ll give you a quick update on what’s going on in the market. Then, I’ll share a few of my thoughts on New Year’s resolutions and the power of helping others. Finally, I’ll share a career opportunity for those who are struggling because of COVID.
@@ -29,7 +27,7 @@ For buyers, even though prices have gone up dramatically—about 10% over the la
 
 **New Year’s Resolutions:**
 
-New Year’s Day has come and gone\! They say it takes 21 days to create a new habit, so by now, you’ve either stuck to your resolutions and created a new habit for yourself, or, like 80% of people, you’ve failed your New Year’s resolutions. Ultimately, we make resolutions to make ourselves happy, such as by going to the gym, quitting drinking, eating healthier, etc. COVID has brought so many people pain and stress, but life is all about overcoming adversity.
+New Year’s Day has come and gone! They say it takes 21 days to create a new habit, so by now, you’ve either stuck to your resolutions and created a new habit for yourself, or, like 80% of people, you’ve failed your New Year’s resolutions. Ultimately, we make resolutions to make ourselves happy, such as by going to the gym, quitting drinking, eating healthier, etc. COVID has brought so many people pain and stress, but life is all about overcoming adversity.
 
 {% include pullquote.html %}
 
