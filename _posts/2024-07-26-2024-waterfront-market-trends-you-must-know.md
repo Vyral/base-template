@@ -17,7 +17,7 @@ youtube_code: f1ymOi5Nd4g
 
 {% include excerpt.html %}
 
-If you want to know what’s happening in the Flathead Lake housing market, you’ve come to the right place. As a local industry expert, I know the latest market data and trends you need to know, whether you’re considering buying or selling in the area. Today, I will share the latest waterfront market updates and insights on the first half of 2024.
+If you want to know what’s happening in the Flathead Lake housing market, you’ve come to the right place. As a local industry expert, I have the latest market data and trends you need to know whether you’re considering buying or selling in the area. Today, I will share the latest waterfront market updates and insights on the first half of 2024.
 
 **Feel free to watch the complete video or use the timestamps below to browse through the topics that interest you the most**:
 
