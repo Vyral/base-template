@@ -21,7 +21,7 @@ youtube_code: 90EISQ9dgUs
 
 According to the latest Gallup survey, real estate remains the number one choice for long-term investments and has consistently remained on the top of the list over the last twelve years. By now, you must be curious why. Here are three reasons why real estate is the best long-term investment for you:
 
-**• Build wealth.** Real estate is favored for several reasons. It allows individuals to build wealth over time, whether they are homeowners or investors in rental properties. For renters who become homeowners, their property appreciates, contributing to their long-term wealth. Everyone needs a place to live, making real estate a practical and beneficial investment.
+**• Build wealth.** Real estate allows individuals to build wealth over time, whether they are homeowners or investors in rental properties. For renters who become homeowners, their property appreciates, contributing to their long-term wealth. Everyone needs a place to live, making real estate a practical and beneficial investment.
 
 {% include pullquote.html %}
 
