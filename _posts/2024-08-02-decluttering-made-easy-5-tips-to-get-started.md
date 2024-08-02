@@ -5,7 +5,7 @@ date: 2024-08-02 07:00:00
 excerpt: Learn how to declutter your home for a cleaner space with these tips.
 enclosure:
 pullquote: >-
-  PQ Knowing your end goal and having a schedule will keep you motivated and on
+  Knowing your end goal and having a schedule will keep you motivated and on
   track.
 enclosure_type: video/mp4
 enclosure_time:
