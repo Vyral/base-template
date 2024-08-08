@@ -19,7 +19,7 @@ youtube_code: dbSqSN9B-KA
 
 {% include excerpt.html %}
 
-I know many of you are wondering what's next for mortgage rates. Of course, no one can predict this with absolute certainty, but one significant factor to monitor is the federal funds rate. Whenever the Federal Reserve adjusts the federal funds rate, mortgage rates generally respond in kind.
+I know many of you are wondering what's next for mortgage rates *(they actually dropped into the mid-6 % range last week)*. Of course, no one can predict this with absolute certainty, but one significant factor to monitor is the federal funds rate. Whenever the Federal Reserve adjusts the federal funds rate, mortgage rates generally respond in kind.
 
 **Key Factors Influencing the Fed's Decisions**
 
