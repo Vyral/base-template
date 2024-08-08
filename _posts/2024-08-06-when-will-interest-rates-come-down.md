@@ -36,5 +36,3 @@ Predicting mortgage rates is a complex task, and while the Fed doesn't directly 
 In the coming weeks, we should expect some updates from the Fed that will give us a clearer picture of where mortgage rates might be heading.
 
 If you want more information about interest rates or are considering buying or selling a home, I'd love to help. Feel free to call me anytime on my cell phone at (502) 376-5483 or send me an email at [Bob@weselllouisville.com](mailto:Bob@weselllouisville.com). Additionally, you can catch my radio show every Sunday morning from 8:30 to 9 a.m. on 840 WHAS for more insights and updates.
-
-&nbsp;
