@@ -21,21 +21,21 @@ What are your non-negotiable items when buying a home? A clear outline of what y
 
 &nbsp;
 
-**1\. Location, location, location.** You’ve probably heard it before, and it’s for good reason. Location determines your access to amenities and resources, as well as the overall atmosphere of the neighborhood. That’s why different locations have different price points or costs. While certain aspects of the home can be changed, the location is essentially fixed.
+1\. **Location, location, location.** You’ve probably heard it before, and it’s for good reason. Location determines your access to amenities and resources, as well as the overall atmosphere of the neighborhood. That’s why different locations have different price points or costs. While certain aspects of the home can be changed, the location is essentially fixed.
 
 &nbsp;
 
-**2\. Lot or land.** Assess the size and layout of the land. A property with a small backyard cannot be easily expanded. The same is true for a large lot with a house sitting far back of the property, which may have limited usable backyard space.
+2\. **Lot or land.** Assess the size and layout of the land. A property with a small backyard cannot be easily expanded. The same is true for a large lot with a house sitting far back of the property, which may have limited usable backyard space.
 
 &nbsp;
 
 {% include pullquote.html %}
 
-**3\. Light.** Natural light is important in places like Portland, where we have rainy season and frequent gray days. Some homes may be darker than others due to their orientation or the trees that surround them. While additional windows or skylights can help, if your house is facing the wrong way, getting natural light can be challenging.
+3\. **Light.** Natural light is important in places like Portland, where we have rainy season and frequent gray days. Some homes may be darker than others due to their orientation or the trees that surround them. While additional windows or skylights can help, if your house is facing the wrong way, getting natural light can be challenging.
 
 &nbsp;
 
-**4\. Layout.** Look for a house with a layout that you like and that meets your needs. Changing the layout is possible but it can be expensive. Think about the hassle and cost of renovating the bathroom, knocking down walls, or adding a second storey. So, while renovations and upgrades are technically possible, they're not practical.
+4\. **Layout.** Look for a house with a layout that you like and that meets your needs. Changing the layout is possible but it can be expensive. Think about the hassle and cost of renovating the bathroom, knocking down walls, or adding a second storey. So, while renovations and upgrades are technically possible, they're not practical.
 
 &nbsp;
 
