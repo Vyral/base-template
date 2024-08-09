@@ -31,8 +31,6 @@ What are your non-negotiable items when buying a home? A clear outline of what y
 
 {% include pullquote.html %}
 
-&nbsp;
-
 **3\. Light.** Natural light is important in places like Portland, where we have rainy season and frequent gray days. Some homes may be darker than others due to their orientation or the trees that surround them. While additional windows or skylights can help, if your house is facing the wrong way, getting natural light can be challenging.
 
 &nbsp;
