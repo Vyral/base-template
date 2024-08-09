@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should I Make Repairs Before Listing My Home?
-date: 2024-08-09 00:00:00
+date: 2024-08-08 00:00:00
 excerpt: Going over the key reasons it’s worth it to fix your home before selling.
 enclosure:
 pullquote: >-
