@@ -9,7 +9,7 @@ pullquote: >-
   be if you do repairs before listing.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/marion-ctas-2.png
 youtube_code:
 ---
