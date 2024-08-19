@@ -21,12 +21,14 @@ We are giving $5,250 worth of giveaways—**50 Central Iowa teachers will receiv
 
 **Here’s how you can nominate your favorite teacher:**
 
-1. Like and follow the Misty Sold Team Facebook page
+1. Like and follow the [Misty Sold Team Facebook](https://www.facebook.com/MistySOLDTeam){: target="_blank" rel="noopener"} page
 2. Tag your favorite Central Iowa Teacher and mention the school where they teach
 3. Share our Teacher Giveaway post
 
 Teachers located in Central Iowa are also free to tag themselves if they are getting ready to start the school year.
 
 **Winners will be announced on August 29 at 4 p.m.** Join us as we thank and recognize our dedicated and hardworking teachers!
+
+We also want to give a special shoutout to our sponsors: Better Homes and Gardens Real Estate Innovations, Country Financial: The Consiglio Group, Bryan Zeutenhorst: Envoy Mortgage, Eric Bokker Fortress Bank, Home Warranty of America, Phillips’ Floors, and of course, the Misty Sold Team. This initiative would not have been possible without all of you.
 
 If you have any real estate questions, the market is still great, so reach out to us. **You can contact us at (515) 346-6204 or** [Misty@MistySOLD.com](mailto:Misty@MistySOLD.com)**.** We're here to help!
