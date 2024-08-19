@@ -23,7 +23,7 @@ We are giving $5,250 worth of giveaways—**50 Central Iowa teachers will receiv
 
 1. Like and follow the [Misty Sold Team Facebook](https://www.facebook.com/MistySOLDTeam){: target="_blank" rel="noopener"} page
 2. Tag your favorite Central Iowa Teacher and mention the school where they teach
-3. Share our Teacher Giveaway post
+3. Share our [Teacher Giveaway post](https://www.facebook.com/MistySOLDTeam/posts/pfbid02K4QVsD8fmNxzGsnA6xCRooENe4NHNNLTbs1MBUx9Tk6bizbt3ZhxRQpQi9BUfRrml)
 
 Teachers located in Central Iowa are also free to tag themselves if they are getting ready to start the school year. [Click here](http://www.soldincentraliowa.com/teachergiveaway) to learn more!
 
