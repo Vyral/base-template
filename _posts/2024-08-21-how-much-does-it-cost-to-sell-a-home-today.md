@@ -14,8 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/cc-image1-31.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Are you planning on selling your home in the near future? Now is a great time to sell; many homeowners have a ton of equity in their properties. However, you should know that selling your home isn’t all profit. There are costs you need to pay that you don’t want to be caught off guard by. That’s why today, I’m sharing a few of the most common costs associated with selling your home and a few things you can do to prepare for them.
