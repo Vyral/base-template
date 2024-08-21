@@ -10,7 +10,7 @@ enclosure:
 pullquote: Work with your agent to find out which pre-listing items are worth it for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cta2-6.jpg
 youtube_code:
 ---
