@@ -9,8 +9,8 @@ pullquote: >-
   marketing strategy.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/a0bccc0c89a76fa93ace8c15-1260x720.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
