@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I Make Repairs Before Listing My Home?
+title: How Much Does it Cost To Sell a Home Today?
 date: 2024-08-27 07:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cc-image1-7.jpg
+youtube_alternate_image: /uploads/cc-image1-9.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
