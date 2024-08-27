@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Does it Cost To Sell a Home Today?
+title: Should I Make Repairs Before Listing My Home?
 date: 2024-08-27 07:00:00
 tags:
   - Real Estate
@@ -13,19 +13,19 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cc-image1-9.jpg
+youtube_alternate_image: /uploads/cc-image1-7.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
 
-Are you planning on selling your home in the near future? Now is a great time to sell; many homeowners have a ton of equity in their properties. However, you should know that selling your home isn’t all profit. There are costs you need to pay that you don’t want to be caught off guard by. That’s why today, I’m sharing a few of the most common costs associated with selling your home and a few things you can do to prepare for them.
+Recently, a lot of sellers have been asking me, “Should I make repairs before listing my home?” The short answer is yes. While we’re still in a seller’s market, the truth is that there aren’t as many buyers as there were during the peak a few years ago. The good news is that buyers still looking to purchase a home in this environment are very serious about moving. However, due to higher interest rates and home prices, your property needs to be in great condition to stand out. That’s why today, I’m sharing three things you can do to get your home in perfect market condition before selling:
 
-**1\. Costs before the sale.** These are all the things you should do before listing your home on the MLS including items like inspections, repairs, renovations, and cleaning. While most of these things aren’t 100% necessary, every agent will recommend you do them if you want to get the most money possible for your home. For example, a clean home with a few simple repairs and cosmetic upgrades will get way more attention from buyers than a home that’s listed as is. That’s why I always recommend having a pre-listing meeting with your agent to go over which pre-listing costs will improve your sale and fit your budget.
+**1\. Have a pre-listing meeting.** Meet with your agent before you list to go over which repairs are really worth it. Not every fix is worth your hard-earned money, so invest in repairs that will improve your home’s condition and net you a higher return on your investment. It might be worth it to pay for a pre-inspection before you list. This way, you can find exactly what might turn buyers away and fix it before you hit the open market.
 
 {% include pullquote.html %}
 
-**2\. Costs of selling.** These are the costs that come with a real estate transaction and include things like listing agent commission, buyer’s agent commission, marketing costs, and more. Depending on who your agent is and what they offer, the cost of their commission could range from 3% to 6%. Plus, many agents also offer different commission packages, so you can customize what type of service you get based on your budget.
+**2\. Choose between cosmetic and high-maintenance repairs.** Most repairs fall into one of two categories: cosmetic repairs and high-maintenance repairs. Cosmetic repairs are usually optional and won’t be a sticking point in negotiations. However, they can net you a higher return on your investment. High-maintenance repairs take longer and require a larger investment, but they often fix major issues that need to be addressed if you want good offers from buyers.
 
-**3\. Closing costs.** These costs go towards transferring the ownership of a property from one person to another and include things like title fees, escrow fees, mortgage insurance, seller concessions, notary fees, and more. While seller concessions can be negotiated, and closing costs can vary based on the value of your property, you can generally expect to pay between 0.5% and 1% of the total sales price at closing.
+**3\. Proper repairs expand your buyer pool.** The condition of your home is the most important factor you can control when selling because it expands your buyer pool. In today’s market, there are fewer buyers due to interest rates and higher home prices; however, you can still attract a lot of demand with a property in good condition. If you do the proper repairs, you’ll have more offers coming in from better-qualified buyers. Work closely with your agent to create a strong marketing strategy, and you might even create a bidding war and naturally drive up your price.
 
-Planning for a home sale is a lot of work, but we can help. Just call or email us today, and we’ll help you analyze and break down how much cash you need to sell your home. We look forward to hearing from you!
+I always recommend sellers do repairs before listing, but it’s more important in this market than it ever has been before. If you’re wondering which repairs are worth doing or want to discuss a pre-listing strategy, just give me a call or send me an email. I’d love to hear from you!<br>
