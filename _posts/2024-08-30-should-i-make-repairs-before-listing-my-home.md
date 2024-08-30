@@ -15,8 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/cc-image1-16.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Recently, a lot of sellers have been asking me, “Should I make repairs before listing my home?” The short answer is yes. While we’re still in a seller’s market, the truth is that there aren’t as many buyers as there were during the peak a few years ago. The good news is that buyers still looking to purchase a home in this environment are very serious about moving. However, due to higher interest rates and home prices, your property needs to be in great condition to stand out. That’s why today, I’m sharing three things you can do to get your home in perfect market condition before selling:
