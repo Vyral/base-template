@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Estate Commission Changes Explained
-date: 2024-09-03 07:00:00
+date: 2024-09-04 07:00:00
 tags:
   - Commison Changes
 excerpt: A new change in real estate gives buyers more control when buying a home.
