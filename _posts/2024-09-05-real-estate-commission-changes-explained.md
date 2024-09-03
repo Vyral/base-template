@@ -6,9 +6,7 @@ tags:
   - Commison Changes
 excerpt: A new change in real estate gives buyers more control when buying a home.
 enclosure:
-pullquote: >-
-  Many sellers still offer compensation to buyer’s agents to attract more
-  showings and potential buyers. 
+pullquote: Many sellers still offer compensation to buyer’s agents to attract more showings and potential buyers. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
