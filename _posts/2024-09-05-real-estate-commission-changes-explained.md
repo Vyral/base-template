@@ -1,17 +1,19 @@
 ---
 layout: post
 title: Real Estate Commission Changes Explained
-date: 2024-09-04 07:00:00
+date: 2024-09-05 07:00:00
 tags:
   - Commison Changes
 excerpt: A new change in real estate gives buyers more control when buying a home.
 enclosure:
-pullquote: Many sellers still offer compensation to buyer’s agents to attract more showings and potential buyers. 
+pullquote: >-
+  Many sellers still offer compensation to buyer’s agents to attract more
+  showings and potential buyers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/chad-sara-huebener-email-copy.jpg
-youtube_code: 
+youtube_code:
 ---
 {% include youtube.html %}
 
