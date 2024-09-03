@@ -17,9 +17,7 @@ youtube_code: '-S83QQLeaJM'
 ---
 {% include youtube.html %}
 
-{% include author-box.html %}
-
-{% include cta-main-box.html %}
+{% include excerpt.html %}
 
 There’s a new practice in the real estate industry related to buying a home. Moving forward, buyers need to have a clear understanding of the costs involved in homeownership before looking at properties.
 
@@ -32,5 +30,3 @@ In Minnesota, sellers have traditionally compensated a buyer’s agent. They can
 This change brings transparency to every transaction, allowing buyers to understand who pays the broker commission. We recommend talking about this with sellers for every property you consider. Nevertheless, many sellers still offer compensation to buyer’s agents to attract more showings and potential buyers.
 
 **If you have any questions about the recent changes in the real estate market or want to discuss your real estate plans, call us at (952) 212-3597.** We are more than happy to assist you.
-
-{% include cta-content-box.html %}
