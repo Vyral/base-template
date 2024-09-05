@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Your Home Sale Strategy Ready for Today’s Market?
+title: You are invited to our Home Seller Seminar hosted by Paul Douglas
 date: 2024-09-05 07:00:00
 tags:
   - Real Estate
