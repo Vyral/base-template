@@ -20,7 +20,8 @@ youtube_code: YavrLS3WkJg
 
 {% include excerpt.html %}
 
-{% include HVButton.html %}
+
+<div class="text-center"><a href="https://www.johnschustergroup.com/home_seller_forum" target="blank"><button type="button">Register Today</button></a></div>
 
 The real estate market has changed significantly due to high interest rates, and selling your home is not as simple as it once was. If you’re considering selling in the next couple of years, there’s an opportunity you should not miss: a **free 45-minute virtual webinar** hosted by John Schuster.
 
