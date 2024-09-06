@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Does it Cost To Sell a Home Today?
-date: 2024-08-27 07:00:00
+date: 2024-09-06 07:00:00
 tags:
   - Home Seller Tips
   - Real Estate
