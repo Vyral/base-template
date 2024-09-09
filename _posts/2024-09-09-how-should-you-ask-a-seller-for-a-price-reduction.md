@@ -12,7 +12,7 @@ pullquote: We have good reason to believe the market will shift soon.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cc-image1-20.jpg
+youtube_alternate_image: /uploads/cc-image1-23.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
