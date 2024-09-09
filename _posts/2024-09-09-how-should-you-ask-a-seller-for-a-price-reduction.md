@@ -12,8 +12,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/cc-image1-20.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 In this volatile market, things are moving fast. Due to short supply, high interest rates, and limited demand, home price trends can change in the blink of an eye. In a market like this, sellers need to price their homes based on where the market will be down the road, not where it is now. However, not all sellers take this advice. If prices trend down in your market, you might have to do something every real estate agent hates: ask for a price reduction. This conversation can be incredibly awkward if you don’t know what to do. Fortunately, I have three expert tips you can follow to make price reductions as smooth as possible:
