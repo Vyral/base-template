@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chad-sara-huebener-email-copy.jpg
-youtube_code: DqlO-wMcOYI
+youtube_code: uY7mItb79Es
 ---
 {% include youtube.html %}
 
