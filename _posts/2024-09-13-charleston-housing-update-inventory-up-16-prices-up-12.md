@@ -3,7 +3,9 @@ layout: post
 title: 'Charleston Housing Update: Inventory Up 16%, Prices Up 12%'
 date: 2024-09-13 07:00:00
 tags:
-excerpt: Learn how rising inventory and prices affect Charleston's market.
+excerpt: >-
+  Discover how a 16% increase in inventory and a 12% rise in home prices impact
+  Charleston's real estate market.
 enclosure:
 pullquote: >-
   Inventory has increased by 16%, and home prices are up 12%—every showing
