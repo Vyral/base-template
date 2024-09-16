@@ -15,8 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/cc-image1-36.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Have you noticed a shift in our housing market lately? Homes are taking longer to sell, and prices are volatile nationwide. Depending on where you are, prices could start coming down for the first time in years. This has made many wonder, “Are we finally heading towards a buyer’s market?” My best answer is no; at least, not exactly. Instead, I’d say we’re more likely to head to a balanced market where both sellers and buyers have opportunities if they know what to look for. Here are three things you need to know about our market right now to make sure you get the best deal possible, whether you’re buying or selling:
