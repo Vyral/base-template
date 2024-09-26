@@ -29,3 +29,5 @@ What changes in real estate should sellers prepare for? Today, we're revisiting 
 These are two of the biggest changes in the community which resulted to a lot more paperwork. However, we simplified some of these into your listing contract and in our listing process to make it easier for you.
 
 Our goal is for you to not feel any major changes that’s why we take the extra effort to address most of your concerns, discuss with you our process, and explain the changes for a seamless transaction. If you have any questions about the changes that took effect in mid-August 2024, **feel free to contact us anytime at (952) 212-3597.** We'd love to discuss them with you.
+
+{%include cta-content-box.html%}
