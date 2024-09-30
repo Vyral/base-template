@@ -17,9 +17,8 @@ youtube_code: BovoPQkDyNI
 
 {% include youtube.html %}
 
-<center>We're proud to introduce you to Chris, the newest buyer's agent on our team. Here's what he had to say about joining Team Lally.&nbsp;</center>
+<center>We're proud to introduce you to Chris, the newest buyer's agent on our team. Here's what he had to say about joining Team Lally.</center>
 
-&nbsp;
 
 Chris, an Ohio native, has lived in Hawaii for four years now. He’s quickly become a valuable member of Team Lally as a buyer’s agent who helps ensure a top-notch experience for our buyers. We asked Chris some questions so that you can get to know him a little bit better, and here’s what he had to say:
 
