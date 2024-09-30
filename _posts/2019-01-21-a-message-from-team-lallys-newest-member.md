@@ -4,7 +4,7 @@ title: A Message From Team Lally’s Newest Member
 date: 2019-01-21 16:37:00
 tags:
   - Meet Team Lally
-excerpt: 'Our team has a new member, and we’re excited to introduce him to you today.'
+excerpt: Our team has a new member, and we’re excited to introduce him to you today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+A+Message+From+Team+Lallys+Newest+Member.mp4
 pullquote: JT is excited to start helping you with your real estate needs.
@@ -14,8 +14,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/1-18-jt-np.jpg
 youtube_code: wfKloXsn9W8
 ---
-
 {% include youtube.html %}
+
+&nbsp;
 
 Team Lally has exciting news: We’ve gained a new member, and we’re going to introduce him to you today. Meet JT Smith.
 
