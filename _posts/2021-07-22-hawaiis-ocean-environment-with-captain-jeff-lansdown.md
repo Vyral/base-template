@@ -22,7 +22,7 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Captain Jeff Lansdown?
 
-Captain Jeff Lansdown is a United States Coast Guard Veteran who is the founder and owner of Wikoliana Educational Excursions. Wikoliana is an educational organization devoted to raising awareness of Hawaii's ocean environment and maritime heritage. He started the organization with the goal of promoting ocean conservancy, providing educational outreach programs, and organizing environmental stewardship projects in Hawaii.&nbsp;
+Captain Jeff Lansdown is a United States Coast Guard Veteran who is the founder and owner of Wikoliana Educational Excursions. Wikoliana is an educational organization devoted to raising awareness of Hawaii's ocean environment and maritime heritage. He started the organization with the goal of promoting ocean conservancy, providing educational outreach programs, and organizing environmental stewardship projects in Hawaii.
 
 <br>To reach Captain Jeff you may contact him in the following ways:
 
