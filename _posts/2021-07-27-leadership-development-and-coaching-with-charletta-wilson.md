@@ -22,9 +22,9 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Charletta Wilson?
 
-Dr. Charletta Wilson grew up in Okinawa, Japan from when she was 10, but returned to the US to finish high school. &nbsp;She married years later and &nbsp;traveled the world with her husband through his active duty military career, and made Hawaii home after spending nearly 12 years on Oahu.
+Dr. Charletta Wilson grew up in Okinawa, Japan from when she was 10, but returned to the US to finish high school. She married years later and traveled the world with her husband through his active duty military career, and made Hawaii home after spending nearly 12 years on Oahu.
 
-She is an industrial and organizational psychologist by trade andI shares her gifts through consulting around leadership, executive coaching and teaching graduate/undergraduate college courses. &nbsp;She is the founder of CaPeesh Consulting, a Hawaii-based leader development firm.&nbsp;
+She is an industrial and organizational psychologist by trade andI shares her gifts through consulting around leadership, executive coaching and teaching graduate/undergraduate college courses. She is the founder of CaPeesh Consulting, a Hawaii-based leader development firm.
 
 <br>To reach Char Wilson you may contact her in the following ways:
 
