@@ -17,7 +17,7 @@ youtube_code: BovoPQkDyNI
 
 {% include youtube.html %}
 
-<center>We&rsquo;re proud to introduce you to Chris, the newest buyer&rsquo;s agent on our team. Here&rsquo;s what he had to say about joining Team Lally.&nbsp;</center>
+<center>We're proud to introduce you to Chris, the newest buyer's agent on our team. Here's what he had to say about joining Team Lally.&nbsp;</center>
 
 &nbsp;
 
