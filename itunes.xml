@@ -9,9 +9,9 @@ layout: null
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
     <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</description>
     <language>en</language>
-    <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}205252</managingEditor>
+    <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}} | 205252</managingEditor>
     <lastBuildDate>{{site.time}}</lastBuildDate>
-    <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}205252</media:copyright>
+    <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}| 205252</media:copyright>
     <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <media:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{site.data.settings.podcast.categories}}</media:category>
@@ -47,7 +47,7 @@ layout: null
         <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
       </item>
       {% endfor %}
-    <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}205252</copyright>
+    <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}| 205252</copyright>
     <media:credit role="author">{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</media:description>
