@@ -22,9 +22,9 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Jacob Kissack?
 
-Jacob Kissack is the Direct Sales Leader and Solar Energy Specialist at Skyta - Solar & Roofing. He is from a 3000 acre angus cattle ranch in the rolling hills of Wyoming. He studied at the University of Wyoming, then abroad in Spain, as well as the Moody Bible Institute in Chicago.&nbsp;
+Jacob Kissack is the Direct Sales Leader and Solar Energy Specialist at Skyta - Solar & Roofing. He is from a 3000 acre angus cattle ranch in the rolling hills of Wyoming. He studied at the University of Wyoming, then abroad in Spain, as well as the Moody Bible Institute in Chicago.
 
-With the recent launch of the Battery Bonus Program with HECO, Skyta is the leader in the new market with an established track record of success in customer care, reliability, and honesty.<br>&nbsp;
+With the recent launch of the Battery Bonus Program with HECO, Skyta is the leader in the new market with an established track record of success in customer care, reliability, and honesty.<br>
 
 To reach Jacob you may contact him in the following ways:
 
