@@ -22,8 +22,8 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Paige Oshiro?
 
-Paige Oshiro is a Reverse Mortgage Loan Officer at Open Mortgage, LLC. &nbsp;She was born and raised on O'ahu and went to high school at Hawaii Baptist Academy and graduated with a BBA in Marketing and Management from the Shidler College of Business at UH Manoa. She has Worked in the Reverse Mortgage industry for almost four years, right out of high school and earned her mortgage license in 2018.
+Paige Oshiro is a Reverse Mortgage Loan Officer at Open Mortgage, LLC. She was born and raised on O'ahu and went to high school at Hawaii Baptist Academy and graduated with a BBA in Marketing and Management from the Shidler College of Business at UH Manoa. She has Worked in the Reverse Mortgage industry for almost four years, right out of high school and earned her mortgage license in 2018.
 
 <br>To reach Paige you may contact her in the following ways:
 
-Phone: 808-753-9819<br>Email: &nbsp;paigeoshiro@openmortgage.com<br>Website: https://openmortgage.com/<br>Social media: https://www.facebook.com/openmtg/
+Phone: 808-753-9819<br>Email: paigeoshiro@openmortgage.com<br>Website: https://openmortgage.com/<br>Social media: https://www.facebook.com/openmtg/
