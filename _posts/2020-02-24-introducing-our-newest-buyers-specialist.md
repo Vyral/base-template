@@ -24,7 +24,7 @@ Dana, a lifelong Oahu resident, possesses refined customer service skills and in
 
 **How did you hear about Team Lally?**
 
-I first heard about Team Lally through my husband and sister-in-law, who’ve each had multiple transactions with the team. I was able to experience firsthand the expertise and quality of service that Team Lally exemplifies.&nbsp;
+I first heard about Team Lally through my husband and sister-in-law, who’ve each had multiple transactions with the team. I was able to experience firsthand the expertise and quality of service that Team Lally exemplifies.
 
 **Why motivated you to join Team Lally?&nbsp;**
 
