@@ -17,7 +17,7 @@ youtube_code: BqLMXuALrKE
 
 {% include youtube.html %}
 
-<center>We&rsquo;re proud to introduce you to Dana, the newest ISA on our team. Here&rsquo;s what she had to say about joining Team Lally.&nbsp;</center>
+<center>We're proud to introduce you to Dana, the newest ISA on our team. Here's what she had to say about joining Team Lally.&nbsp;</center>
 
 &nbsp;
 
