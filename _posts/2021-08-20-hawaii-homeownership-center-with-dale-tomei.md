@@ -22,7 +22,7 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Dale Tomei?
 
-Dale Tomei was born and raised on Oahu and Studied Economics at the University of Hawaii - West Oahu. &nbsp;He is currently the Education Coordinator at Hawaii HomeOwnership Center. The Hawai‘i HomeOwnership Center aims to provide education, information and support to create successful first-time homeowners in Hawai‘i.
+Dale Tomei was born and raised on Oahu and Studied Economics at the University of Hawaii - West Oahu. He is currently the Education Coordinator at Hawaii HomeOwnership Center. The Hawai‘i HomeOwnership Center aims to provide education, information and support to create successful first-time homeowners in Hawai‘i.
 
 <br>To reach Dale you may contact him in the following ways:
 
