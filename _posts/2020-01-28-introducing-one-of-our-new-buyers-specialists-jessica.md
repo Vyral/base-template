@@ -21,7 +21,7 @@ youtube_code: D4-zlT0OV9o
 
 {% include youtube.html %}
 
-Jessica was born and raised in The Windy City and moved to Hawaii back in 2006. As one of Team Lally’s newest buyer’s specialists, she’s eager to give back the same level of expertise she’d received as a client. We asked Jessica some questions so that you can get to know her a little bit better, and here’s what she had to say:&nbsp;
+Jessica was born and raised in The Windy City and moved to Hawaii back in 2006. As one of Team Lally’s newest buyer’s specialists, she’s eager to give back the same level of expertise she’d received as a client. We asked Jessica some questions so that you can get to know her a little bit better, and here’s what she had to say:
 
 <br>**How did you hear about Team Lally?**
 
@@ -31,7 +31,7 @@ I learned about Team Lally back in 2006 when Adrienne walked me through the purc
 
 **Why motivated you to join Team Lally?&nbsp;**
 
-The long-term relationships that the team maintains with their clients, along with their efficiency and professionalism, drove me to join this amazing group. Over the years, I’ve witnessed Team Lally absolutely thrive, and I’m honored to be a part of the No. 5 real estate team in the state of Hawaii.&nbsp;
+The long-term relationships that the team maintains with their clients, along with their efficiency and professionalism, drove me to join this amazing group. Over the years, I’ve witnessed Team Lally absolutely thrive, and I’m honored to be a part of the No. 5 real estate team in the state of Hawaii.
 
 **What do you enjoy most about working on the team?&nbsp;**
 
