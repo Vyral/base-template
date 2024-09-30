@@ -24,7 +24,7 @@ We also have your favorite experts providing this week's tips on property manage
 
 <br>Who is Broderick Sherwood?
 
-Broderick Sherwood is from Ogden Utah, currently lives in Kaneohe, and studied Healthcare Administration at Weber State University. He moved to Hawaii after his boss from Utah, Jake Butler asked if he would be interested in moving here to get Zerorez Hawaii started.&nbsp;
+Broderick Sherwood is from Ogden Utah, currently lives in Kaneohe, and studied Healthcare Administration at Weber State University. He moved to Hawaii after his boss from Utah, Jake Butler asked if he would be interested in moving here to get Zerorez Hawaii started.
 
 Zerorez&reg; is the revolutionary carpet cleaning service that uses a patented No Residue&reg; cleaning system. Zerorez&reg;, doesn't use soaps or harsh chemicals. Instead, they use a patented cleaning process that includes Powered Water&reg;. Powered Water&reg; is simply soft water that's been zapped with electricity. It's safe enough to drink, yet powerful enough to clean.
 
