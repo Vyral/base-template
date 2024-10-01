@@ -9,9 +9,9 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  In this interview, we chat with Taylor about her journey from teacher to
-  entrepreneur, the inspiration behind her designs, and the exciting launch of
-  her new earring bar experience.
+  Carrie Little, Executive Director of CACO, tackles the tough topic of child
+  abuse. CACO supports kids during investigations and the professionals who help
+  them through it.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
