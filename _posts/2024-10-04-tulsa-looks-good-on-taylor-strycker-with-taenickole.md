@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Tulsa Looks Good on Taylor Strycker with Taenickole
+title: >-
+  Tulsa Looks Good on Taylor Strycker with Children’s Advocacy Centers of
+  Oklahoma
 date: 2024-10-04 09:00:00
 tags:
   - Tulsa Spotlight
