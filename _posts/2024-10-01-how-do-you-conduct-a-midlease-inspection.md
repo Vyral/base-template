@@ -34,4 +34,3 @@ If you’re a landlord, consider conducting a routine mid-lease inspection. When
 
 If you have any questions or need help with property management, feel free to reach out! You can call us or send us an email, and we’ll be happy to assist you with your concerns.
 
-{%include cta-content-box.html%}
