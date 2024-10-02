@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/yt-1-1.jpg
 youtube_code:
 ---
-![](/uploads/yt-1-2.jpg){: width="1280" height="720"}
+![](/uploads/yt.jpg){: width="800" height="450"}
 
 {% include excerpt.html %}
 
@@ -33,4 +33,3 @@ Are you consistently doing mid-lease inspections? If yes, are you doing them rig
 If you’re a landlord, consider conducting a routine mid-lease inspection. When a property is not properly maintained, it’s almost too easy for minor issues to become problematic and costly. If you’re a tenant, be prepared for these inspections and use them as an opportunity to raise any concerns you may have about the property. A well-maintained property benefits both landlord and tenant, leading to better landlord-tenant relationships.
 
 If you have any questions or need help with property management, feel free to reach out! You can call us or send us an email, and we’ll be happy to assist you with your concerns.
-
