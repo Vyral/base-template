@@ -24,7 +24,7 @@ Are you consistently doing mid-lease inspections? If yes, are you doing them rig
 
 **1\. Timing and notice.** Conduct your inspection at a reasonable time and day and in accordance with your local area’s regulations and lease agreement. Typically, halfway through the lease term is best. Inform your tenants in advance with a 24- to 48-hour notice so they can make an initial assessment of the things that concern them. Also, respect your tenant’s privacy and schedule by avoiding surprise inspections.
 
-**2\. Inspection checklist and documentation.** Preparing a detailed list of items you need to check ensures that you’ll have a smoother and faster inspection. Some routine items you should inspect include noticeable signs of damage to the interior and exterior of the property, plumbing, and electrical hazards. Look for signs of pests and insect infestations. In addition to that, check if home safety features like smoke detectors and fire extinguishers are working. Make notes during the inspection and take photos to track wear and tear and potential issues in the future. If you're inspecting a tenured renter, go over any prior notes that you may have made about the property and renter.
+**2\. Inspection checklist and documentation.** Preparing a detailed list of items you need to check ensures that you’ll have a smoother and faster inspection. Some routine items you should inspect include noticeable signs of damage to the interior and exterior of the property, plumbing, and electrical hazards. Look for signs of pests and insect infestations. In addition to that, check if home safety features like smoke detectors and fire extinguishers are working. Make notes during the inspection and take photos to track wear and tear and potential issues in the future. If you’re inspecting a tenured renter, go over any prior notes that you may have made about the property and renter.
 
 {% include pullquote.html %}
 
@@ -33,3 +33,5 @@ Are you consistently doing mid-lease inspections? If yes, are you doing them rig
 If you’re a landlord, consider conducting a routine mid-lease inspection. When a property is not properly maintained, it’s almost too easy for minor issues to become problematic and costly. If you’re a tenant, be prepared for these inspections and use them as an opportunity to raise any concerns you may have about the property. A well-maintained property benefits both landlord and tenant, leading to better landlord-tenant relationships.
 
 If you have any questions or need help with property management, feel free to reach out! You can call us or send us an email, and we’ll be happy to assist you with your concerns.
+
+{%include cta-content-box.html%}
