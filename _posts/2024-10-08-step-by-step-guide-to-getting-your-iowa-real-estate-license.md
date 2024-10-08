@@ -20,7 +20,7 @@ youtube_code: sOpD6uER3-g
 
 Are you considering getting your real estate license but not sure where to start? Let me break down the process for you step by step so you know exactly what to expect. Here are the key steps to getting your real estate license:
 
-**1\. Age requirement**. You must be at least 18 years old to get your real estate license. You can even start the process before you turn 18, but you won't be able to officially receive your license until you reach adulthood.
+**1\. Age requirement**. You must be at least 18 years old to get your real estate license. You can even start the process before you turn 18, but you won’t be able to officially receive your license until you reach adulthood.
 
 **2\. Complete the 60-hour pre-license course**. To qualify, you need to complete a 60-hour pre-license course. You have three options: take it online, attend in a classroom, or do a Zoom version with a live instructor. The classroom option focuses only on what you need to pass the exam, while the online version goes into more depth. Many people find that they pass the exam more successfully after taking the in-person course, but it really depends on your learning style and schedule.
 
