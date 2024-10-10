@@ -18,9 +18,9 @@ youtube_code: sOpD6uER3-g
 
 {% include excerpt.html %}
 
-Are you considering getting your real estate license but not sure where to start? Let me break down the process for you step by step so you know exactly what to expect. Here are the key steps to getting your real estate license:
+Are you considering getting your real estate license but unsure where to start? Let me break down the process for you step-by-step so you know exactly what to expect. Here are the key steps to getting your real estate license:
 
-**1\. Age requirement**. You must be at least 18 years old to get your real estate license. You can even start the process before you turn 18, but you won’t be able to officially receive your license until you reach adulthood.
+**1\. Age requirement**. You must be at least 18 years old to get your real estate license. You can even start the process before you turn 18, but you won’t be able to receive your license until you reach adulthood officially.
 
 **2\. Complete the 60-hour pre-license course**. To qualify, you need to complete a 60-hour pre-license course. You have three options: take it online, attend in a classroom, or do a Zoom version with a live instructor. The classroom option focuses only on what you need to pass the exam, while the online version goes into more depth. Many people find that they pass the exam more successfully after taking the in-person course, but it really depends on your learning style and schedule.
 
@@ -30,7 +30,7 @@ Are you considering getting your real estate license but not sure where to start
 
 **4\. Pass the licensing exam**. The licensing exam is divided into two parts: a national portion and a state portion. You need to pass both parts, but if you pass one and not the other, you only need to retake the one you didn’t pass. The state portion is often trickier because it covers local regulations, while the national portion covers general real estate topics like mortgages and land measurements.
 
-**5\. Additional courses**. You also need to complete 36 more hours of training, which includes 12 hours each of buying practices, listing practices, and professionalism/ethics. These courses are live and in-person, and you can take them either before or after your licensing exam, depending on what works best for you.
+**5\. Additional courses**. You also need to complete 36 more hours of training, which includes 12 hours each of buying practices, listing practices, and professionalism/ethics. These courses are live and in-person, and you can take them before or after your licensing exam, depending on what works best for you.
 
 **6\. Apply for your license**: Once you’ve passed the exam and completed your background check, it’s time to apply for your license. You’ll need to have a broker sponsor at this point. Your sponsoring broker will help you get started in the industry. You’ll also need to obtain errors and omissions insurance, which costs around $110 a year for basic coverage—and don’t worry, it’s one of the easiest steps in the process.
 
