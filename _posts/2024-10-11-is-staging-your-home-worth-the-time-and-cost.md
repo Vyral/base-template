@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/is-staging-your-home-worth-the-time-and-cost.png
 youtube_code:
 ---
-&nbsp;
+
 
 {% include excerpt.html %}
 
