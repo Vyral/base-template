@@ -12,7 +12,7 @@ pullquote: Pre-listing inspections let you take care of potential problems upfro
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/cc-image1-1.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
