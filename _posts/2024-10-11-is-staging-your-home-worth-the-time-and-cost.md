@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Staging Your Home Worth the Time and Cost?
-date:
+date: 2024-10-11 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
