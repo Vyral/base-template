@@ -9,7 +9,7 @@ excerpt: >-
   Here’s why so many buyers are backing out of deals and how you can use things
   like a pre-listing inspection to protect your sale. 
 enclosure:
-pullquote: “Pre-listing inspections let you take care of potential problems upfront.”
+pullquote: Pre-listing inspections let you take care of potential problems upfront.
 enclosure_type: all-text
 enclosure_time:
 use_youtube_image: false
@@ -26,7 +26,7 @@ It’s official: Cancelation rates are on the rise. In a lot of markets, around 
 
 {% include excerpt.html %}
 
-**3\. Drawn-out negotiations.** The longer you spend negotiating, the more chances you give your buyer to walk. In my experience, most drawn-out negotiations are the result of appraisals coming in lower than expected, which can change your buyer's financial situation with their bank. To prevent these problems, work with your agent before you list to find the perfect price that will net you the most money without causing appraisal issues. Plus, your agent should be able to argue for your price to the appraiser using the research they did to find your home’s value.
+**3\. Drawn-out negotiations.** The longer you spend negotiating, the more chances you give your buyer to walk. In my experience, most drawn-out negotiations are the result of appraisals coming in lower than expected, which can change your buyer’s financial situation with their bank. To prevent these problems, work with your agent before you list to find the perfect price that will net you the most money without causing appraisal issues. Plus, your agent should be able to argue for your price to the appraiser using the research they did to find your home’s value.
 
 If you’re thinking of selling in the near future, you can still get a good deal; you just need to work with an expert. Call or email me today to find your price, whether you want to head to the open market or receive an instant cash offer. I look forward to hearing from you!
 
