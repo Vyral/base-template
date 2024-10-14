@@ -18,8 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/is-staging-your-home-worth-the-time-and-cost.png
 youtube_code:
 ---
-
-
 {% include excerpt.html %}
 
 If you’re considering selling your home in the near future, how seriously are you thinking about staging? In the real estate industry, it’s widely accepted by experts across different fields that staging nets you more money for your sale, but I’ve spoken to a lot of homeowners who see it as a waste of time and money. If you’re on the fence about staging, here’s the truth: A few thousand dollars upfront can get you a two-to-one return on your investment and save you tons of time in the long run, which is why I always recommend sellers stage their properties. Here are the three most important benefits of staging you don’t want to throw away:
@@ -32,4 +30,4 @@ If you’re considering selling your home in the near future, how seriously are 
 
 **3\. The data proves staging nets you a great return on investment.** There’s a reason why all home experts recommend staging; [according to one estimate](https://www.architecturaldigest.com/reviews/moving/home-staging-statistics#:~:text=Home%20Staging%20ROI&amp;text=About%2075%25%20of%20sellers%20see,put%20them%20up%20for%20sale.&amp;text=Investing%201.3%25%20in%20staging%20results,according%20to%20a%202021%20survey), putting 1.3% of your sale price into staging can net you an extra 7.1% on your final offer. I know it’s tough to have extra cash lying around when you’re planning a move, but I highly recommend accounting a few extra thousand dollars for staging costs when you prepare to sell your house. Not only will you see a great return, but your home will sell faster and attract more buyers.
 
-Whether you’re planning on selling soon or years down the road, it pays to plan ahead. Call or email me for a free, no-obligation pre-sale consultation. I’ll go over your neighborhood, the market, staging, and more. I look forward to hearing from you!
+Whether you’re planning on selling soon or years down the road, it pays to plan ahead. Call [**254-535-8792**]() or email me today at [**jesse.myles3@gmail.com**]() for a free, no-obligation pre-sale consultation. I’ll go over your neighborhood, the market, staging, and more. I look forward to hearing from you!
