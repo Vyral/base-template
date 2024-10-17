@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Sell Your Home Stress-Free with $50K in Pre-Sale Repairs
+title: Want Top Dollar for Your Home? $50K Worth of Repairs on Us!
 date: 2024-10-16 07:00:00
 tags:
   - Real Estate
-excerpt: Sell your home for more with $50K in updates, no upfront fees.
+excerpt: >-
+  We hire professional inspectors and home stagers to maximize your home sale.s
+  on Us!
 enclosure:
 pullquote: >-
   Maximize your home’s value with $50,000 in free repairs and updates, and pay
