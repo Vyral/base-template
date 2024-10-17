@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want Top Dollar for Your Home? $50K Worth of Repairs on Us!
+title: Sell Your Home Stress-Free with $50K in Pre-Sale Repairs
 date: 2024-10-16 07:00:00
 tags:
   - Real Estate
