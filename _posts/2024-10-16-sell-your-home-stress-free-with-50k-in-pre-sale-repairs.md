@@ -4,9 +4,7 @@ title: Want Top Dollar for Your Home? $50K Worth of Repairs on Us!
 date: 2024-10-16 07:00:00
 tags:
   - Real Estate
-excerpt: >-
-  We hire professional inspectors and home stagers to maximize your home sale.s
-  on Us!
+excerpt: Up to $50k for updates and repairs with no upfront money out of your pocket
 enclosure:
 pullquote: >-
   Maximize your home’s value with $50,000 in free repairs and updates, and pay
