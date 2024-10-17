@@ -31,8 +31,8 @@ We know that selling a home comes with its fair share of stress, and often, much
 
 **Next, we’ll set you up with a top-tier home stager for a detailed consultation.** You’ll get expert advice on how to showcase your home’s best features, creating that “wow factor” that grabs buyers’ attention the moment they step through the door.
 
-The good news is you won’t have to dip into your savings to cover the cost of repairs or updates. **Coldwell Banker will take care of the expenses—up to $50,000—and you won’t pay us back until your home sells.** That means you can focus on selling your home for the best possible price, without worrying about draining your bank account.
+The good news is you won’t have to dip into your savings to cover the cost of repairs or updates. **Coldwell Banker will take care of up to $50,0000 worth of expenses. Don’t worry**—**you won’t need to pay us back until your home sells.** This means you can focus on selling your home for the best possible price without worrying about draining your bank account.
 
-From fresh paint and updated fixtures to necessary repairs, these upgrades can significantly increase your home’s market value, helping you sell faster and for more money. And the best part? It’s all covered upfront by us, giving you peace of mind during the entire selling process.
+From fresh paint and updated fixtures to necessary repairs, these upgrades can significantly increase your home’s market value, helping you sell faster and for more money. And the best part? We cover it upfront, giving you peace of mind.
 
-This is an opportunity that could make a huge difference in how much you walk away with after selling your home. However, it won’t last forever—this special offer is only available for the next month. If you are interested, you can call or text me at (952) 222-9000 to learn more and get started.
+This is an opportunity that could make a huge difference in how much you walk away with after selling your home. However, it won’t last forever—this special offer is only available for the next month. If you are interested, you can call or text me at **(952) 222-9000** to learn more and get started.
