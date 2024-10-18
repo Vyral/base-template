@@ -16,10 +16,10 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/chad-sara-huebener-email-1-2.jpg
+youtube_alternate_image: /uploads/chad-sara-huebener-email-2.jpg
 youtube_code:
 ---
-![](/uploads/chad-sara-huebener-email-1-3.jpg){: style="text-align:center; width: 100%;"}
+![](/uploads/chad-sara-huebener-email-2-1.jpg){: width="1280" height="720"}
 
 {% include excerpt.html %}
 
