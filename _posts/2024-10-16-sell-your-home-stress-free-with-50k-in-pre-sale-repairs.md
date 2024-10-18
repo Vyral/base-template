@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sell Your Home Stress-Free with $50K in Pre-Sale Repairs
+title: Sell Your Home Stress-Free with up to $50,000 in Pre-Sale Repairs
 date: 2024-10-16 07:00:00
 tags:
   - Real Estate
-excerpt: Up to $50k for updates and repairs with no upfront money out of your pocket
+excerpt: Up to $50,000 for updates and repairs with no upfront money out of your pocket
 enclosure:
 pullquote: >-
   Maximize your home’s value with $50,000 in free repairs and updates, and pay
