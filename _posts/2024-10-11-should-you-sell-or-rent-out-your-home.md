@@ -13,7 +13,7 @@ pullquote: >-
   financial goals.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/1-12.jpg
 youtube_code: uf5u8KCe53A
 ---
