@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Staging Your Home Worth the Time and Cost
+title: Is Staging Your Home Worth the Time and Cost?
 date: 2024-10-16 07:00:00
 tags:
   - Exercitation
