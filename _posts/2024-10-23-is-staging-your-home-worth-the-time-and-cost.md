@@ -13,11 +13,9 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/cc-image1-4.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 If you’re considering selling your home in the near future, how seriously are you thinking about staging? In the real estate industry, it’s widely accepted by experts across different fields that staging nets you more money for your sale, but I’ve spoken to a lot of homeowners who see it as a waste of time and money. If you’re on the fence about staging, here’s the truth: A few thousand dollars upfront can get you a two-to-one return on your investment and save you tons of time in the long run, which is why I always recommend sellers stage their properties. Here are the three most important benefits of staging you don’t want to throw away:
