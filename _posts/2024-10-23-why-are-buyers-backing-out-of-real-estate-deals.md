@@ -12,11 +12,9 @@ pullquote: Pre-listing inspections let you take care of potential problems upfro
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/cc-image1-5.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 It’s official: Cancelation rates are on the rise. In a lot of markets, around 30% of real estate transactions that go to escrow end up canceling. Since listings with canceled deals often end up selling for less money, what can you do to minimize the chances of your buyer flaking out? As an experienced expert, I’ve dealt with uncertain buyers before. That’s why today, I’m sharing why buyers are leaving deals in this market and explaining what you can do to stop a cancellation before it happens.
