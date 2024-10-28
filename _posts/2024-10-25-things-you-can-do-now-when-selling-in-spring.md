@@ -5,9 +5,13 @@ date: 2024-10-25 07:00:00
 tags:
   - Decluttering
   - Real Estate
-excerpt: Declutter effectively by asking, “What’s going with me in my new home?
+excerpt: >-
+  Deciding which items you’ll take with you or not will make decluttering
+  easier.
 enclosure:
-pullquote: 'Declutter as early as now to avoid stress when spring comes around. '
+pullquote: >-
+  Deciding which items you’ll take with you or not will make decluttering
+  easier.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,6 +30,6 @@ Planning to sell your house this spring? I’d say you couldn’t have chosen a 
 
 **2\. Tune up major mechanicals.** Perform a regular tune-up for systems like your furnace, air conditioner, and water heater to know if they are working properly and safe to use. This is important when you’re selling in the spring and it’s cold outside. Buyers will do their own inspections, so keep records of all maintenance and repair jobs to show that you recently tuned up your system and are taking good care of your home.
 
-**3\. Clean up the exterior.** Even though the snow will eventually cover up your driveway or yard, it’s still better to keep it clean. *Start with your garage or storage* shed and patiently remove any unwanted items that won’t be moving with you. Next, *trim overgrown plants* and remove any dead or yellow leaves to improve your landscape and create a healthier environment for your plants. Lastly, *rake up fallen leaves* to keep them from piling up, making your yard look messy in February, March, and April.
+**3\. Clean up the exterior.** Even though the snow will eventually cover up your driveway or yard, it’s still better to keep it clean. Start with your garage or storage shed and patiently remove any unwanted items that won’t be moving with you. Next, trim overgrown plants and remove any dead or yellow leaves to improve your landscape and create a healthier environment for your plants. Lastly, rake up fallen leaves to keep them from piling up, making your yard look messy in February, March, and April.
 
 If you get those things done as early as now, you won’t have to stress yourself out when spring comes around. **If you have any questions,** **you can contact us at** [**(952) 212-3597**](tel:9522123597) **or** [**chad@chadandsara.com**](mailto:chad@chadandsara.com)**.** Let us know how we can help.
