@@ -20,7 +20,7 @@ Have you heard about the recent drop in interest rates? Mortgage rates are curre
 
 Lately, many people have been overwhelmed by all of the changes happening in real estate. High interest rates are among the most common topics of discussion. However, with the current low interest rates, reevaluating your goals now and for 2025 may be a good idea. There are a few things you can do now to capitalize on today’s favorable market conditions:
 
-**1\. Refinance.** This is a good way to lower your monthly payments if you're currently sitting on a higher mortgage interest rate from buying a property in the last few years. I can connect you with a trusted lender to assist you with the process.
+**1\. Refinance.** This is a good way to lower your monthly payments if you’re currently sitting on a higher mortgage interest rate from buying a property in the last few years. I can connect you with a trusted lender to assist you with the process.
 
 {% include pullquote.html %}
 
