@@ -5,7 +5,9 @@ date: 2024-10-25 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: Is Staging Worth the Effort?
+excerpt: >-
+  Going over three key reasons why staging is worth the money and effort, from
+  giving you leverage at negotiations to depersonalizing your home.
 enclosure:
 pullquote: >-
   No home is 100% perfect, but staging allows you to move the focus away from
