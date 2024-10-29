@@ -23,7 +23,7 @@ The principle of supply and demand plays a crucial role in driving home values h
 
 {% include pullquote.html %}
 
-**2\. With interest rates being uncertain, locking in a rate today can offer some peace of mind while navigating the market.** Interest rates are a key factor influencing the affordability of homeownership. Currently, we find ourselves in a relatively high interest rate environment, and rates could stay this way for a while. No one knows exactly what will happen, and economic conditions can change. There’s a general consensus among experts that interest rates are more likely to rise than fall in the foreseeable future.
+**2\. The future of interest rate fluctuations is uncertain, so locking in a rate today can provide peace of mind as you navigate the market.** Interest rates are a key factor influencing the affordability of homeownership. Currently, we find ourselves in a relatively high interest rate environment, and rates could stay this way for a while. No one knows exactly what will happen, and economic conditions can change. There’s a general consensus among experts that interest rates are more likely to rise than fall in the foreseeable future.
 
 Waiting for interest rates to drop further may seem like a strategic move, but the reality is that predicting market fluctuations is challenging. Take the initiative and secure a mortgage now. You can look into various aid programs like down payment assistance and 2-1 buydowns. Additionally, you can always refinance late.
 
