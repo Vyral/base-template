@@ -13,8 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/cc-image1-9.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 In the ever-evolving landscape of real estate, the decision to buy a home is a significant milestone that requires careful consideration. While the market may seem unpredictable, there are compelling reasons why now might be the ideal time to take the plunge into homeownership. We’ll explore the top three reasons why buying a home now instead of waiting could prove to be a wise investment:
