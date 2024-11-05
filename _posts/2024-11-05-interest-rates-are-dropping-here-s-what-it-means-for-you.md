@@ -21,7 +21,7 @@ youtube_code: DzJfb5eCbCU
 
 {% include HVButton.html %}
 
-Today, I’ve got some exciting news that could change your plans if you're thinking about buying or selling a home soon. If you’re on the fence, there’s something you need to know: interest rates are dropping, and this shift could work in your favor. Let’s break down what’s happening and why acting now could save you a lot in the long run.
+Today, I’ve got some exciting news that could change your plans if you’re thinking about buying or selling a home soon. If you’re on the fence, there’s something you need to know: interest rates are dropping, and this shift could work in your favor. Let’s break down what’s happening and why acting now could save you a lot in the long run.
 
 **Interest rates are falling.** You’ve probably heard a lot about interest rates over the last few years. They went up, stayed high, and for many people, that put a pause on buying or selling a home. But here’s the good news: interest rates are trending down, and experts expect more Fed rate cuts in the near future. Lower rates mean lower monthly mortgage payments, which could make that dream home a lot more affordable.
 
