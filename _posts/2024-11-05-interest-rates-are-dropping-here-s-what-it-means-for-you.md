@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Interest Rates Are Dropping – Here’s What It Means for You
+title: 'Interest Rates Are Dropping: Here’s What It Means for You'
 date: 2024-11-05 07:00:00
 tags:
   - Real Estate
-excerpt: See why dropping rates make this the perfect moment to buy or sell.
+excerpt: >-
+  The recent rate drop open more opportunities for those looking to buy or sell
+  in Twin Cities.
 enclosure:
 pullquote: >-
   Whether you’re buying or selling, waiting too long could mean missing out on
