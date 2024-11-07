@@ -27,9 +27,9 @@ I’ve got some exciting news about the future of real estate that I just had to
 
 {% include pullquote.html %}
 
-**Why should you care?** If you’ve ever thought about buying or selling a home, or even investing in real estate, this could be your time to shine. When the demand is high, opportunities start popping up everywhere. Imagine being ready to make a move while others are still figuring it out. The people inheriting this wealth are going to fuel the market, which could mean big things for anyone involved in real estate.
+**Why should you care?** If you’ve ever thought about buying or selling a home or even investing in real estate, this could be your time to shine. When the demand is high, opportunities start popping up everywhere. Imagine being ready to make a move while others are still figuring it out. The people inheriting this wealth are going to fuel the market, which could mean big things for anyone involved in real estate.
 
-**But here’s the key—don’t wait too long.** Timing is everything here. Think about your real estate goals now, so you’re ready when this wave of wealth really hits.
+**But here’s the key—don’t wait too long.** Timing is everything here. Think about your real estate goals now so you’re ready when this wave of wealth really hits.
 
 If you have any real estate related questions, feel free to call or text me at [406-837-5531](tel:%204068375531). I’d be happy to help answer your questions.
 
