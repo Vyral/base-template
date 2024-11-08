@@ -35,4 +35,4 @@ But it’s not just about affordability. When rates go down, more people enter t
 
 **If you’re a buyer, now is a golden opportunity.** As rates drop, home prices could start to rise again. By buying now, you’re not only avoiding the potential price hikes, but you’re also able to negotiate a better deal with fewer buyers in the market. And here’s the best part – if rates drop even more after you buy, you can always refinance. So you get the best of both worlds: a great price now and the option to lower your payments later.
 
-Whether you’re buying or selling, waiting too long could mean missing out on big savings. **If you need help, you can call or text me at 952-222-9000.** With rates dropping and a new season of buyers and sellers around the corner, now could be the perfect time to make your move.
+Whether you’re buying or selling, waiting too long could mean missing out on big savings. If you need help, you can call or text me at **952-222-9000.** With rates dropping and a new season of buyers and sellers around the corner, now could be the perfect time to make your move.
