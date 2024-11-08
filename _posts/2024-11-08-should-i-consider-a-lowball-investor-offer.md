@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nate-martinez-yt-thumbnail.png
 youtube_code:
 ---
-{% include youtube.html %}
+&nbsp;
 
 {% include excerpt.html %}
 
