@@ -18,7 +18,7 @@ youtube_code: J8iu_SZysrE
 
 {% include excerpt.html %}
 
-As we approach the end of the year, I often hear homeowners asking, "Sarita, I want to sell my house next year. Should I wait until spring?"
+As we approach the end of the year, I often hear homeowners asking, “Sarita, I want to sell my house next year. Should I wait until spring?”
 
 My answer? **Call me now, and let’s strategize.**
 
@@ -26,7 +26,7 @@ Our spring market kicks off earlier than you might expect—usually in March. Ma
 
 {% include pullquote.html %}
 
-Now that we're in November and entering the holiday season, it's the ideal time to begin thinking about selling your house. I can't tell you how many times I've visited a seller's home, and they weren't ready to put up the sign the next day. There is always a honey-do list of minor repairs waiting to be addressed.
+Now that we’re in November and entering the holiday season, it’s the ideal time to begin thinking about selling your house. I can’t tell you how many times I’ve visited a seller’s home, and they weren’t ready to put up the sign the next day. There is always a honey-do list of minor repairs waiting to be addressed.
 
 This might include things like:
 
@@ -42,7 +42,7 @@ This might include things like:
 
 There’s nothing worse than feeling rushed and unprepared. *Why not get ahead of the competition?* We can figure out what needs to be done, and even if we decide to wait due to weather, school schedules, or other timing issues, you’ll be prepared.
 
-Getting started early means you won’t feel pressured as we approach the spring market. Plus, **contractors are often more available and affordable** during the holidays since they're not as busy with other jobs.
+Getting started early means you won’t feel pressured as we approach the spring market. Plus, **contractors are often more available and affordable** during the holidays since they’re not as busy with other jobs.
 
 Let’s sit down and discuss what makes sense for you. Remember, your home can’t be on the market without being truly market-ready. Get on the market as soon as you can. Timing is everything when it comes to real estate, and we want to make sure you’re fully prepared. After all, you only get one chance to make a great first impression.
 

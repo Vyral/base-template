@@ -32,4 +32,4 @@ After an election, no matter the outcome, there’s a sense of relief and stabil
 
 So, if you’d like to talk about what this means for your home—either your current home or the home that you want to buy—**now is the time to get ahead** of it. Let’s come up with a game plan that will work for you so that we can hit 2025 up and running strongly.
 
-If you have any questions about the election, your home, or anything else, give me a shout at [**<u>(503) 522-0090</u>**<u> </u>](tel:5035220090)or [sarita@asksarita.com](mailto:sarita@asksarita.com). You can also visit our website, [AskSarita.com](http://asksarita.com). I'm here to help.
+If you have any questions about the election, your home, or anything else, give me a shout at [**<u>(503) 522-0090</u>**<u> </u>](tel:5035220090)or [sarita@asksarita.com](mailto:sarita@asksarita.com). You can also visit our website, [AskSarita.com](http://asksarita.com). I’m here to help.
