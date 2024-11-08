@@ -16,8 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nate-martinez-yt-thumbnail.png
 youtube_code:
 ---
-&nbsp;
-
 {% include excerpt.html %}
 
 Recently, I received a call from a friend asking about a “lowball” offer they received while trying to sell their home. Even though they had priced their home very reasonably, this offer was well below what they were expecting—what was happening? As it turned out, this offer came from an investor.
