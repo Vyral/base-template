@@ -11,7 +11,7 @@ enclosure:
 pullquote: Buyers need to take advantage of this window before it’s too late.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/nate-martinez-yt-thumbnail-1.png
 youtube_code:
 ---
