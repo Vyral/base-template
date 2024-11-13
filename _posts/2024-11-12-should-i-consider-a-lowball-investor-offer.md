@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   A lot of homeowners are confused about why they’d ever accept a lowball
-  investor offer
+  investor offer.
 enclosure:
 pullquote: Investors offer maximum convenience in exchange for a lower price.
 enclosure_type: video/mp4
