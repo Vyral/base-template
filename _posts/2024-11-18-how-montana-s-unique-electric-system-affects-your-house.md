@@ -41,6 +41,6 @@ But there’s a problem. Some people want to remove these dams, which could deva
 
 Understanding where our electricity comes from isn’t just interesting—it’s important. It’s up to us to protect these resources. Pay attention to policies that affect our dams and renewable energy programs. Every decision matters when it comes to keeping our power reliable and affordable. **If you have any questions about Montana’s real estate condition, feel free to call or text me at** [**406-837-5531**](tel:4068375531)**.**
 
-{% include cta-content-box.html %}
+
 
 &nbsp;
