@@ -19,7 +19,7 @@ youtube_code: O0Z1Q3C0ZrU
 
 {% include excerpt.html %}
 
-![](/uploads/untitled-design-1-1.jpg){: width="500" height="700"}
+![](/uploads/untitled-design-2-1.jpg){: width="700" height="900"}
 
 Do you love pumpkin pie? Imagine walking into Thanksgiving with a dessert so big and delicious it steals the show. Here’s the best part—you can get one for free! **We’re thrilled to announce our sixth annual Pumpkin Pie Giveaway**! Every year, we hand out 1,000 pumpkin pies to families just like yours. It’s our way of saying thank you to this amazing community.
 
