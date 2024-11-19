@@ -37,10 +37,8 @@ Ever wondered where the electricity powering your home actually comes from? If y
 
 The big player: hydroelectric dams. Here’s the star of the show—our dams. Montana gets a huge chunk of electricity from hydroelectric dams on the Columbia and Snake Rivers. These dams don’t just power homes. They support businesses, manufacturing, and even grocery stores.
 
-But there’s a problem. Some people want to remove these dams, which could devastate our power grid. Without them, costs would rise, and industries might suffer. It’s a big deal that impacts everyone.
+But there’s a problem. **Some people want to remove these dams, which could devastate our power grid. Without them, costs would rise, and industries might suffer.** It’s a big deal that impacts everyone.
 
 Understanding where our electricity comes from isn’t just interesting—it’s important. It’s up to us to protect these resources. Pay attention to policies that affect our dams and renewable energy programs. Every decision matters when it comes to keeping our power reliable and affordable. **If you have any questions about Montana’s real estate condition, feel free to call or text me at** [**406-837-5531**](tel:4068375531)**.**
-
-
 
 &nbsp;
