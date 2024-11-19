@@ -17,7 +17,7 @@ youtube_code: O0Z1Q3C0ZrU
 ---
 {% include youtube.html %}
 
-![](/uploads/untitled-design-2-1.jpg){: width="700" height="900"}
+[![](/uploads/untitled-design-2-1.jpg){: width="700" height="900"}](https://www.mistysoldteamiowa.com/pumpkinpie){: target="_blank" rel="noopener"}
 
 {% include excerpt.html %}
 
