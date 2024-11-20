@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Montana’s Unique Electric System Affects Your House
+title: How Montana’s Unique Electric System Affects Your Property
 date: 2024-11-18 00:00:00
 tags:
   - Real Estate
