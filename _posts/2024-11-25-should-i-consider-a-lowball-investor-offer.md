@@ -3,7 +3,10 @@ layout: post
 title: 'Should I Consider a Lowball Investor Offer? '
 date: 2024-11-25 07:00:00
 tags:
-excerpt: 3 Pros of Inventor Offers
+excerpt: >-
+  A lot of homeowners are confused about why they’d ever accept a lowball
+  investor offer, but they provide maximum convenience in exchange for the
+  discount. 
 enclosure:
 pullquote: Investors offer maximum convenience in exchange for a lower price.
 enclosure_type: video/mp4
@@ -12,8 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/rameyat.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Recently, I received a call from a friend asking about a “lowball” offer they received while trying to sell their home. Even though they had priced their home very reasonably, this offer was well below what they were expecting—what was happening? As it turned out, this offer came from an investor.
