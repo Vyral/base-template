@@ -11,7 +11,7 @@ enclosure:
 pullquote: Investors offer maximum convenience in exchange for a lower price.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/rameyat.jpg
 youtube_code:
 ---
