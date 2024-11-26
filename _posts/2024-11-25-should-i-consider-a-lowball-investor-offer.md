@@ -15,8 +15,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/rameyat.jpg
 youtube_code:
 ---
-![](/uploads/rameyat.jpg){: width="1280" height="720"}
-
 {% include excerpt.html %}
 
 Recently, I received a call from a friend asking about a “lowball” offer they received while trying to sell their home. Even though they had priced their home very reasonably, this offer was well below what they were expecting—what was happening? As it turned out, this offer came from an investor.
