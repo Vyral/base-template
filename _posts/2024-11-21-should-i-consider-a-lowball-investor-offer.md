@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Should I Consider a Lowball Investor Offer? '
+title: Should I Consider an Investor Offer?
 date: 2024-11-21 07:00:00
 tags:
 excerpt: >-
