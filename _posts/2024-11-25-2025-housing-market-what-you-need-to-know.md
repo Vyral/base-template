@@ -23,7 +23,7 @@ youtube_code: axg70Y0KWCg
 
 2025 is right around the corner, and I’ve got my top five real estate predictions just for you. If you’re planning on buying or selling, you’ll want to know what’s coming next in the market. Stick with me—I’ve got some eye-opening insights that could change your plans.
 
-**Prediction \#1: Interest rates will keep dropping.** That’s right—interest rates are expected to keep slowly declining. Sounds great, doesn’t it? It should make home buying more affordable... except there’s a catch. Prices are going up, which might eat into that affordability. So, while rates are going down, the monthly payments might still feel hefty.
+**Prediction \#1: Interest rates will keep dropping.** That’s right—interest rates are expected to keep slowly declining. Sounds great, doesn’t it? It should make home-buying more affordable... except there’s a catch. Prices are going up, which might eat into that affordability. So, while rates are going down, the monthly payments might still feel hefty.
 
 **Prediction \#2: Home prices keep climbing.** Here’s the deal: The average home price in the Twin Cities went up by about 3% over the past year. And guess what? It’s not stopping there. Prices will keep climbing. It’s a reminder—waiting to buy means you might pay more later. If you’re thinking about making a move, now could be the time to jump in.
 
