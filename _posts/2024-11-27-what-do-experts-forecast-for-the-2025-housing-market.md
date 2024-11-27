@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/chad-sara-huebener-email-4.jpg
 youtube_code:
 ---
-![](/uploads/chad-sara-huebener-email-5.jpg) \{: style=”text-align: center; width: 100%;”\}
+![](/uploads/chad-sara-huebener-email-5.jpg) {: style=”text-align: center; width: 100%;”}
 
 {% include excerpt.html %}
 
