@@ -17,8 +17,6 @@ youtube_code: AxoaZUjTusk
 
 {% include excerpt.html %}
 
-{% include HVButton.html %}
-
 Merry Christmas! We wish you and your loved ones a happy holiday season filled with joy and happiness.
 
 We just wanted to express our heartfelt gratitude for your support over the years. It’s our pleasure to help your real estate dreams come true.
