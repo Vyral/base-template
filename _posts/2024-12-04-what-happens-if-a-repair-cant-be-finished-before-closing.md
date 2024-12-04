@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Happens If a Repair Cant Be Finished Before Closing
+title: What Happens If a Repair Can’t Be Finished Before Closing?
 date: 2024-12-04 07:00:00
 tags:
   - Real Estate
