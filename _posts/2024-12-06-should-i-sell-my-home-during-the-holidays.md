@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/dave-knight-thumbnail.png
 youtube_code:
 ---
-
 {% include excerpt.html %}
 
 Do you need to sell your home soon but are afraid no one will want to buy during the holidays? Conventional real estate wisdom says that no one is looking to purchase a house this time of year. After all, everyone’s kids are home from school, and they must be incredibly busy from the holidays, right?
