@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should I Sell My Home During the Holidays?
-date: 2024-12-05 00:00:00
+date: 2024-12-09 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
