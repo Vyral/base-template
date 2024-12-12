@@ -24,7 +24,7 @@ youtube_code:
 
 {%include author-box.html%}
 
-What fees can I legally charge my tenants? The rental market has become more competitive and expensive, which is one of the reasons why rental costs are increasing. According to our latest data, the average [asking rent increased by 0.2% year over year in October to $1,619.](https://www.rent.com/research/average-rent-price-report/) The good thing is that renter household incomes keep pace with rent hikes in rental costs. Regardless, tenants are becoming more discerning about the expenses related to renting a property, which is why you should understand which fees you’re allowed to charge without breaking national or local laws. Here are the common fees you should know:
+What fees can I legally charge my tenants? The rental market has become more competitive and expensive, which is one of the reasons why rental costs are increasing. According to our latest data, the average [**asking rent increased by 0.2% year over year in October to $1,619.**](https://www.rent.com/research/average-rent-price-report/) The good thing is that renter household incomes keep pace with rent hikes in rental costs. Regardless, tenants are becoming more discerning about the expenses related to renting a property, which is why you should understand which fees you’re allowed to charge without breaking national or local laws. Here are the common fees you should know:
 
 **1\. Essential payments.** It’s a no-brainer to charge *rent*, the principal payment for using your property. Rent is typically paid monthly or as agreed upon in your lease contract. Additionally, a *tenancy deposit* is standard practice. It protects your property against damages beyond normal wear and tear and is refundable at the end of the lease. This amount is typically capped, so I suggest you check state regulations to know how much tenancy deposit you can charge your tenants. Another fee you can charge is the *holding deposit,* a reservation fee for prospective tenants while their application is still being processed.
 
@@ -38,8 +38,4 @@ Finally, you can charge *repair fees* for damages to the property that go beyond
 
 Transparency and fairness are key to cultivating a healthy landlord-tenant relationship and being a responsible property manager. To avoid any complaints or issues, always ensure your fees comply with local laws and are clearly outlined in the lease agreement.
 
-If you need help setting the right fee for your rental or any guidance about managing your property, reach out to me at (phone number) or (email address). Let’s strategize. I’m always ready to be your resource
-
-{%include cta-content-box.html%}
-
-&nbsp;
+If you need help setting the right fee for your rental or any guidance about managing your property, reach out to me at (phone number) or (email address). Let’s strategize. I’m always ready to be your resource.
