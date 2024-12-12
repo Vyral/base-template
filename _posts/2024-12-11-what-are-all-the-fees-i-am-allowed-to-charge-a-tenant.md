@@ -28,7 +28,7 @@ What fees can I legally charge my tenants? The rental market has become more com
 
 **2\. Additional recurring charges.** Beyond the basics, you might have recurring charges related to your property, including *pet fees*. If you cover certain utilities as the landlord, you can include *flat-rate utility charges* in the tenant’s monthly bill. However, you must clearly state in the lease whether utilities are included in the rent or are the tenant’s responsibility.
 
-{%include pullquote.html%}
+{% include pullquote.html %}
 
 **3\. Fees related to late payments and damage repair.** To encourage timely rent payments, you can implement *late rental fees*. These fees can be a percentage of the monthly rent price, such as 3% to 5%, or a flat rate. Again, check with your local laws for the amount restriction you can change.
 
