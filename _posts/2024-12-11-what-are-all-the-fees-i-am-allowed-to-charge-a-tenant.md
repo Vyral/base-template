@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/yt-2.jpg
 youtube_code:
 ---
-![](/uploads/yt-3.jpg){: style="width: 100%; text-align: center;"}
+![](/uploads/yt-3.jpg)
 
 {% include excerpt.html %}
 
