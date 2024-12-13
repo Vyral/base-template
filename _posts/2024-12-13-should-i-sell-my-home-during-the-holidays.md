@@ -8,7 +8,7 @@ excerpt: >-
   I explain why it still makes sense to sell your home during the holidays, from
   motivated buyers to lower housing inventory. 
 enclosure:
-pullquote:
+pullquote: Lower inventory means less competition for home sellers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
