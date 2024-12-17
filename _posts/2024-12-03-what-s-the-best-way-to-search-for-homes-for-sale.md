@@ -16,7 +16,7 @@ youtube_code: 3GjuSegpmoo
 
 {% include excerpt.html %}
 
-How do you begin your home search? If you're trying to buy a home, you probably started by searching for listings online. With a background in technology, I'm all about using technology to make our lives easier, especially when it comes to finding the perfect home.
+How do you begin your home search? If you’re trying to buy a home, you probably started by searching for listings online. With a background in technology, I’m all about using technology to make our lives easier, especially when it comes to finding the perfect home.
 
 **One of the most effective ways to start your search is to use property search tools.** This means entering the criteria that matter most to you. Did you know that Zillow recently conducted a survey to know the top five search terms buyers look for? Here they are, in no particular order:
 
