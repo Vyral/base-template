@@ -32,3 +32,5 @@ Want to buy a home but don’t want to deal with higher interest rates? I get it
 **3\. Be patient.** It’s exciting to find an assumable mortgage with a lower rate, but you still need to be patient. It can take two or even six months for the assumption to go through, and your lender still needs to make sure you qualify before moving forward. For example, if you want to assume a VA loan, you need to be a qualifying veteran.
 
 While finding an assumable loan with a lower interest rate can be tricky, it can end up saving you tons of money in the long run. If you’re interested in this option, call or email me, and I’ll send you a list of potentially assumable mortgages in your area. I look forward to hearing from you!
+
+{% include cta-content-box.html %}
