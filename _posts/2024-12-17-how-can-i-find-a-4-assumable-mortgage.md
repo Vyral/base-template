@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hollinger.png
 youtube_code:
 ---
-{% include youtube.html %}
 
 {% include excerpt.html %}
 
