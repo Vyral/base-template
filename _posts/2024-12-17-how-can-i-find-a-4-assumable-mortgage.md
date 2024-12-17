@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hollinger.png
 youtube_code:
 ---
-
 {% include excerpt.html %}
 
 Want to buy a home but don’t want to deal with higher interest rates? I get it; despite a lot of noise about the Federal Reserve lowering interest rates recently, the fact remains that rates are currently much higher than they were a few years ago, when receiving a 4% or even 3% rate was possible. However, there is a way to get that 4% rate, even today: Assumable mortgages. Assuming someone else’s mortgage with a lower rate can save you thousands over the course of your loan, but the process can be a little tricky. That’s why today, I’m sharing how you can assume someone’s mortgage in three steps.
