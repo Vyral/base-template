@@ -32,4 +32,4 @@ Want to buy a home but don’t want to deal with higher interest rates? I get it
 
 While finding an assumable loan with a lower interest rate can be tricky, it can end up saving you tons of money in the long run. If you’re interested in this option, call or email me, and I’ll send you a list of potentially assumable mortgages in your area. I look forward to hearing from you!
 
-{% include cta-content-box.html %}
+
