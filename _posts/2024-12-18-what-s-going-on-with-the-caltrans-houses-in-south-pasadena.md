@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Going on With the Caltrans Houses in South Pasadena?
+title: What’s Going On With the Caltrans Houses in South Pasadena?
 date: 2024-12-18 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ enclosure: >-
   already closed and three more in escrow after being vacant for years.
 pullquote: >-
   While they need work, they present a great opportunity for buyers ready to
-  invest and make these houses homes again.
+  invest and make these houses feel like homes again
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -26,7 +26,7 @@ youtube_code: wphHqKSOvHE
 
 If you’ve heard about the **Caltrans houses and the 710 Freeway project,** you’re not alone. It’s been all over the news, the internet, and in conversations around South Pasadena and Pasadena. People are asking, what’s happening with those homes, and can you buy one? Let me explain what’s going on and how you can take advantage of this unique opportunity.
 
-The 710 Freeway project was supposed to cut through South Pasadena and Pasadena, but it was shut down. Caltrans owned many homes in the path of the project, and those houses sat empty for years—some for five to 25 years. Now, those properties are being sold, and the ownership has shifted back to the City of South Pasadena.
+The 710 Freeway project was supposed to cut through South Pasadena and Pasadena, but was never built. Caltrans owned many homes in the path of the project, and those houses sat empty for years—some for five to 25 years. Now, those properties are being sold, and the ownership has shifted back to the City of South Pasadena.
 
 **My team and I are representing the City of South Pasadena to sell the first five homes.** These homes were opened to buyers for tours, and we had an incredible response—over 3,000 visits in just 3-4 weeks. The homes were dilapidated and neglected after sitting vacant, but we worked hard to clean them up. We removed boards, let in light, and made them more presentable. **This resulted in two homes closed and three more are in escrow.** This is just the beginning—there will be more homes available soon.
 
