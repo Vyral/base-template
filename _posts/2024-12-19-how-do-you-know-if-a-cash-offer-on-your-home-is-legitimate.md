@@ -5,8 +5,12 @@ date: 2024-12-19 00:00:00
 tags:
   - Real Estate
   - Market Tips
-excerpt: Discover the truth behind tempting cash home sale offers.
-enclosure: Discover the truth behind tempting cash home sale offers.
+excerpt: >-
+  There’s more to flashy home offers than it seems. I’m going over marketing
+  tactics that fixer-upper companies use to get you to sell.
+enclosure: >-
+  There’s more to flashy home offers than it seems. I’m going over marketing
+  tactics that fixer-upper companies use to get you to sell.
 pullquote: >-
   Is this a legitimate offer? The truth is, these are often marketing tactics
   targeting motivated sellers.
@@ -20,7 +24,7 @@ youtube_code: Ua_XxF-e6eY
 
 {% include excerpt.html %}
 
-Is that cash offer for your home legitimate? I know how tempting it can be to accept a large cash offer, especially in a letter or even a check claiming something like “$1.2 Million Cash Offer” or “No-Hassle, Cash Sale.” It sounds like an opportunity you can't pass up, right? But before you get too excited and decide, I recommend taking a step back to carefully consider the offer.
+Is that cash offer for your home legitimate? I know how tempting it can be to accept a large cash offer, especially in a letter or even a check claiming something like “$1.2 Million Cash Offer” or “No-Hassle, Cash Sale.” It sounds like an opportunity you can’t pass up, right? But before you get too excited and decide, I recommend taking a step back to carefully consider the offer.
 
 To help you determine if the cash offer is legitimate, let me walk you through what these offers really mean and what potential motives might be behind them.
 
