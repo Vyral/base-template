@@ -21,7 +21,7 @@ youtube_code: DXFZx_Enl9o
 
 {% include HVButton.html %}
 
-Why is spring the best time to sell your home? With just a month to go, the Twin Cities' spring real estate market is already picking up speed as buyers are getting ready to make their moves.
+Why is spring the best time to sell your home? With just a month to go, the Twin Cities’ spring real estate market is already picking up speed as buyers are getting ready to make their moves.
 
 If the spring real estate market is new to you, you might be curious why buyers are more active this time of year. This is where we come in. Here are two reasons why this is the perfect time to sell your home and how you’re in a great position to make it happen.
 
