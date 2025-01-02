@@ -54,8 +54,7 @@ forms:
   sitekey: 6LfhGkAaAAAAAOyDKJyGgKP8hIe2IPHBrZ2Dqeh-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
+  first_CTA_URL: https://search.movingwithmikki.com/seller
   second_CTA_text: Home Search
   second_CTA_URL: https://search.movingwithmikki.com/
   VR_form: http://oi.vresp.com?fid=4eec3c351b
