@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why the Housing Market Still Favors Sellers in 2025
-date: 2025-01-13 00:00:00
+date: 2025-01-14 00:00:00
 tags:
   - Real Estate
   - Market Update
