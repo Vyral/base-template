@@ -16,9 +16,7 @@ youtube_code: fbzvV6TxxwY
 ---
 {% include youtube.html %}
 
-{% include author-box.html %}
-
-{% include cta-main-box.html %}
+{% include excerpt.html %}
 
 You might’ve heard ads or people saying we’re in a “buyer’s market.” That couldn’t be further from the truth. **We’re 100% in a seller’s market.** If you’ve been sitting on the fence about buying or selling, it’s time to pay attention.
 
@@ -39,5 +37,3 @@ If you’re waiting for rates to drop, you could miss out. The reality is, homes
 Whether buying or selling, this market has opportunities. If you’re ready to act, let’s talk about your next steps. Don’t hesitate to call us at [**952-212-3597**](tel:9522123597) or email us at [**ChadandSara@edinarealty.com**](mailto:ChadandSara@edinarealty.com).
 
 We’d love to answer your questions, share market insights, and help you navigate this unique time. Don’t wait for the perfect moment—it’s already here. Call or email us today, and let’s get started!
-
-{% include cta-content-box.html %}
