@@ -13,7 +13,7 @@ pullquote: Get ahead of things by listing as early as you reasonably can
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10.jpg
 youtube_code: kN74lS3r-Uw
 ---
 {% include youtube.html %}
