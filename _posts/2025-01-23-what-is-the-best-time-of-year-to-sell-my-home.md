@@ -11,7 +11,7 @@ excerpt: >-
 enclosure: >-
   How you can prepare for the spring market by planning ahead, budgeting your
   time, and getting in early. 
-pullquote: ' Get ahead of things by listing as early as you reasonably can.'
+pullquote: Get ahead of things by listing as early as you reasonably can.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
