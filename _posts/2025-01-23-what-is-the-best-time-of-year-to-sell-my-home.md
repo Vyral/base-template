@@ -31,5 +31,3 @@ As a real estate agent, one of the most common questions I get from potential ho
 **3\. Beat your competition to the market.** If you have a choice between listing earlier or later, list earlier. Once the spring frenzy hits, supply increases exponentially each month. All those sellers are competition that will make it harder for you to get the best deal possible, so try your best to beat them to the market. It’s tempting to wait for prices to increase as demand picks up, but this isn’t a good strategy. By the time you enter the market, you’ll be chasing a wave of demand that has already passed. Instead, get ahead of things by listing as early as you reasonably can.
 
 If you want to sell this spring and get the best deal possible, your first step should be to have a pre-listing meeting. Just call or email me, and we’ll go over your situation, your goals, the market, and more. It’s 100% free and no obligation. I look forward to hearing from you!
-
-{% include cta-content-box.html %}
