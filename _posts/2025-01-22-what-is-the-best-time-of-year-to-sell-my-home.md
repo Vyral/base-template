@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/blue-and-pink-modern-livestream-youtube-thumbnail-3.jpg
 youtube_code:
 ---
-![](/uploads/blue-and-pink-modern-livestream-youtube-thumbnail-4.jpg){: width="980" height="420"}
+![](/uploads/blue-and-pink-modern-livestream-youtube-thumbnail-4.jpg){: width="640" height="420"}
 
 {% include excerpt.html %}
 
