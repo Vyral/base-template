@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024 Valentine’s Date Night Giveaway
+title: 2025 Valentine’s Date Night Giveaway
 date: 2025-01-27 09:00:00
 tags:
   - Oklahoma
@@ -18,7 +18,7 @@ Hey there, friends! Jennie Wolek here with The Wolek Group, and I’ve got somet
 
 We wanted to show our appreciation for YOU—our incredible clients and community—with a giveaway that’s as sweet as it is fun! Are you ready? Because when you enter, you’ll have not one, not two, not even three… but FOUR chances to win an unforgettable date night package!
 
-First up, you can **Unwind + Recharge** with a luxurious couples massage at Poppi’s Spa. It’s pure bliss for two—perfect for unwinding after a busy day."
+First up, you can **Unwind + Recharge** with a luxurious couples massage at Poppi’s Spa. It’s pure bliss for two—perfect for unwinding after a busy day.”
 
 Or how about **Sip + Savor**? Enjoy an enchanting evening at Barons on 1st with craft cocktails and gourmet bites. Cheers to love!
 
