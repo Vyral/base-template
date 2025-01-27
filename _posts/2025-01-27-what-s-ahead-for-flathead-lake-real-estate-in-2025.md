@@ -3,7 +3,6 @@ layout: post
 title: What’s Ahead for Flathead Lake Real Estate in 2025?
 date: 2025-01-27 00:00:00
 tags:
-  - Real Estate
   - Market Update
 excerpt: What to expect from Flathead County’s 2025 real estate market.
 enclosure:
