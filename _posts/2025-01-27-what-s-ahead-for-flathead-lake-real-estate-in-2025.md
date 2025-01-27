@@ -23,8 +23,6 @@ Waterfront homes had a solid year with 29 sales in 2024, up from 26 in 2023. Tha
 
 The condo market is another story. Sales dropped by half compared to 2023, primarily due to limited inventory. Even so, demand hasn’t gone away. Properties are still selling, and there is an opportunity for a rebound if more condos hit the market in 2025.
 
-&nbsp;
-
 {% include pullquote.html %}
 
 **Vacant land is the rarest asset on Flathead Lake right now.** Sales fell from eight in 2023 to five in 2024—not because buyers aren’t interested, but because there are so few lots available. Only three vacant properties are currently listed, making the land highly competitive. Buyers should act fast and come prepared to make strong offers.
