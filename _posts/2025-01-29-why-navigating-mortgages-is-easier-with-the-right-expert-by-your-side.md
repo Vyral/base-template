@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Navigating Mortgages is Easier with the Right Expert by Your Side
+title: Why Navigating Mortgages Is Easier With the Right Expert by Your Side
 date: 2025-01-29 00:00:00
 tags:
   - Real Estate
