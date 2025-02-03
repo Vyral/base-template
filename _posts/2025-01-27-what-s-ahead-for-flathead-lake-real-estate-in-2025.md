@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Ahead for Flathead Lake Real Estate in 2025?
+title: Flathead Waterfront 2024 Year in Review Market Update
 date: 2025-01-27 00:00:00
 tags:
   - Market Update
