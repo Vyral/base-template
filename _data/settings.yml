@@ -1,6 +1,9 @@
 audit_header: false
-title: Bigfork Real Estate Video Blog with Scott Hollinger
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: The Hollinger Team Real Estate Video Blog
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Client Testimonials
@@ -14,67 +17,79 @@ client:
     real estate, specializing in waterfront properties. Let’s see what we can
     find for you. The five most important words in Montana real estate? Scott.
     Diana. Kellie. Dane. Drew. Five individuals partnering with you to make an
-    unbeatable team. Put us to work for you, so we can start calling you
-    a neighbor, a friend, as well as a client. Until we get the chance to meet in
+    unbeatable team. Put us to work for you, so we can start calling you a
+    neighbor, a friend, as well as a client. Until we get the chance to meet in
     person, [we’d like to introduce
     ourselves.](https://www.flatheadrealestate.com/montana-remax-team/)
   market: Bigfork
   brand: Hollinger Team
   brokerage:
-  address: '8545 MT Highway 35 or PO Box 725<br>Bigfork, MT 59911'
+  address: 8545 MT Highway 35 or PO Box 725<br>Bigfork, MT 59911
   phone: 406-837-5531
   phone_type:
   phone2:
   phone2_type:
   email: ScottHollingerMT@gmail.com
-  url: 'http://FlatheadRealEstate.com'
-  
-
+  url: http://FlatheadRealEstate.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.flatheadrealestate.com/how-much-is-my-property-worth/'
+  first_CTA_URL: https://www.flatheadrealestate.com/how-much-is-my-property-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID='
-
+  second_CTA_URL: >-
+    https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID=
 sidebar_CTA:
   CTA_title2: Receive our Mailed Newsletter
   CTA_link_text2: Click Here
-  CTA_url2: 'http://vidous/22ykk9'
+  CTA_url2: http://vidous/22ykk9
   CTA_image_path: /img/cta-images/006.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Search MLS
-  CTA_url: 'https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID='
+  CTA_url: >-
+    https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID=
 welcome_box:
   welcome_headline: Join Our Video Community
   welcome_text_markdown: >
-    Our mission at the Hollinger Team is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at the Hollinger Team is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate. We
-    invite you to subscribe to this video blog to get the latest news on Flathead
-    Valley market trends and receive expert tips for selling, buying or owning
-    your dream property.
+    invite you to subscribe to this video blog to get the latest news on
+    Flathead Valley market trends and receive expert tips for selling, buying or
+    owning your dream property.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/LastBestPlace'
-  linkedin_url: 'https://www.linkedin.com/in/scott-hollinger-88827612'
-  gplus_url: 
-  youtube_url: 'https://www.youtube.com/user/scotthollingerteam'
+  facebook_url: https://www.facebook.com/LastBestPlace
+  linkedin_url: https://www.linkedin.com/in/scott-hollinger-88827612
+  gplus_url:
+  youtube_url: https://www.youtube.com/user/scotthollingerteam
   twitter_url:
   instagram_url:
-  pinterest_url: 'https://www.pinterest.com/dianainmontana/'
-  zillow_url: 'http://www.zillow.com/profile/Scott-Hollinger/'
-  google_reviews_url: 'https://www.google.com/search?q=google+reviews+scott+hollinger&oq=google+reviews+scott+hollinger&aqs=chrome..69i57j69i64.9791j0j1&sourceid=chrome&ie=UTF-8#q=The+Hollinger+Team+-+RE/MAX+of+Bigfork&*'
-  facebook_reviews_url: 'https://www.facebook.com/pg/LastBestPlace/reviews/?ref=page_internal'
-  podcast_url: 'https://itunes.apple.com/us/podcast/bigfork-real-estate-video-blog-with-scott-hollinger/id1216383367?mt=2'
+  pinterest_url: https://www.pinterest.com/dianainmontana/
+  zillow_url: http://www.zillow.com/profile/Scott-Hollinger/
+  google_reviews_url: >-
+    https://www.google.com/search?q=google+reviews+scott+hollinger&oq=google+reviews+scott+hollinger&aqs=chrome..69i57j69i64.9791j0j1&sourceid=chrome&ie=UTF-8#q=The+Hollinger+Team+-+RE/MAX+of+Bigfork&*
+  facebook_reviews_url: https://www.facebook.com/pg/LastBestPlace/reviews/?ref=page_internal
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/bigfork-real-estate-video-blog-with-scott-hollinger/id1216383367?mt=2
 podcast:
-  title: Bigfork Real Estate Video Blog with Scott Hollinger
+  title: The Hollinger Team Real Estate Video Blog
   categories:
     - Education
   image: /img/podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.png
@@ -102,5 +117,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#5c141f'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
