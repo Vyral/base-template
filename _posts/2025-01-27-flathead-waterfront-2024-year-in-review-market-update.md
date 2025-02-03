@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flathead Waterfront 2024 Year in Review Market Update
-date: 2025-01-27 00:00:00
+date: 2025-02-03 00:00:00
 tags:
   - Market Update
 excerpt: What to expect from Flathead County’s 2025 real estate market.
