@@ -10,7 +10,7 @@ pullquote: Buyers should act fast and come prepared to make strong offers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sh-no-play.jpg
+youtube_alternate_image: /uploads/scott-h-no-play-button.jpg
 youtube_code: DMZsJ_HP_bE
 ---
 {% include youtube.html %}
