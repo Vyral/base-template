@@ -25,9 +25,7 @@ The condo market is another story. Sales dropped by half compared to 2023, prima
 
 {% include pullquote.html %}
 
-&nbsp;
-
-**Vacant land is the rarest asset on Flathead Lake right now.** Sales fell from eight in 2023 to five in 2024—not because buyers aren’t interested, but because there are so few lots available. Only three vacant properties are currently listed, making the land highly competitive. Buyers should act fast and come prepared to make strong offers.
+&nbsp;**Vacant land is the rarest asset on Flathead Lake right now.** Sales fell from eight in 2023 to five in 2024—not because buyers aren’t interested, but because there are so few lots available. Only three vacant properties are currently listed, making the land highly competitive. Buyers should act fast and come prepared to make strong offers.
 
 Overall, **Flathead County stayed steady**, with sales figures matching 2023. However, across western Montana, transaction volumes are half of what they were in 2020. The market is adjusting, but prices have slightly increased, and activity is expected to pick up in early 2025 if interest rates decline.
 
