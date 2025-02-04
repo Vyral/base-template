@@ -18,7 +18,7 @@ youtube_code:
 ---
 {% include excerpt.html %}
 
-{% include HVButton.html %}
+[**DOWNLOAD OUR 2024 TWIN CITIES ANNUAL HOUSING REPORT**](https://schuster-housingreport.paperform.co/){: target="_blank" rel="noopener"}
 
 “How is the housing market right now?” I’ve been getting this question a lot recently, and I understand why. This is the time of year when people plan their moves for 2025, but it’s difficult to know what you should do without understanding where the market was in 2024 and where it’s at now.
 
