@@ -6,9 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  How you can enhance your curb appeal, declutter and depersonalize, and
-  highlight your home’s key features to have a faster and more profitable home
-  sale.
+  Enhance your curb appeal, declutter and depersonalize, and highlight your
+  home’s key features to have a faster and more profitable home sale.
 enclosure: >-
   How you can enhance your curb appeal, declutter and depersonalize, and
   highlight your home’s key features to have a faster and more profitable home
