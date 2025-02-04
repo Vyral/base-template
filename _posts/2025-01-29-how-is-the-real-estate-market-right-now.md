@@ -20,7 +20,7 @@ youtube_code:
 
 {% include HVButton.html %}
 
-“How is the housing market right now?” I’ve been getting this question a lot recently, and I understand why. This is the time of year when people plan their moves for 2025, but it’s difficult to know what you should do without understanding where the market was in 2024 and where it's at now.
+“How is the housing market right now?” I’ve been getting this question a lot recently, and I understand why. This is the time of year when people plan their moves for 2025, but it’s difficult to know what you should do without understanding where the market was in 2024 and where it’s at now.
 
 The Twin Cities housing market saw its fair share of highs and lows in 2024, but it ended on a positive note, setting the stage for an even more active 2025. From rising mortgage rates to inventory surges and shifting buyer behavior, let’s take a closer look at how the year unfolded—and what’s ahead for the local real estate market.
 
@@ -82,6 +82,6 @@ For sellers, **pricing homes correctly and making strategic updates will be key*
 
 The Twin Cities housing market experienced a dynamic 2024, marked by rate fluctuations, inventory shifts, and changing buyer behavior. As we head into 2025, the market is positioned for increased activity, with more homes hitting the market and mortgage rates likely to settle within a predictable range.
 
-If you're planning to buy or sell in the coming year, now is the time to strategize. **Let’s connect and create a plan that works for you in this evolving market.**
+If you’re planning to buy or sell in the coming year, now is the time to strategize. **Let’s connect and create a plan that works for you in this evolving market.**
 
 Would you like additional insights on your specific neighborhood or market trends? Feel free to reach out for a customized analysis!
