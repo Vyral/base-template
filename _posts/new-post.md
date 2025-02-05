@@ -18,7 +18,7 @@ youtube_code: Fm1uvKb-sR0
 
 {% include excerpt.html %}
 
-How can you make your property stand out from the competition? I’m proud of the way we showcase our clients' homes on the market. Early on, I learned that presenting your home online is crucial, and that’s why when a client lists their property with me, I put in time and effort to ensure it looks beautiful online.
+How can you make your property stand out from the competition? I’m proud of the way we showcase our clients’ homes on the market. Early on, I learned that presenting your home online is crucial, and that’s why when a client lists their property with me, I put in time and effort to ensure it looks beautiful online.
 
 I’ll be honest: before the pandemic, I focused on providing a full luxury digital marketing experience for higher-end listings. However, I didn’t always offer the same level of detail for some of my entry-level, lower-price-point listings. Things have changed, and I believe every property deserves the best representation possible.
 
@@ -32,4 +32,4 @@ I understand that selling your home is a bittersweet experience: happy to be mov
 
 **Digital marketing is everything in real estate.** While it does cost money and requires experience and know-how, I believe it’s worth it. Unlike many agents who just take your listing and wait for calls, I focus on beautifully showcasing your home. If your property doesn’t sell on your terms, I want you to feel confident that I did everything possible to make it shine.
 
-If you'd like to know more about the marketing tools we offer for all our sellers, please reach out. You can contact me at [**(503) 522-0090**](tel:5035220090) or [**sarita@asksarita.com**](mailto:sarita@asksarita.com). You can also visit our website, [**AskSarita.com**](http://asksarita.com). I'd love to tell you about it and show you examples of the rich interactive media that will knock your socks off.
+If you’d like to know more about the marketing tools we offer for all our sellers, please reach out. You can contact me at [**(503) 522-0090**](tel:5035220090) or [**sarita@asksarita.com**](mailto:sarita@asksarita.com). You can also visit our website, [**AskSarita.com**](http://asksarita.com). I’d love to tell you about it and show you examples of the rich interactive media that will knock your socks off.
