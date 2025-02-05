@@ -11,7 +11,7 @@ pullquote: If something is on your mind, it is worth asking.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-2.jpg
+youtube_alternate_image: /uploads/4-3.jpg
 youtube_code: hEMu0YLLuG4
 ---
 {% include youtube.html %}
