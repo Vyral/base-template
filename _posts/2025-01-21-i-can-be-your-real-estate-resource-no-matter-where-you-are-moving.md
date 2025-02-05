@@ -28,4 +28,4 @@ Many people overlook that if you’re moving from Portland to another city, you 
 
 It’s important that if I’m going to put my name on a referral, that you have an amazing experience. That means I’ll talk with the agent and ensure they clearly understand your real estate experiences here. I want you to receive the same level of service in the city you’re moving to.
 
-This is just a reminder that whether you have questions about real estate in Portland or anywhere else, give me a shout. Don’t hesitate to contact me at [**(503) 522-0090**](tel:5035220090) or [**sarita@asksarita.com**](mailto:sarita@asksarita.com). You can also visit our website, [**AskSarita.com**](http://asksarita.com). I'm here to help and would love to make the right connection for you.
+This is just a reminder that whether you have questions about real estate in Portland or anywhere else, give me a shout. Don’t hesitate to contact me at [**(503) 522-0090**](tel:5035220090) or [**sarita@asksarita.com**](mailto:sarita@asksarita.com). You can also visit our website, [**AskSarita.com**](http://asksarita.com). I’m here to help and would love to make the right connection for you.
