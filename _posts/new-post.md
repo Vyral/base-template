@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make Your Home Listing Stand Out Online
-date: 2025-02-05 00:00:00
+date: 2025-02-04 00:00:00
 tags:
 excerpt: >-
   Learn more about the digital marketing tools I use, such as virtual tours and
