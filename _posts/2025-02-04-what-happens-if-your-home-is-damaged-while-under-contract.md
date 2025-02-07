@@ -5,7 +5,9 @@ date: 2025-02-04 00:00:00
 tags:
   - Natural Disasters
   - Real Estate
-excerpt: Protect Your Home Sale From Natural Disasters
+excerpt: >-
+  Going over everything you need to do if your home is damaged while under
+  contract, from reviewing your terms to assessing the damage.
 enclosure:
 pullquote: >-
   Your options depend on the details of the contract and the level of damage to
