@@ -22,7 +22,7 @@ youtube_code: WFGmSoi1RSo
 
 {% include HVButton.html %}
 
-The real estate market remained strong in 2024, setting new records and maintaining steady momentum. As the 2025 spring market begins, it presents an opportunity for both buyers and sellers to make the most of current market conditions. **Let's take a closer look at last year’s performance in the greater Twin Cities 16-county metro area.**
+The real estate market remained strong in 2024, setting new records and maintaining steady momentum. As the 2025 spring market begins, it presents an opportunity for both buyers and sellers to make the most of current market conditions. **Let’s take a closer look at last year’s performance in the greater Twin Cities 16-county metro area.**
 
 The average sale price saw a 3.4% increase, rising from $434,125 in 2023 to $450,131 in 2024. Meanwhile, inventory declined by the same percentage, dropping from 6,950 homes to 6,712. Homes also spent more time on the market, with the average days on the market increasing by 12.5%, moving from 40 days in 2023 to 45 days in 2024.
 
@@ -30,4 +30,4 @@ The average sale price saw a 3.4% increase, rising from $434,125 in 2023 to $450
 
 Closed sales remained relatively stable, showing a modest 1.8% increase from 44,357 in 2023 to 45,145 in 2024. With the 2025 spring market already underway, it could be an ideal time to maximize a home’s value. Homeowners may be sitting on a goldmine and can easily check their estimated home value online.
 
-As market conditions continue to evolve, staying informed is crucial for making the right real estate decisions. The 2025 market holds plenty of opportunities and it is a great time to explore your options. If you have questions or need guidance, don't hesitate to reach out. You can call me at **(612) 360 1670** or send an email to [john@johnschustergroup.com](mailto:john@johnschustergroup.com). I look forward to hearing from you.
+As market conditions continue to evolve, staying informed is crucial for making the right real estate decisions. The 2025 market holds plenty of opportunities and it is a great time to explore your options. If you have questions or need guidance, don’t hesitate to reach out. You can call me at **(612) 360 1670** or send an email to [john@johnschustergroup.com](mailto:john@johnschustergroup.com). I look forward to hearing from you.
