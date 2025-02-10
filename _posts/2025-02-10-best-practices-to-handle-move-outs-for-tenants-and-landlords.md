@@ -37,5 +37,3 @@ To help tenants get ready for their move-out, we provide a **pre-move-out checkl
 If you have any questions about the move-out process, please feel free to reach out. You can call us at [**(808) 445-9223**](tel:8084459223) or send a message to [**info@hipacificpm.com**](mailto:info@hipacificpm.com)**.**
 
 You can also find us on the internet at [**hipacificpm.com**](http://hipacificpm.com) to learn more about us. We’d love to connect with you.
-
-{%include cta-content-box.html%}
