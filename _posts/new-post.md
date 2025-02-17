@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can You Make Your Home Irresistible to Buyers?
+title: How Can You Make Your Home Irresistible to Buyers
 date: 2025-02-17 07:00:00
 tags:
 excerpt: >-
