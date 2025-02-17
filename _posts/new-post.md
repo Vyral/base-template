@@ -5,14 +5,14 @@ date: 2025-02-16 07:00:00
 tags:
 excerpt: >-
   Enhance your curb appeal, declutter and depersonalize, and highlight your
-  home’s key features to have a faster and more profitable home sale. 
+  home’s key features to have a faster and more profitable home sale.
 enclosure:
 pullquote: >-
   Good lighting creates a cozy atmosphere and lets the best features of your
   house shine.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/mikki-ramey-yt-thumbnail-template.jpg
 youtube_code:
 ---
