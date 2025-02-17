@@ -3,9 +3,7 @@ layout: post
 title: How Can You Make Your Home Irresistible to Buyers
 date: 2025-02-16 07:00:00
 tags:
-excerpt: >-
-  Enhance your curb appeal, declutter and depersonalize, and highlight your
-  home’s key features to have a faster and more profitable home sale.
+excerpt:
 enclosure:
 pullquote: >-
   Good lighting creates a cozy atmosphere and lets the best features of your
@@ -16,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/mikki-ramey-yt-thumbnail-template.jpg
 youtube_code:
 ---
-
 {% include excerpt.html %}
 
 Looking to sell your house soon but don’t know how to get it ready for the market? Selling your home can feel like a big undertaking, but with the right preparation, you can make it stand out and attract the perfect buyer. These three essential tips will help you get your home ready for a successful sale and leave buyers impressed from the moment they arrive:
