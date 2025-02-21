@@ -15,7 +15,7 @@ pullquote: Most people have no idea this happens, and their money just sits ther
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-h-no-play-button-2.jpg
+youtube_alternate_image: /uploads/scott-h-no-play-button-3.jpg
 youtube_code: kDfcMxVI2ws
 ---
 {% include youtube.html %}
