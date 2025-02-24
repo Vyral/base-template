@@ -4,8 +4,8 @@ title: How Can You Make Your Home Irresistible to Buyers
 date: 2025-02-17 07:00:00
 tags:
 excerpt: >-
-  Good lighting creates a cozy atmosphere and lets the best features of your
-  house shine.
+  Enhance your curb appeal, declutter and depersonalize, and highlight your
+  home’s key features to have a faster and more profitable home sale. 
 enclosure:
 pullquote: >-
   Good lighting creates a cozy atmosphere and lets the best features of your
