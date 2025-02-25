@@ -21,7 +21,7 @@ youtube_code: vWUYQYUnwPQ
 
 {% include HVButton.html %}
 
-Are you curious about your home’s value in today’s market? With the Twin Cities’ spring real estate season in full swing, a lot of homeowners are asking us how economic changes may have impacted their home’s value. With that said, home prices in the area have continued to rise, which is great if you're thinking about selling or just want to know where you stand. But, the best way to get an accurate idea of your home’s value is through **a** **custom market analysis**.
+Are you curious about your home’s value in today’s market? With the Twin Cities’ spring real estate season in full swing, a lot of homeowners are asking us how economic changes may have impacted their home’s value. With that said, home prices in the area have continued to rise, which is great if you’re thinking about selling or just want to know where you stand. But, the best way to get an accurate idea of your home’s value is through **a** **custom market analysis**.
 
 A quick 30-minute walkthrough with an experienced agent allows them to see the unique features, updates, and upgrades in your home. They can also spot opportunities to increase your equity and maximize your return if you decide to sell.
 
