@@ -1,16 +1,12 @@
 ---
 layout: post
-title: How To Find Out if You Have Unclaimed Tax Money
+title: How To Find Out if You Have Unclaimed Money
 date: 2025-02-18 00:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: >-
-  A simple name search could reveal tax refunds or lost funds you didn’t know
-  about.
-enclosure: >-
-  A simple name search could reveal tax refunds or lost funds you didn’t know
-  about.
+excerpt: A simple name search could reveal refunds or lost funds you didn’t know about.
+enclosure: A simple name search could reveal refunds or lost funds you didn’t know about.
 pullquote: Most people have no idea this happens, and their money just sits there.
 enclosure_type: video/mp4
 enclosure_time:
