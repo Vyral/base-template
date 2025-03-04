@@ -24,7 +24,7 @@ youtube_code: LJYHuWfI94k
 
 {% include excerpt.html %}
 
-Are you thinking about buying or selling a home? The real estate market is heating up, and you need to be prepared. Whether you’re buying or selling, here are the key tips to know. Let's start with the tips for buyers:
+Are you thinking about buying or selling a home? The real estate market is heating up, and you need to be prepared. Whether you’re buying or selling, here are the key tips to know. Let’s start with the tips for buyers:
 
 **For buyers, here are two expert tips to ensure a smooth home-buying process:**
 
@@ -46,4 +46,4 @@ If you’re planning to sell your home, timing and preparation are just as impor
 
 * **Get your home ready to sell.** When selling, your home must be clean, staged, and in good condition. Small updates, like new paint or carpet, can make a big difference. If your home isn’t updated, make sure it’s priced competitively. Homes that are well-priced and in good condition sell faster, but overpricing could keep buyers away.
 
-Whether you’re buying or selling, the key to success is preparation. Get your financing ready, be prepared to compete, and make sure your home is in good shape. **If you have questions or need help, you can call or text me at** [**952-212-3597**](tel:9522123597)**. I'm here to guide you through every step of the process.**
+Whether you’re buying or selling, the key to success is preparation. Get your financing ready, be prepared to compete, and make sure your home is in good shape. **If you have questions or need help, you can call or text me at** [**952-212-3597**](tel:9522123597)**. I’m here to guide you through every step of the process.**
