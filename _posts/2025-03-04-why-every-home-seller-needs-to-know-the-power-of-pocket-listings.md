@@ -32,4 +32,4 @@ This is where pocket listings offer a valuable alternative. A pocket listing all
 
 **3\. Access to serious buyers.** By working with a trusted real estate group, sellers connect with qualified buyers who are actively looking for homes.
 
-For homeowners who are curious about their home’s value but hesitant about a public listing, a pocket listing can be an ideal solution. If you have questions or need guidance, don't hesitate to reach out. You can call me at **(612) 360 1670** or send an email to **john@johnschustergroup.com.** I look forward to hearing from you.
+For homeowners who are curious about their home’s value but hesitant about a public listing, a pocket listing can be an ideal solution. If you have questions or need guidance, don’t hesitate to reach out. You can call me at **(612) 360 1670** or send an email to **john@johnschustergroup.com.** I look forward to hearing from you.
