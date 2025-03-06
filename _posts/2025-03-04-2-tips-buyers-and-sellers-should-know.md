@@ -6,10 +6,10 @@ tags:
   - Real Estate
   - Market Tips
 excerpt: >-
-  Get prepared to buy or sell with 2 essential tips that cover financing,
+  Get prepared to buy or sell with two essential tips that cover financing,
   competition, market timing, and how to make your home ready for sale.
 enclosure: >-
-  Get prepared to buy or sell with 2 essential tips that cover financing,
+  Get prepared to buy or sell with two essential tips that cover financing,
   competition, market timing, and how to make your home ready for sale.
 pullquote: >-
   It’s essential for buyers and sellers to prepare in advance to get the most
