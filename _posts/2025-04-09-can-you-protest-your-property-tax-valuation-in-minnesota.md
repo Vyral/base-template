@@ -27,4 +27,4 @@ Once you get the notice, it’s crucial to note that you have a limited amount o
 
 **If you want to protest the value the government has assessed on your property, now is the time to act.** A good first step is to look at various online automatic valuation models, like the one on our website at [JohnSchusterGroup.com.](http://johnschustergroup.com) You can enter your address and get an estimate in 30 seconds or less.
 
-If you prefer a more detailed approach, we’re more than happy to create a custom, confidential market analysis for you. We can even meet you at your property to go over everything. You can call me at **(612) 360 1670** or send an email to **john@johnschustergroup.com.** I look forward to hearing from you.
+If you prefer a more detailed approach, we’re more than happy to create a custom, confidential market analysis for you. We can even meet you at your property to go over everything. You can call me at **952-222-9000** or send an email to **john@johnschustergroup.com.** I look forward to hearing from you.
