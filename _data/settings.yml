@@ -1,12 +1,12 @@
 audit_header: false
-title: 'The John Schuster Group Video BLog'
+title: The John Schuster Group Video BLog
 description: >-
-  Our mission at The John Schuster Group is to be your best resource for Twin Cities
-  real estate advice. Whether you are a buyer, seller, or investor, our team of
-  professionals can answer any questions you might have about real estate. If
-  you are looking to buy or sell a home, you can get all the information and the
-  latest updates, tips, and tricks from The The John Schuster Group, your
-  professional -- MARKET -- Real Estate Agents.
+  Our mission at The John Schuster Group is to be your best resource for Twin
+  Cities real estate advice. Whether you are a buyer, seller, or investor, our
+  team of professionals can answer any questions you might have about real
+  estate. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from The The John
+  Schuster Group, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -15,24 +15,29 @@ client:
   name: John Schuster
   license_number:
   about_markdown: >-
-    The John Schuster Group has sold over 4,200+ homes and is a 8-year recipient of #1 Listing Agent with Coldwell Banker Realty statewide, and has been ranked as one of the Top 100 Real Estate Teams in the nation by Wall Street Journal. John and his team sell more homes than 99.9% of all other agents while striving to be the best real estate team in the Twin Cities. Let our success become your success!
+    The John Schuster Group has sold over 5,000+ homes and is a 10-year
+    recipient of \#1 Listing Agent with Coldwell Banker Realty statewide, and
+    has been ranked as one of the Top 100 Real Estate Teams in the nation by
+    Wall Street Journal. John and his team sell more homes than 99.9% of all
+    other agents while striving to be the best real estate team in the Twin
+    Cities. Let our success become your success!
   market: Twin Cities
   brand: The John Schuster Group
   brokerage: Coldwell Banker Realty
-  address: '11455 Viking Dr, Suite 325 <br> Minneapolis, MN 55344'
+  address: 11455 Viking Dr, Suite 325 <br> Minneapolis, MN 55344
   phone: 952-222-9000
   phone_type:
   phone2:
   phone2_type:
   email: john@johnschustergroup.com
-  url: 'http://johnschustergroup.com'
+  url: http://johnschustergroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.johnschustergroup.com/'
+  first_CTA_URL: https://www.johnschustergroup.com/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.johnschustergroup.com/'
+  second_CTA_URL: https://www.johnschustergroup.com/
   third_CTA_text: 952-222-9000
-  third_CTA_URL: 'tel:9522229000'
+  third_CTA_URL: tel:9522229000
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808265';</script><script
@@ -44,24 +49,24 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: 'https://www.johnschustergroup.com/'
+    CTA_url: https://www.johnschustergroup.com/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.johnschustergroup.com/'
+    CTA_url2: https://www.johnschustergroup.com/
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
@@ -72,13 +77,13 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/JohnSchusterGroup/'
-  linkedin_url: 'https://www.linkedin.com/in/johnschustergroup/'
-  youtube_url: 'https://www.youtube.com/channel/UCvuxZ5FzTydydoaXJVswlbg'
-  twitter_url: 'https://twitter.com/johnDschuster'
+  facebook_url: https://www.facebook.com/JohnSchusterGroup/
+  linkedin_url: https://www.linkedin.com/in/johnschustergroup/
+  youtube_url: https://www.youtube.com/channel/UCvuxZ5FzTydydoaXJVswlbg
+  twitter_url: https://twitter.com/johnDschuster
   instagram_url:
   pinterest_url:
-  zillow_url: 'https://www.zillow.com/profile/jdschuster/'
+  zillow_url: https://www.zillow.com/profile/jdschuster/
   trulia_url: >-
     https://www.trulia.com/profile/john-schuster-agent-eden-prairie-mn-zghzy16z/reviews
   yelp_url: >-
@@ -122,7 +127,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(197, 210, 227, 0.8)'
+  shadow_color: rgba(197, 210, 227, 0.8)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -131,5 +136,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
