@@ -17,19 +17,18 @@ client:
     Ron and Eva Cedillo Broker/Owners of Home Buyers Realty that has 46 Top
     Producing Agents selling over 400 homes per year. They personally sell over
     150 homes per year with their aggressive marketing campaigns that net
-    sellers Top Dollar Fast.<br><br>"If we don't sell your home in a time we
-    agree upon we will buy it."
+    sellers Top Dollar Fast.<br>
   market: Tracy
   brand: The HBR Team
   brand_license_number: 'DRE #01247457<br>DRE #01885470'
   brokerage:
-  address: '672 W. 11th Street Suite 380, Tracy CA 95376'
+  address: 672 W. 11th Street Suite 380, Tracy CA 95376
   phone: (209) 834-2680
   phone_type:
   phone2:
   phone2_type:
   email: ron@homebuyersrealty.com
-  url: 'https://sellwithronandeva.com'
+  url: https://sellwithronandeva.com
 forms:
   sitekey: 6LdsuywaAAAAAE6FZTw3dye8oMaikHLrzsVXMxQw
 emma_form: >-
@@ -38,26 +37,26 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.hbrteam.com/home_value'
+  first_CTA_URL: https://www.hbrteam.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://hbrteam.com/search/criteria/gp_1/s_2'
+  second_CTA_URL: http://hbrteam.com/search/criteria/gp_1/s_2
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Want to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://hbrteam.com/search/criteria/gp_1/s_2'
+    CTA_url: http://hbrteam.com/search/criteria/gp_1/s_2
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -68,24 +67,24 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/Home-Buyers-Realty-66310792966/'
-  linkedin_url: 'https://www.linkedin.com/in/roncedillo/'
+  facebook_url: https://www.facebook.com/Home-Buyers-Realty-66310792966/
+  linkedin_url: https://www.linkedin.com/in/roncedillo/
   gplus_url:
-  youtube_url: 'https://www.youtube.com/channel/UC42c7BnLLn7N_2B5vfFKPMQ'
-  twitter_url: 'https://twitter.com/roncedillo/'
+  youtube_url: https://www.youtube.com/channel/UC42c7BnLLn7N_2B5vfFKPMQ
+  twitter_url: https://twitter.com/roncedillo/
   instagram_url:
   pinterest_url:
-  zillow_url: 'https://www.zillow.com/profile/ron-livingintracy/'
+  zillow_url: https://www.zillow.com/profile/ron-livingintracy/
   trulia_url: >-
     https://www.trulia.com/profile/ron-and-eva-cedillo-agent-tracy-ca-zgpj8x6c/overview
-  yelp_url: 'https://www.yelp.com/biz/home-buyers-realty-tracy'
+  yelp_url: https://www.yelp.com/biz/home-buyers-realty-tracy
   podcast_url: >-
     https://itunes.apple.com/us/podcast/tracy-real-estate-podcast-with-ron-and-eva-cedillo/id1224769103?mt=2
 podcast:
   title: Tracy Real Estate Podcast with Ron and Eva Cedillo
   categories:
     - Education
-  image: 'http://i.imgur.com/S2EULVg.jpg'
+  image: http://i.imgur.com/S2EULVg.jpg
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
     -- Area Real Estate Market
