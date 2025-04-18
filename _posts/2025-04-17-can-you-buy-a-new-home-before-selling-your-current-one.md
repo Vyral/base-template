@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sarita-at.png
 youtube_code:
 ---
-![](/uploads/sarita-at-2.png){: .center-img width="600" height="400"}
+![](/uploads/sarita-at-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
