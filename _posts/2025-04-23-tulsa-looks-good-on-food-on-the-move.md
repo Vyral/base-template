@@ -26,7 +26,7 @@ hidden: false
 
 Tulsa’s food deserts might be closer than you think—some residents are *an hour bus ride* away from fresh groceries. That’s where **Food On The Move** comes in.
 
-Founded by Tulsa musician **Taylor Hanson** and led by **CEO Kevin Harper**, this nonprofit brings mobile food festivals directly into underserved neighborhoods. We're talking:
+Founded by Tulsa musician **Taylor Hanson** and led by **CEO Kevin Harper**, this nonprofit brings mobile food festivals directly into underserved neighborhoods. We’re talking:
 
 * 30-pound bags of fresh produce
 * Meals from local food trucks
