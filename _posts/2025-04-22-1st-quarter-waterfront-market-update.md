@@ -12,7 +12,7 @@ enclosure:
 pullquote: We're expecting more listings to come online as the season progresses.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/scott-h-no-play-button-april-video-2.jpg
 youtube_code:
 ---
