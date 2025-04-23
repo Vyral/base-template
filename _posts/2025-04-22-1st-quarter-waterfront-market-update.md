@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-h-no-play-button-april-video-2.jpg
-youtube_code:
+youtube_code: mVfgrFWf0OE
 ---
 {% include excerpt.html %}
 
