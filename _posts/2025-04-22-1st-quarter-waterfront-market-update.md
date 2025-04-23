@@ -16,6 +16,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/scott-h-no-play-button-april-video-2.jpg
 youtube_code: mVfgrFWf0OE
 ---
+
+{% include youtube.html %}
+
 {% include excerpt.html %}
 
 Waterfront properties are back in the spotlight. If you’re keeping an eye on the waterfront market this year, here’s what’s happening so far. The first quarter of 2025 started a bit slow overall, but there are signs of solid activity picking up especially on Flathead Lake. Inventory is still tight in most areas, but we expect more listings and movement as spring rolls in.
