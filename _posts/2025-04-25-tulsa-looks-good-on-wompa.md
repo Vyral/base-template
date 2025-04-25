@@ -35,13 +35,13 @@ From **RV parks for travelers**, to **flexible office rentals**, to **creative e
 
 ### **A Vision Brought to Life**
 
-The dream began when Dean Williams, founder of WOMPA, stumbled upon the property and saw its potential. Along with his wife Maggie, they've breathed new life into every inch of the space, transforming it into a place that supports **creativity, community, and connection**.
+The dream began when Dean Williams, founder of WOMPA, stumbled upon the property and saw its potential. Along with his wife Maggie, they’ve breathed new life into every inch of the space, transforming it into a place that supports **creativity, community, and connection**.
 
 Maggie, who also operates her business *Fox Cleaners* from within WOMPA, shares her biggest joy: *“Seeing people’s faces when they walk through the door. It’s something you really have to experience for yourself.”*
 
 ### **Why You Should Visit**
 
-* **Versatile Spaces**: From private offices (250–4,000 sq ft) to open-concept coworking areas and event space rentals, there's something for every need.
+* **Versatile Spaces**: From private offices (250–4,000 sq ft) to open-concept coworking areas and event space rentals, there’s something for every need.
 * **Community-Focused**: WOMPA isn’t just about space—it’s about **belonging**. Membership means becoming part of a supportive, like-minded network.
 * **Always Evolving**: The heart of WOMPA lies in its organic growth. As Maggie puts it, *“The success of this place comes from letting it evolve into what the community needs it to be.”*
 
