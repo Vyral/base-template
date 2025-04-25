@@ -7,10 +7,8 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  Financial planning isn’t just about saving—it’s about long-term wealth and
-  security. Kristin Afelumo, founder of Her Planning, specializes in helping
-  women, particularly business owners and primary income earners, take control
-  of their financial futures.
+  Tulsa’s food deserts might be closer than you think—some residents are an hour
+  bus ride away from fresh groceries. That’s where Food On The Move comes in.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
