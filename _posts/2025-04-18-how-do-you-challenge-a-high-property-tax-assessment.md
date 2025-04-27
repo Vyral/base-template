@@ -23,7 +23,7 @@ youtube_code: _-r01wLNcBs
 
 With home values rising, many homeowners are shocked by higher property tax assessments—but that doesn’t mean you have to accept them. If you believe your home has been overvalued, you have the right to challenge your tax bill. In this guide, I’ll walk you through how to protest your property taxes step by step.
 
-**Step 1: Understand your property assessment.** Assessments are based on your property's market value. This is determined by local tax authorities and is based on market conditions, recent sales, and property details. So, before you take action, review your property assessment carefully. Look for discrepancies in property details, such as square footage or the number of rooms, which could affect your property's valuation. ​Look for errors such as:
+**Step 1: Understand your property assessment.** Assessments are based on your property’s market value. This is determined by local tax authorities and is based on market conditions, recent sales, and property details. So, before you take action, review your property assessment carefully. Look for discrepancies in property details, such as square footage or the number of rooms, which could affect your property’s valuation. ​Look for errors such as:
 
 * Incorrect square footage
 * Extra bedrooms or bathrooms that don’t exist
@@ -32,7 +32,7 @@ With home values rising, many homeowners are shocked by higher property tax asse
 
 Even small discrepancies can affect your property’s valuation and your tax obligation. If you spot mistakes, you already have a solid reason to challenge your tax bill. Remember: Inaccuracies here can be grounds for a protest.
 
-**Step 2: Gather evidence to support your case.** You need to arm yourself with evidence to support your claim and research recent sales of comparable properties in your area. Additionally, consider any factors that might negatively impact your property's value, such as needed repairs or nearby nuisances. Document these issues thoroughly. To successfully protest your property taxes, you need strong supporting evidence. This includes:
+**Step 2: Gather evidence to support your case.** You need to arm yourself with evidence to support your claim and research recent sales of comparable properties in your area. Additionally, consider any factors that might negatively impact your property’s value, such as needed repairs or nearby nuisances. Document these issues thoroughly. To successfully protest your property taxes, you need strong supporting evidence. This includes:
 
 * *Comparable sales.* Research homes similar to yours that have sold for less than your assessed value. This proves that your assessment is too high.
 * *Property defects.* If your home needs major repairs, document them with photos, contractor estimates, or inspection reports. A home requiring work is often worth less than its tax assessment.
@@ -42,7 +42,7 @@ Gathering this data gives you a stronger case when submitting your appeal. If si
 
 {% include pullquote.html %}
 
-**Step 3: File your property tax protest properly.** Finally, you need to adhere to your local jurisdiction's protest procedures. Deadlines and requirements vary by location, so it's vital to be informed. Ensure that you file a written protest with the County Board of Equalization on or before * * the deadline in your area and submit all necessary forms and documentation within the specified timeframe to avoid dismissal of your protest. Every city and county has different deadlines and requirements for filing a property tax appeal, so check with your local tax office. To simplify things, here are the key steps you should take when filing your tax protest:
+**Step 3: File your property tax protest properly.** Finally, you need to adhere to your local jurisdiction’s protest procedures. Deadlines and requirements vary by location, so it’s vital to be informed. Ensure that you file a written protest with the County Board of Equalization on or before \* \* the deadline in your area and submit all necessary forms and documentation within the specified timeframe to avoid dismissal of your protest. Every city and county has different deadlines and requirements for filing a property tax appeal, so check with your local tax office. To simplify things, here are the key steps you should take when filing your tax protest:
 
 * *Find your deadline.* Most areas require property tax protests to be filed within 30-60 days of receiving your assessment.
 * *Submit a formal appeal.* This usually involves filling out a protest form and attaching your supporting evidence.
