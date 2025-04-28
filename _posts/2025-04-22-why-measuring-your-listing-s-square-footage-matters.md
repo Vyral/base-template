@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Measuring Your Listing’s Square Footage Matters
-date: 2025-04-22 00:00:00
+date: 2025-04-28 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-2.jpg
+youtube_alternate_image: /uploads/1-1.jpg
 youtube_code: S7mjvLEL4RE
 ---
 {% include youtube.html %}
@@ -37,4 +37,4 @@ This can lead to confusion or even problems down the road. For example, if squar
 
 **Accuracy matters.** The best way to avoid these issues is simple: measure the space yourself. By doing this, you ensure the square footage you’re providing is accurate and transparent. This benefits both the seller and the buyer. It eliminates confusion and builds trust between everyone involved.
 
-For sellers, accurate square footage protects them from any future complaints or pricing problems. And for buyers, knowing exactly what they’re getting in terms of space helps them make informed decisions.<br><br>The next time you’re listing a home, don’t rely solely on old records or estimates. Take the time to measure the space yourself. It’s a small step that can make a big difference in your real estate transactions. If you have any questions, feel free to call or text us at [**952-212-3597**](tel:9522123597) or email us at [**<u>ChadandSara@edinarealty.com</u>**<u>. </u>](mailto:ChadandSara@edinarealty.com)We'll be happy to help you out.
+For sellers, accurate square footage protects them from any future complaints or pricing problems. And for buyers, knowing exactly what they’re getting in terms of space helps them make informed decisions.<br><br>The next time you’re listing a home, don’t rely solely on old records or estimates. Take the time to measure the space yourself. It’s a small step that can make a big difference in your real estate transactions. If you have any questions, feel free to call or text us at [**952-212-3597**](tel:9522123597) or email us at [**<u>ChadandSara@edinarealty.com</u>**<u>. </u>](mailto:ChadandSara@edinarealty.com)We’ll be happy to help you out.
