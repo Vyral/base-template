@@ -42,7 +42,7 @@ Gathering this data gives you a stronger case when submitting your appeal. If si
 
 {% include pullquote.html %}
 
-**Step 3: File your property tax protest properly.** Finally, you need to adhere to your local jurisdiction’s protest procedures. Deadlines and requirements vary by location, so it’s vital to be informed. Ensure that you file a written protest with the County Board of Equalization on or before \* \* the deadline in your area and submit all necessary forms and documentation within the specified timeframe to avoid dismissal of your protest. Every city and county has different deadlines and requirements for filing a property tax appeal, so check with your local tax office. To simplify things, here are the key steps you should take when filing your tax protest:
+**Step 3: File your property tax protest properly.** Finally, you need to adhere to your local jurisdiction’s protest procedures. Deadlines and requirements vary by location, so it’s vital to be informed. Ensure that you file a written protest with the County Board of Equalization on or before the deadline in your area and submit all necessary forms and documentation within the specified timeframe to avoid dismissal of your protest. Every city and county has different deadlines and requirements for filing a property tax appeal, so check with your local tax office. To simplify things, here are the key steps you should take when filing your tax protest:
 
 * *Find your deadline.* Most areas require property tax protests to be filed within 30-60 days of receiving your assessment.
 * *Submit a formal appeal.* This usually involves filling out a protest form and attaching your supporting evidence.
