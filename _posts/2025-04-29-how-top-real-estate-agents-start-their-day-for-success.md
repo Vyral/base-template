@@ -17,7 +17,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/misty-soldwisch-rec.jpg
 youtube_code:
 ---
-
 {% include excerpt.html %}
 
 Success in real estate isn’t random—it’s built on daily habits that drive consistent results. And if you’re looking to increase your production, close more deals, and work more efficiently, it all starts with how you structure your morning.
