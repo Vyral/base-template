@@ -7,12 +7,9 @@ tags:
   - Business Spotlight
   - Oklahoma
 excerpt: >-
-  Tulsa is buzzing with anticipation for one of its most beloved traditions —
-  Tulsa Mayfest 2025. This year marks the 52nd anniversary of the event, and it
-  promises to be more vibrant, creative, and family-friendly than ever. We
-  caught up with Julie Carson, this year's Honorary Chair of Mayfest, to hear
-  all about what's in store, and trust us, you won’t want to miss a single
-  moment!
+  In a recent interview, Jennie Wolek of the Wolek Group, Keller Williams Realty
+  sat down with Daniel from SheBrews to share how this mission-driven business
+  is making a powerful impact in our community.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
