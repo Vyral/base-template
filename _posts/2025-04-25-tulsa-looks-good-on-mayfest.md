@@ -26,15 +26,15 @@ hidden: false
 
 ## **Tulsa Mayfest 2025: A Golden Celebration of Art, Music & Community**
 
-Tulsa is buzzing with anticipation for one of its most beloved traditions — **Tulsa Mayfest 2025**. This year marks the 52nd anniversary of the event, and it promises to be more vibrant, creative, and family-friendly than ever. We caught up with **Julie Carson**, this year's Honorary Chair of Mayfest, to hear all about what's in store, and trust us, you won’t want to miss a single moment!
+Tulsa is buzzing with anticipation for one of its most beloved traditions — **Tulsa Mayfest 2025**. This year marks the 52nd anniversary of the event, and it promises to be more vibrant, creative, and family-friendly than ever. We caught up with **Julie Carson**, this year’s Honorary Chair of Mayfest, to hear all about what’s in store, and trust us, you won’t want to miss a single moment!
 
 ### What to Expect at Mayfest 2025
 
-With the exciting theme **"Stay Gold"**, inspired by the Tony Award-winning *Outsiders* musical (based on the iconic novel by S.E. Hinton, a University of Tulsa alumna), this year's Mayfest pays tribute to Tulsa’s rich artistic and literary roots.
+With the exciting theme **“Stay Gold”**, inspired by the Tony Award-winning *Outsiders* musical (based on the iconic novel by S.E. Hinton, a University of Tulsa alumna), this year’s Mayfest pays tribute to Tulsa’s rich artistic and literary roots.
 
 ### More Than Just a Festival
 
-Mayfest is more than just a weekend event — it's a celebration of **Tulsa’s artistic spirit, community generosity**, and the city’s commitment to inclusivity and creativity. With over 300 volunteers and free admission, it’s clear this event is powered by passion and purpose.
+Mayfest is more than just a weekend event — it’s a celebration of **Tulsa’s artistic spirit, community generosity**, and the city’s commitment to inclusivity and creativity. With over 300 volunteers and free admission, it’s clear this event is powered by passion and purpose.
 
 **Free shuttle parking** is available from the OSU-Tulsa lot, making it easy to access downtown without the stress of finding a spot. And don’t forget to bring your appetite — local food trucks and carnival-style bites will be ready to fuel your fun.
 
