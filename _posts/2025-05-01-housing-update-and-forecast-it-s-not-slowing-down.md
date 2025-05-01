@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Housing Update and Forecast... It's Not Slowing Down
-date:
+date: 2025-05-01 00:00:00
 tags:
   - Market Update
   - Real Estate
