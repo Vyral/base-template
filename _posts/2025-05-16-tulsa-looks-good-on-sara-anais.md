@@ -27,7 +27,7 @@ Tulsa is full of hidden gems, and artist **Sara Anais Gonzalez** is one of them.
 
 ### From Scientific Illustration to Pet Caricatures
 
-Sara Anais didn't take the most traditional path to becoming one of **Tulsa’s most beloved pet portrait artists**. With a degree in **Biological Premedical Illustration**, she began her career as a junior art director in pharmaceutical advertising. But when she lost her job two years ago, she found herself drawn—literally—back into her passion for art.
+Sara Anais didn’t take the most traditional path to becoming one of **Tulsa’s most beloved pet portrait artists**. With a degree in **Biological Premedical Illustration**, she began her career as a junior art director in pharmaceutical advertising. But when she lost her job two years ago, she found herself drawn—literally—back into her passion for art.
 
 It all started during the holiday season when she hand-drew portraits of her family’s pets. Those festive gifts quickly turned into a thriving side hustle, and now a full-time creative career centered on **custom pet caricatures**, **event painting**, and **children’s book illustration**.
 
@@ -47,4 +47,4 @@ You can:
 * Like her Facebook page: **Sara Anais Pet Portraits**
 * Visit her website [linktr.ee/Sara.anais.illustration](https://linktr.ee/Sara.anais.illustration) to **order custom, realistic pet portraits**
 
-Whether you're looking for a heartfelt gift or a one-of-a-kind keepsake, **Sara’s art captures the spirit of Tulsa pets and their people** with warmth, creativity, and color.
+Whether you’re looking for a heartfelt gift or a one-of-a-kind keepsake, **Sara’s art captures the spirit of Tulsa pets and their people** with warmth, creativity, and color.
