@@ -25,7 +25,7 @@ youtube_code: aSCwJf615aw
 
 {% include excerpt.html %}
 
-If you’re planning to sell your home, you might be wondering how to make the process as smooth as possible. One option you should know about is the seller contingency. While you may be familiar with the home sale contingency, which requires a buyer to sell their home before they can purchase yours, a seller contingency works a bit differently. This strategy could be exactly what you need to make your move easier. Here's what you need to know about it:
+If you’re planning to sell your home, you might be wondering how to make the process as smooth as possible. One option you should know about is the seller contingency. While you may be familiar with the home sale contingency, which requires a buyer to sell their home before they can purchase yours, a seller contingency works a bit differently. This strategy could be exactly what you need to make your move easier. Here’s what you need to know about it:
 
 **What is a seller contingency?** A seller contingency is when a buyer agrees to purchase your home with the condition that you find a new home within a certain time frame. This gives you the flexibility to sell your current property without worrying about not having a place to move. You can list your home and accept an offer, but the deal won’t close until you’ve found your next home. This can be a big relief, especially in a competitive market where finding the right house can take time.
 
@@ -39,4 +39,4 @@ If you’re planning to sell your home, you might be wondering how to make the p
 
 **Why should you consider a seller contingency?** In today’s housing market, where inventory is tight and sellers are often hesitant to list their homes, a seller contingency could be just the solution you need. It gives you peace of mind knowing you won’t be rushed into a purchase you’re not ready for. Plus, it can make your home more attractive to potential buyers, as they know you’re serious about selling and willing to work with them on a flexible timeline.
 
-If you’re ready to sell but have concerns about finding your next home, a seller contingency might be exactly what you need. If you have questions or need help navigating this process, feel free to call or text us at [**952-212-3597**](tel:9522123597) or email us at [**ChadandSara@edinarealty.com**](mailto:ChadandSara@edinarealty.com). We're happy to guide you through every step of the way
+If you’re ready to sell but have concerns about finding your next home, a seller contingency might be exactly what you need. If you have questions or need help navigating this process, feel free to call or text us at [**952-212-3597**](tel:9522123597) or email us at [**ChadandSara@edinarealty.com**](mailto:ChadandSara@edinarealty.com). We’re happy to guide you through every step of the way
