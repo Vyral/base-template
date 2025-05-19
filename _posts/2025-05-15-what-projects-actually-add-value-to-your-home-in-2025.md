@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Projects Actually Add Value to Your Home in 2025?
-date: 2025-05-15 00:00:00
+date: 2025-05-19 00:00:00
 tags:
   - Real Estate
   - Home Value
@@ -15,7 +15,7 @@ pullquote: Pre-listing home upgrades don’t always need to be expensive.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jesse-myles-thumbnail-5.png
+youtube_alternate_image: /uploads/jesse-myles-thumbnail-2-1.png
 youtube_code:
 ---
 {% include excerpt.html %}
