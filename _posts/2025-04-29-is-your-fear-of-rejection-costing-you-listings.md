@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/misty-soldwisch-rec-1.jpg
+youtube_alternate_image: /uploads/misty-soldwisch-rec.png
 youtube_code:
 ---
 {% include excerpt.html %}
