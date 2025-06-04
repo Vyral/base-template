@@ -32,4 +32,4 @@ Two years ago, leads were calling us. Four years ago, you could post a listing a
 
 Once we reconnect to the bigger picture and start making intentional adjustments, confidence returns, and momentum follows. That’s what good leadership is all about: bringing perspective, offering support, and helping agents take control of their results without feeling like they’re doing it alone.
 
-If you’re stuck or ready for a new approach to leading your team through change, I’d love to connect. Reach out at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} ** ** or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com)**.** Let’s talk about what it takes to thrive right now.
+If you’re stuck or ready for a new approach to leading your team through change, I’d love to connect. Reach out at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com)**.** Let’s talk about what it takes to thrive right now.
