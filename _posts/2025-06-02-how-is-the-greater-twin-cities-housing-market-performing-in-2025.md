@@ -25,7 +25,7 @@ We are almost three months into the year, and this has been a spring market like
 
 **A slight increase in inventory.** Looking at weekly data from the 13-county metro area through the last week of April, inventory has shown a slight uptick. There are 5% more homes available compared to the same time last year.
 
-**Days on the market.** Homes are now averaging 46 days on the market, up from 40 days a year ago. Even with that increase, the supply of homes remains tight, with only 2.4 months of inventory available. A balanced market typically has a supply of 4 to 6 months, which means this is still a seller’s market.
+**Days on the market.** Homes are now averaging 46 days on the market, up from 40 days a year ago. Even with that increase, the supply of homes remains tight, with only 2.4 months of inventory available. A balanced market typically has a supply of four to six months, which means this is still a seller’s market.
 
 **Home prices are on the rise.** Over the past 12 months, home prices have continued to rise. The average sale price has increased by 4.1%, reaching nearly $457,000. This ongoing appreciation reflects the strength and resilience of the local market.
 
