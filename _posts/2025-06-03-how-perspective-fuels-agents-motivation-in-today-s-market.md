@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Perspective Fuels Agents’ Motivation In Today’s Market
+title: Before You Blame the Market, Try This Real Estate Mindset
 date: 2025-06-03 00:00:00
 tags:
   - Real Estate
