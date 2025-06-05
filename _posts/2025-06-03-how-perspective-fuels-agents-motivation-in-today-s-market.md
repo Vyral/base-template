@@ -20,16 +20,34 @@ youtube_code: mPFOJOaLLd8
 
 {% include excerpt.html %}
 
-I’ve been in enough one-on-one conversations to know the signs. An agent hits a slow patch and starts questioning everything: the leads, the market, and their ability to close. I hear things like, “These leads are garbage,” or “No one’s serious anymore,” and that’s when I know we need to take a step back. Not to change the system, but to change the perspective.
+I recently had the opportunity to be a panelist on a mindset-focused webinar with Chris Heller, CEO of Movoto. One of the key takeaways I shared came from a simple but powerful question an agent asked me:
 
-**Perspective changes everything.** When agents get frustrated, it’s easy to shrink the world to what’s happening in their pipeline. Every “no” feels personal. Every quiet day feels like a failure. That’s where I step in as a team leader. I help them zoom out. We look at what’s happening across the team, the trends in our local market, and even what’s shifting nationally. Nine times out of ten, they’re not the only ones feeling the shift. That realization alone brings a sense of relief. It moves them out of isolation and back into focus.
+“Why does everything feel harder lately, even though I’m using the same tools and leads?”
 
-Two years ago, leads were calling us. Four years ago, you could post a listing and have offers in hours. Things are different now; buyers and sellers are moving more slowly, and they have more questions and more hesitation. That’s not a bad thing, it’s just reality. And if we don’t adjust, we get stuck. I remind my agents that doing what worked in 2020 won’t guarantee success in 2025. The agents who are thriving today are the ones who have adapted.
+That question sparked this video and a deeper conversation around how perspective and motivation are directly connected—especially in a shifting market.
+
+I’ve had enough one-on-one conversations with agents to recognize the signs. A slowdown hits, and suddenly, doubt creeps in. They question the leads, the market, and themselves. I hear:
+
+“These leads are garbage.”
+
+“No one’s serious anymore.”
+
+That’s when I know: it’s not the system—it’s the perspective that needs a reset.
+
+Perspective changes everything. When frustration sets in, agents tend to zoom in too tightly on their own pipeline. Every “no” feels personal. Every lull feels like failure. As a leader, I help them zoom back out—looking at trends on the team, in the local market, and even nationally. Almost always, they’re not alone. And that shift—from isolation to context—immediately lifts the weight.
+
+We’re not in 2020 anymore. Buyers and sellers are moving more slowly, asking more questions, and taking more time. That’s not a bad thing—it’s just different. What worked then won’t guarantee success now. The agents who are thriving in 2025 are the ones who’ve adjusted, stayed coachable, and focused on strategy over blame.
 
 {% include pullquote.html %}
 
-**It’s not the source—it’s the strategy.** I often point out that other agents on our team are using the same lead sources and seeing success. That’s not to compare, it’s to build belief. If one person gets results from the same tools, the tools aren’t broken. That’s empowering because it means change is possible. It shifts the conversation from “What’s wrong with these leads?” to “What can I do differently next time?”
+I remind my team: it’s not the source—it’s the strategy. If one agent is closing deals from the same lead source that another is struggling with, that’s not a system failure—it’s an opportunity to learn and grow. That’s empowering, because it means your success is in your hands.
 
-Once we reconnect to the bigger picture and start making intentional adjustments, confidence returns, and momentum follows. That’s what good leadership is all about: bringing perspective, offering support, and helping agents take control of their results without feeling like they’re doing it alone.
+When agents reconnect to the bigger picture and make intentional adjustments, confidence returns—and momentum follows. That’s leadership: offering support, bringing perspective, and helping people take control of their results without feeling alone.
 
-If you’re stuck or ready for a new approach to leading your team through change, I’d love to connect. Reach out at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com)**.** Let’s talk about what it takes to thrive right now.
+If you or your agents are stuck—or simply ready for a fresh approach to navigating change—let’s connect. I’d love to support you with a strategy session tailored to where you are right now.
+
+![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) Book a time with me here: [**Schedule a Strategy Session**](https://calendly.com/mistysoldteam/strategy){: target="_blank" rel="noopener"}
+
+Or reach out directly at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com "Misty@BHGInnovations.com"){: target="_blank" rel="noopener"}.
+
+Let’s talk about what it takes to thrive in this market—not just survive it.
