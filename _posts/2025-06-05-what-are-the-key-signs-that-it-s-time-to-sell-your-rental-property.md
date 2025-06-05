@@ -19,7 +19,7 @@ youtube_alternate_image: >-
   /uploads/what-are-the-key-signs-that-it-s-time-to-sell-your-rental-property.jpg
 youtube_code:
 ---
-![](/uploads/what-are-the-key-signs-that-it-s-time-to-sell-your-rental-property-2.jpg)
+![](/uploads/what-are-the-key-signs-that-it-s-time-to-sell-your-rental-property-2.jpg){: style="text-align: center; width: 100%;"}
 
 {% include excerpt.html %}
 
