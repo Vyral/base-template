@@ -46,7 +46,7 @@ When agents reconnect to the bigger picture and make intentional adjustments, co
 
 If you or your agents are stuck—or simply ready for a fresh approach to navigating change—let’s connect. I’d love to support you with a strategy session tailored to where you are right now.
 
-![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) Book a time with me here: [**Schedule a Strategy Session**](https://calendly.com/mistysoldteam/strategy){: target="_blank" rel="noopener"}
+![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) Book a time with me here: [**Schedule a Strategy Session**](https://mistysoldteam.as.me/schedule/6cf59114/?calendarIds=11920127){: target="_blank" rel="noopener"}
 
 Or reach out directly at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com "Misty@BHGInnovations.com"){: target="_blank" rel="noopener"}.
 
