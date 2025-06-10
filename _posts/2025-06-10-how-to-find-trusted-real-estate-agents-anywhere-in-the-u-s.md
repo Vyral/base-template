@@ -25,7 +25,7 @@ Have you ever felt overwhelmed at the thought of moving to a new city? I’ve se
 
 While my home base is Portland, Oregon, I want to remind you that **I can help you anywhere in the country and even internationally.**
 
-The other day, I met with a past client and friend, and she said, "Wow, we're moving to Boston, and I wish I could find someone like you there." It was a heartfelt compliment, but it also made me realize that many of my clients don’t know I have a strong, trusted network of top agents nationwide.
+The other day, I met with a past client and friend, and she said, “Wow, we’re moving to Boston, and I wish I could find someone like you there.” It was a heartfelt compliment, but it also made me realize that many of my clients don’t know I have a strong, trusted network of top agents nationwide.
 
 {% include pullquote.html %}
 
