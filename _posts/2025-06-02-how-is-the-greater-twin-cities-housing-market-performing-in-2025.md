@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the Greater Twin Cities Housing Market Performing in 2025?
-date: 2025-06-02 00:00:00
+date: 2025-06-10 00:00:00
 tags:
   - Market Update
 excerpt: >-
