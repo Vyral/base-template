@@ -15,7 +15,7 @@ enclosure: >-
 pullquote: Today’s buyers are more cautious and expect homes to be move-in ready.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/how-inspections-impact-your-home-sale-in-minnesota.jpg
 youtube_code: H9TDEZYmYRs
 ---
