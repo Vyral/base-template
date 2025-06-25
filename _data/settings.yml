@@ -56,7 +56,8 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://www.johnschustergroup.com/
+    CTA_url2: >-
+      https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0
 lender:
   show_section: false
   header_text: Preferred Lender
