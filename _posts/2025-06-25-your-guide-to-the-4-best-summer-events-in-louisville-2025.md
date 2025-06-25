@@ -35,4 +35,4 @@ Summer is an ideal time to explore Louisville and take advantage of everything t
 
 Louisville offers plenty to do this summer, from live events and cultural attractions to parks and outdoor spaces. You can explore new parts of the city, revisit favorite spots, or simply enjoy the season at your own pace. If you’re looking for suggestions or need help planning, I’m here to support you. There are always ways to enjoy what the city has to offer.
 
-If you're also thinking about making a move or exploring real estate options, I can help with that, too. You can call me at [**502-376-5483**](TEL:5023765483 "502-376-5483"){: target="_blank" rel="noopener"} or send an email to [**Bob@weselllouisville.com**](mailto:Bob@weselllouisville.com). Enjoy your summer!
+If you’re also thinking about making a move or exploring real estate options, I can help with that, too. You can call me at [**502-376-5483**](TEL:5023765483 "502-376-5483"){: target="_blank" rel="noopener"} or send an email to [**Bob@weselllouisville.com**](mailto:Bob@weselllouisville.com). Enjoy your summer!
