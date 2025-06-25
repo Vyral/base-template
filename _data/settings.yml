@@ -33,7 +33,8 @@ client:
   url: http://johnschustergroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.johnschustergroup.com/
+  first_CTA_URL: >-
+    https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369
   second_CTA_text: Home Search
   second_CTA_URL: >-
     https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0
@@ -50,7 +51,8 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
-    CTA_url: https://www.johnschustergroup.com/
+    CTA_url: >-
+      https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
