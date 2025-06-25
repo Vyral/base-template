@@ -27,9 +27,9 @@ Summer is an ideal time to explore Louisville and take advantage of everything t
 
 **2\. Frazier Summer Beer Fest**. For craft beer enthusiasts, the Frazier Summer Beer Fest is a standout event. Held at the Frazier History Museum, it features over 200 beers from local and national breweries. Visitors can sample a wide range of brews while enjoying a lively atmosphere downtown. It is best to purchase tickets in advance, as the event often sells out. Responsible tasting and trying new selections are encouraged.
 
-**3\. Louisville Street Food Festival**. The Louisville Street Food Festival showcases the city’s best food trucks and local vendors. Guests can enjoy a diverse range of food, from barbecues to tacos to gourmet desserts, while listening to live music in a festive environment. The event offers a great way to spend time with friends and family. Arriving hungry is highly recommended, and taking time to enjoy the live performances is part of the full experience.
-
 {% include pullquote.html %}
+
+**3\. Louisville Street Food Festival**. The Louisville Street Food Festival showcases the city’s best food trucks and local vendors. Guests can enjoy a diverse range of food, from barbecues to tacos to gourmet desserts, while listening to live music in a festive environment. The event offers a great way to spend time with friends and family. Arriving hungry is highly recommended, and taking time to enjoy the live performances is part of the full experience.
 
 **4\. Waterfront Park events**. Waterfront Park is a key part of Louisville’s summer scene. It hosts a variety of events such as free outdoor movie nights and live concerts. With beautiful views of the Ohio River and open spaces for gathering, the park is perfect for both relaxing days and eventful evenings. Visitors are encouraged to check the event calendar in advance and bring blankets, snacks, or chairs for comfort.
 
