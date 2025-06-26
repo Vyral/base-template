@@ -22,7 +22,7 @@ youtube_code: 6bx0zaOEwMY
 
 {% include excerpt.html %}
 
-Real estate can be unpredictable. Some weeks are packed with appointments, offers, and closings, while others feel slower, regardless of the effort put in. During those slower times, it's not unusual for agents to feel discouraged or start questioning the tools, the leads, or even the market itself. That’s why our focus is always on ensuring agents have the proper support, the right perspective, and the structure they need to stay productive and confident, regardless of the market conditions.
+Real estate can be unpredictable. Some weeks are packed with appointments, offers, and closings, while others feel slower, regardless of the effort put in. During those slower times, it’s not unusual for agents to feel discouraged or start questioning the tools, the leads, or even the market itself. That’s why our focus is always on ensuring agents have the proper support, the right perspective, and the structure they need to stay productive and confident, regardless of the market conditions.
 
 **How do we help real estate agents?** When an agent is having a tough month, it’s easy to assume something external is to blame. Maybe they think the leads aren’t converting, buyers aren’t serious, or sellers are holding back. But more often than not, it’s not about the leads or the market—it’s about how we respond when things feel uncertain. That’s where our approach makes a difference.
 
