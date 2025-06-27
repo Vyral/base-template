@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 5 Affordable Outdoor Projects That Significantly Boost Home Value
-date: 2025-06-19 00:00:00
+date: 2025-06-30 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
