@@ -22,6 +22,10 @@ youtube_code: 6bx0zaOEwMY
 
 {% include excerpt.html %}
 
+I recently had the opportunity to be a panelist on a mindset-focused webinar with Chris Heller, CEO of Movoto. One of the key takeaways I shared came from a simple but powerful question an agent asked me:
+
+"How do you make everything easier for the agents on your team?"
+
 Real estate can be unpredictable. Some weeks are packed with appointments, offers, and closings, while others feel slower, regardless of the effort put in. During those slower times, it’s not unusual for agents to feel discouraged or start questioning the tools, the leads, or even the market itself. That’s why our focus is always on ensuring agents have the proper support, the right perspective, and the structure they need to stay productive and confident, regardless of the market conditions.
 
 **How do we help real estate agents?** When an agent is having a tough month, it’s easy to assume something external is to blame. Maybe they think the leads aren’t converting, buyers aren’t serious, or sellers are holding back. But more often than not, it’s not about the leads or the market—it’s about how we respond when things feel uncertain. That’s where our approach makes a difference.
@@ -36,4 +40,12 @@ Real estate can be unpredictable. Some weeks are packed with appointments, offer
 
 We also ensure that agents are trained for the current market, not the one from two or three years ago. That means updating scripts, refining strategies, and making sure their conversations with buyers and sellers are aligned with what people actually need today.
 
-At the end of the day, everything we do is about removing the guesswork and helping our agents stay clear, confident, and ready to take action. When they feel supported and have a plan, the job becomes much easier, and the results follow. If you have any questions, feel free to call or text us at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"}. We’ll be happy to help you make informed decisions for your real estate career.
+At the end of the day, everything we do is about removing the guesswork and helping our agents stay clear, confident, and ready to take action. When they feel supported and have a plan, the job becomes much easier, and the results follow.
+
+If you or your agents are stuck—or simply ready for a fresh approach to navigating change—let’s connect. I’d love to support you with a strategy session tailored to where you are right now.
+
+![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) Book a time with me here: [**Schedule a Strategy Session**](https://mistysoldteam.as.me/schedule/6cf59114/?calendarIds=11920127){: target="_blank" rel="noopener"}
+
+Or reach out directly at [**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} or [**Misty@BHGInnovations.com**](mailto:Misty@BHGInnovations.com "Misty@BHGInnovations.com"){: target="_blank" rel="noopener"}.
+
+Let’s talk about what it takes to thrive in this market—not just survive it.
