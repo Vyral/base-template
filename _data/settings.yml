@@ -97,7 +97,7 @@ podcast:
     buyer
   author: '-- CLIENT NAME --'
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/jesse-myles-aboutme-img.webp
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Real Estate Video Blog
