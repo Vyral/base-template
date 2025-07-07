@@ -22,7 +22,7 @@ youtube_code: vISMc6_Rpqg
 
 {% include excerpt.html %}
 
-Solar power isn't just good for the environment; it's great for your wallet and your property's marketability. For homeowners like myself, installing solar panels has proven to help offset electric bills significantly.
+Solar power isn’t just good for the environment; it’s great for your wallet and your property’s marketability. For homeowners like myself, installing solar panels has proven to help offset electric bills significantly.
 
 **With Hawaiian Electric Company (HECO) requesting three rate hikes over the past two years alone, exploring alternative energy sources has never been greater.**
 
@@ -32,7 +32,7 @@ If you’ve noticed your electric bill creeping up, solar panels could help mana
 
 *Do solar panels increase property value or rental income?*
 
-The answer to whether solar panels can boost your home's market value is generally yes. For rentals, it's less certain. While solar panels may not automatically justify higher rent, you can highlight their benefits to tenants, such as:
+The answer to whether solar panels can boost your home’s market value is generally yes. For rentals, it’s less certain. While solar panels may not automatically justify higher rent, you can highlight their benefits to tenants, such as:
 
 “The rent reflects the value of solar panels, which significantly lowers your electric bill compared to similar properties.”
 
