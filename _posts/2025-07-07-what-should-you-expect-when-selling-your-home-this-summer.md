@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/what-should-you-expect-when-selling-your-home-this-summer-2.png
+youtube_alternate_image: /uploads/what-should-you-expect-when-selling-your-home-this-summer-3.png
 youtube_code: RAc6mpAclfM
 ---
 {% include youtube.html %}
