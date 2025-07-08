@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 5 Tips To Maximize Your Home's Sale Price
-date: 2025-07-07 00:00:00
+date: 2025-07-14 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
