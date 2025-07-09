@@ -39,4 +39,4 @@ Some of these homes are also being shared through internal networks that aren’
 
 Even some homeowners with very low rates—around 2.5% to 3.5%—are deciding to sell because of major life changes. Whether it’s growing families, job moves, or downsizing, they’re using the equity they’ve built and choosing to move ahead.
 
-The market is active, but timing and strategy matter more than ever. If you’re thinking about making a move or want access to homes before they’re listed, feel free to call or text us at [**<u>952-212-3597</u>**](tel:9522123597) or email [**ChadandSara@edinarealty.com**](mailto:ChadandSara@edinarealty.com). We’ll help you by discussing your goals, timing, and what’s possible in today’s market.
+The market is active, but timing and strategy matter more than ever. If you’re thinking about making a move or want access to homes before they’re listed, feel free to call or text us at [**<u>952-212-3597</u>**](tel:9522123597) or email [**<u>ChadandSara@edinarealty.com</u>**](mailto:ChadandSara@edinarealty.com). We’ll help you by discussing your goals, timing, and what’s possible in today’s market.
