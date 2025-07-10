@@ -25,7 +25,7 @@ hidden: false
 
 What do you get when you combine the precision of a lawyer with the creativity of an artist? You get Kim Schutz, an interior designer based in Tulsa, Oklahoma, who traded her law degree for a life designing stunning, comfortable spaces.
 
-As the founder of Kimberly Schutz Interiors, Kim specializes in residential design, custom furniture, and full remodels across Tulsa, Bixby, Broken Arrow, and nearby communities. In our interview, she shares how she made the leap from law to design, the power of following your passion, and the top interior trends she's loving in 2025. These include texture-rich materials, warm tones, and the return of cozy, zoned layouts.
+As the founder of Kimberly Schutz Interiors, Kim specializes in residential design, custom furniture, and full remodels across Tulsa, Bixby, Broken Arrow, and nearby communities. In our interview, she shares how she made the leap from law to design, the power of following your passion, and the top interior trends she’s loving in 2025. These include texture-rich materials, warm tones, and the return of cozy, zoned layouts.
 
 > “If you’re following your passion, it will come naturally,” Kim says.
 
