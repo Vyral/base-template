@@ -20,7 +20,7 @@ youtube_code: 3vwb7eTUhBE
 
 {% include excerpt.html %}
 
-If you're planning to sell your home or have already listed it, you’ve likely heard about home inspections. This part of the process can be nerve-wracking for sellers, as there’s often concern about what issues might be uncovered. Here’s how you can prepare for an inspection:
+If you’re planning to sell your home or have already listed it, you’ve likely heard about home inspections. This part of the process can be nerve-wracking for sellers, as there’s often concern about what issues might be uncovered. Here’s how you can prepare for an inspection:
 
 **1\. Conduct a pre-inspection.** If you prefer to avoid surprises, a pre-inspection can be a smart choice. It provides an upfront list of any issues with your home. However, there are downsides to consider. Once you conduct a pre-inspection, you’re obligated to disclose all findings, even minor issues you might not plan to fix. This can complicate matters more than it clarifies.
 
@@ -36,4 +36,4 @@ I always advise my clients to focus on addressing obvious, visible problems that
 
 These tips will help you out, but just remember that every home and every sale is unique. What works for one seller may not always work for you, which is why personalized advice is crucial. It allows you to focus on your home, your goals, and your specific situation.
 
-If you're prepping for a home inspection and not sure where to start, the right agent can make all the difference. If you’re planning to sell your home, call me at [**(503) 522-0090**](tel:5035220090), email me at [**sarita@asksarita.com**](mailto:sarita@asksarita.com), or visit [**AskSarita.com**](http://asksarita.com). Let’s make your next move the smoothest one yet.
+If you’re prepping for a home inspection and not sure where to start, the right agent can make all the difference. If you’re planning to sell your home, call me at [**(503) 522-0090**](tel:5035220090), email me at [**sarita@asksarita.com**](mailto:sarita@asksarita.com), or visit [**AskSarita.com**](http://asksarita.com). Let’s make your next move the smoothest one yet.
