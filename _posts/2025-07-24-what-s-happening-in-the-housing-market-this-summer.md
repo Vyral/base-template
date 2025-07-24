@@ -33,16 +33,16 @@ This shift also matters for sellers. With picky buyers due to limited budgets, y
 
 {% include pullquote.html %}
 
-**2\. Not all markets are created equal.** The market isn't moving the same way everywhere. Some cities are experiencing [price increases of up to 9.4%](https://www.fingerlakes1.com/2025/06/04/housing-market-summer-2025-forecast/), while others are seeing a slight cooling off. That's why it's crucial to examine what's happening in your neighborhood.
+**2\. Not all markets are created equal.** The market isn’t moving the same way everywhere. Some cities are experiencing [price increases of up to 9.4%](https://www.fingerlakes1.com/2025/06/04/housing-market-summer-2025-forecast/), while others are seeing a slight cooling off. That’s why it’s crucial to examine what’s happening in your neighborhood.
 
 Cooling prices in certain areas could provide homebuyers with a rare opportunity. However, in high-demand neighborhoods, competition remains tough, especially where jobs are growing or new construction is limited. If you’re a seller, those same hot spots could work in your favor only if you price your home right. In slower markets, setting the right expectations matters.
 
-Real estate has always been local, but now it’s hyper-local. What's true across town might not apply on your street.
+Real estate has always been local, but now it’s hyper-local. What’s true across town might not apply on your street.
 
 **3\. Inventory is trending upwards.** Inventory is starting to pick up, which means buyers have more options and more time to compare. But that also means sellers face more competition. In this kind of market, pricing too high is one of the quickest ways to get overlooked.
 
 Buyers today are careful. They’re weighing every detail. For sellers, that means small things—like a clean space, fresh paint, or a pre-listing inspection—can make your home stand out. It doesn’t need to be perfect, but it does need to feel worth the price.
 
-This summer's housing market is all about being informed and strategic. Whether you're considering buying, selling, or simply curious about your options, now's the time to gather the facts and create a plan that aligns with your goals.
+This summer’s housing market is all about being informed and strategic. Whether you’re considering buying, selling, or simply curious about your options, now’s the time to gather the facts and create a plan that aligns with your goals.
 
-Let's talk about what kind of move makes sense for you. Feel free to call, text, or message me anytime. I'm ready when you are.
+Let’s talk about what kind of move makes sense for you. Feel free to call, text, or message me anytime. I’m ready when you are.
