@@ -17,8 +17,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/what-s-happening-in-the-housing-market-this-summer.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 This summer’s housing market feels like a riddle—prices are up, but competition is down. Mortgage rates dip, then spike, leaving buyers and sellers wondering: Is now the right time to move? The answer? It depends on what you know. Let’s break down the chaos and uncover the smartest strategies for navigating today’s unpredictable market.
