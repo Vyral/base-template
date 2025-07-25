@@ -24,7 +24,7 @@ youtube_code: 6bx0zaOEwMY
 
 I recently had the opportunity to be a panelist on a mindset-focused webinar with Chris Heller, CEO of Movoto. One of the key takeaways I shared came from a simple but powerful question an agent asked me:
 
-"How do you make everything easier for the agents on your team?"
+“How do you make everything easier for the agents on your team?”
 
 Real estate can be unpredictable. Some weeks are packed with appointments, offers, and closings, while others feel slower, regardless of the effort put in. During those slower times, it’s not unusual for agents to feel discouraged or start questioning the tools, the leads, or even the market itself. That’s why our focus is always on ensuring agents have the proper support, the right perspective, and the structure they need to stay productive and confident, regardless of the market conditions.
 
