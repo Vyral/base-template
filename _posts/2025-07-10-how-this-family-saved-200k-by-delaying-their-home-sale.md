@@ -23,7 +23,7 @@ youtube_code: k5q35Os5D54
 
 {% include excerpt.html %}
 
-When a parent needs assisted living, many families feel pressure to sell the home right away. It seems like the only option, especially when there are no savings to cover the care. But selling too soon can cost your family more than you realize. Today, I'll share with you how I helped a family save $200,000 in taxes by waiting to sell their mom's home.
+When a parent needs assisted living, many families feel pressure to sell the home right away. It seems like the only option, especially when there are no savings to cover the care. But selling too soon can cost your family more than you realize. Today, I’ll share with you how I helped a family save $200,000 in taxes by waiting to sell their mom’s home.
 
 **The situation.** A family I recently worked with was in this exact situation. Their mom was living alone and could no longer manage on her own. She needed assisted living, but she didn’t have much in the bank. Almost all of her money was tied up in her home, which she had bought for $50,000 decades ago. Today, the house is worth $950,000.
 
@@ -37,4 +37,4 @@ But if the family waited until after her passing, they could avoid the tax altog
 
 The family took out a short-term loan to cover the next few months of care. It cost around $15,000, but it saved them close to $200,000 in taxes. Mom passed soon after. The home was sold. The equity stayed in the family.
 
-This is why it’s crucial to have a trusted team—a real estate agent, an estate attorney, and a CPA who can help you think through both the emotional and financial sides of a decision like this. Before selling a family home, take a moment to consider all your options. It could make a big difference in what you’re able to keep for your parents’ care and your family’s future. If you'd like to discuss a situation like this, feel free to call or text me at [**<u>626-408-2890</u>**](tel:6264082890) or email me at [**<u>daveknight@kw.com</u>**](mailto:daveknight@kw.com). I’m here to help you explore your options to make the best decision for your property.
+This is why it’s crucial to have a trusted team—a real estate agent, an estate attorney, and a CPA who can help you think through both the emotional and financial sides of a decision like this. Before selling a family home, take a moment to consider all your options. It could make a big difference in what you’re able to keep for your parents’ care and your family’s future. If you’d like to discuss a situation like this, feel free to call or text me at [**<u>626-408-2890</u>**](tel:6264082890) or email me at [**<u>daveknight@kw.com</u>**](mailto:daveknight@kw.com). I’m here to help you explore your options to make the best decision for your property.
