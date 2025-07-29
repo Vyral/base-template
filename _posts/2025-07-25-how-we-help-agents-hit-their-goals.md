@@ -21,7 +21,7 @@ youtube_code: xkEy7-A4d9M
 
 What really separates agents who thrive from those who stall out? It’s not luck, hustle, or even years in the business. It comes down to one simple standard we’ve set for our team—something clear, consistent, and proven to move the needle: selling two homes per month. That’s our baseline.
 
-If you’re meeting it, we know you’re doing the right things to grow your business. But if you’re not there yet, that’s our cue to dig in, find the gap, and help you close it. Here’s how we set the standards for our agents…
+If you’re meeting it, we know you’re doing the right things to grow your business. But if you’re not there yet, that’s our cue to dig in, find the gap, and help you close it. Here’s how we set the standards for our agents:
 
 **We measure results, not just activity.** Some teams obsess over daily call logs and micromanage every metric. We don’t. If you’re producing, we trust the process is working. We care more about outcomes than checking boxes. But when the numbers dip below that two-deal mark, we pay attention. That’s when we sit down together, review your schedule, lead flow, and daily habits, and create a plan that’s actually doable.
 
@@ -35,4 +35,4 @@ What matters is clarity. If you’re ready to grow, we ramp up support. The key 
 
 You won’t be left to figure it out alone or drown in vague advice. Instead, you’ll have structured accountability tailored to your ambitions, not someone else’s template for success.
 
-If you’re ready to be part of a team that sets clear standards, respects your time, and supports your goals with real structure, let’s talk. Contact us at[**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} \*\* \*\* or send an email to [**<u>Misty@BHGInnovations.com</u>**<u>.</u>](mailto:Misty@BHGInnovations.com) Let’s have a conversation about what it would take to reach your next level in real estate, on your terms.
+If you’re ready to be part of a team that sets clear standards, respects your time, and supports your goals with real structure, let’s talk. Contact us at[**(515) 346-6803**](tel:5153466803 "&#40;515&#41; 346-6803"){: target="_blank" rel="noopener"} ** ** or send an email to [**<u>Misty@BHGInnovations.com</u>**<u>.</u>](mailto:Misty@BHGInnovations.com) Let’s have a conversation about what it would take to reach your next level in real estate, on your terms.
