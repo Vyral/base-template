@@ -39,4 +39,4 @@ Here are quick, easy-to-understand steps to navigate the property line dispute:
 
 Transparent communication also encourages smoother outcomes. It not only protects the seller but helps buyers build productive relationships with neighbors, often leading to shared solutions. With proper documentation and clear disclosures, sellers can move forward confidently while giving buyers the clarity they need.
 
-If you’re ready to strategize your home sale or have any questions about the process, don’t hesitate to reach out. Call at [**(626) 408-2890**](tel:&#40;626&#41;%20408-2890) or email [**<u>daveknight@kw.com</u>**](mailto:daveknight@kw.com). I’m happy to assist you!
+If you’re ready to strategize your home sale or have any questions about the process, don’t hesitate to reach out. Call at [**<u>(626) 408-2890</u>**](tel:&#40;626&#41;%20408-2890) or email [**<u>daveknight@kw.com</u>**](mailto:daveknight@kw.com). I’m happy to assist you!
