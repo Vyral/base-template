@@ -36,4 +36,4 @@ While most managers are thorough, it’s always safer if tenants get involved to
 
 If you’re a landlord or tenant starting a new rental, don’t skip this step. Take photos, write down details, and keep your copy somewhere safe. It’s the easiest way to avoid disputes later and make sure everyone knows where things stand from day one.
 
-Do you have questions about property condition forms or want to see how we handle them? Please call us at [**(808) 445-9223**](tel:8084459223) or send a message to **Dkimhan@hipacificpm.com**. You can also visit our website at [**<u>hipacificpm.com</u>**](https://www.hipacificpm.com/). We’re happy to walk you through the process or answer anything you’re unsure about.
+Do you have questions about property condition forms or want to see how we handle them? Please call us at [**(808) 445-9223**](tel:8084459223) or send a message to **info@hipacificpm.com**. You can also visit our website at [**<u>hipacificpm.com</u>**](https://www.hipacificpm.com/). We’re happy to walk you through the process or answer anything you’re unsure about.
