@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/why-landlords-and-tenants-need-a-property-condition-form.jpg
-youtube_code: cSEfYh-cBp0
+youtube_code: 7yqruuTiOSQ
 ---
 {% include youtube.html %}
 
