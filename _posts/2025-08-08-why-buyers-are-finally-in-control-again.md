@@ -27,7 +27,7 @@ With more sellers lowering prices and offering perks, buyers aren’t just getti
 
 **1\. Largest discounts in two years.** If you’re looking for hard data, here it is: According to Redfin, the typical U.S. home now sells for about *1\.8% below the list price*, the biggest average discount in almost two years. In January 2025, the average closing time for a home reached 56 days, which is the longest January on record since 2020. That’s not a fluke; it’s a clear sign that the market is shifting in favor of buyers.
 
-**2\. Inventory surge fuels buyer leverage.** Another key factor is inventory. New listings jumped between 4.7% and 8.4% year-over-year in early 2025, sending the months-of-supply up to five ** ** months, which is the highest level since before the pandemic. When there’s more supply and less demand, buyers can afford to be pickier and negotiate harder.
+**2\. Inventory surge fuels buyer leverage.** Another key factor is inventory. New listings jumped between 4.7% and 8.4% year-over-year in early 2025, sending the months-of-supply up to five \*\* \*\* months, which is the highest level since before the pandemic. When there’s more supply and less demand, buyers can afford to be pickier and negotiate harder.
 
 Many sellers now are people who locked in super-low mortgage rates during the pandemic and are finally deciding to move, which adds even more inventory to the market. Even as demand has cooled, supply continues to grow, making it the perfect storm for buyers looking for a deal.
 
