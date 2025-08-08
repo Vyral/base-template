@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Buyers Are Finally in Control Again
-date:
+date: 2025-08-07 00:00:00
 tags:
 excerpt:
 enclosure:
