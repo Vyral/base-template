@@ -29,7 +29,7 @@ Here are some key expenses you should be aware of if you’re considering buying
 
 **1\. Closing costs.** Most buyers have heard of closing costs, but often underestimate them. In 2025, expect to pay [between 2% and 5%](https://www.zillow.com/learn/closing-costs/) of the purchase price at closing. This covers lender fees, appraisals, title insurance, attorney charges, escrow setup, you name it. For a $400,000 home, that could be between $8,000 and $20,000. Ask your lender for a detailed breakdown early so you can plan accordingly.
 
-**2\. Prepaids and escrow accounts.** Lenders typically require you to prepay several months’ worth of homeowners' insurance and property taxes before closing. This isn't optional and often isn't included in your “down payment” estimate. Depending on where you live, this could mean thousands upfront. In high-risk areas, like flood zones, insurance costs can be even higher.
+**2\. Prepaids and escrow accounts.** Lenders typically require you to prepay several months’ worth of homeowners’ insurance and property taxes before closing. This isn’t optional and often isn’t included in your “down payment” estimate. Depending on where you live, this could mean thousands upfront. In high-risk areas, like flood zones, insurance costs can be even higher.
 
 {% include pullquote.html %}
 
