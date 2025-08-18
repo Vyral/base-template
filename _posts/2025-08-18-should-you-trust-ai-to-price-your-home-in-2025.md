@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/should-you-use-ai-to-price-your-home-in-2025-4.jpg
-youtube_code: 9AsU69UQOd8
+youtube_code: altCRS8kwvs
 ---
 {% include youtube.html %}
 
