@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-steps-to-prepare-your-twin-cities-home-for-sale-this-fall.jpg
-youtube_code: B-cA6gxu9B4
+youtube_code: RqykIA_77_I
 ---
 {% include youtube.html %}
 
