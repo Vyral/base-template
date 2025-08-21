@@ -17,7 +17,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt.png
 youtube_code:
 ---
-![](/uploads/misty-darling-rec-price-reductions-pt.png){: width="640"}
+![](/uploads/misty-darling-rec-price-reductions-pt.png){: width="960"}
 
 {% include excerpt.html %}
 
