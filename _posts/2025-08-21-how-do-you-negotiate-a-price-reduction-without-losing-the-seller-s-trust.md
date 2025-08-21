@@ -17,7 +17,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt.png
 youtube_code:
 ---
-![How Do You Negotiate a Price Reduction Without Losing the Seller’s Trust?](/uploads/misty-darling-rec-price-reductions-pt.png "How Do You Negotiate a Price Reduction Without Losing the Seller’s Trust?")
+![](/uploads/misty-darling-rec-price-reductions-pt.png){: width="640"}
 
 {% include excerpt.html %}
 
