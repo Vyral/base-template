@@ -13,7 +13,7 @@ pullquote: >-
   on the bigger picture.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt.png
 youtube_code:
 ---
