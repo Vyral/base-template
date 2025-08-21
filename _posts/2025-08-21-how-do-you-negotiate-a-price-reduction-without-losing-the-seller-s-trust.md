@@ -17,8 +17,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt.png
 youtube_code:
 ---
-![](/uploads/misty-darling-rec-price-reductions-pt.png){: width="960"}
-
 {% include excerpt.html %}
 
 Are you nervous about discussing price reductions with your seller? I know that this is one of the most uncomfortable conversations to have in real estate. You don’t want to lose their trust, seem like you misjudged the market, or worse, risk losing the listing. But in 2025, staying silent can cost you more than having the tough conversation.
