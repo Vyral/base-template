@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt.png
+youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt-1.png
 youtube_code:
 ---
 {% include excerpt.html %}
