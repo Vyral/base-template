@@ -23,13 +23,13 @@ youtube_code: eFgtg0iXsRY
 
 {% include excerpt.html %}
 
-If a loved one passed away in the home and you're preparing to sell the property, you may be wondering if that needs to be disclosed to buyers. This is a very common question, especially when a family member steps in as a successor trustee or administrator of the estate. The answer is yes, in some cases, you do need to disclose the death.
+If a loved one passed away in the home and you’re preparing to sell the property, you may be wondering if that needs to be disclosed to buyers. This is a very common question, especially when a family member steps in as a successor trustee or administrator of the estate. The answer is yes, in some cases, you do need to disclose the death.
 
 **If the person passed away inside the home within the last three years, you are legally required to disclose that to potential buyers.** This requirement appears on the standard disclosure forms used in real estate transactions. There’s a specific question that asks whether an occupant has died on the property in the last three years. If the answer is yes, you’ll need to include the date of death and the cause of death. These details can usually be found on the death certificate.
 
 **If the death occurred more than three years ago, you are not legally required to disclose it.** However, if a buyer asks, it is still wise to be upfront and honest. Many sellers choose to share the information anyway to avoid any potential issues later in the transaction.
 
-**This type of disclosure is typical and happens more often than people think.** It is part of a seller's legal responsibility and helps maintain transparency in the sale. Whether you are stepping in as a trustee or handling the estate as an administrator, ensuring accurate completion of all required disclosures is an essential part of the process.
+**This type of disclosure is typical and happens more often than people think.** It is part of a seller’s legal responsibility and helps maintain transparency in the sale. Whether you are stepping in as a trustee or handling the estate as an administrator, ensuring accurate completion of all required disclosures is an essential part of the process.
 
 {% include pullquote.html %}
 
