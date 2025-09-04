@@ -22,7 +22,7 @@ youtube_code: 1O0nWKDphM8
 
 {% include excerpt.html %}
 
-Does the thought of a property inspection feel like a hassle? You might feel like skipping property walkthroughs, but they're one of the smartest habits landlords can have. They provide peace of mind, ensure tenants stay accountable, and stop minor issues from growing into costly repairs.
+Does the thought of a property inspection feel like a hassle? You might feel like skipping property walkthroughs, but they’re one of the smartest habits landlords can have. They provide peace of mind, ensure tenants stay accountable, and stop minor issues from growing into costly repairs.
 
 **What is a walkthrough?** It is a routine check of a rental property. The goal is to confirm that the home is in the same condition as when it was leased, note any necessary repairs, and ensure that move-ins and move-outs proceed smoothly.
 
