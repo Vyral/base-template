@@ -22,8 +22,6 @@ youtube_code: 1O0nWKDphM8
 
 {% include excerpt.html %}
 
-{%include author-box.html%}
-
 Does the thought of a property inspection feel like a hassle? You might feel like skipping property walkthroughs, but they're one of the smartest habits landlords can have. They provide peace of mind, ensure tenants stay accountable, and stop minor issues from growing into costly repairs.
 
 **What is a walkthrough?** It is a routine check of a rental property. The goal is to confirm that the home is in the same condition as when it was leased, note any necessary repairs, and ensure that move-ins and move-outs proceed smoothly.
@@ -43,5 +41,3 @@ Walkthroughs are more than a manager’s inspection. **They’re also an opportu
 Skipping walkthroughs can lead to expensive surprises. A small leak left unnoticed, for example, can cause major water damage. By catching issues early, landlords save time, money, and frustration while tenants enjoy a safer, well-maintained home.
 
 If you have any questions about walkthroughs or would like to know how we handle them, please call us at [**(808) 445-9223**](tel:8084459223) or send a message to [**info@hipacificpm.com**](mailto:info@hipacificpm.com). You can also visit our website at[**<u>hipacificpm.com</u>**](https://www.hipacificpm.com/). We’re here to help.
-
-{%include cta-content-box.html%}
