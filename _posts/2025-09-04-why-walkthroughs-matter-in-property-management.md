@@ -40,4 +40,4 @@ Walkthroughs are more than a manager’s inspection. **They’re also an opportu
 
 Skipping walkthroughs can lead to expensive surprises. A small leak left unnoticed, for example, can cause major water damage. By catching issues early, landlords save time, money, and frustration while tenants enjoy a safer, well-maintained home.
 
-If you have any questions about walkthroughs or would like to know how we handle them, please call us at [**(808) 445-9223**](tel:8084459223) or send a message to [**info@hipacificpm.com**](mailto:info@hipacificpm.com). You can also visit our website at[**<u>hipacificpm.com</u>**](https://www.hipacificpm.com/). We’re here to help.
+If you have any questions about walkthroughs or would like to know how we handle them, please call us at [**(808) 445-9223**](tel:8084459223) or send a message to [**info@hipacificpm.com**](mailto:info@hipacificpm.com). You can also visit our website at [**<u>hipacificpm.com</u>**](https://www.hipacificpm.com/). We’re here to help.
