@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Negotiate a Home Price Drop Without Losing the Sellers Trust
-date: 2025-09-22 00:00:00
+date: 2025-09-22 07:00:00
 tags:
   - Home Seller Tips
 excerpt:
