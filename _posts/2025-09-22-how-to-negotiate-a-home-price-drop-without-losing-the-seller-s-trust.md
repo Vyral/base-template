@@ -10,8 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: >-
-  /uploads/how-to-negotiate-a-home-price-drop-without-losing-the-seller-s-trust.jpg
+youtube_alternate_image: /uploads/how-to-negotiate-a-home-price-drop-without-losing-the-seller-s-trust.jpg
 youtube_code: 3qn796VSEfg
 ---
 {% include youtube.html %}
