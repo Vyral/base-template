@@ -11,12 +11,10 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/misty-darling-rec-price-reductions-pt-2.png
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
+&nbsp;
 
 Artificial intelligence isn’t a future trend in real estate; it’s the present reality. In 2025, AI is already transforming how agents generate leads, price homes, write listing descriptions, manage clients, and even negotiate deals. So the real question isn’t if AI will change your business, it’s how you’re going to respond to it.
 
