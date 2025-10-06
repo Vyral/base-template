@@ -39,6 +39,6 @@ For buyers, the change isn’t dramatic, but even a small shift can expand optio
 
 For now, stay informed, weigh your timing carefully, and consider whether today’s modest improvements align with your financial goals.
 
-If you have questions about how the Fed’s moves could affect your mortgage or refinancing options, reach out to [**<u>(502) 376-5483</u>**<u> </u>](tel:&#40;502&#41;%20376-5483)or email [Bob@weselllouisville.com](mailto:Bob@weselllouisville.com).
+If you have questions about how the Fed’s moves could affect your mortgage or refinancing options, reach out to [**<u>(502) 376-5483</u>**<u> </u>](tel:5023765483){: target="_blank" rel="noopener"}or email [**Bob@weselllouisville.com**](mailto:Bob@weselllouisville.com).
 
 You can also tune into my radio show on 840 WHAS every Sunday morning from 8:30 a.m. to 9:00 a.m., where we cover rates, the buyer market, and answer your questions live. I’m always happy to walk you through the numbers and help you figure out the best timing for your situation.
