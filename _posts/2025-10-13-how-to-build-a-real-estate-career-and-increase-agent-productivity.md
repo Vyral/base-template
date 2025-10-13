@@ -19,16 +19,10 @@ youtube_code:
 <section class="podcast-section">
   <h2>🎧 Listen to Our Latest Episode</h2>
   <p>Catch this week’s conversation with Misty Darling on the secrets to high agent productivity.</p>
-  
+
   <div class="podcast-embed">
-    <iframe 
-      allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
-      frameborder="0"
-      height="175"
-      style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-      sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-      src="https://embed.podcasts.apple.com/us/podcast/misty-darling-the-secrets-to-high-agent-productivity/id1589859227?i=1000730590520">
-    </iframe>
+    <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/misty-darling-the-secrets-to-high-agent-productivity/id1589859227?i=1000730590520">
+    </iframe><p></p>
   </div>
 </section>
 
@@ -62,6 +56,7 @@ youtube_code:
 }
 </style>
 
+&nbsp;
 
 {% include excerpt.html %}
 
