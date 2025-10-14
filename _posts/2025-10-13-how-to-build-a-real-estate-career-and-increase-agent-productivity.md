@@ -56,12 +56,6 @@ youtube_code:
 }
 </style>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 {% include excerpt.html %}
 
 Misty Featured on the BuiltHow Podcast!
@@ -69,6 +63,13 @@ Misty Featured on the BuiltHow Podcast!
 We’re excited to share that Misty Darling, Founder and Team Leader of the Misty SOLD Team with Better Homes and Gardens Real Estate Innovations, was recently featured on the BuiltHow Podcast!
 
 In this inspiring episode, Misty opens up about her real estate journey, from her early days as a solo agent to building a highly productive team of sales professionals powered by strong systems, operations, and leverage.
+
+<button 
+  onclick="window.open('https://mistysoldteam.as.me/schedule/6cf59114/?calendarIds=11920127', '_blank')" 
+  style="background-color:#007BFF; color:white; border:none; padding:10px 20px; border-radius:8px; cursor:pointer; font-size:16px;">
+  Book an Appointment
+</button>
+
 
 She shares the real story behind her success: the bumps, lessons, and breakthroughs along the way. Whether you’re a team leader, aspiring agent, or entrepreneur, this episode offers valuable insight into what it takes to build a scalable, sustainable business without losing your passion or people-first culture.
 
