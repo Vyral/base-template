@@ -73,6 +73,15 @@ In this inspiring episode, Misty opens up about her real estate journey, from he
   </button>
 
 
+<div style="text-align:center; margin-top:20px;">
+  <button 
+    onclick="window.open('https://mistysoldteam.as.me/schedule/6cf59114/?calendarIds=11920127', '_blank')" 
+    style="background-color:#007BFF; color:white; border:none; padding:10px 20px; border-radius:8px; cursor:pointer; font-size:16px;">
+    Book an Appointment
+  </button>
+</div>
+
+
 She shares the real story behind her success: the bumps, lessons, and breakthroughs along the way. Whether you’re a team leader, aspiring agent, or entrepreneur, this episode offers valuable insight into what it takes to build a scalable, sustainable business without losing your passion or people-first culture.
 
 Listen now to hear Misty’s journey and how she built a thriving team built on trust, accountability, and continuous improvement.
