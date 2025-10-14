@@ -67,7 +67,7 @@ We’re excited to share that Misty Darling, Founder and Team Leader of the Mist
 In this inspiring episode, Misty opens up about her real estate journey, from her early days as a solo agent to building a highly productive team of sales professionals powered by strong systems, operations, and leverage.
 
 
-<div style="text-align:center; margin-top:20px;">
+<div style="text-align:center;">
   <button 
     onclick="window.open('https://mistysoldteam.as.me/schedule/6cf59114/?calendarIds=11920127', '_blank')" 
     style="background-color:#44963c; color:white; border:none; padding:10px 20px; border-radius:8px; cursor:pointer; font-size:16px;">
