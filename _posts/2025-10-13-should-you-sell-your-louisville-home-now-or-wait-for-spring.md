@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/should-you-sell-your-louisville-home-now-or-wait-for-spring.jpg
-youtube_code:
+youtube_code: gJveQosk0Gc
 ---
 {% include youtube.html %}
 
