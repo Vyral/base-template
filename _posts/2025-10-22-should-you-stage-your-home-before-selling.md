@@ -19,8 +19,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/jesse-myles-should-you-stage-your-home-before-selling.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 One of the most common questions I hear from homeowners is, *“Should I stage my home before putting it on the market?”* The honest answer? It depends.
