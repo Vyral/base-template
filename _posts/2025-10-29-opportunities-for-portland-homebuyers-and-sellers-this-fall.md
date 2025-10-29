@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/why-fall-is-the-best-time-to-sell-a-home-in-portland-1.jpg
 youtube_code: 1s4cWbyTpF8
 ---
 {% include youtube.html %}
