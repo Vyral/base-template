@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'What To Know About Minnesota’s Mortgage Rate Dip This Fall '
-date: 2025-10-28 00:00:00
+title: >-
+  (CORE) Chad Huebener | Lender Series with Shane Hofmann - Are mortgage rates
+  finally going down?
+date: 2025-10-29 00:00:00
 tags:
   - Real Estate
 excerpt: >-
