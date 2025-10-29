@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  (CORE) Chad Huebener | Lender Series with Shane Hofmann - Are mortgage rates
-  finally going down?
+title: Lender Series with Shane Hofmann - Are mortgage rates finally going down?
 date: 2025-10-29 00:00:00
 tags:
   - Real Estate
