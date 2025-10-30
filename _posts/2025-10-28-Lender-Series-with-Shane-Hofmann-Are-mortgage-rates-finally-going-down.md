@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lender Series with Shane Hofmann - Are mortgage rates finally going down?
-date: 2025-10-29 00:00:00
+title: LENDER SERIES with Shane Hofmann - Are mortgage rates finally going down?
+date: 2025-10-30 00:00:00
 tags:
   - Real Estate
 excerpt: >-
