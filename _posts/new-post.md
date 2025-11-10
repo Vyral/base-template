@@ -37,4 +37,4 @@ If rates ever do drop meaningfully, demand will likely surge, and we’ll be bac
 
 If you’d like to talk about how today’s rates affect your buying power, let’s sit down for a quick strategy session. We can look at your goals, current loan options, and the best way to make your next move in this market.
 
-Visit [**AskSarita.com**](http://asksarita.com) ** ** or contact me directly at [**(503) 522-0090**](tel:5035220090), email me at [**sarita@asksarita.com**](mailto:sarita@asksarita.com) to schedule your session. I’m always here to help you plan with confidence.
+Visit [**AskSarita.com**](http://asksarita.com) \*\* \*\* or contact me directly at [**(503) 522-0090**](tel:5035220090), email me at [**sarita@asksarita.com**](mailto:sarita@asksarita.com) to schedule your session. I’m always here to help you plan with confidence.
