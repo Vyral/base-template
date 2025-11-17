@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LENDER SERIES WITH CHRIS SAFE: Expert Tips to Stay Ahead in This Market'
+title: 'LENDER SERIES with Chris Safe: Expert tips to stay ahead in this market'
 date: 2025-11-17 00:00:00
 tags:
   - Real Estate
