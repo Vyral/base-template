@@ -21,7 +21,7 @@ youtube_code: 30egZ3oWDDc
 
 As we head into Thanksgiving, I want to share something simple and from the heart. I’m grateful for you.
 
-**I’m truly thankful for your business and friendship.** Whether you're one of our past clients, a trusted partner or vendor, a current client, or a future client, I’m incredibly grateful to assist you with one of the biggest real estate decisions of your life.
+**I’m truly thankful for your business and friendship.** Whether you’re one of our past clients, a trusted partner or vendor, a current client, or a future client, I’m incredibly grateful to assist you with one of the biggest real estate decisions of your life.
 
 Every message, every referral, every conversation, it all matters.
 
