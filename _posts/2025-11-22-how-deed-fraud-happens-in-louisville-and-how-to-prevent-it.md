@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-deed-fraud-happens-in-louisville-and-how-to-prevent-it.jpg
-youtube_code: v7iCQR5cnEU
+youtube_code: dwQkxgiy-Ew
 ---
 {% include youtube.html %}
 
