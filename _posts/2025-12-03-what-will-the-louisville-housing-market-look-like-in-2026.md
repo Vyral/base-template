@@ -25,7 +25,7 @@ Are you starting to wonder what the housing market will look like next year? In 
 
 After reviewing current trends and expert forecasts, I noted three key trends that I believe could shape real estate in 2026:
 
-**1\. Modest growth, not wild swings in home prices.** Don’t expect big drops or jumps. According to Zillow, home prices are expected to rise about 0.4% nationwide from mid-2025 through mid-2026. That’s a slower pace than we've seen in the past few years, but still a sign of steady movement rather than a freeze.
+**1\. Modest growth, not wild swings in home prices.** Don’t expect big drops or jumps. According to Zillow, home prices are expected to rise about 0.4% nationwide from mid-2025 through mid-2026. That’s a slower pace than we’ve seen in the past few years, but still a sign of steady movement rather than a freeze.
 
 In some areas, prices may even cool slightly, especially where affordability has become a challenge. But in growing metros and popular suburban areas, demand remains strong enough to keep values up. The key takeaway? We’re heading toward a more stable market, not a sharp correction or sudden spike.
 
@@ -45,4 +45,4 @@ If supply grows while demand remains steady, buyers could finally regain some le
 
 **Fair forecast.** The 2026 housing market won’t look like the past few years, and that’s a good thing. We’re likely headed into a period of more balance, where buyers and sellers both have room to act. The key will be understanding your timing, your local market, and how national trends might shape your next move.
 
-If you're planning to buy or sell in 2026, now’s the time to start preparing. Let’s talk about what makes the most sense for you. Call, text, or message me anytime for a free consultation. I’m here to help.
+If you’re planning to buy or sell in 2026, now’s the time to start preparing. Let’s talk about what makes the most sense for you. Call, text, or message me anytime for a free consultation. I’m here to help.
