@@ -18,6 +18,8 @@ youtube_code: 3dMAY_kEdnI
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 When is the best time to rent a home in Aiea? If you’re thinking about moving or renting out a property, timing could make a big difference. The truth is, some months are much better than others for finding a place or filling a vacancy. And in areas with a strong military presence, like ours, this timing can be even more critical.
 
 **The best and worst months to rent.** The best months to rent are between April and August. Why? That’s when many military families move in and out during what’s called PCS season (Permanent Change of Station). It’s the busiest time for people moving in and out of homes, so there are more rentals available and more people looking. This gives renters more choices and landlords a better chance to fill their properties quickly.
