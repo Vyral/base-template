@@ -18,6 +18,8 @@ youtube_code: e5rDxmKKGFM
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 When tenants prepare to move out, most property owners want one thing: *to fill that vacancy fast.* It’s natural to think that advertising early will save time. But in reality, listing your property too soon can cause unnecessary stress.
 
 Here’s why:
