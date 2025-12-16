@@ -23,6 +23,6 @@ I’ve been in real estate for over 22 years, and for at least 15 of those, I’
 
 From all of us on the team: may your home be filled with joy, laughter, and plenty of time with the people who matter most. This season always reminds us to slow down, appreciate what we have, and look ahead with hope.
 
-And as always, if you need anything, feel free to reach out at [**(503) 522-0090**](tel:5035220090){: target="_blank" rel="noopener"} ** ** or [**sarita@asksarita.com**](mailto:sarita@asksarita.com){: target="_blank" rel="noopener"}, whether it’s a quick real estate question or some guidance as you plan for the new year, we’re here for you.
+And as always, if you need anything, feel free to reach out at [**(503) 522-0090**](tel:5035220090){: target="_blank" rel="noopener"} or [**sarita@asksarita.com**](mailto:sarita@asksarita.com){: target="_blank" rel="noopener"}, whether it’s a quick real estate question or some guidance as you plan for the new year, we’re here for you.
 
 Wishing you the happiest holidays and an amazing year to come!
