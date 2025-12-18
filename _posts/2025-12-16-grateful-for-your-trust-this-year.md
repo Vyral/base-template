@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grateful for Your Trust This Year
-date: 2025-12-16 00:00:00
+date: 2025-12-29 00:00:00
 tags:
   - Real Estate
 excerpt: Your trust made this year meaningful. Wishing you a peaceful holiday.
@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/chad-huebener-thank-you-december.jpg
+youtube_alternate_image: /uploads/chad-huebener-thank-you-december-1.jpg
 youtube_code: LbV2NSpJlK8
 ---
 {% include youtube.html %}
