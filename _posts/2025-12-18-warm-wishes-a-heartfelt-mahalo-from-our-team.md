@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/holiday-duke.jpg
 youtube_code:
 ---
-![](/uploads/holiday-duke-1.jpg){: width="1280" height="720"}
+![](/uploads/holiday-duke-1.jpg){: style="width: 100%; text-align: center;"}
 
 {% include excerpt.html %}
 
