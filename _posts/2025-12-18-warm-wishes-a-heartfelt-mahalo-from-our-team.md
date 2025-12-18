@@ -25,7 +25,7 @@ Whether you are a property owner who trusted us with your investment, a tenant w
 
 Property management is not just about systems and schedules. It is about people. It is about clear communication, follow-through, and showing up when it matters.
 
-We know that being a property owner comes with its share of responsibilities, which is why we take pride in handling the "landlord nightmares" for you. From midnight maintenance calls to rigorous tenant screenings, our team has worked tirelessly seven days a week to ensure your properties are cared for as if they were our own.
+We know that being a property owner comes with its share of responsibilities, which is why we take pride in handling the “landlord nightmares” for you. From midnight maintenance calls to rigorous tenant screenings, our team has worked tirelessly seven days a week to ensure your properties are cared for as if they were our own.
 
 The holiday season is a good time to pause, recharge, and reflect on what was accomplished. It is also a chance to reset and prepare for the year ahead with clear priorities and steady plans.
 
