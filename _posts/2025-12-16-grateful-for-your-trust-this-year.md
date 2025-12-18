@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grateful for Your Trust This Year
-date: 2025-12-29 00:00:00
+date: 2025-12-18 00:00:00
 tags:
   - Real Estate
 excerpt: Your trust made this year meaningful. Wishing you a peaceful holiday.
