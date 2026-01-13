@@ -39,9 +39,9 @@ Here are three key insights you should know:
 
 {% include pullquote.html %}
 
-When competition is low, quality homes have the opportunity to stand out. In contrast, a crowded market can cause even excellent properties to get overlooked. Therefore, if you're ready to sell, the best time might be right now.
+When competition is low, quality homes have the opportunity to stand out. In contrast, a crowded market can cause even excellent properties to get overlooked. Therefore, if you’re ready to sell, the best time might be right now.
 
-**2\. Follow your local market.** National news talks a lot about mortgage rates and trends, but it's your local neighborhood that tells the real story. Some areas are heating up due to job growth, new development, or migration, while others may be cooling down as inventory builds.
+**2\. Follow your local market.** National news talks a lot about mortgage rates and trends, but it’s your local neighborhood that tells the real story. Some areas are heating up due to job growth, new development, or migration, while others may be cooling down as inventory builds.
 
 To identify your ideal selling window, pay attention to:
 
@@ -55,7 +55,7 @@ To identify your ideal selling window, pay attention to:
 
 In 2026, local data trumps the generalized idea that “spring is best” every time.
 
-**3\. Strategic pricing beats perfect timing.** Homebuyers are more selective and value-conscious. They're comparing homes, scrutinizing conditions, and waiting for the right value. This means a well-priced listing in January often performs better than an overpriced listing in April. To succeed, focus on:
+**3\. Strategic pricing beats perfect timing.** Homebuyers are more selective and value-conscious. They’re comparing homes, scrutinizing conditions, and waiting for the right value. This means a well-priced listing in January often performs better than an overpriced listing in April. To succeed, focus on:
 
 ● Strong pricing
 
@@ -67,6 +67,6 @@ In 2026, local data trumps the generalized idea that “spring is best” every 
 
 That combination works well at any time of the year, and right now, it may be even more effective.
 
-If you're thinking about selling in 2026, now is the perfect time to start planning. I’d be happy to walk you through your market, your options, and the smartest timing based on your goals.
+If you’re thinking about selling in 2026, now is the perfect time to start planning. I’d be happy to walk you through your market, your options, and the smartest timing based on your goals.
 
 Feel free to call, message, or email me to schedule a free one-on-one strategy call. I’m here to help.
