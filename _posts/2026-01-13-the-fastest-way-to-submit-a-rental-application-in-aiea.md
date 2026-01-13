@@ -25,7 +25,7 @@ Did you know there’s a faster way to apply for a rental today? If you’re sti
 
 At Pacific Property Management, we’ve simplified the application process so renters like you can get started right away.
 
-Instead of driving around or dealing with paperwork, all you need to do is [**visit our website**](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUEzMHdWcVhGY2xzOElheHJZQTBhYVZiQVBEUXxBQ3Jtc0trYVlUS3E1eVFlRVlzRUFoNXg3M1pEVmhVT1pfUlpCV09waU91ZUNxM3pVckE4NWR1ZUJJNUdvbW0wUWFzLTExUXN2T1NIX1lWNjQwSnFvaUdHSnZUcDgxMHhIZlJPQ2JkTFg2TnRKZ2xzbDdtY09nWQ&amp;q=https%3A%2F%2Fwww.hipacificpm.com%2Frent-guarantee&amp;v=ZhH1NC4bo-U) and click on the "*Rentals*" tab. From there, just pick the property you’re interested in and click “*Apply*.”
+Instead of driving around or dealing with paperwork, all you need to do is [**visit our website**](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUEzMHdWcVhGY2xzOElheHJZQTBhYVZiQVBEUXxBQ3Jtc0trYVlUS3E1eVFlRVlzRUFoNXg3M1pEVmhVT1pfUlpCV09waU91ZUNxM3pVckE4NWR1ZUJJNUdvbW0wUWFzLTExUXN2T1NIX1lWNjQwSnFvaUdHSnZUcDgxMHhIZlJPQ2JkTFg2TnRKZ2xzbDdtY09nWQ&amp;q=https%3A%2F%2Fwww.hipacificpm.com%2Frent-guarantee&amp;v=ZhH1NC4bo-U) and click on the “*Rentals*” tab. From there, just pick the property you’re interested in and click “*Apply*.”
 
 Everything is done online, without the need for any printing, scanning, or faxing. It’s fast, secure, and easy to use.
 
