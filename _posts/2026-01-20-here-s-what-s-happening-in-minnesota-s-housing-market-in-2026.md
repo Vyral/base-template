@@ -47,4 +47,4 @@ Selling your home doesn’t have to feel overwhelming. With the right preparatio
 
 If you’re considering a move this spring or later this year and have questions about timing, preparation, or what the market may mean for your situation, feel free to call or text us at [**<u>952-212-3597</u>**](tel:9522123597) or email us at [**<u>ChadandSara@edinarealty.com</u>**](mailto:ChadandSara@edinarealty.com).
 
-We're here to help you make informed decisions and position yourself for a smoother, more confident sale.
+We’re here to help you make informed decisions and position yourself for a smoother, more confident sale.
