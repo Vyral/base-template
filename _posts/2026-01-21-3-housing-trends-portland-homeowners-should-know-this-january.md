@@ -19,9 +19,9 @@ youtube_code: FnvT1Koo95c
 
 {% include excerpt.html %}
 
-Ever wondered why the real estate market seems to be buzzing in January, even when most people assume it’s a slow month? If you're considering buying or selling a home, you're in the right place!
+Ever wondered why the real estate market seems to be buzzing in January, even when most people assume it’s a slow month? If you’re considering buying or selling a home, you’re in the right place!
 
-I've been closely watching market trends and analyzing data. Based on previous data I’ve seen, this January stands out with more activity than I’ve seen. Let’s dive into the reasons behind this surge.
+I’ve been closely watching market trends and analyzing data. Based on previous data I’ve seen, this January stands out with more activity than I’ve seen. Let’s dive into the reasons behind this surge.
 
 **1\. Mild weather makes a difference.** We’ve been blessed with a mild January here in the Portland area. With temperatures hovering around 50 degrees and little to no rain, it’s actually a great time to be out house hunting.
 
