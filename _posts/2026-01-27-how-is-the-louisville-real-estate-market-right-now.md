@@ -60,6 +60,6 @@ AI provides data, but a trusted local agent provides strategy, context, and nego
 
 After several years of uncertainty, the 2026 housing market in Louisville and Southern Indiana is settling into a clearer, more predictable pattern. Rates are easing, inventory is improving, and buyer and seller expectations are becoming more defined.
 
-If you want a personalized breakdown of how these trends apply to your neighborhood, I’m here to help. Whether you're buying, selling, refinancing, or planning ahead, I can walk through your options so you feel confident about your next move.
+If you want a personalized breakdown of how these trends apply to your neighborhood, I’m here to help. Whether you’re buying, selling, refinancing, or planning ahead, I can walk through your options so you feel confident about your next move.
 
 Feel free to call or text at [**(502) 376-5483**](tel:&#40;502&#41;%20376-5483){: target="_blank" rel="noopener"}, or email [**Bob@weselllouisville.com**](mailto:Bob@weselllouisville.com){: target="_blank" rel="noopener"} to schedule a free one-on-one strategy session. I’ll review your numbers, timing, and local market to help you make informed decisions with confidence.
