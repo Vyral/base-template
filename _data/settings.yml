@@ -123,7 +123,7 @@ images:
   logo_width_number: 70
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/bob-sokoler-hero-banner.webp
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#360346'
