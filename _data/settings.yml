@@ -16,7 +16,7 @@ client:
   about_markdown: >-
     Bob Sokoler is the owner of The Sokoler Team at RE/MAX Properties East in
     Louisville, Kentucky, which has ranked No. 1 in the city for sales volume
-    Six years in a row\! His team sold more than 404 homes in 2016 and more than
+    Six years in a row! His team sold more than 404 homes in 2016 and more than
     340 properties in 2015.
 
 
@@ -30,7 +30,7 @@ client:
     City, and WYRT-TV in Flint, Michigan.
   market: Louisville
   brand: The Sokoler Team
-  brokerage: RE/MAX Properties East
+  brokerage: simpler.realestate
   address: 10 525 Timber Wood Cir. Louisville, KY 40223
   phone: 502-376-5483
   phone_type:
