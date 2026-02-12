@@ -21,7 +21,7 @@ youtube_code: JNykQsXSXHM
 
 Is renting always a bad financial move, or are there times when it is actually the smarter choice?
 
-Many people, particularly younger renters, tell me they are firm on renting and not interested in buying right now. They often assume that because I'm a Realtor, I’m going to try to talk them out of renting. But the truth is, there are plenty of situations where renting makes more sense.
+Many people, particularly younger renters, tell me they are firm on renting and not interested in buying right now. They often assume that because I’m a Realtor, I’m going to try to talk them out of renting. But the truth is, there are plenty of situations where renting makes more sense.
 
 Don’t get me wrong. I’m passionate about building wealth through real estate. There is a saying that you are going to pay a mortgage either way: it’s just a matter of whether it’s your mortgage or your landlord’s. While I am definitely pro-buying, it doesn’t fit every case.
 
@@ -47,4 +47,4 @@ This is where having the right strategy and guidance matters. I work with a netw
 
 Renting does not mean giving up on buying or wealth building. In many cases, it is simply a temporary step that allows you to position yourself more effectively for the future.
 
-If you have questions, I am here to help. Reach out at [(503) 522-0090](tel:5035220090) or [sarita@asksarita.com](mailto:sarita@asksarita.com). You can also visit me at [asksarita.com](http://asksarita.com). We can look at your goals, finances, and options to come up with a strategy that actually fits your life.
+If you have questions, I am here to help. Reach out at [**(503) 522-0090**](tel:5035220090){: target="_blank" rel="noopener"} or [**sarita@asksarita.com**](mailto:sarita@asksarita.com){: target="_blank" rel="noopener"}. You can also visit me at [**asksarita.com**](http://asksarita.com){: target="_blank" rel="noopener"}. We can look at your goals, finances, and options to come up with a strategy that actually fits your life.
