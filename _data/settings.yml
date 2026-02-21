@@ -135,7 +135,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(238, 238, 238, 0.7)
+  shadow_color: '#eeeeee'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -144,5 +144,5 @@ buttons:
   button_background_color: '#ffffff'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: rgba(0, 0, 0, 0)
+  secondary_button_background_color: '#000000'
   secondary_button_text_color: '#ffffff'
