@@ -3,9 +3,11 @@ layout: post
 title: Are Home Prices Finally Coming Down in 2026?
 date: 2026-03-20 05:00:00
 tags:
-excerpt:
+excerpt: Headlines predict a crash, but the data tells a different story.
 enclosure:
-pullquote:
+pullquote: >-
+  Nationally, 2026 is shaping up to be a year of stabilization, not a housing
+  crash.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
