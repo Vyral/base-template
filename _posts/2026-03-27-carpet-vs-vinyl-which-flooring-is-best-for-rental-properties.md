@@ -17,7 +17,7 @@ youtube_code: 0ZBR1HlWGXI
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
 
 Are you trying to choose flooring that saves money while keeping your tenants satisfied? Comparing carpet and vinyl allows you to choose the best option for your rental property.
 
