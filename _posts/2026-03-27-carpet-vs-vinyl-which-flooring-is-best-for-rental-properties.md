@@ -17,6 +17,8 @@ youtube_code: 0ZBR1HlWGXI
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Are you trying to choose flooring that saves money while keeping your tenants satisfied? Comparing carpet and vinyl allows you to choose the best option for your rental property.
 
 **Carpet** is a popular choice because it offers comfort and warmth that hard flooring cannot match. It is also typically more affordable to install, making it a practical option for bedrooms and living areas where comfort matters most.
