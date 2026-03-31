@@ -1,0 +1,14 @@
+source: ''
+paths: {}
+collections_config: {}
+collection_groups:
+_enabled_editors:
+_inputs: {}
+_select_data: {}
+_structures: {}
+_editables: {}
+commit_templates: []
+base_url:
+editor:
+source_editor:
+timezone: Etc/UTC
