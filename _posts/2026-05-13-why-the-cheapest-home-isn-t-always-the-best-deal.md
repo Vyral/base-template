@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'nZ75LRD_VBM '
+youtube_code: nZ75LRD_VBM
 ---
 {% include youtube.html %}
 
