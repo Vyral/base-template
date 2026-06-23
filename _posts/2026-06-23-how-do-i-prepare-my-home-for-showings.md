@@ -21,9 +21,7 @@ youtube_code:
 
 {% include excerpt.html %}
 
-&nbsp;
-
-Most sellers think their home is ready for showings. The kitchen is clean, the beds are made, and it looks fine. But “fine” is exactly the problem.
+&nbsp;Most sellers think their home is ready for showings. The kitchen is clean, the beds are made, and it looks fine. But “fine” is exactly the problem.
 
 Buyers are walking through five or six homes in a single weekend, and “fine” doesn’t get the offer. The homes that sell are the ones that feel right the moment someone walks through the door.
 
