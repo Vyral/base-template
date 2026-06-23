@@ -15,9 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sarita-dua-how-do-i-prepare-my-home-for-showings.png
 youtube_code:
 ---
-![](/uploads/sarita-dua-how-do-i-prepare-my-home-for-showings.png){: width="1280" height="720"}
-
-{% include youtube.html %}
+![](/uploads/sarita-dua-how-do-i-prepare-my-home-for-showings.png){: width="100%" height="100%"}
 
 {% include excerpt.html %}
 
