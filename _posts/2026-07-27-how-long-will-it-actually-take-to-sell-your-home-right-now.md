@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/dar-walden-how-long-will-it-take-to-sell-my-home-today.png
 youtube_code:
 ---
-![](/uploads/dar-walden-how-long-will-it-take-to-sell-my-home-today-1.png){: width="1280" height="720"}
+![](/uploads/dar-walden-how-long-will-it-take-to-sell-my-home-today-1.png){: style="width: 100%; text-align: center;"}
 
 {% include excerpt.html %}
 
