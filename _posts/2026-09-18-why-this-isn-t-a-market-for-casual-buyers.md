@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why This Isn't a Market for Casual Buyers
-date: 2026-09-17T00:00:00Z
+date: 2026-09-16T00:00:00Z
 tags:
   - Real Estate
 excerpt: Before you buy in this market, you need to know why. I walk through the
