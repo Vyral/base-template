@@ -10,6 +10,7 @@ gem 'octopress-autoprefixer'
 gem 'guard'
 gem 'guard-jekyll-plus'
 gem 'guard-livereload'
+gem "json", "< 3.0"
 
 group :jekyll_plugins do
   gem 'jekyll-picture-tag'
